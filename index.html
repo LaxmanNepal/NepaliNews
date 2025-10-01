@@ -1,0 +1,3218 @@
+<!DOCTYPE html>
+<html lang="ne">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>नेपाली समाचार संग्रह - सबै स्रोतहरू</title>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+      font-family: 'Segoe UI', 'Roboto', 'Helvetica Neue', Arial, sans-serif;
+    }
+    
+    :root {
+      --primary: #4361ee;
+      --primary-light: #4895ef;
+      --primary-dark: #3f37c9;
+      --accent: #f72585;
+      --light-bg: #f8f9fa;
+      --dark-bg: #1a1a2e;
+      --text: #333;
+      --light-text: #666;
+      --border: #e0e0e0;
+      --card-radius: 12px;
+      --shadow: 0 4px 12px rgba(0,0,0,0.08);
+      --transition: all 0.3s cubic-bezier(0.25, 0.8, 0.25, 1);
+      --header-height: 70px;
+      --nav-height: 60px;
+    }
+    
+    body {
+      background-color: #f5f7fa;
+      color: var(--text);
+      line-height: 1.6;
+      padding: 0;
+      overflow-x: hidden;
+      padding-bottom: var(--nav-height);
+    }
+    
+    /* Splash Animation */
+    .splash-screen {
+      position: fixed;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      background: linear-gradient(135deg, var(--primary) 0%, var(--primary-dark) 100%);
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      z-index: 1000;
+      transition: opacity 0.8s ease, transform 0.8s ease;
+    }
+    
+    .splash-logo {
+      width: 120px;
+      height: 120px;
+      background: white;
+      border-radius: 50%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      margin-bottom: 30px;
+      animation: pulse 2s infinite;
+    }
+    
+    .splash-logo i {
+      font-size: 4rem;
+      color: var(--primary);
+    }
+    
+    .splash-text {
+      font-size: 2.2rem;
+      font-weight: 700;
+      color: white;
+      text-align: center;
+      text-shadow: 0 2px 10px rgba(0,0,0,0.2);
+      line-height: 1.3;
+    }
+    
+    .splash-subtext {
+      font-size: 1.1rem;
+      color: rgba(255,255,255,0.85);
+      margin-top: 15px;
+      text-align: center;
+      max-width: 500px;
+    }
+    
+    @keyframes pulse {
+      0% { transform: scale(0.95); box-shadow: 0 0 0 0 rgba(255, 255, 255, 0.7); }
+      70% { transform: scale(1); box-shadow: 0 0 0 20px rgba(255, 255, 255, 0); }
+      100% { transform: scale(0.95); box-shadow: 0 0 0 0 rgba(255, 255, 255, 0); }
+    }
+    
+    /* Main App */
+    .blogger-container {
+      max-width: 100%;
+      margin: 0 auto;
+      background: white;
+      overflow: hidden;
+      position: relative;
+      min-height: 100vh;
+      display: none;
+    }
+    
+    .app-header {
+      background: linear-gradient(135deg, var(--primary) 0%, var(--primary-dark) 100%);
+      color: white;
+      padding: 0 20px;
+      position: sticky;
+      top: 0;
+      z-index: 100;
+      box-shadow: 0 2px 15px rgba(0,0,0,0.1);
+      height: var(--header-height);
+      display: flex;
+      align-items: center;
+    }
+    
+    .header-content {
+      max-width: 1200px;
+      margin: 0 auto;
+      width: 100%;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 16px;
+    }
+    
+    .app-title {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      font-size: 1.4rem;
+      font-weight: 700;
+    }
+    
+    .header-actions {
+      display: flex;
+      gap: 15px;
+    }
+    
+    .header-btn {
+      width: 42px;
+      height: 42px;
+      border-radius: 50%;
+      background: rgba(255,255,255,0.18);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      color: white;
+      cursor: pointer;
+      transition: var(--transition);
+      position: relative;
+    }
+    
+    .header-btn:hover {
+      background: rgba(255,255,255,0.3);
+      transform: translateY(-2px);
+    }
+    
+    .header-btn .badge {
+      position: absolute;
+      top: -5px;
+      right: -5px;
+      background: var(--accent);
+      color: white;
+      font-size: 0.7rem;
+      width: 20px;
+      height: 20px;
+      border-radius: 50%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+    
+    .tab-container {
+      background: white;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.05);
+      position: sticky;
+      top: var(--header-height);
+      z-index: 99;
+    }
+    
+    .tabs {
+      max-width: 1200px;
+      margin: 0 auto;
+      display: flex;
+      overflow-x: auto;
+      padding: 0 10px;
+      scrollbar-width: none;
+    }
+    
+    .tabs::-webkit-scrollbar {
+      display: none;
+    }
+    
+    .tab {
+      padding: 16px 20px;
+      font-weight: 600;
+      cursor: pointer;
+      position: relative;
+      white-space: nowrap;
+      color: var(--light-text);
+      transition: var(--transition);
+      font-size: 0.95rem;
+    }
+    
+    .tab.active {
+      color: var(--primary);
+    }
+    
+    .tab.active::after {
+      content: '';
+      position: absolute;
+      bottom: 0;
+      left: 0;
+      width: 100%;
+      height: 3px;
+      background: var(--primary);
+      border-radius: 3px 3px 0 0;
+    }
+    
+    .news-container {
+      max-width: 1200px;
+      margin: 0 auto;
+      padding: 20px 16px;
+    }
+    
+    /* Time Filter Section */
+    .time-filter {
+      display: flex;
+      justify-content: center;
+      gap: 10px;
+      margin: 20px 0;
+      flex-wrap: wrap;
+    }
+    
+    .time-btn {
+      background: white;
+      border: 2px solid var(--primary-light);
+      color: var(--primary);
+      padding: 8px 20px;
+      border-radius: 30px;
+      font-weight: 600;
+      cursor: pointer;
+      transition: var(--transition);
+    }
+    
+    .time-btn.active {
+      background: var(--primary);
+      color: white;
+      border-color: var(--primary);
+    }
+    
+    .time-btn:hover:not(.active) {
+      background: rgba(67, 97, 238, 0.1);
+    }
+    
+    /* Quote Section */
+    .quote-section {
+      background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%);
+      border-radius: var(--card-radius);
+      padding: 25px;
+      margin: 0 0 30px;
+      box-shadow: var(--shadow);
+      position: relative;
+      overflow: hidden;
+      border-left: 5px solid var(--primary);
+    }
+    
+    .quote-icon {
+      position: absolute;
+      top: 10px;
+      right: 20px;
+      opacity: 0.1;
+      font-size: 5rem;
+      color: var(--primary);
+    }
+    
+    .quote-title {
+      font-size: 1.1rem;
+      color: var(--primary);
+      margin-bottom: 12px;
+      display: flex;
+      align-items: center;
+      gap: 8px;
+    }
+    
+    .quote-content {
+      font-size: 1.3rem;
+      font-weight: 500;
+      line-height: 1.5;
+      color: var(--text);
+    }
+    
+    .stats-bar {
+      display: flex;
+      justify-content: space-between;
+      padding: 12px 15px;
+      background: white;
+      border-radius: var(--card-radius);
+      box-shadow: var(--shadow);
+      margin: 0 0 20px;
+      font-weight: 500;
+      font-size: 0.85rem;
+      flex-wrap: wrap;
+      gap: 8px;
+    }
+    
+    .stats-bar span {
+      display: flex;
+      align-items: center;
+      gap: 6px;
+    }
+    
+    .stats-bar .count {
+      background: var(--primary);
+      color: white;
+      padding: 3px 10px;
+      border-radius: 20px;
+      font-size: 0.8rem;
+    }
+    
+    .last-updated {
+      text-align: center;
+      margin: 15px 0 25px;
+      color: var(--light-text);
+      font-size: 0.85rem;
+    }
+    
+    .last-updated span {
+      background: rgba(67, 97, 238, 0.1);
+      padding: 8px 16px;
+      border-radius: 20px;
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      font-size: 0.85rem;
+    }
+    
+    .news-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+      gap: 20px;
+    }
+    
+    .news-card {
+      background: white;
+      border-radius: var(--card-radius);
+      overflow: hidden;
+      box-shadow: var(--shadow);
+      transition: var(--transition);
+      display: flex;
+      flex-direction: column;
+      height: 100%;
+      position: relative;
+      border: 1px solid #f0f0f0;
+      cursor: pointer;
+    }
+    
+    .news-card:hover {
+      transform: translateY(-5px);
+      box-shadow: 0 8px 20px rgba(0,0,0,0.12);
+    }
+    
+    .news-date-badge {
+      position: absolute;
+      top: 15px;
+      right: 15px;
+      background: rgba(0,0,0,0.7);
+      color: white;
+      padding: 4px 10px;
+      border-radius: 20px;
+      font-size: 0.75rem;
+      font-weight: 600;
+      z-index: 2;
+    }
+    
+    .source-badge {
+      background: var(--primary);
+      color: white;
+      padding: 6px 14px;
+      border-radius: 30px;
+      font-size: 0.8rem;
+      font-weight: 600;
+      box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+      display: inline-block;
+      margin-bottom: 15px;
+    }
+    
+    .news-content {
+      padding: 20px;
+      flex-grow: 1;
+      display: flex;
+      flex-direction: column;
+    }
+    
+    .news-content h3 {
+      font-size: 1.2rem;
+      margin-bottom: 12px;
+      line-height: 1.4;
+      font-weight: 700;
+      flex-grow: 1;
+    }
+    
+    .news-actions {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      margin-top: 15px;
+      padding-top: 15px;
+      border-top: 1px solid #f0f0f0;
+    }
+    
+    .action-buttons {
+      display: flex;
+      gap: 8px;
+    }
+    
+    .favorite-btn, .share-btn {
+      width: 34px;
+      height: 34px;
+      border-radius: 50%;
+      background: #f8f9fa;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      color: #ccc;
+      cursor: pointer;
+      transition: var(--transition);
+      box-shadow: 0 2px 6px rgba(0,0,0,0.05);
+    }
+    
+    .favorite-btn.active {
+      color: var(--accent);
+    }
+    
+    .share-btn {
+      color: var(--primary);
+    }
+    
+    .favorite-btn:hover, .share-btn:hover {
+      transform: scale(1.1);
+    }
+    
+    .meta-info {
+      display: flex;
+      color: var(--light-text);
+      font-size: 0.8rem;
+      gap: 15px;
+    }
+    
+    .loading {
+      text-align: center;
+      padding: 50px 20px;
+      font-size: 1.1rem;
+      grid-column: 1 / -1;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      gap: 15px;
+      background: white;
+      border-radius: var(--card-radius);
+      box-shadow: var(--shadow);
+      margin: 20px 0;
+    }
+    
+    .loading i {
+      font-size: 2.5rem;
+      color: var(--primary);
+      animation: spin 1s linear infinite;
+    }
+    
+    @keyframes spin {
+      100% { transform: rotate(360deg); }
+    }
+    
+    .error {
+      background: #ffebee;
+      color: #c62828;
+      padding: 25px;
+      border-radius: var(--card-radius);
+      text-align: center;
+      grid-column: 1 / -1;
+    }
+    
+    .load-more-container {
+      text-align: center;
+      margin: 30px 0 20px;
+      grid-column: 1 / -1;
+      display: none;
+    }
+    
+    .load-more-btn {
+      background: var(--primary);
+      color: white;
+      border: none;
+      padding: 12px 35px;
+      border-radius: 30px;
+      font-weight: 600;
+      cursor: pointer;
+      transition: var(--transition);
+      display: inline-flex;
+      align-items: center;
+      gap: 10px;
+      box-shadow: 0 4px 15px rgba(67, 97, 238, 0.3);
+      font-size: 1rem;
+    }
+    
+    .load-more-btn:hover {
+      background: var(--primary-dark);
+      transform: translateY(-3px);
+      box-shadow: 0 6px 20px rgba(67, 97, 238, 0.4);
+    }
+    
+    .app-footer {
+      text-align: center;
+      padding: 25px 20px;
+      color: var(--light-text);
+      background: var(--dark-bg);
+      color: rgba(255,255,255,0.8);
+      font-size: 0.9rem;
+      margin-top: 40px;
+    }
+    
+    /* News Viewer Modal */
+    .news-viewer {
+      position: fixed;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      background: rgba(0,0,0,0.85);
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      z-index: 1000;
+      opacity: 0;
+      pointer-events: none;
+      transition: opacity 0.3s ease;
+    }
+    
+    .news-viewer.active {
+      opacity: 1;
+      pointer-events: all;
+    }
+    
+    .viewer-content {
+      width: 70%;
+      height: 80%;
+      background: white;
+      border-radius: var(--card-radius);
+      overflow: hidden;
+      display: flex;
+      flex-direction: column;
+      box-shadow: 0 15px 50px rgba(0,0,0,0.3);
+      transform: translateY(20px);
+      transition: transform 0.4s ease;
+    }
+    
+    .news-viewer.active .viewer-content {
+      transform: translateY(0);
+    }
+    
+    .viewer-header {
+      padding: 15px 20px;
+      background: var(--primary);
+      color: white;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+    
+    .viewer-title {
+      font-size: 1.1rem;
+      font-weight: 600;
+      display: flex;
+      align-items: center;
+      gap: 10px;
+    }
+    
+    .close-viewer {
+      width: 36px;
+      height: 36px;
+      border-radius: 50%;
+      background: rgba(255,255,255,0.2);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      cursor: pointer;
+      transition: var(--transition);
+    }
+    
+    .close-viewer:hover {
+      background: rgba(255,255,255,0.3);
+      transform: rotate(90deg);
+    }
+    
+    .viewer-body {
+      flex-grow: 1;
+      overflow: hidden;
+    }
+    
+    .viewer-iframe {
+      width: 100%;
+      height: 100%;
+      border: none;
+    }
+    
+    .viewer-loading {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100%;
+      flex-direction: column;
+      gap: 15px;
+    }
+    
+    /* Favorites Modal */
+    .favorites-modal {
+      position: fixed;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      background: rgba(0,0,0,0.85);
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      z-index: 1000;
+      opacity: 0;
+      pointer-events: none;
+      transition: opacity 0.3s ease;
+    }
+    
+    .favorites-modal.active {
+      opacity: 1;
+      pointer-events: all;
+    }
+    
+    .favorites-content {
+      width: 80%;
+      max-width: 800px;
+      height: 80%;
+      background: white;
+      border-radius: var(--card-radius);
+      overflow: hidden;
+      display: flex;
+      flex-direction: column;
+      box-shadow: 0 15px 50px rgba(0,0,0,0.3);
+      transform: translateY(20px);
+      transition: transform 0.4s ease;
+    }
+    
+    .favorites-modal.active .favorites-content {
+      transform: translateY(0);
+    }
+    
+    .favorites-header {
+      padding: 15px 20px;
+      background: var(--accent);
+      color: white;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+    
+    .favorites-title {
+      font-size: 1.1rem;
+      font-weight: 600;
+      display: flex;
+      align-items: center;
+      gap: 10px;
+    }
+    
+    .close-favorites {
+      width: 36px;
+      height: 36px;
+      border-radius: 50%;
+      background: rgba(255,255,255,0.2);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      cursor: pointer;
+      transition: var(--transition);
+    }
+    
+    .close-favorites:hover {
+      background: rgba(255,255,255,0.3);
+      transform: rotate(90deg);
+    }
+    
+    .favorites-body {
+      flex-grow: 1;
+      overflow-y: auto;
+      padding: 20px;
+    }
+    
+    .favorites-list {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+      gap: 15px;
+    }
+    
+    .favorite-item {
+      background: #fff;
+      border-radius: var(--card-radius);
+      padding: 15px;
+      box-shadow: var(--shadow);
+      border: 1px solid #f0f0f0;
+      transition: var(--transition);
+      cursor: pointer;
+    }
+    
+    .favorite-item:hover {
+      transform: translateY(-3px);
+      box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+    }
+    
+    .favorite-source {
+      background: var(--primary);
+      color: white;
+      padding: 4px 10px;
+      border-radius: 20px;
+      font-size: 0.75rem;
+      display: inline-block;
+      margin-bottom: 8px;
+    }
+    
+    .favorite-title {
+      font-weight: 600;
+      margin-bottom: 8px;
+      font-size: 0.95rem;
+    }
+    
+    .favorite-date {
+      color: var(--light-text);
+      font-size: 0.8rem;
+      display: flex;
+      align-items: center;
+      gap: 5px;
+    }
+    
+    .favorite-actions {
+      display: flex;
+      justify-content: flex-end;
+      margin-top: 8px;
+    }
+    
+    .remove-favorite {
+      background: #ffebee;
+      color: #c62828;
+      border: none;
+      border-radius: 50%;
+      width: 30px;
+      height: 30px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      cursor: pointer;
+      transition: var(--transition);
+    }
+    
+    .remove-favorite:hover {
+      background: #ffcdd2;
+      transform: scale(1.1);
+    }
+    
+    .no-favorites {
+      text-align: center;
+      padding: 40px 20px;
+      color: var(--light-text);
+      grid-column: 1 / -1;
+    }
+    
+    .favorites-footer {
+      padding: 15px 20px;
+      background: #f8f9fa;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+    
+    .clear-favorites {
+      background: #ffebee;
+      color: #c62828;
+      border: none;
+      padding: 8px 16px;
+      border-radius: 20px;
+      font-weight: 600;
+      cursor: pointer;
+      transition: var(--transition);
+      display: flex;
+      align-items: center;
+      gap: 8px;
+    }
+    
+    .clear-favorites:hover {
+      background: #ffcdd2;
+    }
+    
+    .favorites-count {
+      font-weight: 600;
+      font-size: 0.9rem;
+    }
+    
+    /* Share Popup */
+    .share-popup {
+      position: fixed;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      background: white;
+      border-radius: var(--card-radius);
+      box-shadow: 0 10px 30px rgba(0,0,0,0.2);
+      z-index: 1100;
+      padding: 20px;
+      width: 90%;
+      max-width: 400px;
+      opacity: 0;
+      pointer-events: none;
+      transition: opacity 0.3s ease;
+    }
+    
+    .share-popup.active {
+      opacity: 1;
+      pointer-events: all;
+    }
+    
+    .share-header {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      margin-bottom: 20px;
+    }
+    
+    .share-title {
+      font-weight: 600;
+      color: var(--primary);
+    }
+    
+    .close-share {
+      background: #f5f5f5;
+      border-radius: 50%;
+      width: 30px;
+      height: 30px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      cursor: pointer;
+    }
+    
+    .share-options {
+      display: flex;
+      justify-content: center;
+      gap: 15px;
+      margin-bottom: 25px;
+    }
+    
+    .share-option {
+      width: 50px;
+      height: 50px;
+      border-radius: 50%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      color: white;
+      font-size: 1.5rem;
+      cursor: pointer;
+      transition: var(--transition);
+    }
+    
+    .share-option:hover {
+      transform: translateY(-5px);
+    }
+    
+    .facebook {
+      background: #3b5998;
+    }
+    
+    .twitter {
+      background: #1da1f2;
+    }
+    
+    .whatsapp {
+      background: #25d366;
+    }
+    
+    .link {
+      background: var(--primary);
+    }
+    
+    .share-link {
+      display: flex;
+      gap: 10px;
+    }
+    
+    .share-link input {
+      flex-grow: 1;
+      padding: 10px 15px;
+      border: 1px solid var(--border);
+      border-radius: 30px;
+      font-size: 0.9rem;
+    }
+    
+    .copy-btn {
+      background: var(--primary);
+      color: white;
+      border: none;
+      padding: 0 20px;
+      border-radius: 30px;
+      font-weight: 600;
+      cursor: pointer;
+      transition: var(--transition);
+    }
+    
+    .copy-btn:hover {
+      background: var(--primary-dark);
+    }
+    
+    /* Scroll top button */
+    .scroll-top {
+      position: fixed;
+      bottom: 30px;
+      right: 30px;
+      width: 50px;
+      height: 50px;
+      border-radius: 50%;
+      background: var(--primary);
+      color: white;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      cursor: pointer;
+      box-shadow: 0 4px 15px rgba(67, 97, 238, 0.4);
+      opacity: 0;
+      transform: translateY(20px);
+      transition: all 0.3s ease;
+      z-index: 99;
+    }
+    
+    .scroll-top.visible {
+      opacity: 1;
+      transform: translateY(0);
+    }
+    
+    /* Navigation Bar */
+    .nav-bar {
+      position: fixed;
+      bottom: 0;
+      left: 0;
+      width: 100%;
+      height: var(--nav-height);
+      background: white;
+      display: flex;
+      box-shadow: 0 -2px 10px rgba(0,0,0,0.1);
+      z-index: 99;
+    }
+    
+    .nav-item {
+      flex: 1;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      padding: 8px 0;
+      cursor: pointer;
+      color: var(--light-text);
+      transition: var(--transition);
+      font-size: 0.75rem;
+    }
+    
+    .nav-item.active {
+      color: var(--primary);
+    }
+    
+    .nav-item i {
+      font-size: 1.2rem;
+      margin-bottom: 4px;
+    }
+    
+    /* App Sections */
+    .app-section {
+      display: none;
+      padding: 20px 16px;
+      max-width: 1200px;
+      margin: 0 auto;
+    }
+    
+    .app-section.active {
+      display: block;
+    }
+    
+    /* Search Section */
+    .search-container {
+      margin-bottom: 20px;
+      position: relative;
+    }
+    
+    .search-box {
+      width: 100%;
+      padding: 14px 20px;
+      padding-left: 50px;
+      border: 2px solid var(--primary-light);
+      border-radius: 30px;
+      font-size: 1rem;
+      outline: none;
+      transition: var(--transition);
+    }
+    
+    .search-box:focus {
+      border-color: var(--primary);
+      box-shadow: 0 0 0 3px rgba(67, 97, 238, 0.2);
+    }
+    
+    .search-icon {
+      position: absolute;
+      left: 20px;
+      top: 50%;
+      transform: translateY(-50%);
+      color: var(--primary);
+      font-size: 1.2rem;
+    }
+    
+    /* Story Section */
+    .story-container {
+      position: fixed;
+      top: var(--header-height);
+      left: 0;
+      width: 100%;
+      height: calc(100vh - var(--header-height) - var(--nav-height));
+      overflow-y: auto;
+      scroll-snap-type: y mandatory;
+      display: none;
+      background: #000;
+    }
+    
+    .story-container.active {
+      display: block;
+    }
+    
+    .story-card {
+      height: calc(100vh - var(--header-height) - var(--nav-height));
+      scroll-snap-align: start;
+      position: relative;
+      overflow: hidden;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      padding: 20px;
+      color: white;
+      background-size: cover;
+      background-position: center;
+      text-align: center;
+    }
+    
+    .story-overlay {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      background: linear-gradient(to top, rgba(0,0,0,0.85) 0%, transparent 40%);
+      z-index: 1;
+    }
+    
+    .story-content {
+      position: relative;
+      z-index: 2;
+      max-width: 90%;
+      width: 100%;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      padding: 0 20px;
+      box-sizing: border-box;
+    }
+    
+    .story-source {
+      background: var(--primary);
+      color: white;
+      padding: 5px 15px;
+      border-radius: 20px;
+      font-size: 0.9rem;
+      display: inline-block;
+      margin-bottom: 10px;
+    }
+    
+    .story-title {
+      font-size: 1.8rem;
+      font-weight: 700;
+      margin-bottom: 20px;
+      line-height: 1.3;
+      text-align: center;
+      max-width: 900px;
+      text-shadow: 0 2px 4px rgba(0,0,0,0.8);
+    }
+    
+    .story-description {
+      font-size: 1.1rem;
+      line-height: 1.6;
+      margin-bottom: 25px;
+      max-width: 800px;
+      text-align: justify;
+      text-align-last: center;
+      background: rgba(0, 0, 0, 0.4);
+      padding: 20px;
+      border-radius: 12px;
+      text-shadow: 0 1px 2px rgba(0,0,0,0.8);
+    }
+    
+    .story-meta {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 15px;
+      font-size: 0.9rem;
+      opacity: 0.9;
+      margin-bottom: 20px;
+    }
+    
+    .story-actions {
+      display: flex;
+      gap: 15px;
+      margin-top: 20px;
+      justify-content: center;
+      flex-wrap: wrap;
+    }
+    
+    .story-btn {
+      background: rgba(255,255,255,0.2);
+      color: white;
+      border: none;
+      padding: 12px 24px;
+      border-radius: 30px;
+      font-weight: 600;
+      cursor: pointer;
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      transition: var(--transition);
+      min-width: 180px;
+      justify-content: center;
+      font-size: 1rem;
+    }
+    
+    .story-btn:hover {
+      background: rgba(255,255,255,0.3);
+      transform: translateY(-3px);
+    }
+    
+    .story-btn.primary {
+      background: var(--primary);
+    }
+    
+    .story-btn.primary:hover {
+      background: var(--primary-dark);
+    }
+    
+    /* Scroll indicator */
+    .scroll-indicator {
+      position: absolute;
+      bottom: 30px;
+      left: 50%;
+      transform: translateX(-50%);
+      color: rgba(255,255,255,0.7);
+      animation: bounce 2s infinite;
+    }
+    
+    @keyframes bounce {
+      0%, 20%, 50%, 80%, 100% {transform: translateY(0) translateX(-50%);}
+      40% {transform: translateY(-20px) translateX(-50%);}
+      60% {transform: translateY(-10px) translateX(-50%);}
+    }
+    
+    /* Source Section */
+    .source-cloud {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 10px;
+      margin-top: 20px;
+    }
+    
+    .source-tag {
+      background: white;
+      border: 1px solid var(--border);
+      border-radius: 30px;
+      padding: 8px 16px;
+      font-size: 0.9rem;
+      cursor: pointer;
+      transition: var(--transition);
+    }
+    
+    .source-tag:hover {
+      border-color: var(--primary);
+      color: var(--primary);
+      box-shadow: var(--shadow);
+    }
+    
+    .source-tag.active {
+      background: var(--primary);
+      color: white;
+      border-color: var(--primary);
+    }
+    
+    /* AI News Reader Section */
+    .ai-section {
+      padding: 20px 16px;
+      max-width: 1200px;
+      margin: 0 auto;
+      display: none;
+    }
+    
+    .ai-section.active {
+      display: block;
+    }
+    
+    .ai-header {
+      text-align: center;
+      margin-bottom: 25px;
+    }
+    
+    .ai-title {
+      font-size: 1.8rem;
+      margin-bottom: 10px;
+      color: var(--primary);
+    }
+    
+    .ai-subtitle {
+      color: var(--light-text);
+      margin-bottom: 20px;
+    }
+    
+    .ai-controls {
+      display: flex;
+      justify-content: center;
+      gap: 15px;
+      margin-bottom: 25px;
+      flex-wrap: wrap;
+    }
+    
+    .ai-control-btn {
+      padding: 12px 25px;
+      border-radius: 30px;
+      font-weight: 600;
+      cursor: pointer;
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      transition: var(--transition);
+      font-size: 1rem;
+      border: none;
+    }
+    
+    .ai-control-btn.play {
+      background: var(--primary);
+      color: white;
+    }
+    
+    .ai-control-btn.pause {
+      background: #ff9800;
+      color: white;
+    }
+    
+    .ai-control-btn.stop {
+      background: #f44336;
+      color: white;
+    }
+    
+    .ai-control-btn:hover {
+      transform: translateY(-3px);
+      box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+    }
+    
+    .ai-news-container {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(350px, 1fr));
+      gap: 25px;
+    }
+    
+    .ai-news-card {
+      background: white;
+      border-radius: var(--card-radius);
+      box-shadow: var(--shadow);
+      overflow: hidden;
+      position: relative;
+      transition: var(--transition);
+      border: 1px solid #f0f0f0;
+      animation: slideIn 0.5s ease forwards;
+      opacity: 0;
+      transform: translateY(20px);
+    }
+    
+    @keyframes slideIn {
+      to {
+        opacity: 1;
+        transform: translateY(0);
+      }
+    }
+    
+    .ai-news-card:hover {
+      transform: translateY(-5px);
+      box-shadow: 0 8px 20px rgba(0,0,0,0.12);
+    }
+    
+    .ai-news-card.active {
+      border: 2px solid var(--primary);
+      box-shadow: 0 0 0 3px rgba(67, 97, 238, 0.2);
+    }
+    
+    .ai-news-content {
+      padding: 20px;
+    }
+    
+    .ai-news-header {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      margin-bottom: 15px;
+    }
+    
+    .ai-source-badge {
+      background: var(--primary);
+      color: white;
+      padding: 4px 12px;
+      border-radius: 20px;
+      font-size: 0.8rem;
+      font-weight: 600;
+    }
+    
+    .ai-news-date {
+      font-size: 0.85rem;
+      color: var(--light-text);
+    }
+    
+    .ai-news-title {
+      font-size: 1.2rem;
+      margin-bottom: 15px;
+      line-height: 1.4;
+      font-weight: 700;
+    }
+    
+    .ai-news-player {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+    }
+    
+    .ai-play-btn {
+      width: 45px;
+      height: 45px;
+      border-radius: 50%;
+      background: var(--primary);
+      color: white;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      cursor: pointer;
+      transition: var(--transition);
+      font-size: 1.2rem;
+    }
+    
+    .ai-play-btn.playing {
+      background: #f44336;
+    }
+    
+    .ai-play-btn:hover {
+      transform: scale(1.1);
+    }
+    
+    .ai-progress {
+      flex-grow: 1;
+      height: 5px;
+      background: #e0e0e0;
+      border-radius: 5px;
+      position: relative;
+      overflow: hidden;
+    }
+    
+    .ai-progress-bar {
+      position: absolute;
+      top: 0;
+      left: 0;
+      height: 100%;
+      background: var(--primary);
+      width: 0%;
+      transition: width 0.1s linear;
+    }
+    
+    .ai-voice-selector {
+      display: flex;
+      justify-content: center;
+      margin-top: 20px;
+      gap: 15px;
+      flex-wrap: wrap;
+    }
+    
+    .voice-option {
+      padding: 8px 15px;
+      border: 2px solid var(--primary-light);
+      border-radius: 30px;
+      background: white;
+      cursor: pointer;
+      transition: var(--transition);
+    }
+    
+    .voice-option.active {
+      background: var(--primary);
+      color: white;
+      border-color: var(--primary);
+    }
+    
+    .voice-option:hover {
+      background: rgba(67, 97, 238, 0.1);
+    }
+    
+    .ai-status {
+      text-align: center;
+      margin-top: 15px;
+      color: var(--primary);
+      font-weight: 600;
+      min-height: 24px;
+    }
+    
+    .no-ai-news {
+      text-align: center;
+      padding: 40px 20px;
+      color: var(--light-text);
+      grid-column: 1 / -1;
+    }
+    
+    @media (max-width: 1024px) {
+      .viewer-content {
+        width: 85%;
+        height: 75%;
+      }
+      
+      .favorites-content {
+        width: 90%;
+      }
+      
+      .story-title {
+        font-size: 1.6rem;
+        max-width: 700px;
+      }
+      
+      .story-description {
+        font-size: 1rem;
+        max-width: 700px;
+      }
+    }
+    
+    @media (max-width: 768px) {
+      .news-grid {
+        grid-template-columns: 1fr;
+      }
+      
+      .app-title {
+        font-size: 1.2rem;
+      }
+      
+      .header-btn {
+        width: 38px;
+        height: 38px;
+      }
+      
+      .tab {
+        padding: 14px 16px;
+        font-size: 0.9rem;
+      }
+      
+      .quote-content {
+        font-size: 1.15rem;
+      }
+      
+      .stats-bar {
+        padding: 10px 12px;
+        font-size: 0.8rem;
+      }
+      
+      .stats-bar .count {
+        padding: 2px 8px;
+        font-size: 0.75rem;
+      }
+      
+      .last-updated span {
+        padding: 6px 12px;
+        font-size: 0.8rem;
+      }
+      
+      .viewer-content {
+        width: 95%;
+        height: 85%;
+      }
+      
+      .favorites-content {
+        width: 95%;
+        height: 85%;
+      }
+      
+      .favorites-list {
+        grid-template-columns: 1fr;
+      }
+      
+      .time-filter {
+        flex-wrap: wrap;
+      }
+      
+      .story-title {
+        font-size: 1.4rem;
+        max-width: 90%;
+      }
+      
+      .story-description {
+        font-size: 0.95rem;
+        max-width: 90%;
+        padding: 15px;
+      }
+      
+      .story-btn {
+        padding: 10px 18px;
+        min-width: 160px;
+        font-size: 0.9rem;
+      }
+      
+      .story-actions {
+        flex-direction: column;
+        align-items: center;
+      }
+      
+      .ai-news-container {
+        grid-template-columns: 1fr;
+      }
+    }
+    
+    @media (max-width: 480px) {
+      .splash-text {
+        font-size: 1.8rem;
+      }
+      
+      .splash-subtext {
+        font-size: 1rem;
+        padding: 0 20px;
+      }
+      
+      .quote-section {
+        padding: 20px;
+      }
+      
+      .quote-content {
+        font-size: 1.1rem;
+      }
+      
+      .news-content h3 {
+        font-size: 1.1rem;
+      }
+      
+      .source-badge {
+        font-size: 0.75rem;
+        padding: 5px 12px;
+      }
+      
+      .share-popup {
+        width: 95%;
+      }
+      
+      .nav-item {
+        font-size: 0.7rem;
+      }
+      
+      .story-title {
+        font-size: 1.2rem;
+      }
+      
+      .story-description {
+        font-size: 0.9rem;
+        padding: 12px;
+      }
+      
+      .story-btn {
+        width: 100%;
+        max-width: 220px;
+      }
+      
+      .story-meta {
+        flex-direction: column;
+        gap: 5px;
+      }
+      
+      .ai-controls {
+        flex-direction: column;
+        align-items: center;
+      }
+      
+      .ai-control-btn {
+        width: 100%;
+        max-width: 250px;
+        justify-content: center;
+      }
+      
+      .ai-voice-selector {
+        flex-direction: column;
+        align-items: center;
+      }
+    }
+  </style>
+</head>
+<body>
+  <!-- Splash Screen -->
+  <div class="splash-screen" id="splash-screen">
+    <div class="splash-logo">
+      <i class="fas fa-newspaper"></i>
+    </div>
+    <h1 class="splash-text">सबै समाचार एकै ठाँउमा</h1>
+    <p class="splash-subtext">नेपालका प्रमुख समाचार स्रोतहरूबाट स्वतः अपडेट हुने समाचारहरू</p>
+  </div>
+  
+  <!-- Main App -->
+  <div class="blogger-container" id="app-container">
+    <header class="app-header">
+      <div class="header-content">
+        <div class="app-title">
+          <i class="fas fa-newspaper"></i> नेपाली समाचार
+        </div>
+        <div class="header-actions">
+          <div class="header-btn" id="refresh-btn">
+            <i class="fas fa-sync-alt"></i>
+          </div>
+          <div class="header-btn" id="favorites-btn">
+            <i class="fas fa-bookmark"></i>
+            <div class="badge">0</div>
+          </div>
+        </div>
+      </div>
+    </header>
+    
+    <!-- Dashboard Section -->
+    <div class="app-section active" id="dashboard-section">
+      <div class="tab-container">
+        <div class="tabs">
+          <div class="tab active" data-category="all">सबै</div>
+          <div class="tab" data-category="politics">राजनीति</div>
+          <div class="tab" data-category="business">अर्थ</div>
+          <div class="tab" data-category="sports">खेलकुद</div>
+          <div class="tab" data-category="technology">प्रविधि</div>
+        </div>
+      </div>
+      
+      <div class="news-container">
+        <!-- Time Filter - Added new 1 hour button -->
+        <div class="time-filter">
+          <button class="time-btn" data-time="hour">१ घण्टा भरिका समाचार</button>
+          <button class="time-btn active" data-time="day">२४ घण्टा भरिका समाचार</button>
+          <button class="time-btn" data-time="week">हप्ता भरिका समाचार</button>
+          <button class="time-btn" data-time="month">महिना भरिका समाचार</button>
+        </div>
+        
+        <!-- Motivational Quote Section -->
+        <div class="quote-section">
+          <div class="quote-icon">
+            <i class="fas fa-quote-right"></i>
+          </div>
+          <div class="quote-title">
+            <i class="fas fa-lightbulb"></i> आजको सुविचार
+          </div>
+          <div class="quote-content" id="motivational-quote">
+            सपना देख्नु र त्यसपछि तिनलाई पूरा गर्ने योजना बनाउनु जीवनको सबैभन्दा ठूलो उपलब्धि हो।
+          </div>
+        </div>
+        
+        <div class="stats-bar">
+          <span><i class="fas fa-newspaper"></i> कुल समाचार: <span class="count" id="total-count">०</span></span>
+          <span><i class="fas fa-filter"></i> देखाइएको: <span class="count" id="showing-count">०</span></span>
+          <span><i class="fas fa-source"></i> स्रोत: <span class="count" id="sources-count">०</span></span>
+        </div>
+        
+        <div class="last-updated">
+          <span>
+            <i class="fas fa-sync-alt"></i>
+            अन्तिम अद्यावधिक: <span id="last-updated-time">भर्खरै</span>
+          </span>
+        </div>
+
+        <div class="news-grid" id="news-container">
+          <!-- News cards will be populated here -->
+        </div>
+        
+        <div class="load-more-container" id="load-more-container">
+          <button class="load-more-btn" id="load-more-btn">
+            <i class="fas fa-plus"></i> थप समाचार लोड गर्नुहोस्
+          </button>
+        </div>
+      </div>
+    </div>
+    
+    <!-- Search Section -->
+    <div class="app-section" id="search-section">
+      <div class="search-container">
+        <div class="search-icon">
+          <i class="fas fa-search"></i>
+        </div>
+        <input type="text" class="search-box" id="search-input" placeholder="खोज्नुहोस्...">
+      </div>
+      <div class="news-grid" id="search-results">
+        <!-- Search results will be shown here -->
+      </div>
+    </div>
+    
+    <!-- Story Section -->
+    <div class="story-container" id="story-container">
+      <!-- Story cards will be populated here -->
+    </div>
+    
+    <!-- Source Section -->
+    <div class="app-section" id="source-section">
+      <div class="search-container">
+        <div class="search-icon">
+          <i class="fas fa-search"></i>
+        </div>
+        <input type="text" class="search-box" id="source-search" placeholder="स्रोत खोज्नुहोस्...">
+      </div>
+      <div class="source-cloud" id="source-cloud">
+        <!-- Source tags will be populated here -->
+      </div>
+      <div class="news-grid" id="source-results">
+        <!-- Source results will be shown here -->
+      </div>
+    </div>
+    
+    <!-- AI News Reader Section -->
+    <div class="ai-section" id="ai-section">
+      <div class="ai-header">
+        <h2 class="ai-title">AI समाचार पाठक (२४ घण्टा भरिका)</h2>
+        <p class="ai-subtitle">आजका समाचारहरू स्वाभाविक आवाजमा सुन्नुहोस्</p>
+      </div>
+      
+      <div class="ai-controls">
+        <button class="ai-control-btn play" id="ai-play-all">
+          <i class="fas fa-play-circle"></i> सबै समाचार सुन्नुहोस्
+        </button>
+        <button class="ai-control-btn pause" id="ai-pause">
+          <i class="fas fa-pause"></i> पौज गर्नुहोस्
+        </button>
+        <button class="ai-control-btn stop" id="ai-stop">
+          <i class="fas fa-stop"></i> रोक्नुहोस्
+        </button>
+      </div>
+      
+      <div class="ai-voice-selector" id="voice-selector">
+        <!-- Voice options will be populated here -->
+      </div>
+      
+      <div class="ai-status" id="ai-status">
+        <!-- Status messages will appear here -->
+      </div>
+      
+      <div class="ai-news-container" id="ai-news-container">
+        <!-- AI News cards will be populated here -->
+      </div>
+    </div>
+    
+    <div class="app-footer">
+      <p>नेपाली समाचार संग्रह - सबै समाचार स्रोतहरूको सम्मान गर्दछ</p>
+      <p>© 2023 नेपाली समाचार संग्रह. सर्वाधिकार सुरक्षित.</p>
+    </div>
+  </div>
+  
+  <!-- Navigation Bar -->
+  <div class="nav-bar">
+    <div class="nav-item active" data-section="dashboard">
+      <i class="fas fa-home"></i>
+      <span>ड्यासबोर्ड</span>
+    </div>
+    <div class="nav-item" data-section="search">
+      <i class="fas fa-search"></i>
+      <span>खोज</span>
+    </div>
+    <div class="nav-item" data-section="story">
+      <i class="fas fa-play-circle"></i>
+      <span>कथा</span>
+    </div>
+    <div class="nav-item" data-section="source">
+      <i class="fas fa-newspaper"></i>
+      <span>स्रोत</span>
+    </div>
+    <div class="nav-item" data-section="ai">
+      <i class="fas fa-robot"></i>
+      <span>AI समाचार</span>
+    </div>
+  </div>
+  
+  <!-- Scroll to top button -->
+  <div class="scroll-top" id="scroll-top">
+    <i class="fas fa-arrow-up"></i>
+  </div>
+  
+  <!-- News Viewer Modal -->
+  <div class="news-viewer" id="news-viewer">
+    <div class="viewer-content">
+      <div class="viewer-header">
+        <div class="viewer-title">
+          <i class="fas fa-newspaper"></i> समाचार हेर्दै
+        </div>
+        <div class="close-viewer" id="close-viewer">
+          <i class="fas fa-times"></i>
+        </div>
+      </div>
+      <div class="viewer-body">
+        <div class="viewer-loading" id="viewer-loading">
+          <i class="fas fa-spinner fa-spin" style="font-size: 2rem; color: var(--primary);"></i>
+          <p>समाचार लोड हुँदैछ...</p>
+        </div>
+        <iframe class="viewer-iframe" id="news-iframe" frameborder="0"></iframe>
+      </div>
+    </div>
+  </div>
+  
+  <!-- Favorites Modal -->
+  <div class="favorites-modal" id="favorites-modal">
+    <div class="favorites-content">
+      <div class="favorites-header">
+        <div class="favorites-title">
+          <i class="fas fa-bookmark"></i> मेरो मनपर्ने समाचारहरू
+        </div>
+        <div class="close-favorites" id="close-favorites">
+          <i class="fas fa-times"></i>
+        </div>
+      </div>
+      <div class="favorites-body" id="favorites-body">
+        <!-- Favorites will be populated here -->
+      </div>
+      <div class="favorites-footer">
+        <button class="clear-favorites" id="clear-favorites">
+          <i class="fas fa-trash"></i> सबै हटाउनुहोस्
+        </button>
+        <div class="favorites-count">
+          <i class="fas fa-bookmark"></i> जम्मा: <span id="favorites-count">०</span>
+        </div>
+      </div>
+    </div>
+  </div>
+  
+  <!-- Share Popup -->
+  <div class="share-popup" id="share-popup">
+    <div class="share-header">
+      <div class="share-title">
+        <i class="fas fa-share-alt"></i> समाचार साझा गर्नुहोस्
+      </div>
+      <div class="close-share" id="close-share">
+        <i class="fas fa-times"></i>
+      </div>
+    </div>
+    <div class="share-options">
+      <div class="share-option facebook" id="share-facebook">
+        <i class="fab fa-facebook-f"></i>
+      </div>
+      <div class="share-option twitter" id="share-twitter">
+        <i class="fab fa-twitter"></i>
+      </div>
+      <div class="share-option whatsapp" id="share-whatsapp">
+        <i class="fab fa-whatsapp"></i>
+      </div>
+      <div class="share-option link" id="share-link">
+        <i class="fas fa-link"></i>
+      </div>
+    </div>
+    <div class="share-link">
+      <input type="text" id="share-url" value="https://example.com" readonly>
+      <button class="copy-btn" id="copy-link">प्रतिलिपि गर्नुहोस्</button>
+    </div>
+  </div>
+
+  <script>
+    // External RSS feed configuration URL
+    const FEEDS_URL = "https://raw.githubusercontent.com/LaxmanNepal/NepaliNews/refs/heads/main/feeds.json";
+
+    // Motivational quotes in Nepali (fixed with proper Unicode)
+    const motivationalQuotes = [
+      "सपना देख्नु र त्यसपछि तिनलाई पूरा गर्ने योजना बनाउनु जीवनको सबैभन्दा ठूलो उपलब्धि हो।",
+      "जीवनमा सफल हुन सक्ने सबैभन्दा ठूलो कारण भनेको आफूमा विश्वास गर्नु हो।",
+      "असफलताले तपाईंलाई सिकाउँछ, सफलताले तपाईंलाई परिवर्तन गराउँछ।",
+      "आज गरेको कामले भोलिको भविष्य बनाउँछ।",
+      "समस्याहरू समाधान खोज्ने अवसर हुन्।",
+      "परिश्रम गर्ने मान्छे कहिल्यै असफल हुँदैनन्।",
+      "जीवनको हरेक दिन नयाँ सुरुवात हो।",
+      "आफ्नो लक्ष्यतर्फ अगाडि बढ्नु भन्दा महत्त्वपूर्ण केही छैन।",
+      "विश्वास र कर्मले जीवनमा उचाइ हासिल गर्न सकिन्छ।",
+      "सकारात्मक सोचले जीवनमा चमत्कार गर्न सक्छ।"
+    ];
+
+    // DOM Elements
+    const splashScreen = document.getElementById('splash-screen');
+    const appContainer = document.getElementById('app-container');
+    const newsContainer = document.getElementById('news-container');
+    const tabs = document.querySelectorAll('.tab');
+    const totalCountEl = document.getElementById('total-count');
+    const showingCountEl = document.getElementById('showing-count');
+    const sourcesCountEl = document.getElementById('sources-count');
+    const lastUpdatedEl = document.getElementById('last-updated-time');
+    const loadMoreBtn = document.getElementById('load-more-btn');
+    const loadMoreContainer = document.getElementById('load-more-container');
+    const favoritesBtn = document.getElementById('favorites-btn');
+    const refreshBtn = document.getElementById('refresh-btn');
+    const motivationalQuote = document.getElementById('motivational-quote');
+    const favoritesBadge = favoritesBtn.querySelector('.badge');
+    const newsViewer = document.getElementById('news-viewer');
+    const closeViewer = document.getElementById('close-viewer');
+    const newsIframe = document.getElementById('news-iframe');
+    const viewerLoading = document.getElementById('viewer-loading');
+    const favoritesModal = document.getElementById('favorites-modal');
+    const closeFavorites = document.getElementById('close-favorites');
+    const favoritesBody = document.getElementById('favorites-body');
+    const favoritesCountEl = document.getElementById('favorites-count');
+    const clearFavoritesBtn = document.getElementById('clear-favorites');
+    const sharePopup = document.getElementById('share-popup');
+    const closeShare = document.getElementById('close-share');
+    const shareUrlInput = document.getElementById('share-url');
+    const copyLinkBtn = document.getElementById('copy-link');
+    const scrollTopBtn = document.getElementById('scroll-top');
+    const timeFilterBtns = document.querySelectorAll('.time-btn');
+    const navItems = document.querySelectorAll('.nav-item');
+    const appSections = document.querySelectorAll('.app-section');
+    const searchInput = document.getElementById('search-input');
+    const searchResults = document.getElementById('search-results');
+    const sourceSearch = document.getElementById('source-search');
+    const sourceCloud = document.getElementById('source-cloud');
+    const sourceResults = document.getElementById('source-results');
+    const storyContainer = document.getElementById('story-container');
+    const aiSection = document.getElementById('ai-section');
+    const aiNewsContainer = document.getElementById('ai-news-container');
+    const voiceSelector = document.getElementById('voice-selector');
+    const aiPlayAllBtn = document.getElementById('ai-play-all');
+    const aiPauseBtn = document.getElementById('ai-pause');
+    const aiStopBtn = document.getElementById('ai-stop');
+    const aiStatus = document.getElementById('ai-status');
+    
+    // Store all news items for filtering
+    let allNewsItems = [];
+    let feeds = []; // Will be loaded from external JSON
+    let currentCategory = 'all';
+    let currentTimeFilter = 'day'; // 'hour', 'day', 'week' or 'month'
+    let uniqueSources = new Set();
+    let currentDisplayCount = 8;
+    let isLoading = false;
+    let favorites = JSON.parse(localStorage.getItem('favorites')) || [];
+    let currentShareUrl = '';
+    let currentStoryIndex = 0;
+    
+    // AI News Reader variables
+    let synth = window.speechSynthesis;
+    let voices = [];
+    let currentVoice = null;
+    let isPlayingAll = false;
+    let currentPlayingIndex = -1;
+    let currentUtterance = null;
+    let speechProgress = {};
+    
+    // Function to decode HTML entities
+    function decodeHTMLEntities(text) {
+      if (!text) return '';
+      
+      const textarea = document.createElement('textarea');
+      textarea.innerHTML = text;
+      return textarea.value;
+    }
+
+    // Helper function to format time ago display
+    function formatTimeAgo(date) {
+      const now = new Date();
+      const diffTime = Math.abs(now - date);
+      const diffSeconds = Math.floor(diffTime / 1000);
+      const diffMinutes = Math.floor(diffTime / (1000 * 60));
+      const diffHours = Math.floor(diffTime / (1000 * 60 * 60));
+      const diffDays = Math.floor(diffTime / (1000 * 60 * 60 * 24));
+
+      if (diffSeconds < 60) {
+        return "भर्खरै";
+      } else if (diffMinutes < 60) {
+        return diffMinutes + " मिनेट अघि";
+      } else if (diffHours < 24) {
+        return diffHours + " घण्टा अघि";
+      } else {
+        return diffDays + " दिन अघि";
+      }
+    }
+
+    // Show random motivational quote
+    function showRandomQuote() {
+      const randomIndex = Math.floor(Math.random() * motivationalQuotes.length);
+      motivationalQuote.textContent = decodeHTMLEntities(motivationalQuotes[randomIndex]);
+    }
+
+    // Update favorites badge
+    function updateFavoritesBadge() {
+      favoritesBadge.textContent = favorites.length;
+      favoritesCountEl.textContent = favorites.length;
+    }
+
+    // Check if item is favorited
+    function isFavorited(item) {
+      return favorites.some(fav => fav.link === item.link);
+    }
+
+    // Toggle favorite
+    function toggleFavorite(item) {
+      const index = favorites.findIndex(fav => fav.link === item.link);
+      
+      if (index === -1) {
+        favorites.push(item);
+      } else {
+        favorites.splice(index, 1);
+      }
+      
+      localStorage.setItem('favorites', JSON.stringify(favorites));
+      updateFavoritesBadge();
+    }
+
+    // Show splash screen animation
+    function showSplashScreen() {
+      setTimeout(() => {
+        splashScreen.style.opacity = '0';
+        splashScreen.style.transform = 'scale(1.1)';
+        
+        setTimeout(() => {
+          splashScreen.style.display = 'none';
+          appContainer.style.display = 'block';
+          loadFeeds(); // Start loading feeds after splash screen
+        }, 800);
+      }, 2500);
+    }
+
+    // Load feeds from external JSON
+    async function loadFeeds() {
+      showLoading();
+      
+      try {
+        const response = await fetch(FEEDS_URL);
+        if (!response.ok) {
+          throw new Error(`Failed to load feeds: ${response.status}`);
+        }
+        feeds = await response.json();
+        fetchNews();
+      } catch (error) {
+        console.error('Error loading feeds:', error);
+        showError("त्रुटि: फिडहरू लोड गर्न सकेन");
+      }
+    }
+
+    // Show loading indicator
+    function showLoading() {
+      newsContainer.innerHTML = `
+        <div class="loading">
+          <i class="fas fa-spinner"></i>
+          <div>समाचार लोड गर्दै... कृपया प्रतीक्षा गर्नुहोस्</div>
+        </div>
+      `;
+    }
+
+    // Update last updated time
+    function updateTimestamp() {
+      const now = new Date();
+      const options = { 
+        year: 'numeric', 
+        month: 'short', 
+        day: 'numeric',
+        hour: '2-digit',
+        minute: '2-digit',
+        hour12: false
+      };
+      lastUpdatedEl.textContent = now.toLocaleString('ne-NP', options);
+    }
+
+    // Fetch news from all feeds
+    async function fetchNews() {
+      if (isLoading || feeds.length === 0) return;
+      
+      isLoading = true;
+      showLoading();
+      
+      try {
+        // Clear previous data
+        allNewsItems = [];
+        uniqueSources.clear();
+        
+        // Fetch all feeds concurrently
+        const feedPromises = feeds.map(feed => fetchFeed(feed));
+        const results = await Promise.allSettled(feedPromises);
+        
+        results.forEach(result => {
+          if (result.status === 'fulfilled') {
+            const feedItems = result.value;
+            allNewsItems = allNewsItems.concat(feedItems);
+            if (feedItems.length > 0) {
+              uniqueSources.add(feedItems[0].source);
+            }
+          }
+        });
+        
+        if (allNewsItems.length === 0) {
+          throw new Error("कुनै पनि समाचार फेला परेन");
+        }
+        
+        // Sort by date (newest first)
+        allNewsItems.sort((a, b) => new Date(b.pubDate) - new Date(a.pubDate));
+        
+        // Update stats
+        updateStats();
+        updateTimestamp();
+        
+        // Display news
+        displayNews();
+        
+        // Build source cloud
+        buildSourceCloud();
+        
+        // Initialize AI News Reader
+        initAINewsReader();
+      } catch (error) {
+        console.error('Error fetching news:', error);
+        showError("त्रुटि: " + error.message);
+      } finally {
+        isLoading = false;
+      }
+    }
+    
+    // Fetch individual feed
+    async function fetchFeed(feed) {
+      try {
+        // Use CORS proxy to avoid access issues
+        const proxyUrl = 'https://api.allorigins.win/raw?url=';
+        const response = await fetch(proxyUrl + encodeURIComponent(feed.url));
+        
+        if (!response.ok) throw new Error(`HTTP error! status: ${response.status}`);
+        const text = await response.text();
+        const parser = new DOMParser();
+        const xml = parser.parseFromString(text, "text/xml");
+        
+        // Check for XML parsing errors
+        const parsererror = xml.querySelector('parsererror');
+        if (parsererror) {
+          throw new Error('Error parsing XML');
+        }
+        
+        const items = xml.querySelectorAll("item");
+        const feedItems = [];
+        const now = new Date();
+        const oneWeekAgo = new Date(now - 7 * 24 * 60 * 60 * 1000);
+        
+        items.forEach(item => {
+          const title = item.querySelector("title")?.textContent || "No title";
+          const link = item.querySelector("link")?.textContent || "";
+          const pubDateText = item.querySelector("pubDate")?.textContent;
+          
+          if (!pubDateText) return; // Skip items without dates
+          
+          const pubDate = new Date(pubDateText);
+          if (isNaN(pubDate.getTime())) return; // Skip invalid dates
+          
+          // Only include items from the last week
+          if (pubDate >= oneWeekAgo) {
+            // Try to extract image URL
+            let imageUrl = '';
+            const media = item.querySelector("media\\:content, content");
+            if (media && media.getAttribute('url')) {
+              imageUrl = media.getAttribute('url');
+            }
+            
+            // Decode HTML entities in title
+            const decodedTitle = decodeHTMLEntities(title);
+            
+            feedItems.push({
+              title: decodedTitle,
+              link,
+              pubDate: pubDate.toISOString(),
+              source: feed.name,
+              categories: feed.categories,
+              image: imageUrl || `https://picsum.photos/800/600?random=${Math.floor(Math.random() * 1000)}`
+            });
+          }
+        });
+        
+        return feedItems;
+      } catch (error) {
+        console.error(`Error fetching feed ${feed.name}:`, error);
+        return []; // Return empty array on error
+      }
+    }
+    
+    // Update statistics
+    function updateStats() {
+      totalCountEl.textContent = allNewsItems.length;
+      sourcesCountEl.textContent = uniqueSources.size;
+    }
+    
+    // Filter news by time range
+    function filterByTime(newsItems) {
+      const now = new Date();
+      
+      if (currentTimeFilter === 'hour') {
+        // Last 1 hour
+        const oneHourAgo = new Date(now - 60 * 60 * 1000);
+        return newsItems.filter(item => new Date(item.pubDate) >= oneHourAgo);
+      } else if (currentTimeFilter === 'day') {
+        // Last 24 hours
+        const oneDayAgo = new Date(now - 24 * 60 * 60 * 1000);
+        return newsItems.filter(item => new Date(item.pubDate) >= oneDayAgo);
+      } else if (currentTimeFilter === 'week') {
+        // Last week (7 days)
+        const oneWeekAgo = new Date(now - 7 * 24 * 60 * 60 * 1000);
+        return newsItems.filter(item => new Date(item.pubDate) >= oneWeekAgo);
+      } else {
+        // Last month (30 days)
+        const oneMonthAgo = new Date(now - 30 * 24 * 60 * 60 * 1000);
+        return newsItems.filter(item => new Date(item.pubDate) >= oneMonthAgo);
+      }
+    }
+    
+    // Filter news from last 24 hours
+    function filterLast24Hours(newsItems) {
+      const now = new Date();
+      const oneDayAgo = new Date(now - 24 * 60 * 60 * 1000);
+      return newsItems.filter(item => new Date(item.pubDate) >= oneDayAgo);
+    }
+    
+    // Display news
+    function displayNews() {
+      if (!allNewsItems || allNewsItems.length === 0) {
+        newsContainer.innerHTML = '<div class="error">कुनै समाचार फेला परेन</div>';
+        loadMoreContainer.style.display = 'none';
+        return;
+      }
+      
+      // Filter by time first
+      const timeFilteredNews = filterByTime(allNewsItems);
+      
+      // Filter by current category
+      const filteredNews = currentCategory === 'all' 
+        ? timeFilteredNews 
+        : timeFilteredNews.filter(item => item.categories.includes(currentCategory));
+      
+      // Update showing count
+      showingCountEl.textContent = Math.min(filteredNews.length, currentDisplayCount);
+      
+      if (filteredNews.length === 0) {
+        newsContainer.innerHTML = `
+          <div class="error">
+            यो श्रेणीमा कुनै समाचार फेला परेन
+            <p><button onclick="filterNews('all')" class="load-more-btn" style="margin-top:15px;">
+              <i class="fas fa-globe"></i> सबै समाचार हेर्नुहोस्
+            </button></p>
+          </div>
+        `;
+        loadMoreContainer.style.display = 'none';
+        return;
+      }
+      
+      newsContainer.innerHTML = '';
+      
+      // Only show the first currentDisplayCount items
+      const toDisplay = filteredNews.slice(0, currentDisplayCount);
+      
+      toDisplay.forEach(item => {
+        const newsCard = document.createElement('div');
+        newsCard.className = 'news-card';
+        
+        const date = new Date(item.pubDate);
+        const dateString = date.toLocaleString('ne-NP', {
+          year: 'numeric',
+          month: 'short',
+          day: 'numeric',
+          hour: '2-digit',
+          minute: '2-digit'
+        });
+        
+        // Calculate time ago using the new function
+        const daysAgoText = formatTimeAgo(date);
+        
+        const isFav = isFavorited(item);
+        
+        newsCard.innerHTML = `
+          <div class="news-date-badge">${daysAgoText}</div>
+          <div class="news-content">
+            <div class="source-badge">${item.source}</div>
+            <h3>${item.title}</h3>
+            <div class="news-actions">
+              <div class="meta-info">
+                <span><i class="far fa-clock"></i> ${dateString}</span>
+              </div>
+              <div class="action-buttons">
+                <div class="share-btn">
+                  <i class="fas fa-share-alt"></i>
+                </div>
+                <div class="favorite-btn ${isFav ? 'active' : ''}">
+                  <i class="fas fa-bookmark"></i>
+                </div>
+              </div>
+            </div>
+          </div>
+        `;
+        
+        // Add click event to favorite button
+        const favBtn = newsCard.querySelector('.favorite-btn');
+        favBtn.addEventListener('click', (e) => {
+          e.stopPropagation();
+          toggleFavorite(item);
+          favBtn.classList.toggle('active');
+        });
+        
+        // Add click event to share button
+        const shareBtn = newsCard.querySelector('.share-btn');
+        shareBtn.addEventListener('click', (e) => {
+          e.stopPropagation();
+          openSharePopup(item.link, item.title);
+        });
+        
+        // Add click event to open news in viewer
+        newsCard.addEventListener('click', () => {
+          openNewsViewer(item.link);
+        });
+        
+        newsContainer.appendChild(newsCard);
+      });
+      
+      // Show load more button if there are more items to display
+      if (filteredNews.length > currentDisplayCount) {
+        loadMoreContainer.style.display = 'block';
+      } else {
+        loadMoreContainer.style.display = 'none';
+      }
+      
+      // Set up auto-load for next time
+      setupAutoLoad();
+    }
+
+    // Show error message
+    function showError(message) {
+      newsContainer.innerHTML = `
+        <div class="error">
+          <i class="fas fa-exclamation-triangle"></i><br>
+          ${message}
+          <p style="margin-top:15px;">
+            <button onclick="fetchNews()" class="load-more-btn">
+              <i class="fas fa-sync-alt"></i> पुन: प्रयास गर्नुहोस्
+            </button>
+          </p>
+        </div>
+      `;
+      loadMoreContainer.style.display = 'none';
+    }
+
+    // Filter news by category
+    function filterNews(category) {
+      currentCategory = category;
+      currentDisplayCount = 8; // reset to initial
+      if (allNewsItems.length > 0) {
+        displayNews();
+      } else {
+        fetchNews();
+      }
+    }
+    
+    // Filter news by time
+    function filterByTimeRange(timeRange) {
+      currentTimeFilter = timeRange;
+      currentDisplayCount = 8;
+      
+      // Update active button
+      timeFilterBtns.forEach(btn => {
+        btn.classList.remove('active');
+        if (btn.dataset.time === timeRange) {
+          btn.classList.add('active');
+        }
+      });
+      
+      if (allNewsItems.length > 0) {
+        displayNews();
+      }
+    }
+    
+    // Load more news
+    function loadMoreNews() {
+      currentDisplayCount += 8;
+      displayNews();
+    }
+    
+    // Set up auto-load on scroll
+    function setupAutoLoad() {
+      window.addEventListener('scroll', handleScroll);
+    }
+    
+    // Handle scroll for auto-load
+    function handleScroll() {
+      // Show/hide scroll to top button
+      if (window.scrollY > 500) {
+        scrollTopBtn.classList.add('visible');
+      } else {
+        scrollTopBtn.classList.remove('visible');
+      }
+      
+      // Check if we've reached the bottom of the page
+      if ((window.innerHeight + window.scrollY) >= document.body.offsetHeight - 100) {
+        // Remove the scroll listener temporarily to prevent multiple triggers
+        window.removeEventListener('scroll', handleScroll);
+        
+        // Load more news
+        if (!isLoading) {
+          loadMoreNews();
+        }
+        
+        // Re-add the scroll listener after a delay
+        setTimeout(() => {
+          window.addEventListener('scroll', handleScroll);
+        }, 1000);
+      }
+    }
+    
+    // Scroll to top
+    function scrollToTop() {
+      window.scrollTo({
+        top: 0,
+        behavior: 'smooth'
+      });
+    }
+    
+    // Open news viewer
+    function openNewsViewer(url) {
+      // Show loading indicator
+      viewerLoading.style.display = 'flex';
+      newsIframe.style.display = 'none';
+      
+      // Show the viewer
+      newsViewer.classList.add('active');
+      document.body.style.overflow = 'hidden';
+      
+      // Set iframe source
+      newsIframe.src = url;
+      
+      // When iframe is loaded
+      newsIframe.onload = () => {
+        viewerLoading.style.display = 'none';
+        newsIframe.style.display = 'block';
+      };
+    }
+    
+    // Close news viewer
+    function closeNewsViewer() {
+      newsViewer.classList.remove('active');
+      document.body.style.overflow = '';
+      newsIframe.src = '';
+    }
+    
+    // Open favorites modal
+    function openFavoritesModal() {
+      favoritesModal.classList.add('active');
+      document.body.style.overflow = 'hidden';
+      renderFavorites();
+    }
+    
+    // Close favorites modal
+    function closeFavoritesModal() {
+      favoritesModal.classList.remove('active');
+      document.body.style.overflow = '';
+    }
+    
+    // Render favorites list
+    function renderFavorites() {
+      if (favorites.length === 0) {
+        favoritesBody.innerHTML = `
+          <div class="no-favorites">
+            <i class="fas fa-bookmark" style="font-size: 3rem; color: #ddd; margin-bottom: 15px;"></i>
+            <h3>तपाईंले कुनै पनि समाचार मनपराउनुभएको छैन</h3>
+            <p>मनपर्ने समाचारमा <i class="fas fa-bookmark"></i> आइकन थिचेर सुरक्षित गर्न सक्नुहुन्छ</p>
+          </div>
+        `;
+        return;
+      }
+      
+      let html = '<div class="favorites-list">';
+      
+      favorites.forEach((item, index) => {
+        const date = new Date(item.pubDate);
+        const dateString = date.toLocaleString('ne-NP', {
+          year: 'numeric',
+          month: 'short',
+          day: 'numeric'
+        });
+        
+        html += `
+          <div class="favorite-item" data-index="${index}">
+            <div class="favorite-source">${item.source}</div>
+            <div class="favorite-title">${item.title}</div>
+            <div class="favorite-date"><i class="far fa-clock"></i> ${dateString}</div>
+            <div class="favorite-actions">
+              <button class="remove-favorite" data-index="${index}">
+                <i class="fas fa-trash"></i>
+              </button>
+            </div>
+          </div>
+        `;
+      });
+      
+      html += '</div>';
+      favoritesBody.innerHTML = html;
+      
+      // Add event listeners to favorite items
+      document.querySelectorAll('.favorite-item').forEach(item => {
+        item.addEventListener('click', (e) => {
+          if (!e.target.closest('.remove-favorite')) {
+            const index = parseInt(item.dataset.index);
+            openNewsViewer(favorites[index].link);
+          }
+        });
+      });
+      
+      // Add event listeners to remove buttons
+      document.querySelectorAll('.remove-favorite').forEach(button => {
+        button.addEventListener('click', (e) => {
+          e.stopPropagation();
+          const index = parseInt(button.dataset.index);
+          favorites.splice(index, 1);
+          localStorage.setItem('favorites', JSON.stringify(favorites));
+          updateFavoritesBadge();
+          renderFavorites();
+          // Also update the bookmark icons in the main news view
+          displayNews();
+        });
+      });
+    }
+    
+    // Clear all favorites
+    function clearAllFavorites() {
+      if (favorites.length === 0) return;
+      
+      if (confirm("के तपाईं सबै मनपराएका समाचारहरू हटाउन चाहनुहुन्छ?")) {
+        favorites = [];
+        localStorage.setItem('favorites', JSON.stringify(favorites));
+        updateFavoritesBadge();
+        renderFavorites();
+        // Also update the bookmark icons in the main news view
+        displayNews();
+      }
+    }
+    
+    // Open share popup
+    function openSharePopup(url, title) {
+      currentShareUrl = url;
+      shareUrlInput.value = url;
+      sharePopup.classList.add('active');
+    }
+    
+    // Close share popup
+    function closeSharePopup() {
+      sharePopup.classList.remove('active');
+    }
+    
+    // Copy link to clipboard
+    function copyToClipboard() {
+      shareUrlInput.select();
+      document.execCommand('copy');
+      
+      // Show confirmation
+      const originalText = copyLinkBtn.innerHTML;
+      copyLinkBtn.innerHTML = '<i class="fas fa-check"></i> प्रतिलिपि भयो!';
+      
+      setTimeout(() => {
+        copyLinkBtn.innerHTML = originalText;
+      }, 2000);
+    }
+    
+    // Share via Facebook
+    function shareFacebook(url) {
+      window.open(`https://www.facebook.com/sharer/sharer.php?u=${encodeURIComponent(url)}`, '_blank');
+    }
+    
+    // Share via Twitter
+    function shareTwitter(url, title) {
+      window.open(`https://twitter.com/intent/tweet?text=${encodeURIComponent(title)}&url=${encodeURIComponent(url)}`, '_blank');
+    }
+    
+    // Share via WhatsApp
+    function shareWhatsApp(url, title) {
+      window.open(`https://api.whatsapp.com/send?text=${encodeURIComponent(title + ' ' + url)}`, '_blank');
+    }
+    
+    // Build source cloud
+    function buildSourceCloud() {
+      sourceCloud.innerHTML = '';
+      
+      // Get unique sources
+      const sources = [...uniqueSources];
+      
+      sources.forEach(source => {
+        const sourceTag = document.createElement('div');
+        sourceTag.className = 'source-tag';
+        sourceTag.textContent = source;
+        sourceTag.dataset.source = source;
+        
+        sourceTag.addEventListener('click', () => {
+          // Toggle active state
+          sourceTag.classList.toggle('active');
+          
+          // Filter news by selected sources
+          filterBySources();
+        });
+        
+        sourceCloud.appendChild(sourceTag);
+      });
+    }
+    
+    // Filter news by selected sources
+    function filterBySources() {
+      const selectedSources = document.querySelectorAll('.source-tag.active');
+      
+      if (selectedSources.length === 0) {
+        sourceResults.innerHTML = '';
+        return;
+      }
+      
+      const sources = Array.from(selectedSources).map(tag => tag.dataset.source);
+      
+      const filteredNews = allNewsItems.filter(item => 
+        sources.includes(item.source)
+      );
+      
+      displayNewsInSection(filteredNews, sourceResults);
+    }
+    
+    // Search news
+    function searchNews(term) {
+      if (term.length < 2) {
+        searchResults.innerHTML = '<div class="error">कृपया खोज्नका लागि कम्तिमा २ अक्षर लेख्नुहोस्</div>';
+        return;
+      }
+      
+      const filteredNews = allNewsItems.filter(item => 
+        item.title.toLowerCase().includes(term.toLowerCase()) || 
+        item.source.toLowerCase().includes(term.toLowerCase())
+      );
+      
+      displayNewsInSection(filteredNews, searchResults);
+    }
+    
+    // Display news in a specific section
+    function displayNewsInSection(newsItems, container) {
+      if (!newsItems || newsItems.length === 0) {
+        container.innerHTML = '<div class="error">कुनै समाचार फेला परेन</div>';
+        return;
+      }
+      
+      container.innerHTML = '';
+      
+      newsItems.forEach(item => {
+        const newsCard = document.createElement('div');
+        newsCard.className = 'news-card';
+        
+        const date = new Date(item.pubDate);
+        const dateString = date.toLocaleString('ne-NP', {
+          year: 'numeric',
+          month: 'short',
+          day: 'numeric',
+          hour: '2-digit',
+          minute: '2-digit'
+        });
+        
+        // Calculate time ago using the new function
+        const daysAgoText = formatTimeAgo(date);
+        
+        const isFav = isFavorited(item);
+        
+        newsCard.innerHTML = `
+          <div class="news-date-badge">${daysAgoText}</div>
+          <div class="news-content">
+            <div class="source-badge">${item.source}</div>
+            <h3>${item.title}</h3>
+            <div class="news-actions">
+              <div class="meta-info">
+                <span><i class="far fa-clock"></i> ${dateString}</span>
+              </div>
+              <div class="action-buttons">
+                <div class="share-btn">
+                  <i class="fas fa-share-alt"></i>
+                </div>
+                <div class="favorite-btn ${isFav ? 'active' : ''}">
+                  <i class="fas fa-bookmark"></i>
+                </div>
+              </div>
+            </div>
+          </div>
+        `;
+        
+        // Add click event to favorite button
+        const favBtn = newsCard.querySelector('.favorite-btn');
+        favBtn.addEventListener('click', (e) => {
+          e.stopPropagation();
+          toggleFavorite(item);
+          favBtn.classList.toggle('active');
+        });
+        
+        // Add click event to share button
+        const shareBtn = newsCard.querySelector('.share-btn');
+        shareBtn.addEventListener('click', (e) => {
+          e.stopPropagation();
+          openSharePopup(item.link, item.title);
+        });
+        
+        // Add click event to open news in viewer
+        newsCard.addEventListener('click', () => {
+          openNewsViewer(item.link);
+        });
+        
+        container.appendChild(newsCard);
+      });
+    }
+    
+    // Display stories
+    function displayStories() {
+      if (!allNewsItems || allNewsItems.length === 0) {
+        storyContainer.innerHTML = '<div class="error">कुनै समाचार फेला परेन</div>';
+        return;
+      }
+      
+      storyContainer.innerHTML = '';
+      
+      const timeFilteredNews = filterByTime(allNewsItems);
+      
+      timeFilteredNews.forEach(item => {
+        const storyCard = document.createElement('div');
+        storyCard.className = 'story-card';
+        storyCard.style.backgroundImage = `url(${item.image})`;
+        
+        const date = new Date(item.pubDate);
+        const dateString = date.toLocaleString('ne-NP', {
+          year: 'numeric',
+          month: 'short',
+          day: 'numeric'
+        });
+        
+        storyCard.innerHTML = `
+          <div class="story-overlay"></div>
+          <div class="story-content">
+            <div class="story-source">${item.source}</div>
+            <div class="story-title">${item.title}</div>
+            <div class="story-meta">
+              <span><i class="far fa-clock"></i> ${dateString}</span>
+            </div>
+            <div class="story-actions">
+              <button class="story-btn" onclick="openNewsViewer('${item.link}')">
+                <i class="fas fa-book-open"></i> पूरै पढ्नुहोस्
+              </button>
+              <button class="story-btn primary" onclick="toggleFavorite(${JSON.stringify(item).replace(/"/g, '&quot;')})">
+                <i class="fas fa-bookmark"></i> मनपराउनुहोस्
+              </button>
+            </div>
+          </div>
+        `;
+        
+        storyContainer.appendChild(storyCard);
+      });
+    }
+    
+    // Initialize AI News Reader
+    function initAINewsReader() {
+      if (!synth) {
+        aiStatus.textContent = "AI पाठक समर्थित छैन। कृपया आधुनिक ब्राउजर प्रयोग गर्नुहोस्।";
+        return;
+      }
+      
+      // Get available voices
+      voices = synth.getVoices();
+      
+      // Filter Nepali voices if available
+      const nepaliVoices = voices.filter(voice => 
+        voice.lang.includes('ne') || 
+        voice.name.includes('Nepali') || 
+        voice.lang.includes('hi')
+      );
+      
+      // If no Nepali voices, use the first available
+      const availableVoices = nepaliVoices.length > 0 ? nepaliVoices : voices;
+      
+      // Populate voice selector
+      voiceSelector.innerHTML = '';
+      availableVoices.forEach((voice, index) => {
+        const voiceOption = document.createElement('div');
+        voiceOption.className = 'voice-option';
+        if (index === 0) {
+          voiceOption.classList.add('active');
+          currentVoice = voice;
+        }
+        voiceOption.textContent = voice.name;
+        voiceOption.dataset.index = index;
+        
+        voiceOption.addEventListener('click', () => {
+          document.querySelectorAll('.voice-option').forEach(opt => 
+            opt.classList.remove('active')
+          );
+          voiceOption.classList.add('active');
+          currentVoice = availableVoices[index];
+        });
+        
+        voiceSelector.appendChild(voiceOption);
+      });
+      
+      // Display AI news
+      displayAINews();
+    }
+    
+    // Display news for AI reader (last 24 hours only)
+    function displayAINews() {
+      if (!allNewsItems || allNewsItems.length === 0) {
+        aiNewsContainer.innerHTML = '<div class="error">कुनै समाचार फेला परेन</div>';
+        return;
+      }
+      
+      // Get news from last 24 hours
+      const last24hNews = filterLast24Hours(allNewsItems);
+      
+      if (last24hNews.length === 0) {
+        aiNewsContainer.innerHTML = `
+          <div class="no-ai-news">
+            <i class="fas fa-newspaper" style="font-size: 3rem; color: #ddd; margin-bottom: 15px;"></i>
+            <h3>आजका लागि कुनै नयाँ समाचार छैन</h3>
+            <p>कृपया पछि फेरि प्रयास गर्नुहोस्</p>
+          </div>
+        `;
+        return;
+      }
+      
+      aiNewsContainer.innerHTML = '';
+      
+      // Only show the first 6 items for AI section
+      const toDisplay = last24hNews.slice(0, 6);
+      
+      toDisplay.forEach((item, index) => {
+        const newsCard = document.createElement('div');
+        newsCard.className = 'ai-news-card';
+        newsCard.dataset.index = index;
+        
+        // Add animation delay for slide-in effect
+        newsCard.style.animationDelay = `${index * 0.1}s`;
+        
+        const date = new Date(item.pubDate);
+        const dateString = date.toLocaleString('ne-NP', {
+          year: 'numeric',
+          month: 'short',
+          day: 'numeric',
+          hour: '2-digit',
+          minute: '2-digit'
+        });
+        
+        // Calculate hours ago
+        const now = new Date();
+        const diffTime = Math.abs(now - date);
+        const diffHours = Math.floor(diffTime / (1000 * 60 * 60));
+        const hoursAgoText = diffHours === 0 ? "भर्खरै" : `${diffHours} घण्टा अघि`;
+        
+        newsCard.innerHTML = `
+          <div class="ai-news-content">
+            <div class="ai-news-header">
+              <div class="ai-source-badge">${item.source}</div>
+              <div class="ai-news-date">${hoursAgoText}</div>
+            </div>
+            <div class="ai-news-title">${item.title}</div>
+            <div class="ai-news-player">
+              <div class="ai-play-btn" data-index="${index}">
+                <i class="fas fa-play"></i>
+              </div>
+              <div class="ai-progress">
+                <div class="ai-progress-bar" id="progress-${index}"></div>
+              </div>
+            </div>
+          </div>
+        `;
+        
+        // Add click event to play button
+        const playBtn = newsCard.querySelector('.ai-play-btn');
+        playBtn.addEventListener('click', (e) => {
+          e.stopPropagation();
+          playNews(item, index);
+        });
+        
+        aiNewsContainer.appendChild(newsCard);
+      });
+    }
+    
+    // Play a news item
+    function playNews(item, index) {
+      // Stop any current speech
+      stopSpeech();
+      
+      // Highlight the playing card
+      document.querySelectorAll('.ai-news-card').forEach(card => {
+        card.classList.remove('active');
+      });
+      document.querySelector(`.ai-news-card[data-index="${index}"]`).classList.add('active');
+      
+      // Update the play button
+      const playBtn = document.querySelector(`.ai-play-btn[data-index="${index}"]`);
+      playBtn.innerHTML = '<i class="fas fa-pause"></i>';
+      playBtn.classList.add('playing');
+      
+      // Create the utterance
+      const utterance = new SpeechSynthesisUtterance();
+      utterance.text = `"${item.source}" बाट समाचार: ${item.title}`;
+      utterance.voice = currentVoice;
+      utterance.rate = 0.9; // Slightly slower rate
+      utterance.pitch = 1.1; // Slightly higher pitch
+      utterance.lang = currentVoice.lang;
+      
+      // Store current utterance
+      currentUtterance = utterance;
+      currentPlayingIndex = index;
+      
+      // Speech progress handler
+      utterance.onboundary = (event) => {
+        if (event.name === 'word') {
+          const progress = (event.charIndex / utterance.text.length) * 100;
+          document.getElementById(`progress-${index}`).style.width = `${progress}%`;
+        }
+      };
+      
+      // Speech end handler
+      utterance.onend = () => {
+        playBtn.innerHTML = '<i class="fas fa-play"></i>';
+        playBtn.classList.remove('playing');
+        document.getElementById(`progress-${index}`).style.width = '0%';
+        
+        // Remove the news card after reading
+        setTimeout(() => {
+          removeAINewsAfterReading(index);
+        }, 1000);
+        
+        // If playing all, play next
+        if (isPlayingAll && index < 5) {
+          setTimeout(() => playNextNews(index + 1), 1500);
+        } else {
+          isPlayingAll = false;
+        }
+      };
+      
+      // Speech error handler
+      utterance.onerror = (event) => {
+        aiStatus.textContent = "त्रुटि: " + event.error;
+        playBtn.innerHTML = '<i class="fas fa-play"></i>';
+        playBtn.classList.remove('playing');
+        document.getElementById(`progress-${index}`).style.width = '0%';
+      };
+      
+      // Update status
+      aiStatus.textContent = `समाचार सुनाईदै: ${item.source}`;
+      
+      // Speak the utterance
+      synth.speak(utterance);
+    }
+    
+    // Remove AI news after reading
+    function removeAINewsAfterReading(index) {
+      const card = document.querySelector(`.ai-news-card[data-index="${index}"]`);
+      if (card) {
+        // Fade out and slide up animation
+        card.style.opacity = '0';
+        card.style.transform = 'translateY(-20px)';
+        card.style.transition = 'all 0.5s ease';
+        
+        // Remove after animation completes
+        setTimeout(() => {
+          card.remove();
+        }, 500);
+      }
+    }
+    
+    // Play next news item
+    function playNextNews(index) {
+      const cards = document.querySelectorAll('.ai-news-card');
+      if (index < cards.length) {
+        const card = cards[index];
+        const playBtn = card.querySelector('.ai-play-btn');
+        playBtn.click();
+      } else {
+        isPlayingAll = false;
+      }
+    }
+    
+    // Pause speech
+    function pauseSpeech() {
+      if (synth.speaking && !synth.paused) {
+        synth.pause();
+        aiStatus.textContent = "पौज गरिएको";
+      }
+    }
+    
+    // Resume speech
+    function resumeSpeech() {
+      if (synth.speaking && synth.paused) {
+        synth.resume();
+        aiStatus.textContent = "समाचार सुनाईदै";
+      }
+    }
+    
+    // Stop speech
+    function stopSpeech() {
+      if (synth.speaking) {
+        synth.cancel();
+        aiStatus.textContent = "रोकिएको";
+        
+        // Reset play buttons
+        document.querySelectorAll('.ai-play-btn').forEach(btn => {
+          btn.innerHTML = '<i class="fas fa-play"></i>';
+          btn.classList.remove('playing');
+        });
+        
+        // Reset progress bars
+        document.querySelectorAll('.ai-progress-bar').forEach(bar => {
+          bar.style.width = '0%';
+        });
+        
+        // Remove active card
+        document.querySelectorAll('.ai-news-card').forEach(card => {
+          card.classList.remove('active');
+        });
+        
+        isPlayingAll = false;
+      }
+    }
+    
+    // Play all news items
+    function playAllNews() {
+      isPlayingAll = true;
+      playNextNews(0);
+    }
+    
+    // Switch sections
+    function switchSection(sectionId) {
+      // Hide all sections
+      appSections.forEach(section => {
+        section.classList.remove('active');
+      });
+      
+      // Hide story container
+      storyContainer.classList.remove('active');
+      
+      // Show selected section
+      if (sectionId === 'story') {
+        storyContainer.classList.add('active');
+        displayStories();
+      } else if (sectionId === 'ai') {
+        aiSection.classList.add('active');
+        if (allNewsItems.length > 0) {
+          displayAINews();
+        }
+      } else {
+        document.getElementById(`${sectionId}-section`).classList.add('active');
+      }
+      
+      // Update active nav item
+      navItems.forEach(item => {
+        item.classList.remove('active');
+        if (item.dataset.section === sectionId) {
+          item.classList.add('active');
+        }
+      });
+    }
+
+    // Initialize
+    document.addEventListener('DOMContentLoaded', () => {
+      // Show random quote
+      showRandomQuote();
+      
+      // Update favorites badge
+      updateFavoritesBadge();
+      
+      // Show splash screen
+      showSplashScreen();
+      
+      // Add event listeners to tabs
+      tabs.forEach(tab => {
+        tab.addEventListener('click', () => {
+          tabs.forEach(t => t.classList.remove('active'));
+          tab.classList.add('active');
+          const category = tab.dataset.category;
+          filterNews(category);
+        });
+      });
+      
+      // Add event listeners to time filter buttons
+      timeFilterBtns.forEach(btn => {
+        btn.addEventListener('click', () => {
+          filterByTimeRange(btn.dataset.time);
+        });
+      });
+      
+      // Load more button event
+      loadMoreBtn.addEventListener('click', loadMoreNews);
+      
+      // Favorites button event
+      favoritesBtn.addEventListener('click', openFavoritesModal);
+      
+      // Refresh button event
+      refreshBtn.addEventListener('click', fetchNews);
+      
+      // Close viewer button
+      closeViewer.addEventListener('click', closeNewsViewer);
+      
+      // Close favorites button
+      closeFavorites.addEventListener('click', closeFavoritesModal);
+      
+      // Close share button
+      closeShare.addEventListener('click', closeSharePopup);
+      
+      // Copy link button
+      copyLinkBtn.addEventListener('click', copyToClipboard);
+      
+      // Share buttons
+      document.getElementById('share-facebook').addEventListener('click', () => {
+        shareFacebook(currentShareUrl);
+      });
+      
+      document.getElementById('share-twitter').addEventListener('click', () => {
+        shareTwitter(currentShareUrl, "रोचक समाचार");
+      });
+      
+      document.getElementById('share-whatsapp').addEventListener('click', () => {
+        shareWhatsApp(currentShareUrl, "रोचक समाचार");
+      });
+      
+      document.getElementById('share-link').addEventListener('click', () => {
+        copyToClipboard();
+      });
+      
+      // Close viewer when clicking outside content
+      newsViewer.addEventListener('click', (e) => {
+        if (e.target === newsViewer) {
+          closeNewsViewer();
+        }
+      });
+      
+      // Close favorites when clicking outside content
+      favoritesModal.addEventListener('click', (e) => {
+        if (e.target === favoritesModal) {
+          closeFavoritesModal();
+        }
+      });
+      
+      // Close share when clicking outside content
+      sharePopup.addEventListener('click', (e) => {
+        if (e.target === sharePopup) {
+          closeSharePopup();
+        }
+      });
+      
+      // Clear favorites button
+      clearFavoritesBtn.addEventListener('click', clearAllFavorites);
+      
+      // Scroll to top button
+      scrollTopBtn.addEventListener('click', scrollToTop);
+      
+      // Auto-refresh every 30 minutes
+      setInterval(fetchNews, 30 * 60 * 1000);
+      
+      // Navigation events
+      navItems.forEach(item => {
+        item.addEventListener('click', () => {
+          switchSection(item.dataset.section);
+        });
+      });
+      
+      // Search functionality
+      searchInput.addEventListener('input', (e) => {
+        searchNews(e.target.value);
+      });
+      
+      // Source search functionality
+      sourceSearch.addEventListener('input', (e) => {
+        const term = e.target.value.toLowerCase();
+        const sourceTags = document.querySelectorAll('.source-tag');
+        
+        sourceTags.forEach(tag => {
+          if (tag.textContent.toLowerCase().includes(term)) {
+            tag.style.display = 'block';
+          } else {
+            tag.style.display = 'none';
+          }
+        });
+      });
+      
+      // AI Reader controls
+      aiPlayAllBtn.addEventListener('click', playAllNews);
+      aiPauseBtn.addEventListener('click', () => {
+        if (synth.speaking && !synth.paused) {
+          pauseSpeech();
+        } else if (synth.speaking && synth.paused) {
+          resumeSpeech();
+        }
+      });
+      aiStopBtn.addEventListener('click', stopSpeech);
+      
+      // Load voices when they become available
+      synth.onvoiceschanged = () => {
+        if (aiSection.classList.contains('active')) {
+          initAINewsReader();
+        }
+      };
+    });
+    
+    // Make functions available globally
+    window.fetchNews = fetchNews;
+    window.filterNews = filterNews;
+    window.loadMoreNews = loadMoreNews;
+    window.openNewsViewer = openNewsViewer;
+    window.toggleFavorite = toggleFavorite;
+    window.switchSection = switchSection;
+  </script>
+</body>
+</html>
