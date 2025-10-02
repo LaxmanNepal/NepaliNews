@@ -2074,173 +2074,146 @@
       lastUpdatedEl.textContent = now.toLocaleString('ne-NP', options);
     }
 
-    // Fetch news from all feeds
-    async function fetchNews() {
-      if (isLoading || feeds.length === 0) return;
-      
-      isLoading = true;
-      showLoading();
-      
-      try {
-        // Clear previous data
-        allNewsItems = [];
-        uniqueSources.clear();
-        
-        // Fetch all feeds concurrently
-        const feedPromises = feeds.map(feed => fetchFeed(feed));
-        const results = await Promise.allSettled(feedPromises);
-        
-        results.forEach(result => {
-          if (result.status === 'fulfilled') {
-            const feedItems = result.value;
-            allNewsItems = allNewsItems.concat(feedItems);
-            if (feedItems.length > 0) {
-              uniqueSources.add(feedItems[0].source);
-            }
-          }
-        });
-        
-        if (allNewsItems.length === 0) {
-          throw new Error("कुनै पनि समाचार फेला परेन");
+
+
+
+// Enhanced fetchNews with caching
+async function fetchNews(forceRefresh = false) {
+  if (isLoading) return;
+  
+  isLoading = true;
+  showLoading();
+  
+  try {
+    // Clear previous data unless refreshing
+    if (forceRefresh) {
+      allNewsItems = [];
+      uniqueSources.clear();
+    }
+    
+    // Try to get from cache first (unless force refresh)
+    let cachedNews = null;
+    if (!forceRefresh) {
+      cachedNews = await getCachedNews();
+    }
+    
+    if (cachedNews && !forceRefresh) {
+      allNewsItems = cachedNews.items;
+      uniqueSources = new Set(cachedNews.sources);
+      updateStats();
+      updateTimestamp();
+      displayNews();
+      buildSourceCloud();
+      initAINewsReader();
+      isLoading = false;
+      return;
+    }
+    
+    // Fetch fresh data
+    const feedPromises = feeds.map(feed => fetchFeed(feed));
+    const results = await Promise.allSettled(feedPromises);
+    
+    results.forEach(result => {
+      if (result.status === 'fulfilled') {
+        const feedItems = result.value;
+        allNewsItems = allNewsItems.concat(feedItems);
+        if (feedItems.length > 0) {
+          uniqueSources.add(feedItems[0].source);
         }
-        
-        // Sort by date (newest first)
-        allNewsItems.sort((a, b) => new Date(b.pubDate) - new Date(a.pubDate));
-        
-        // Update stats
-        updateStats();
-        updateTimestamp();
-        
-        // Display news
-        displayNews();
-        
-        // Build source cloud
-        buildSourceCloud();
-        
-        // Initialize AI News Reader
-        initAINewsReader();
-      } catch (error) {
-        console.error('Error fetching news:', error);
-        showError("त्रुटि: " + error.message);
-      } finally {
-        isLoading = false;
       }
+    });
+    
+    if (allNewsItems.length === 0) {
+      throw new Error("कुनै पनि समाचार फेला परेन");
     }
     
-    // Fetch individual feed
-    async function fetchFeed(feed) {
-      try {
-        // Use CORS proxy to avoid access issues
-        const proxyUrl = 'https://api.allorigins.win/raw?url=';
-        const response = await fetch(proxyUrl + encodeURIComponent(feed.url));
-        
-        if (!response.ok) throw new Error(`HTTP error! status: ${response.status}`);
-        const text = await response.text();
-        const parser = new DOMParser();
-        const xml = parser.parseFromString(text, "text/xml");
-        
-        // Check for XML parsing errors
-        const parsererror = xml.querySelector('parsererror');
-        if (parsererror) {
-          throw new Error('Error parsing XML');
-        }
-        
-        const items = xml.querySelectorAll("item");
-        const feedItems = [];
-        const now = new Date();
-        const oneWeekAgo = new Date(now - 7 * 24 * 60 * 60 * 1000);
-        
-        items.forEach(item => {
-          const title = item.querySelector("title")?.textContent || "No title";
-          const link = item.querySelector("link")?.textContent || "";
-          const pubDateText = item.querySelector("pubDate")?.textContent;
-          
-          if (!pubDateText) return; // Skip items without dates
-          
-          const pubDate = new Date(pubDateText);
-          if (isNaN(pubDate.getTime())) return; // Skip invalid dates
-          
-          // Only include items from the last week
-          if (pubDate >= oneWeekAgo) {
-            // Try to extract image URL
-            let imageUrl = '';
-            const media = item.querySelector("media\\:content, content");
-            if (media && media.getAttribute('url')) {
-              imageUrl = media.getAttribute('url');
-            }
-            
-            // Decode HTML entities in title
-            const decodedTitle = decodeHTMLEntities(title);
-            
-            feedItems.push({
-              title: decodedTitle,
-              link,
-              pubDate: pubDate.toISOString(),
-              source: feed.name,
-              categories: feed.categories,
-              image: imageUrl || `https://picsum.photos/800/600?random=${Math.floor(Math.random() * 1000)}`
-            });
-          }
-        });
-        
-        return feedItems;
-      } catch (error) {
-        console.error(`Error fetching feed ${feed.name}:`, error);
-        return []; // Return empty array on error
-      }
-    }
+    // Sort by date (newest first)
+    allNewsItems.sort((a, b) => new Date(b.pubDate) - new Date(a.pubDate));
     
-    // Update statistics
-    function updateStats() {
-      totalCountEl.textContent = allNewsItems.length;
-      sourcesCountEl.textContent = uniqueSources.size;
-    }
+    // Cache the results
+    await cacheNews(allNewsItems, Array.from(uniqueSources));
     
-    // Filter news by time range
-    function filterByTime(newsItems) {
+    // Update UI
+    updateStats();
+    updateTimestamp();
+    displayNews();
+    buildSourceCloud();
+    initAINewsReader();
+    
+  } catch (error) {
+    console.error('Error fetching news:', error);
+    showError("त्रुटि: " + error.message);
+  } finally {
+    isLoading = false;
+  }
+}
+
+// Cache news data
+async function cacheNews(items, sources) {
+  if ('caches' in window) {
+    const cache = await caches.open(API_CACHE_NAME);
+    const cacheData = {
+      items: items,
+      sources: sources,
+      timestamp: new Date().toISOString()
+    };
+    
+    const response = new Response(JSON.stringify(cacheData), {
+      headers: {'Content-Type': 'application/json'}
+    });
+    
+    // Create a fake URL for caching news data
+    await cache.put('/cached-news', response);
+  }
+}
+
+// Get cached news
+async function getCachedNews() {
+  if (!('caches' in window)) return null;
+  
+  try {
+    const cache = await caches.open(API_CACHE_NAME);
+    const response = await cache.match('/cached-news');
+    
+    if (response) {
+      const data = await response.json();
+      const cacheTime = new Date(data.timestamp);
       const now = new Date();
       
-      if (currentTimeFilter === 'hour') {
-        // Last 1 hour
-        const oneHourAgo = new Date(now - 60 * 60 * 1000);
-        return newsItems.filter(item => new Date(item.pubDate) >= oneHourAgo);
-      } else if (currentTimeFilter === 'day') {
-        // Last 24 hours
-        const oneDayAgo = new Date(now - 24 * 60 * 60 * 1000);
-        return newsItems.filter(item => new Date(item.pubDate) >= oneDayAgo);
-      } else if (currentTimeFilter === 'week') {
-        // Last week (7 days)
-        const oneWeekAgo = new Date(now - 7 * 24 * 60 * 60 * 1000);
-        return newsItems.filter(item => new Date(item.pubDate) >= oneWeekAgo);
-      } else {
-        // Last month (30 days)
-        const oneMonthAgo = new Date(now - 30 * 24 * 60 * 60 * 1000);
-        return newsItems.filter(item => new Date(item.pubDate) >= oneMonthAgo);
+      // Use cache if less than 15 minutes old
+      if (now - cacheTime < 15 * 60 * 1000) {
+        return data;
       }
     }
+  } catch (error) {
+    console.error('Error reading cache:', error);
+  }
+  
+  return null;
+}
+
+
+
+
     
-    // Filter news from last 24 hours
-    function filterLast24Hours(newsItems) {
-      const now = new Date();
-      const oneDayAgo = new Date(now - 24 * 60 * 60 * 1000);
-      return newsItems.filter(item => new Date(item.pubDate) >= oneDayAgo);
-    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
     
-    // Display news
-    function displayNews() {
-      if (!allNewsItems || allNewsItems.length === 0) {
-        newsContainer.innerHTML = '<div class="error">कुनै समाचार फेला परेन</div>';
-        loadMoreContainer.style.display = 'none';
-        return;
-      }
-      
-      // Filter by time first
-      const timeFilteredNews = filterByTime(allNewsItems);
-      
-      // Filter by current category
-      const filteredNews = currentCategory === 'all' 
-        ? timeFilteredNews 
-        : timeFilteredNews.filter(item => item.categories.includes(currentCategory));
+    
       
       // Update showing count
       showingCountEl.textContent = Math.min(filteredNews.length, currentDisplayCount);
