@@ -7,7 +7,7 @@ import html
 import json
 import re
 import time
-from datetime import datetime, timezone
+from datetime import datetime, timezone, timedelta
 from email.utils import parsedate_to_datetime
 from pathlib import Path
 from urllib.parse import urljoin
@@ -158,7 +158,7 @@ def main():
                 "error": str(exc)[:240]
             })
 
-    # Deduplicate by canonical URL first, then normalized title.
+    # Keep the live dataset focused on the latest 30 days.\n    cutoff = datetime.now(timezone.utc) - timedelta(days=30)\n    all_items = [x for x in all_items if datetime.fromisoformat(x["pubDate"].replace("Z","+00:00")) >= cutoff]\n\n    # Deduplicate by canonical URL first, then normalized title.
     unique = {}
     for item in all_items:
         key = item["link"].split("#")[0].rstrip("/")
