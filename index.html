@@ -2,7 +2,10 @@
 <html lang="ne">
 <head>
   <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">\n  <meta name="theme-color" content="#4361ee">\n  <meta name="description" content="नेपालका विभिन्न समाचार स्रोतहरू एकै ठाउँमा — छिटो, मोबाइलमैत्री र PWA समर्थनसहित।">\n  <link rel="manifest" href="./manifest.json">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+  <meta name="theme-color" content="#0b1020">
+  <meta name="description" content="नेपालका प्रमुख समाचार स्रोतहरूबाट लाइभ हेडलाइनहरू।">
+  <link rel="manifest" href="./manifest.json">
   <title>नेपाली समाचार संग्रह - सबै स्रोतहरू</title>
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
   <style>
@@ -1607,6 +1610,111 @@
         align-items: center;
       }
     }
+      
+    /* ===== Premium 2026 redesign ===== */
+    :root{
+      --primary:#635bff;
+      --primary-light:#8b85ff;
+      --primary-dark:#4338ca;
+      --accent:#ff4d8d;
+      --bg:#f5f7fb;
+      --surface:rgba(255,255,255,.78);
+      --text:#101828;
+      --light-text:#667085;
+      --border:rgba(16,24,40,.08);
+      --shadow:0 18px 50px rgba(15,23,42,.08);
+      --shadow-sm:0 8px 24px rgba(15,23,42,.07);
+      --card-radius:22px;
+      --header-height:76px;
+      --nav-height:72px;
+    }
+    body{
+      background:
+        radial-gradient(circle at 10% 0%,rgba(99,91,255,.12),transparent 28%),
+        radial-gradient(circle at 90% 10%,rgba(255,77,141,.10),transparent 24%),
+        var(--bg);
+      color:var(--text);
+      font-family:Inter,"Noto Sans Devanagari","Segoe UI",sans-serif;
+    }
+    .blogger-container{background:transparent;max-width:1440px}
+    .app-header{
+      background:rgba(11,16,32,.82);
+      backdrop-filter:blur(24px) saturate(150%);
+      -webkit-backdrop-filter:blur(24px) saturate(150%);
+      border-bottom:1px solid rgba(255,255,255,.10);
+      box-shadow:0 10px 40px rgba(2,6,23,.16);
+    }
+    .app-title{font-size:1.18rem;letter-spacing:-.02em}
+    .app-title i{background:linear-gradient(135deg,#fff,#a5b4fc);-webkit-background-clip:text;background-clip:text;color:transparent}
+    .header-btn{border:1px solid rgba(255,255,255,.14);background:rgba(255,255,255,.08);backdrop-filter:blur(12px)}
+    .tab-container{
+      margin:12px 16px 0;border:1px solid var(--border);border-radius:18px;
+      background:rgba(255,255,255,.72);backdrop-filter:blur(18px);
+      box-shadow:var(--shadow-sm);overflow:hidden
+    }
+    .tabs{padding:4px}
+    .tab{border-radius:14px;padding:12px 18px}
+    .tab.active{color:#fff;background:linear-gradient(135deg,var(--primary),var(--primary-dark));box-shadow:0 8px 18px rgba(99,91,255,.25)}
+    .tab.active::after{display:none}
+    .app-section,.ai-section{max-width:1240px;padding:22px 16px}
+    .news-container{padding-top:4px}
+    .time-filter{gap:8px}
+    .time-btn{
+      border:1px solid var(--border);background:rgba(255,255,255,.75);
+      border-radius:999px;padding:9px 14px;font-weight:700;color:#475467;
+      box-shadow:none
+    }
+    .time-btn.active{background:#111827;color:#fff;border-color:#111827}
+    .quote-section{
+      margin:18px 0;border:1px solid rgba(99,91,255,.12);
+      border-radius:24px;background:linear-gradient(135deg,rgba(99,91,255,.12),rgba(255,77,141,.07));
+      box-shadow:var(--shadow-sm);overflow:hidden
+    }
+    .stats-bar,.last-updated{
+      border:1px solid var(--border);border-radius:18px;background:rgba(255,255,255,.68);
+      box-shadow:var(--shadow-sm);padding:13px 16px
+    }
+    .news-grid{grid-template-columns:repeat(auto-fill,minmax(300px,1fr));gap:18px}
+    .news-card{
+      border:1px solid var(--border)!important;border-radius:var(--card-radius)!important;
+      background:rgba(255,255,255,.84)!important;box-shadow:var(--shadow-sm)!important;
+      overflow:hidden;transform:none!important;transition:transform .25s ease,box-shadow .25s ease,border-color .25s ease!important;
+      position:relative
+    }
+    .news-card:hover{transform:translateY(-5px)!important;box-shadow:0 22px 55px rgba(15,23,42,.13)!important;border-color:rgba(99,91,255,.25)!important}
+    .news-content{padding:20px!important}
+    .news-content h3{font-size:1.08rem!important;line-height:1.65!important;letter-spacing:-.015em}
+    .source-badge{background:rgba(99,91,255,.10)!important;color:#5148d8!important;border-radius:999px!important;font-weight:800}
+    .news-date-badge{background:#111827!important;border-radius:0 0 12px 0!important}
+    .action-buttons{gap:8px}
+    .share-btn,.favorite-btn{border:1px solid var(--border);background:#fff;border-radius:12px}
+    .nav-bar{
+      height:calc(var(--nav-height) + env(safe-area-inset-bottom));
+      padding-bottom:env(safe-area-inset-bottom);
+      background:rgba(255,255,255,.86);backdrop-filter:blur(24px);
+      border-top:1px solid var(--border);box-shadow:0 -12px 35px rgba(15,23,42,.08)
+    }
+    .nav-item{font-weight:700}.nav-item.active{color:var(--primary)}
+    .nav-item.active i{filter:drop-shadow(0 5px 10px rgba(99,91,255,.35))}
+    .search-box{
+      background:rgba(255,255,255,.78)!important;border:1px solid var(--border)!important;
+      box-shadow:var(--shadow-sm);height:54px
+    }
+    .source-tag{background:rgba(255,255,255,.8);border-color:var(--border);box-shadow:0 5px 16px rgba(15,23,42,.04)}
+    .load-more-btn{border-radius:999px!important;background:linear-gradient(135deg,var(--primary),var(--primary-dark))!important;box-shadow:0 12px 24px rgba(99,91,255,.22)}
+    .app-footer{background:#0b1020!important;color:rgba(255,255,255,.65)!important;border-radius:26px 26px 0 0;margin:30px 16px 0}
+    @media(max-width:600px){
+      .app-header{height:68px}.tab-container{top:68px;margin:8px 10px 0}
+      .tabs{overflow:auto}.tab{padding:10px 14px;font-size:.86rem}
+      .app-section,.ai-section{padding:16px 10px}
+      .news-grid{grid-template-columns:1fr;gap:12px}
+      .news-card{border-radius:18px!important}.news-content{padding:16px!important}
+      .stats-bar{display:grid;grid-template-columns:1fr 1fr;gap:8px}
+      .stats-bar span:last-child{grid-column:1/-1}
+      .time-filter{overflow-x:auto;flex-wrap:nowrap;padding-bottom:4px}
+      .time-btn{white-space:nowrap}
+    }
+
   </style>
 </head>
 <body>
@@ -1723,7 +1831,7 @@
         </div>
         <input type="text" class="search-box" id="source-search" placeholder="स्रोत खोज्नुहोस्...">
       </div>
-      <div class="source-cloud" id="source-cloud">
+      <div class="source-cloud" id="source-cloud"></div><div class="source-cloud" id="feed-directory" style="margin-top:14px"></div><div class="source-cloud" id="source-cloud-old" style="display:none">
         <!-- Source tags will be populated here -->
       </div>
       <div class="news-grid" id="source-results">
@@ -1928,6 +2036,7 @@
     const searchResults = document.getElementById('search-results');
     const sourceSearch = document.getElementById('source-search');
     const sourceCloud = document.getElementById('source-cloud');
+    const feedDirectory = document.getElementById('feed-directory');
     const sourceResults = document.getElementById('source-results');
     const storyContainer = document.getElementById('story-container');
     const aiSection = document.getElementById('ai-section');
@@ -2050,6 +2159,7 @@
           throw new Error(`Failed to load feeds: ${response.status}`);
         }
         feeds = await response.json();
+        buildFeedDirectory();
         fetchNews();
       } catch (error) {
         console.error('Error loading feeds:', error);
@@ -2079,6 +2189,14 @@
         hour12: false
       };
       lastUpdatedEl.textContent = now.toLocaleString('ne-NP', options);
+    }
+
+    function buildFeedDirectory() {
+      if (!feedDirectory) return;
+      feedDirectory.innerHTML = feeds.map(feed => `
+        <a class="source-tag" href="${feed.url}" target="_blank" rel="noopener noreferrer" title="Open RSS feed">
+          <i class="fas fa-rss"></i> ${escapeHTML(feed.name)}
+        </a>`).join('');
     }
 
     // Fetch news from all feeds
