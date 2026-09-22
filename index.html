@@ -1876,7 +1876,7 @@
 
   <script>
     // External RSS feed configuration URL
-    const FEEDS_URL = "https://raw.githubusercontent.com/LaxmanNepal/LaxmanNepalApps/refs/heads/main/News/feeds.json";
+    const FEEDS_URL = "./feeds.json";
 
     // Motivational quotes in Nepali (fixed with proper Unicode)
     const motivationalQuotes = [
@@ -2127,67 +2127,62 @@
       }
     }
     
-    // Fetch individual feed
+    // Fetch an individual RSS/Atom feed with resilient CORS fallbacks.
     async function fetchFeed(feed) {
-      try {
-        // Use CORS proxy to avoid access issues
-        const proxyUrl = 'https://api.allorigins.win/raw?url=';
-        const response = await fetch(proxyUrl + encodeURIComponent(feed.url));
-        
-        if (!response.ok) throw new Error(`HTTP error! status: ${response.status}`);
-        const text = await response.text();
-        const parser = new DOMParser();
-        const xml = parser.parseFromString(text, "text/xml");
-        
-        // Check for XML parsing errors
-        const parsererror = xml.querySelector('parsererror');
-        if (parsererror) {
-          throw new Error('Error parsing XML');
-        }
-        
-        const items = xml.querySelectorAll("item");
-        const feedItems = [];
-        const now = new Date();
-        const oneWeekAgo = new Date(now - 7 * 24 * 60 * 60 * 1000);
-        
-        items.forEach(item => {
-          const title = item.querySelector("title")?.textContent || "No title";
-          const link = item.querySelector("link")?.textContent || "";
-          const pubDateText = item.querySelector("pubDate")?.textContent;
-          
-          if (!pubDateText) return; // Skip items without dates
-          
-          const pubDate = new Date(pubDateText);
-          if (isNaN(pubDate.getTime())) return; // Skip invalid dates
-          
-          // Only include items from the last week
-          if (pubDate >= oneWeekAgo) {
-            // Try to extract image URL
-            let imageUrl = '';
-            const media = item.querySelector("media\\:content, content");
-            if (media && media.getAttribute('url')) {
-              imageUrl = media.getAttribute('url');
-            }
-            
-            // Decode HTML entities in title
-            const decodedTitle = decodeHTMLEntities(title);
-            
+      const targets = [
+        feed.url,
+        `https://api.allorigins.win/raw?url=${encodeURIComponent(feed.url)}`,
+        `https://corsproxy.io/?url=${encodeURIComponent(feed.url)}`
+      ];
+      let lastError = null;
+
+      for (const target of targets) {
+        try {
+          const response = await fetch(target, {
+            cache: 'no-store',
+            headers: { 'Accept': 'application/rss+xml, application/atom+xml, application/xml, text/xml, */*' }
+          });
+          if (!response.ok) throw new Error(`HTTP ${response.status}`);
+          const text = await response.text();
+          if (!text || !text.includes('<')) throw new Error('Invalid feed response');
+
+          const xml = new DOMParser().parseFromString(text, 'text/xml');
+          if (xml.querySelector('parsererror')) throw new Error('XML parse error');
+
+          const nodes = [...xml.querySelectorAll('item, entry')];
+          const now = Date.now();
+          const oneMonthAgo = now - 30 * 24 * 60 * 60 * 1000;
+          const feedItems = [];
+
+          nodes.forEach(node => {
+            const title = node.querySelector('title')?.textContent?.trim() || '';
+            const linkNode = node.querySelector('link');
+            const link = (linkNode?.getAttribute('href') || linkNode?.textContent || '').trim();
+            const dateText = node.querySelector('pubDate, published, updated, dc\\:date')?.textContent?.trim();
+            const pubDate = new Date(dateText || '');
+            if (!title || !link || Number.isNaN(pubDate.getTime()) || pubDate.getTime() < oneMonthAgo) return;
+
+            const media = node.querySelector('media\\:content, media\\:thumbnail, enclosure');
+            const image = media?.getAttribute('url') || media?.getAttribute('href') || '';
             feedItems.push({
-              title: decodedTitle,
+              title: decodeHTMLEntities(title),
               link,
               pubDate: pubDate.toISOString(),
               source: feed.name,
-              categories: feed.categories,
-              image: imageUrl || `https://picsum.photos/800/600?random=${Math.floor(Math.random() * 1000)}`
+              categories: feed.categories || [],
+              image
             });
-          }
-        });
-        
-        return feedItems;
-      } catch (error) {
-        console.error(`Error fetching feed ${feed.name}:`, error);
-        return []; // Return empty array on error
+          });
+
+          if (feedItems.length) return feedItems;
+          throw new Error('No dated articles found');
+        } catch (error) {
+          lastError = error;
+        }
       }
+
+      console.warn(`Feed unavailable: ${feed.name}`, lastError);
+      return [];
     }
     
     // Update statistics
