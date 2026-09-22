@@ -2,126 +2,353 @@
   {
     "name": "Online Khabar",
     "url": "https://www.onlinekhabar.com/feed",
-    "categories": ["politics", "business", "sports", "technology", "entertainment"]
+    "categories": [
+      "politics",
+      "business",
+      "sports",
+      "technology",
+      "entertainment"
+    ]
   },
   {
     "name": "Nagarik News",
     "url": "https://nagariknews.nagariknetwork.com/rss",
-    "categories": ["politics", "business"]
+    "categories": [
+      "politics",
+      "business"
+    ]
   },
   {
     "name": "Ratopati",
     "url": "https://ratopati.com/feed",
-    "categories": ["politics", "sports"]
+    "categories": [
+      "politics",
+      "sports"
+    ]
   },
   {
     "name": "Setopati",
     "url": "https://www.setopati.com/rss",
-    "categories": ["politics", "business", "sports"]
+    "categories": [
+      "politics",
+      "business",
+      "sports"
+    ]
   },
   {
     "name": "Gorkhapatra",
     "url": "https://gorkhapatraonline.com/rss",
-    "categories": ["politics", "business"]
+    "categories": [
+      "politics",
+      "business"
+    ]
   },
   {
     "name": "The Himalayan Times",
     "url": "https://thehimalayantimes.com/feed/",
-    "categories": ["politics", "business", "sports"]
+    "categories": [
+      "politics",
+      "business",
+      "sports"
+    ]
   },
   {
     "name": "Ekantipur",
     "url": "https://ekantipur.com/feed",
-    "categories": ["politics", "business", "sports", "technology"]
+    "categories": [
+      "politics",
+      "business",
+      "sports",
+      "technology"
+    ]
   },
   {
     "name": "BBC News नेपाली",
     "url": "http://feeds.bbci.co.uk/nepali/rss.xml",
-    "categories": ["politics", "business", "technology"]
+    "categories": [
+      "politics",
+      "business",
+      "technology"
+    ]
   },
   {
     "name": "Kantipur TV",
     "url": "https://www.kantipurtv.com/rss",
-    "categories": ["politics", "entertainment"]
+    "categories": [
+      "politics",
+      "entertainment"
+    ]
   },
   {
     "name": "Annapurna Post",
     "url": "https://www.annapurnapost.com/rss",
-    "categories": ["politics", "business"]
+    "categories": [
+      "politics",
+      "business"
+    ]
   },
   {
     "name": "Rajdhani Daily",
     "url": "https://rajdhanidaily.com/feed/",
-    "categories": ["politics", "business"]
+    "categories": [
+      "politics",
+      "business"
+    ]
   },
   {
     "name": "Ujyaalo Online",
     "url": "https://ujyaaloonline.com/rss",
-    "categories": ["politics", "sports"]
+    "categories": [
+      "politics",
+      "sports"
+    ]
   },
   {
     "name": "News24 Nepal",
     "url": "https://news24nepal.tv/feed",
-    "categories": ["politics", "business"]
+    "categories": [
+      "politics",
+      "business"
+    ]
   },
   {
     "name": "Nepal Live",
     "url": "https://nepallive.com/feed",
-    "categories": ["politics", "technology"]
+    "categories": [
+      "politics",
+      "technology"
+    ]
   },
   {
     "name": "My Republica",
     "url": "https://myrepublica.nagariknetwork.com/rss",
-    "categories": ["politics", "business"]
+    "categories": [
+      "politics",
+      "business"
+    ]
   },
   {
     "name": "Naya Patrika",
     "url": "https://nayapatrikadaily.com/feed",
-    "categories": ["politics", "entertainment"]
+    "categories": [
+      "politics",
+      "entertainment"
+    ]
   },
   {
     "name": "Lokaantar",
     "url": "https://www.lokaantar.com/feed",
-    "categories": ["politics", "business"]
+    "categories": [
+      "politics",
+      "business"
+    ]
   },
   {
     "name": "Dainik Nepal",
     "url": "https://dainiknepal.com/feed",
-    "categories": ["politics", "sports"]
+    "categories": [
+      "politics",
+      "sports"
+    ]
   },
   {
     "name": "Sajha Post",
     "url": "https://sajhapost.com/feed",
-    "categories": ["politics", "technology"]
+    "categories": [
+      "politics",
+      "technology"
+    ]
   },
   {
     "name": "Nepal Samaya",
     "url": "https://nepalsamaya.com/feed",
-    "categories": ["politics", "entertainment"]
+    "categories": [
+      "politics",
+      "entertainment"
+    ]
   },
   {
     "name": "Pahilo Post",
     "url": "https://pahilopost.com/feed",
-    "categories": ["politics", "sports"]
+    "categories": [
+      "politics",
+      "sports"
+    ]
   },
   {
     "name": "Nepal Headlines",
     "url": "https://nepalheadlines.com/feed",
-    "categories": ["politics", "business"]
+    "categories": [
+      "politics",
+      "business"
+    ]
   },
   {
     "name": "Nepal Press",
     "url": "https://nepalpress.com/feed",
-    "categories": ["politics", "technology"]
+    "categories": [
+      "politics",
+      "technology"
+    ]
   },
   {
     "name": "Himal Khabar",
     "url": "https://himalKhabar.com/feed",
-    "categories": ["politics", "business"]
+    "categories": [
+      "politics",
+      "business"
+    ]
   },
   {
     "name": "Nepal Times",
     "url": "https://nepaltimes.com/feed",
-    "categories": ["politics", "entertainment"]
+    "categories": [
+      "politics",
+      "entertainment"
+    ]
+  },
+  {
+    "name": "Bizmandu",
+    "url": "https://bizmandu.com/feed",
+    "categories": [
+      "business",
+      "technology"
+    ]
+  },
+  {
+    "name": "Artha Sarokar",
+    "url": "https://arthasarokar.com/feed",
+    "categories": [
+      "business",
+      "technology"
+    ]
+  },
+  {
+    "name": "Himal Press",
+    "url": "https://himalpress.com/feed/",
+    "categories": [
+      "politics",
+      "business",
+      "society"
+    ]
+  },
+  {
+    "name": "Thaha Khabar",
+    "url": "https://www.thahakhabar.com/feed",
+    "categories": [
+      "politics",
+      "business",
+      "sports"
+    ]
+  },
+  {
+    "name": "Baahrakhari",
+    "url": "https://baahrakhari.com/feed",
+    "categories": [
+      "politics",
+      "business",
+      "society"
+    ]
+  },
+  {
+    "name": "News of Nepal",
+    "url": "https://newsofnepal.com/feed/",
+    "categories": [
+      "politics",
+      "business",
+      "sports"
+    ]
+  },
+  {
+    "name": "Nepal News",
+    "url": "https://nepalnews.com/feed",
+    "categories": [
+      "politics",
+      "business",
+      "world"
+    ]
+  },
+  {
+    "name": "Nepal Views",
+    "url": "https://www.nepalviews.com/feed/",
+    "categories": [
+      "politics",
+      "business",
+      "technology"
+    ]
+  },
+  {
+    "name": "Khabarhub",
+    "url": "https://english.khabarhub.com/feed/",
+    "categories": [
+      "politics",
+      "business",
+      "world"
+    ]
+  },
+  {
+    "name": "The Annapurna Express",
+    "url": "https://theannapurnaexpress.com/feed/",
+    "categories": [
+      "politics",
+      "business",
+      "sports"
+    ]
+  },
+  {
+    "name": "The Rising Nepal",
+    "url": "https://risingnepaldaily.com/rss",
+    "categories": [
+      "politics",
+      "business",
+      "world",
+      "sports"
+    ]
+  },
+  {
+    "name": "Onlinekhabar English",
+    "url": "https://english.onlinekhabar.com/feed",
+    "categories": [
+      "politics",
+      "business",
+      "sports",
+      "technology"
+    ]
+  },
+  {
+    "name": "Setopati English",
+    "url": "https://en.setopati.com/feed",
+    "categories": [
+      "politics",
+      "business",
+      "sports"
+    ]
+  },
+  {
+    "name": "Ratopati English",
+    "url": "https://english.ratopati.com/rss/",
+    "categories": [
+      "politics",
+      "business",
+      "sports"
+    ]
+  },
+  {
+    "name": "Lokaantar English",
+    "url": "http://english.lokaantar.com/feed/",
+    "categories": [
+      "politics",
+      "business"
+    ]
+  },
+  {
+    "name": "Nepali Times",
+    "url": "https://www.nepalitimes.com/feed/",
+    "categories": [
+      "politics",
+      "business",
+      "society",
+      "technology"
+    ]
   }
 ]
