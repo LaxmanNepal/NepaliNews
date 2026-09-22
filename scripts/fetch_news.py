@@ -22,8 +22,9 @@ NEWS_OUT = DATA / "news.json"
 HEALTH_OUT = DATA / "feed-health.json"
 MAX_ITEMS_PER_FEED = 40
 MAX_TOTAL_ITEMS = 600
+MAX_IMAGES_PER_ITEM = 8
 TIMEOUT = 18
-UA = "NepaliNewsBot/2.0 (+https://github.com/LaxmanNepal/NepaliNews)"
+UA = "NepaliNewsBot/2.1 (+https://github.com/LaxmanNepal/NepaliNews)"
 
 NS = {
     "content": "http://purl.org/rss/1.0/modules/content/",
@@ -75,30 +76,42 @@ def first_link(node: ET.Element) -> str:
             return link.text.strip()
     for link in node.findall("{http://www.w3.org/2005/Atom}link"):
         href = link.attrib.get("href")
-        if href:
+        if href and link.attrib.get("rel", "alternate") in ("alternate", ""):
             return href.strip()
     return ""
 
-def first_image(node: ET.Element, link: str) -> str:
-    for path in [
-        "media:content", "media:thumbnail", "enclosure",
-        "image", "content:encoded"
-    ]:
-        found = node.find(path, NS)
-        if found is not None:
-            url = found.attrib.get("url") or found.attrib.get("href")
-            if url:
-                return urljoin(link, url.strip())
-            if found.text and path == "content:encoded":
-                m = re.search(r'<img[^>]+src=["\']([^"\']+)', found.text, re.I)
-                if m:
-                    return urljoin(link, html.unescape(m.group(1)))
+def image_urls(node: ET.Element, link: str, encoded_html: str = "") -> list[str]:
+    candidates = []
+
     for elem in node.iter():
-        if elem.tag.endswith("}content") or elem.tag.endswith("}thumbnail"):
-            url = elem.attrib.get("url")
-            if url:
-                return urljoin(link, url.strip())
-    return ""
+        tag = elem.tag.rsplit("}", 1)[-1].lower()
+        if tag in {"content", "thumbnail", "enclosure", "image"}:
+            url = elem.attrib.get("url") or elem.attrib.get("href")
+            media_type = (elem.attrib.get("type") or "").lower()
+            if url and (not media_type or media_type.startswith("image/") or tag in {"content", "thumbnail", "image"}):
+                candidates.append(url)
+
+    for match in re.findall(r"<img\b[^>]*?\bsrc\s*=\s*[\"']([^\"']+)", encoded_html or "", re.I):
+        candidates.append(html.unescape(match))
+
+    # Some feeds expose lazy-loaded images instead of src.
+    for match in re.findall(r"\b(?:data-src|data-original|data-lazy-src)\s*=\s*[\"']([^\"']+)", encoded_html or "", re.I):
+        candidates.append(html.unescape(match))
+
+    result = []
+    seen = set()
+    for candidate in candidates:
+        candidate = candidate.strip()
+        if not candidate or candidate.startswith("data:"):
+            continue
+        absolute = urljoin(link, candidate)
+        if absolute in seen:
+            continue
+        seen.add(absolute)
+        result.append(absolute)
+        if len(result) >= MAX_IMAGES_PER_ITEM:
+            break
+    return result
 
 def parse_feed(feed, raw):
     root = ET.fromstring(raw)
@@ -111,9 +124,12 @@ def parse_feed(feed, raw):
         pub_date = parse_date(date_raw)
         if not title or not link or not pub_date:
             continue
+
+        encoded = text(node, ["content:encoded"])
         description = strip_html(text(node, ["description", "content:encoded", "summary", "atom:summary"]))[:500]
-        image = first_image(node, link)
+        images = image_urls(node, link, encoded)
         digest = hashlib.sha1(link.encode("utf-8")).hexdigest()[:16]
+
         items.append({
             "id": digest,
             "title": title,
@@ -122,14 +138,21 @@ def parse_feed(feed, raw):
             "sourceUrl": feed["url"],
             "pubDate": pub_date,
             "categories": feed.get("categories", []),
-            "image": image,
+            "image": images[0] if images else "",
+            "images": images,
             "description": description,
         })
     return items
 
 def fetch(feed):
     started = time.perf_counter()
-    req = Request(feed["url"], headers={"User-Agent": UA, "Accept": "application/rss+xml, application/atom+xml, application/xml, text/xml, */*"})
+    req = Request(
+        feed["url"],
+        headers={
+            "User-Agent": UA,
+            "Accept": "application/rss+xml, application/atom+xml, application/xml, text/xml, */*",
+        },
+    )
     with urlopen(req, timeout=TIMEOUT) as response:
         raw = response.read()
     items = parse_feed(feed, raw)
@@ -158,12 +181,20 @@ def main():
                 "error": str(exc)[:240]
             })
 
-    # Keep the live dataset focused on the latest 30 days.\n    cutoff = datetime.now(timezone.utc) - timedelta(days=30)\n    all_items = [x for x in all_items if datetime.fromisoformat(x["pubDate"].replace("Z","+00:00")) >= cutoff]\n\n    # Deduplicate by canonical URL first, then normalized title.
+    # Keep the live dataset focused on the latest 30 days.
+    cutoff = datetime.now(timezone.utc) - timedelta(days=30)
+    all_items = [
+        x for x in all_items
+        if datetime.fromisoformat(x["pubDate"].replace("Z", "+00:00")) >= cutoff
+    ]
+
+    # Deduplicate by canonical URL first, then normalized title.
     unique = {}
     for item in all_items:
         key = item["link"].split("#")[0].rstrip("/")
         if key not in unique:
             unique[key] = item
+
     title_seen = set()
     deduped = []
     for item in sorted(unique.values(), key=lambda x: x["pubDate"], reverse=True):
