@@ -6,7 +6,15 @@ async function get(path){try{const r=await fetch(path,{cache:"no-store"});return
 
 function uniqueImages(items){
  const seen=new Set();
- return (items||[]).map(x=>x.image).filter(Boolean).filter(url=>{if(seen.has(url))return false;seen.add(url);return true}).slice(0,8);
+ const urls=[];
+ (items||[]).forEach(x=>{
+  const candidates=Array.isArray(x.images)?x.images:(x.image?[x.image]:[]);
+  candidates.forEach(url=>{if(url&&!seen.has(url)){seen.add(url);urls.push(url)}});
+ });
+ return urls.slice(0,12);
+}
+function imageFallback(img){
+ img.addEventListener("error",()=>{img.closest("figure,.story-image-grid")?.classList.add("image-unavailable");img.style.display="none"},{once:true});
 }
 function relatedStories(all,current){
  const cats=new Set(current.categories||[]);
@@ -46,7 +54,7 @@ async function run(){
  '<div class="story-layout"><div>'+
  '<section class="story-summary-block"><div class="section-label">QUICK BRIEF</div><p class="story-summary">'+esc(s.summary||"A short summary is not available in the publisher feed.")+'</p></section>'+
  '<section class="story-facts"><div class="section-label">AT A GLANCE</div><div class="fact-grid">'+facts.map(f=>'<div><small>'+esc(f[0])+'</small><b>'+esc(f[1])+'</b></div>').join("")+'</div></section>'+
- (images.length>1?'<section class="story-gallery"><div class="section-label">COVERAGE IMAGES</div><div class="story-image-grid">'+images.map((url,i)=>'<img src="'+esc(url)+'" alt="News image '+(i+1)+'" loading="lazy" referrerpolicy="no-referrer">').join("")+'</div></section>':'')+
+ (images.length>1?'<section class="story-gallery"><div class="section-label">COVERAGE IMAGES · '+images.length+'</div><div class="story-image-grid">'+images.map((url,i)=>'<img src="'+esc(url)+'" alt="News image '+(i+1)+'" loading="lazy" referrerpolicy="no-referrer">').join("")+'</div></section>':'')+
  '<section class="story-timeline"><div class="section-label">COVERAGE TIMELINE</div><div class="timeline">'+items.slice().sort((a,b)=>new Date(a.pubDate)-new Date(b.pubDate)).slice(0,12).map(x=>'<div class="timeline-item"><span class="timeline-dot"></span><div><b>'+esc(x.source)+'</b><small>'+esc(fmt(x.pubDate))+'</small></div></div>').join("")+'</div></section>'+
  '<p class="story-note">This is a short news brief assembled from publisher feed metadata. NepaliNews does not reproduce the full article. For the complete report, use the publisher link in the coverage panel.</p>'+
  '</div><aside><b>Coverage</b><div class="source-list">'+items.slice(0,12).map(x=>'<div class="source-row"><span>'+esc(x.source)+'</span><small>'+esc(ago(x.pubDate))+'</small><a href="'+esc(x.link||"#")+'" target="_blank" rel="noopener noreferrer">Publisher ↗</a></div>').join("")+'</div></aside></div>'+
