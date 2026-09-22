@@ -2,7 +2,7 @@
 <html lang="ne">
 <head>
   <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">\n  <meta name="theme-color" content="#4361ee">\n  <meta name="description" content="नेपालका विभिन्न समाचार स्रोतहरू एकै ठाउँमा — छिटो, मोबाइलमैत्री र PWA समर्थनसहित।">\n  <link rel="manifest" href="./manifest.json">
   <title>नेपाली समाचार संग्रह - सबै स्रोतहरू</title>
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
   <style>
@@ -1959,6 +1959,13 @@
     let currentUtterance = null;
     let speechProgress = {};
     
+    // Escape untrusted RSS text before inserting it into HTML.
+    function escapeHTML(text) {
+      return String(text ?? '').replace(/[&<>"']/g, char => ({
+        '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#039;'
+      }[char]));
+    }
+
     // Function to decode HTML entities
     function decodeHTMLEntities(text) {
       if (!text) return '';
@@ -2279,8 +2286,8 @@
         newsCard.innerHTML = `
           <div class="news-date-badge">${daysAgoText}</div>
           <div class="news-content">
-            <div class="source-badge">${item.source}</div>
-            <h3>${item.title}</h3>
+            <div class="source-badge">${escapeHTML(item.source)}</div>
+            <h3>${escapeHTML(item.title)}</h3>
             <div class="news-actions">
               <div class="meta-info">
                 <span><i class="far fa-clock"></i> ${dateString}</span>
@@ -2486,8 +2493,8 @@
         
         html += `
           <div class="favorite-item" data-index="${index}">
-            <div class="favorite-source">${item.source}</div>
-            <div class="favorite-title">${item.title}</div>
+            <div class="favorite-source">${escapeHTML(item.source)}</div>
+            <div class="favorite-title">${escapeHTML(item.title)}</div>
             <div class="favorite-date"><i class="far fa-clock"></i> ${dateString}</div>
             <div class="favorite-actions">
               <button class="remove-favorite" data-index="${index}">
@@ -2669,8 +2676,8 @@
         newsCard.innerHTML = `
           <div class="news-date-badge">${daysAgoText}</div>
           <div class="news-content">
-            <div class="source-badge">${item.source}</div>
-            <h3>${item.title}</h3>
+            <div class="source-badge">${escapeHTML(item.source)}</div>
+            <h3>${escapeHTML(item.title)}</h3>
             <div class="news-actions">
               <div class="meta-info">
                 <span><i class="far fa-clock"></i> ${dateString}</span>
@@ -2737,8 +2744,8 @@
         storyCard.innerHTML = `
           <div class="story-overlay"></div>
           <div class="story-content">
-            <div class="story-source">${item.source}</div>
-            <div class="story-title">${item.title}</div>
+            <div class="story-source">${escapeHTML(item.source)}</div>
+            <div class="story-title">${escapeHTML(item.title)}</div>
             <div class="story-meta">
               <span><i class="far fa-clock"></i> ${dateString}</span>
             </div>
@@ -2856,10 +2863,10 @@
         newsCard.innerHTML = `
           <div class="ai-news-content">
             <div class="ai-news-header">
-              <div class="ai-source-badge">${item.source}</div>
+              <div class="ai-source-badge">${escapeHTML(item.source)}</div>
               <div class="ai-news-date">${hoursAgoText}</div>
             </div>
-            <div class="ai-news-title">${item.title}</div>
+            <div class="ai-news-title">${escapeHTML(item.title)}</div>
             <div class="ai-news-player">
               <div class="ai-play-btn" data-index="${index}">
                 <i class="fas fa-play"></i>
@@ -2900,7 +2907,7 @@
       
       // Create the utterance
       const utterance = new SpeechSynthesisUtterance();
-      utterance.text = `"${item.source}" बाट समाचार: ${item.title}`;
+      utterance.text = `"${escapeHTML(item.source)}" बाट समाचार: ${escapeHTML(item.title)}`;
       utterance.voice = currentVoice;
       utterance.rate = 0.9; // Slightly slower rate
       utterance.pitch = 1.1; // Slightly higher pitch
@@ -2946,7 +2953,7 @@
       };
       
       // Update status
-      aiStatus.textContent = `समाचार सुनाईदै: ${item.source}`;
+      aiStatus.textContent = `समाचार सुनाईदै: ${escapeHTML(item.source)}`;
       
       // Speak the utterance
       synth.speak(utterance);
@@ -3208,6 +3215,10 @@
     window.openNewsViewer = openNewsViewer;
     window.toggleFavorite = toggleFavorite;
     window.switchSection = switchSection;
+  // Register the service worker for offline shell support.
+    if ('serviceWorker' in navigator) {
+      window.addEventListener('load', () => navigator.serviceWorker.register('./sw.js').catch(console.warn));
+    }
   </script>
 </body>
 </html>
