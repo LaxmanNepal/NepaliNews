@@ -2149,18 +2149,37 @@
       }, 2500);
     }
 
-    // Load feeds from external JSON
+    // Load feed configuration, then prefer the GitHub-generated live dataset.
     async function loadFeeds() {
       showLoading();
-      
       try {
-        const response = await fetch(FEEDS_URL);
-        if (!response.ok) {
-          throw new Error(`Failed to load feeds: ${response.status}`);
-        }
+        const response = await fetch(FEEDS_URL, { cache: 'no-store' });
+        if (!response.ok) throw new Error(`Failed to load feeds: ${response.status}`);
         feeds = await response.json();
         buildFeedDirectory();
-        fetchNews();
+
+        const liveResponse = await fetch('./data/news.json', { cache: 'no-store' });
+        if (liveResponse.ok) {
+          const live = await liveResponse.json();
+          if (Array.isArray(live.items) && live.items.length) {
+            allNewsItems = live.items;
+            uniqueSources = new Set(live.items.map(item => item.source).filter(Boolean));
+            updateStats();
+            lastUpdatedEl.textContent = live.generatedAt
+              ? new Date(live.generatedAt).toLocaleString('ne-NP', {
+                  year: 'numeric', month: 'short', day: 'numeric',
+                  hour: '2-digit', minute: '2-digit', hour12: false
+                })
+              : 'भर्खरै';
+            displayNews();
+            buildSourceCloud();
+            initAINewsReader();
+            return;
+          }
+        }
+
+        // Fallback: fetch RSS directly when generated data is unavailable.
+        await fetchNews();
       } catch (error) {
         console.error('Error loading feeds:', error);
         showError("त्रुटि: फिडहरू लोड गर्न सकेन");
