@@ -10,9 +10,9 @@ async function load(){
  const grid=$("#storyGrid");
  grid.innerHTML=stories.slice(0,9).map(x=>{
    const item=x.items?.[0]||{};
-   const link=item.link||"#";
+   const link="./story.html?id="+encodeURIComponent(x.id||"");
    const chips=(x.sources||[]).slice(0,4).map(s=>"<span>"+esc(s)+"</span>").join("");
-   return '<article class="story"><div class="meta">'+esc(ago(x.updatedAt||x.publishedAt))+' · '+esc(x.sourceCount||1)+' source'+(x.sourceCount===1?"":"s")+' · '+esc(x.languageCount||1)+' language'+(x.languageCount===1?"":"s")+'</div><h3>'+esc(x.title)+'</h3><p>'+esc(x.summary||"Read the original publisher coverage for the full story.")+'</p><div class="source"><span>'+chips+'</span><a href="'+esc(link)+'" target="_blank" rel="noopener">Read original →</a></div></article>'
+   return '<article class="story"><div class="meta">'+esc(ago(x.updatedAt||x.publishedAt))+' · '+esc(x.sourceCount||1)+' source'+(x.sourceCount===1?"":"s")+' · '+esc(x.languageCount||1)+' language'+(x.languageCount===1?"":"s")+'</div><h3>'+esc(x.title)+'</h3><p>'+esc(x.summary||"Read the original publisher coverage for the full story.")+'</p><div class="source"><span>'+chips+'</span><a href="'+esc(link)+'" >Read story →</a></div></article>'
  }).join("")||'<article class="story"><h3>No live stories yet</h3><p>Publisher feeds are being synchronized.</p></article>';
  $("#storyCount").textContent=(storyData?.storyCount||stories.length)+"+";
  $("#sourceCount").textContent=sourceData?.count||new Set((newsData?.items||[]).map(x=>x.source).filter(Boolean)).size||"—";
