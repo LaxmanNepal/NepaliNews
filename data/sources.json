@@ -1,1 +1,482 @@
-{"description":"Configured publisher sources for NepaliNews. Original links remain the publisher's property.","sources":[]}
+{
+  "description": "Configured publisher sources for NepaliNews. Original links remain the publisher's property.",
+  "generatedAt": "2026-09-23T01:42:05.513197+00:00",
+  "count": 41,
+  "sources": [
+    {
+      "id": "source-001",
+      "name": "Online Khabar",
+      "feed": "https://www.onlinekhabar.com/feed",
+      "language": "Nepali",
+      "categories": [
+        "politics",
+        "business",
+        "sports",
+        "technology",
+        "entertainment"
+      ],
+      "active": true
+    },
+    {
+      "id": "source-002",
+      "name": "Nagarik News",
+      "feed": "https://nagariknews.nagariknetwork.com/rss",
+      "language": "Nepali",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "active": true
+    },
+    {
+      "id": "source-003",
+      "name": "Ratopati",
+      "feed": "https://ratopati.com/feed",
+      "language": "Nepali",
+      "categories": [
+        "politics",
+        "sports"
+      ],
+      "active": true
+    },
+    {
+      "id": "source-004",
+      "name": "Setopati",
+      "feed": "https://www.setopati.com/rss",
+      "language": "Nepali",
+      "categories": [
+        "politics",
+        "business",
+        "sports"
+      ],
+      "active": true
+    },
+    {
+      "id": "source-005",
+      "name": "Gorkhapatra",
+      "feed": "https://gorkhapatraonline.com/rss",
+      "language": "Nepali",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "active": true
+    },
+    {
+      "id": "source-006",
+      "name": "The Himalayan Times",
+      "feed": "https://thehimalayantimes.com/feed/",
+      "language": "English",
+      "categories": [
+        "politics",
+        "business",
+        "sports"
+      ],
+      "active": true
+    },
+    {
+      "id": "source-007",
+      "name": "Ekantipur",
+      "feed": "https://ekantipur.com/feed",
+      "language": "Nepali",
+      "categories": [
+        "politics",
+        "business",
+        "sports",
+        "technology"
+      ],
+      "active": true
+    },
+    {
+      "id": "source-008",
+      "name": "BBC News नेपाली",
+      "feed": "http://feeds.bbci.co.uk/nepali/rss.xml",
+      "language": "Nepali",
+      "categories": [
+        "politics",
+        "business",
+        "technology"
+      ],
+      "active": true
+    },
+    {
+      "id": "source-009",
+      "name": "Kantipur TV",
+      "feed": "https://www.kantipurtv.com/rss",
+      "language": "Nepali",
+      "categories": [
+        "politics",
+        "entertainment"
+      ],
+      "active": true
+    },
+    {
+      "id": "source-010",
+      "name": "Annapurna Post",
+      "feed": "https://www.annapurnapost.com/rss",
+      "language": "Nepali",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "active": true
+    },
+    {
+      "id": "source-011",
+      "name": "Rajdhani Daily",
+      "feed": "https://rajdhanidaily.com/feed/",
+      "language": "Nepali",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "active": true
+    },
+    {
+      "id": "source-012",
+      "name": "Ujyaalo Online",
+      "feed": "https://ujyaaloonline.com/rss",
+      "language": "Nepali",
+      "categories": [
+        "politics",
+        "sports"
+      ],
+      "active": true
+    },
+    {
+      "id": "source-013",
+      "name": "News24 Nepal",
+      "feed": "https://news24nepal.tv/feed",
+      "language": "Nepali",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "active": true
+    },
+    {
+      "id": "source-014",
+      "name": "Nepal Live",
+      "feed": "https://nepallive.com/feed",
+      "language": "Nepali",
+      "categories": [
+        "politics",
+        "technology"
+      ],
+      "active": true
+    },
+    {
+      "id": "source-015",
+      "name": "My Republica",
+      "feed": "https://myrepublica.nagariknetwork.com/rss",
+      "language": "Nepali",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "active": true
+    },
+    {
+      "id": "source-016",
+      "name": "Naya Patrika",
+      "feed": "https://nayapatrikadaily.com/feed",
+      "language": "Nepali",
+      "categories": [
+        "politics",
+        "entertainment"
+      ],
+      "active": true
+    },
+    {
+      "id": "source-017",
+      "name": "Lokaantar",
+      "feed": "https://www.lokaantar.com/feed",
+      "language": "Nepali",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "active": true
+    },
+    {
+      "id": "source-018",
+      "name": "Dainik Nepal",
+      "feed": "https://dainiknepal.com/feed",
+      "language": "Nepali",
+      "categories": [
+        "politics",
+        "sports"
+      ],
+      "active": true
+    },
+    {
+      "id": "source-019",
+      "name": "Sajha Post",
+      "feed": "https://sajhapost.com/feed",
+      "language": "Nepali",
+      "categories": [
+        "politics",
+        "technology"
+      ],
+      "active": true
+    },
+    {
+      "id": "source-020",
+      "name": "Nepal Samaya",
+      "feed": "https://nepalsamaya.com/feed",
+      "language": "Nepali",
+      "categories": [
+        "politics",
+        "entertainment"
+      ],
+      "active": true
+    },
+    {
+      "id": "source-021",
+      "name": "Pahilo Post",
+      "feed": "https://pahilopost.com/feed",
+      "language": "Nepali",
+      "categories": [
+        "politics",
+        "sports"
+      ],
+      "active": true
+    },
+    {
+      "id": "source-022",
+      "name": "Nepal Headlines",
+      "feed": "https://nepalheadlines.com/feed",
+      "language": "Nepali",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "active": true
+    },
+    {
+      "id": "source-023",
+      "name": "Nepal Press",
+      "feed": "https://nepalpress.com/feed",
+      "language": "Nepali",
+      "categories": [
+        "politics",
+        "technology"
+      ],
+      "active": true
+    },
+    {
+      "id": "source-024",
+      "name": "Himal Khabar",
+      "feed": "https://himalKhabar.com/feed",
+      "language": "Nepali",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "active": true
+    },
+    {
+      "id": "source-025",
+      "name": "Nepal Times",
+      "feed": "https://nepaltimes.com/feed",
+      "language": "Nepali",
+      "categories": [
+        "politics",
+        "entertainment"
+      ],
+      "active": true
+    },
+    {
+      "id": "source-026",
+      "name": "Bizmandu",
+      "feed": "https://bizmandu.com/feed",
+      "language": "Nepali",
+      "categories": [
+        "business",
+        "technology"
+      ],
+      "active": true
+    },
+    {
+      "id": "source-027",
+      "name": "Artha Sarokar",
+      "feed": "https://arthasarokar.com/feed",
+      "language": "Nepali",
+      "categories": [
+        "business",
+        "technology"
+      ],
+      "active": true
+    },
+    {
+      "id": "source-028",
+      "name": "Himal Press",
+      "feed": "https://himalpress.com/feed/",
+      "language": "Nepali",
+      "categories": [
+        "politics",
+        "business",
+        "society"
+      ],
+      "active": true
+    },
+    {
+      "id": "source-029",
+      "name": "Thaha Khabar",
+      "feed": "https://www.thahakhabar.com/feed",
+      "language": "Nepali",
+      "categories": [
+        "politics",
+        "business",
+        "sports"
+      ],
+      "active": true
+    },
+    {
+      "id": "source-030",
+      "name": "Baahrakhari",
+      "feed": "https://baahrakhari.com/feed",
+      "language": "Nepali",
+      "categories": [
+        "politics",
+        "business",
+        "society"
+      ],
+      "active": true
+    },
+    {
+      "id": "source-031",
+      "name": "News of Nepal",
+      "feed": "https://newsofnepal.com/feed/",
+      "language": "Nepali",
+      "categories": [
+        "politics",
+        "business",
+        "sports"
+      ],
+      "active": true
+    },
+    {
+      "id": "source-032",
+      "name": "Nepal News",
+      "feed": "https://nepalnews.com/feed",
+      "language": "English",
+      "categories": [
+        "politics",
+        "business",
+        "world"
+      ],
+      "active": true
+    },
+    {
+      "id": "source-033",
+      "name": "Nepal Views",
+      "feed": "https://www.nepalviews.com/feed/",
+      "language": "English",
+      "categories": [
+        "politics",
+        "business",
+        "technology"
+      ],
+      "active": true
+    },
+    {
+      "id": "source-034",
+      "name": "Khabarhub",
+      "feed": "https://english.khabarhub.com/feed/",
+      "language": "English",
+      "categories": [
+        "politics",
+        "business",
+        "world"
+      ],
+      "active": true
+    },
+    {
+      "id": "source-035",
+      "name": "The Annapurna Express",
+      "feed": "https://theannapurnaexpress.com/feed/",
+      "language": "English",
+      "categories": [
+        "politics",
+        "business",
+        "sports"
+      ],
+      "active": true
+    },
+    {
+      "id": "source-036",
+      "name": "The Rising Nepal",
+      "feed": "https://risingnepaldaily.com/rss",
+      "language": "English",
+      "categories": [
+        "politics",
+        "business",
+        "world",
+        "sports"
+      ],
+      "active": true
+    },
+    {
+      "id": "source-037",
+      "name": "Onlinekhabar English",
+      "feed": "https://english.onlinekhabar.com/feed",
+      "language": "English",
+      "categories": [
+        "politics",
+        "business",
+        "sports",
+        "technology"
+      ],
+      "active": true
+    },
+    {
+      "id": "source-038",
+      "name": "Setopati English",
+      "feed": "https://en.setopati.com/feed",
+      "language": "English",
+      "categories": [
+        "politics",
+        "business",
+        "sports"
+      ],
+      "active": true
+    },
+    {
+      "id": "source-039",
+      "name": "Ratopati English",
+      "feed": "https://english.ratopati.com/rss/",
+      "language": "English",
+      "categories": [
+        "politics",
+        "business",
+        "sports"
+      ],
+      "active": true
+    },
+    {
+      "id": "source-040",
+      "name": "Lokaantar English",
+      "feed": "http://english.lokaantar.com/feed/",
+      "language": "English",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "active": true
+    },
+    {
+      "id": "source-041",
+      "name": "Nepali Times",
+      "feed": "https://www.nepalitimes.com/feed/",
+      "language": "English",
+      "categories": [
+        "politics",
+        "business",
+        "society",
+        "technology"
+      ],
+      "active": true
+    }
+  ]
+}
