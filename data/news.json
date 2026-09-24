@@ -1,10 +1,773 @@
 {
-  "generatedAt": "2026-09-23T22:33:56.726444+00:00",
+  "generatedAt": "2026-09-24T00:53:13.615488+00:00",
   "feedCount": 41,
   "healthyFeeds": 25,
   "failedFeeds": 16,
-  "itemCount": 336,
+  "itemCount": 338,
   "items": [
+    {
+      "id": "075e0fde611c2629",
+      "title": "बदलिँदो जलवायु, बदलिँदो नेपाल : जलवायु परिवर्तनले कसरी गर्नेछ अर्थतन्त्र, समाज र राज्यलाई रूपान्तरण",
+      "link": "https://bizmandu.com/content/20260921142902.html",
+      "source": "Bizmandu",
+      "sourceUrl": "https://bizmandu.com/feed",
+      "pubDate": "2026-09-24T00:52:54+00:00",
+      "categories": [
+        "business",
+        "technology"
+      ],
+      "image": "https://bizmandu.com/wp-content/uploads/2024/06/Ropai_khokana_Prabin-Ranabhat_Bizmandu15-1024x683.jpg",
+      "images": [
+        "https://bizmandu.com/wp-content/uploads/2024/06/Ropai_khokana_Prabin-Ranabhat_Bizmandu15-1024x683.jpg",
+        "https://bizmandu.com/wp-content/uploads/2025/08/Hydro-Badhi-flood-1024x640.jpg",
+        "https://bizmandu.com/wp-content/uploads/2023/11/barpak.jpg",
+        "https://bizmandu.com/wp-content/uploads/2026/08/Betrawati-Trisuli-flood_prabin_21-1024x683.jpg",
+        "https://bizmandu.com/wp-content/uploads/2026/08/Trishuli_3A_rescue-operation-01.jpg",
+        "https://bizmandu.com/wp-content/uploads/2026/09/Krishnabhir-road-7-1024x683.jpg",
+        "https://bizmandu.com/wp-content/uploads/2026/09/Hydro-flood-1024x478.jpg",
+        "https://bizmandu.com/wp-content/uploads/2026/09/Cabinet-Baithak-bhadra-18-1024x662.jpg"
+      ],
+      "description": "नेपालमा जलवायु परिवर्तनलाई अझै पनि हिमालको हिउँ पग्लिनु, असामान्य वर्षा हुनु वा कहिलेकाहीँ ठूलो बाढी आउनुसँग मात्र जोडेर बुझ्ने प्रवृत्ति छ। तर सन् २०३० देखि २०५० सम्म यसको प्रभाव मौसममा मात्र सीमित रहनेछैन। यसले नेपालको आर्थिक वृद्धिको गति, कृषि उत्पादन, विद्युत् सुरक्षा, खाद्य मूल्य, जनस्वास्थ्य, बसाइसराइ, बैंकिङ प्रणाली, सार्वजनिक वित्त र नागरिक-राज्य सम्बन्धलाई क्रमशः परिवर्तन […] The post बदलिँदो जलवायु, बदलिँदो नेपाल : जलवायु परिवर्तनले कसरी गर्नेछ अर्थतन्त्र, समाज र राज्यलाई रूपान्तरण app"
+    },
+    {
+      "id": "a78f4613188e9528",
+      "title": "दुवै सदनको बैठक बस्दै, प्रतिनिधिसभामा ‘निःशुल्क कानुनी सहायतासम्बन्धी विधेयक’ पेस हुँदै",
+      "link": "https://himalpress.com/2026/09/both-houses-of-parliament-are-meeting-and-the-free-legal-aid-bill-is-being-presented-in-the-house-of-representatives/",
+      "source": "Himal Press",
+      "sourceUrl": "https://himalpress.com/feed/",
+      "pubDate": "2026-09-24T00:51:07+00:00",
+      "categories": [
+        "politics",
+        "business",
+        "society"
+      ],
+      "image": "",
+      "images": [],
+      "description": "काठमाडौँ- प्रतिनिधिसभा र राष्ट्रियसभा दुवै सदनको बैठक आज बस्दै छ । सिंहदरबारमा बिहान ११ः०० बजे बस्ने प्रतिनिधिसभाको बैठकमा दुई वटा नयाँ विधेयकसम्बन्धी कार्यसूची तय गरिएको छ । बैठकमा कानुन, न्याय तथा संसदीय मामिलामन्त्री सोविता गौतमले ‘निःशुल्क कानुनी सहायतासम्बन्धी विधेयक, २०८३’ प्रस्तुत गर्ने सम्भावित कार्यसूची रहेको छ । यस्तै, बैठकमा पूर्वाधार विकासमन्त्री सुनिल लम्सालले ‘फोहोरमैला व्यवस्थापन […]"
+    },
+    {
+      "id": "c95598010de4ee0f",
+      "title": "कास्की क्षेत्रमा भारी वर्षा, शतर्क रहन अनुरोध",
+      "link": "https://himalpress.com/2026/09/heavy-rain-in-kaski-region-request-to-remain-alert/",
+      "source": "Himal Press",
+      "sourceUrl": "https://himalpress.com/feed/",
+      "pubDate": "2026-09-24T00:48:21+00:00",
+      "categories": [
+        "politics",
+        "business",
+        "society"
+      ],
+      "image": "",
+      "images": [],
+      "description": "काठमाडौँ- कास्की जिल्लाको लामापाटनमा सबैभन्दा धेरै ६५ मिलिमिटर भारी वर्षा मापन गरिएको छ । राति ११ः४० बजेसम्मको विवरण अनुसार हाल देशका विभिन्न भागमा मध्यम वर्षा जारी रहेको छ । जसअनुसार कोशी र गण्डकी प्रदेशका केही स्थानहरूमा तथा बागमती, लुम्बिनी र मधेस प्रदेशका थोरै स्थानहरूमा मध्यम वर्षा भइरहेको छ । त्यसैगरी, कर्णाली र सुदूरपश्चिम प्रदेशका एक–दुई […]"
+    },
+    {
+      "id": "348f2781d53bb9cf",
+      "title": "FNCSI proposes for 'MSME Development Decade'",
+      "link": "https://risingnepaldaily.com/news/86941",
+      "source": "The Rising Nepal",
+      "sourceUrl": "https://risingnepaldaily.com/rss",
+      "pubDate": "2026-09-24T00:47:58+00:00",
+      "categories": [
+        "politics",
+        "business",
+        "world",
+        "sports"
+      ],
+      "image": "",
+      "images": [],
+      "description": "By A Staff Reporter, Kathmandu, Sept. 24: The Federation of Nepal Cottage and Small Industries (FNCSI) has urged the gov..."
+    },
+    {
+      "id": "080da584ed705b77",
+      "title": "आजको मौसम : कोशी र बागमतीको पहाडी क्षेत्रमा धेरै भारी वर्षाको सम्भावना",
+      "link": "https://www.dainiknepal.com/2026/09/840897.html",
+      "source": "Dainik Nepal",
+      "sourceUrl": "https://dainiknepal.com/feed",
+      "pubDate": "2026-09-24T00:47:56+00:00",
+      "categories": [
+        "politics",
+        "sports"
+      ],
+      "image": "",
+      "images": [],
+      "description": "काठमाडौं । हाल देशभर मनसुनी वायुको साथै पश्चिमी वायुको पनि आंशिक प्रभाव रहेको छ । साथै, बंगालको खाडीको न्यून चापीय क्षेत्र हाल पश्चिममध्य तथा आसपासको उत्तरपश्चिमी बंगालको खाडीमा गहिरो न्यून चापीय क्षेत्रको रुपमा रहेको छ आगामी दिनमा थप शक्तिशाली बन्दै पश्चिम–उत्तरपश्चिम दिशातिर सर्ने देखिएको मौसम पूर्वानुमान महाशाखाले जनाएको छ । महाशाखा अनुसार देशभर साधारणतया बादल […]"
+    },
+    {
+      "id": "562166e02d8d0d57",
+      "title": "तनहुँमा ११ हजार १३४ उद्योग",
+      "link": "https://baahrakhari.com/detail/502493",
+      "source": "Baahrakhari",
+      "sourceUrl": "https://baahrakhari.com/feed",
+      "pubDate": "2026-09-24T00:46:49+00:00",
+      "categories": [
+        "politics",
+        "business",
+        "society"
+      ],
+      "image": "",
+      "images": [],
+      "description": ""
+    },
+    {
+      "id": "667b809a967c9a26",
+      "title": "एमालेले केन्द्रीय कमिटीकै बीचमा किन बोलायो सचिवालय बैठक?",
+      "link": "https://himalpress.com/2026/09/why-did-the-uml-call-a-secretariat-meeting-in-the-middle-of-the-central-committee/",
+      "source": "Himal Press",
+      "sourceUrl": "https://himalpress.com/feed/",
+      "pubDate": "2026-09-24T00:46:04+00:00",
+      "categories": [
+        "politics",
+        "business",
+        "society"
+      ],
+      "image": "",
+      "images": [],
+      "description": "काठमाडौँ- नेकपा एमालेको सचिवालय बैठक आज बस्ने भएको छ । केन्द्रीय कमिटी बैठक जारी रहेकै बेला एमालेले सचिवालय बैठक बोलाएको हो । एमाले केन्द्रीय सदस्य विष्णु रिजालका अनुसार बिहान १० बजे पार्टी केन्द्रीय कार्यालयमा सचिवालय बैठक बस्नेछ । सचिवालय बैठक सकिएपछि मध्याह्न साढे १२ बजे केन्द्रीय कमिटी बैठक बस्ने उनले जानकारी दिए । एमालेको केन्द्रीय […]"
+    },
+    {
+      "id": "9a8810f4034a0d5c",
+      "title": "Foreign Minister Khanal urges Germany to support Nepal’s post-flood recovery",
+      "link": "https://english.khabarhub.com/2026/24/568987/",
+      "source": "Khabarhub",
+      "sourceUrl": "https://english.khabarhub.com/feed/",
+      "pubDate": "2026-09-24T00:45:54+00:00",
+      "categories": [
+        "politics",
+        "business",
+        "world"
+      ],
+      "image": "",
+      "images": [],
+      "description": "KATHMANDU: Foreign Minister Shisir Khanal has urged Germany to support the rehabilitation, resettlement, and reconstruction of areas affected by the recent floods in Nepal. During a bilateral meeting with German Minister for Economic Cooperation and Development Reem Alabali Radovan on the sidelines of the 81st United Nations General Assembly at the United Nations Headquarters in […]"
+    },
+    {
+      "id": "7672b329fecba1f0",
+      "title": "मनसुनी प्रभाव देशभर पर्न थाल्यो, काठमाडौँसहितका क्षेत्रमा निरन्तर वर्षा",
+      "link": "https://himalpress.com/2026/09/monsoon-effects-begin-to-affect-the-country-with-continuous-rain-in-areas-including-kathmandu/",
+      "source": "Himal Press",
+      "sourceUrl": "https://himalpress.com/feed/",
+      "pubDate": "2026-09-24T00:43:15+00:00",
+      "categories": [
+        "politics",
+        "business",
+        "society"
+      ],
+      "image": "",
+      "images": [],
+      "description": "काठमाडौँ- हाल देशभर मनसुनी वायुको साथै पश्चिमी वायुको पनि आंशिक प्रभाव रहेको मौसम पूर्वानुमान महाशाखाले जनाएको छ । साथै बङ्गालको खाडीको न्यून चापीय क्षेत्र हाल पश्चिम–मध्य तथा आसपासको उत्तर–पश्चिमी बङ्गालको खाडीमा गहिरो न्यून चापीय क्षेत्रको रूपमा रहेको छ । आगामी दिनमा थप शक्तिशाली बन्दै पश्चिम–उत्तर पश्चिम दिशा तिर सर्ने देखिन्छ। जसको प्रभावले हाल देशभर साधरणतया […]"
+    },
+    {
+      "id": "4c3f1f206e33fa20",
+      "title": "आज यी प्रदेशमा धेरै भारी वर्षाको सम्भावना",
+      "link": "https://www.nepalviews.com/story/425787/very-heavy-rain-likely-in-these-regions-today",
+      "source": "Nepal Views",
+      "sourceUrl": "https://www.nepalviews.com/feed/",
+      "pubDate": "2026-09-24T00:42:40+00:00",
+      "categories": [
+        "politics",
+        "business",
+        "technology"
+      ],
+      "image": "https://nepalviews.cdnsolution.net/en/media/setting/banner_FHsSzcWYKk.jpg",
+      "images": [
+        "https://nepalviews.cdnsolution.net/en/media/setting/banner_FHsSzcWYKk.jpg"
+      ],
+      "description": ""
+    },
+    {
+      "id": "966e83821ad6856d",
+      "title": "भोटेकोशी विपद्पछि पुनःस्थापना र पुनर्निर्माणका लागि जी–७ को सहयोग आवश्यक: परराष्ट्रमन्त्री खनाल",
+      "link": "https://www.thahakhabar.com/detail/309214",
+      "source": "Thaha Khabar",
+      "sourceUrl": "https://www.thahakhabar.com/feed",
+      "pubDate": "2026-09-24T00:41:48+00:00",
+      "categories": [
+        "politics",
+        "business",
+        "sports"
+      ],
+      "image": "",
+      "images": [],
+      "description": ""
+    },
+    {
+      "id": "ba2c3647fc8413ed",
+      "title": "एमाले सचिवालय बैठक बस्दै, केन्द्रीय कमिटी बैठक आजै समापन गर्ने तयारी",
+      "link": "https://www.ratopati.com/story/594386/uml-secretariat-meeting-underway-central-committee-meeting-set-to-conclude-today",
+      "source": "Ratopati",
+      "sourceUrl": "https://ratopati.com/feed",
+      "pubDate": "2026-09-24T00:41:30+00:00",
+      "categories": [
+        "politics",
+        "sports"
+      ],
+      "image": "https://npcdn.ratopati.com/media/news/uml-cc-meeting-(4)_Wli2Y10vM9.webp",
+      "images": [
+        "https://npcdn.ratopati.com/media/news/uml-cc-meeting-(4)_Wli2Y10vM9.webp"
+      ],
+      "description": "काठमाडौँ । नेकपा एमालेको सचिवालय बैठक आज बस्ने भएको छ । केन्द्रीय कमिटी बैठक जारी रहेकै बेला एमालेले सचिवालय बैठक बोलाएको हो । एमाले केन्द्रीय सदस्य विष्णु रिजालका अनुसार बिहान १० बजे पार्टी केन्द्रीय कार्यालयमा सचिवालय"
+    },
+    {
+      "id": "ab2de10133dce980",
+      "title": "निजामती विधेयकबारे लोक सेवाको सुझाव यसै साता",
+      "link": "https://gorkhapatraonline.com/news/223985",
+      "source": "Gorkhapatra",
+      "sourceUrl": "https://gorkhapatraonline.com/rss",
+      "pubDate": "2026-09-24T00:40:59+00:00",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "image": "https://gorkhapatraonline.com/storage/media/384414/conversions/455-original.jpg",
+      "images": [
+        "https://gorkhapatraonline.com/storage/media/384414/conversions/455-original.jpg"
+      ],
+      "description": "काठमाडौँ, असोज ८ गते । लोक सेवा आयोगले सङ्घीय निजामती सेवा विधेयकको मसौदा परामर्शसहित यसै साता सरकारलाई फिर्ता पठाउने अन्तिम तयारी गरेको छ । आयोगका पदाधिकारीको विभिन्न चरणमा बसेको..."
+    },
+    {
+      "id": "2aa85141781757b4",
+      "title": "पछिल्लो १२ घण्टामा लुम्बिनीमा भारीदेखि धेरै भारी वर्षा",
+      "link": "https://baahrakhari.com/detail/502492",
+      "source": "Baahrakhari",
+      "sourceUrl": "https://baahrakhari.com/feed",
+      "pubDate": "2026-09-24T00:40:22+00:00",
+      "categories": [
+        "politics",
+        "business",
+        "society"
+      ],
+      "image": "",
+      "images": [],
+      "description": ""
+    },
+    {
+      "id": "18b6bb2bb9448e83",
+      "title": "देशभर वर्षाको सम्भावना, केही स्थानमा भारी वर्षा",
+      "link": "https://newsofnepal.com/2026/09/24/788468/",
+      "source": "News of Nepal",
+      "sourceUrl": "https://newsofnepal.com/feed/",
+      "pubDate": "2026-09-24T00:39:01+00:00",
+      "categories": [
+        "politics",
+        "business",
+        "sports"
+      ],
+      "image": "https://newsofnepal.com/wp-content/uploads/2025/05/mausam-150x150.jpg",
+      "images": [
+        "https://newsofnepal.com/wp-content/uploads/2025/05/mausam-150x150.jpg"
+      ],
+      "description": "काठमाडौँ । देशभर मनसुनीसँगै पश्चिमी वायुको आंशिक प्रभाव रहेको मौसम पूर्वानुमान महाशाखाले जनाएको छ। बंगालको खाडीमा रहेको न्यून चापीय क्षेत्र थप शक्तिशाली बन्दै पश्चिम–उत्तरपश्चिमतर्फ सर्ने भएकाले वर्षाको सम्भावना बढेको हो। आज कोशी, मधेस, बागमती, गण्डकी र लुम्बिनी प्रदेशमा अधिकांश बदली रहनेछ भने कर्णाली र सुदूरपश्चिममा सामान्य बदली रहने महाशाखाले जनाएको छ। कोशी, बागमती, गण्डकी र […]"
+    },
+    {
+      "id": "0c2460223608b945",
+      "title": "HoR and National Assembly to hold meetings today",
+      "link": "https://english.khabarhub.com/2026/24/568984/",
+      "source": "Khabarhub",
+      "sourceUrl": "https://english.khabarhub.com/feed/",
+      "pubDate": "2026-09-24T00:38:39+00:00",
+      "categories": [
+        "politics",
+        "business",
+        "world"
+      ],
+      "image": "",
+      "images": [],
+      "description": "KATHMANDU: Both houses of the Federal Parliament are scheduled to meet today. The meeting of the House of Representatives, scheduled for 11:00 am at Singha Durbar, is likely to see Minister for Law, Justice and Parliamentary Affairs Sobita Gautam present the Free Legal Aid Bill, 2083. Similarly, Minister for Infrastructure Development Sunil Lamsal will present […]"
+    },
+    {
+      "id": "c7201607bd6132e2",
+      "title": "आजका लागि तोकियो विदेशी मुद्राको विनिमयदर",
+      "link": "https://nepalnews.com/2026/09/24/foreign-currency-exchange-rates-set-for-today/",
+      "source": "Nepal News",
+      "sourceUrl": "https://nepalnews.com/feed",
+      "pubDate": "2026-09-24T00:37:02+00:00",
+      "categories": [
+        "politics",
+        "business",
+        "world"
+      ],
+      "image": "",
+      "images": [],
+      "description": "काठमाडौँ। नेपाल राष्ट्र बैङ्कले आजका लागि विदेशी मुद्राको विनिमयदर निर्धारण गरेको छ। राष्ट्र बैङ्कका अनुसार अमेरिकी डलर एकको खरिददर १५२ रुपैयाँ ८९ पैसा र बिक्रीदर १५३ रुपैयाँ ४९ पैसा निर्धारण गरिएको छ। युरोपियन युरो एकको खरिददर १७४ रुपैयाँ ४७ पैसा र बिक्रीदर १७५ रुपैयाँ १६ पैसा, युके पाउन्ड स्ट्रलिङ एकको खरिददर २०३ रुपैयाँ १३ पैसा […]"
+    },
+    {
+      "id": "99bcf0c9a2f90297",
+      "title": "सङ्घीय संसद्का दुवै सदनको बैठक बस्दै",
+      "link": "https://www.nepalviews.com/story/425786/both-houses-of-the-federal-parliament-are-meeting-today-and-five-parliamentary-committees-are-also-meeting-today",
+      "source": "Nepal Views",
+      "sourceUrl": "https://www.nepalviews.com/feed/",
+      "pubDate": "2026-09-24T00:35:53+00:00",
+      "categories": [
+        "politics",
+        "business",
+        "technology"
+      ],
+      "image": "https://nepalviews.cdnsolution.net/en/media/setting/banner_FHsSzcWYKk.jpg",
+      "images": [
+        "https://nepalviews.cdnsolution.net/en/media/setting/banner_FHsSzcWYKk.jpg"
+      ],
+      "description": ""
+    },
+    {
+      "id": "f728984a713a597b",
+      "title": "ट्रम्पले विमानस्थलमै गरे सीलाई भव्य स्वागत, अमेरिका–चीन सम्बन्धमा नयाँ मोडको संकेत",
+      "link": "https://newsofnepal.com/2026/09/24/788465/",
+      "source": "News of Nepal",
+      "sourceUrl": "https://newsofnepal.com/feed/",
+      "pubDate": "2026-09-24T00:35:25+00:00",
+      "categories": [
+        "politics",
+        "business",
+        "sports"
+      ],
+      "image": "https://newsofnepal.com/wp-content/uploads/2026/09/822412206_1724883838779846_4690915398199779632_n-150x150.jpg",
+      "images": [
+        "https://newsofnepal.com/wp-content/uploads/2026/09/822412206_1724883838779846_4690915398199779632_n-150x150.jpg"
+      ],
+      "description": "काठमाडौं । अमेरिकी राष्ट्रपति डोनाल्ड ट्रम्पले चिनियाँ राष्ट्रपति सी चिनफिङलाई अमेरिकामा तीनदिने ऐतिहासिक भ्रमणका क्रममा भव्य स्वागत गरेका छन्। संयुक्त बेस एन्ड्र्युजमा ट्रम्पले सीलाई रातो कार्पेटसहित स्वागत गर्नुका साथै सैन्य विमानको ‘फ्लाइओभर’मार्फत सम्मान दिएका थिए। संक्षिप्त तर औपचारिक स्वागत समारोहमा ट्रम्प र सीले हात मिलाएपछि दुवै नेता वासिङ्टन डीसीतर्फ प्रस्थान गरेका छन्। अमेरिकी राष्ट्रपतिको कार्यालयले […]"
+    },
+    {
+      "id": "0267d9538d7efec7",
+      "title": "विपतमा मानव अधिकारको संरक्षण गर्न र जलवायु न्याय लाई प्रभावकारी बनाउन सरोकारवालाको जोड",
+      "link": "https://newsofnepal.com/2026/09/24/788462/",
+      "source": "News of Nepal",
+      "sourceUrl": "https://newsofnepal.com/feed/",
+      "pubDate": "2026-09-24T00:33:08+00:00",
+      "categories": [
+        "politics",
+        "business",
+        "sports"
+      ],
+      "image": "https://newsofnepal.com/wp-content/uploads/2026/09/Untitled-design-1-11-150x150.png",
+      "images": [
+        "https://newsofnepal.com/wp-content/uploads/2026/09/Untitled-design-1-11-150x150.png"
+      ],
+      "description": "काठमाडौँ । मानव अधिकार तथा बालअधिकारको संरक्षणमा क्रियाशील विभिन्न क्षेत्रगत संघ महासङ्घ र नागरिक सङ्घसंस्था का प्रतिनिधिहरूले जलवायु शासन प्रवर्धन गर्न र जस्तोसुकै परिस्थितिमा पनि मानव अधिकारको संरक्षण र सम्बर्धन गर्न पर्ने कुरामा जोड दिएका छन्। २० ८३ भाद्र १० गते को भोटेकोशीको बाढी ले मानवीय तथा धनजनको क्षतिप्रति दुःख व्यक्त गर्दै विपतबाट पाठ सिक्नुपर्ने […]"
+    },
+    {
+      "id": "4d7e6691da9b4f7b",
+      "title": "Heavy rainfall likely in five provinces today",
+      "link": "https://english.khabarhub.com/2026/24/568981/",
+      "source": "Khabarhub",
+      "sourceUrl": "https://english.khabarhub.com/feed/",
+      "pubDate": "2026-09-24T00:32:11+00:00",
+      "categories": [
+        "politics",
+        "business",
+        "world"
+      ],
+      "image": "",
+      "images": [],
+      "description": "KATHMANDU: Heavy rainfall is likely at a few places in Koshi, Bagmati, and Gandaki provinces, and at one or two places in Madhesh and Lumbini provinces today. Very heavy rainfall is also likely at one or two places in the hilly areas of Koshi and Bagmati provinces. In addition, windstorms are likely at a few […]"
+    },
+    {
+      "id": "58bb9e793bc0c887",
+      "title": "प्रतिनिधिसभा र राष्ट्रियसभाको बैठक बस्दै",
+      "link": "https://www.onlinekhabar.com/2026/09/2024369/meeting-of-the-house-of-representatives-and-the-national-assembly-is-underway-5",
+      "source": "Online Khabar",
+      "sourceUrl": "https://www.onlinekhabar.com/feed",
+      "pubDate": "2026-09-24T00:31:32+00:00",
+      "categories": [
+        "politics",
+        "business",
+        "sports",
+        "technology",
+        "entertainment"
+      ],
+      "image": "",
+      "images": [],
+      "description": "८ असोज, काठमाडौं । संघीय संसद्का दुवै सदनको बैठक आज बस्दैछ । सिंहदरबारमा बिहान ११ बजे प्रतिनिधिसभाको र दिउँसो सवा १ बजे राष्ट्रियसभाको बैठक बस्न लागेको हो । प्रतिनिधि सभाको बैठकमा कानुन, न्याय तथा संसदीय मामिलामन्त्री सोविता गौतमले ‘नि:शुल्क कानुनी सहायतासम्बन्धी विधेयक, २०८३’ प्रस्तुत गर्ने सम्भावित कार्यसूची छ । यसैगरी, पूर्वाधार विकासमन्त्री सुनिल लम्सालले ‘फोहोरमैला […]"
+    },
+    {
+      "id": "e55d136c3916e744",
+      "title": "एसियन गेम्स पुरुष क्रिकेट आजदेखि सुरु, नेपालको खेल शुक्रबार",
+      "link": "https://www.onlinekhabar.com/2026/09/2024004/asian-games-mens-cricket-starts-today-nepals-match-on-friday",
+      "source": "Online Khabar",
+      "sourceUrl": "https://www.onlinekhabar.com/feed",
+      "pubDate": "2026-09-24T00:30:54+00:00",
+      "categories": [
+        "politics",
+        "business",
+        "sports",
+        "technology",
+        "entertainment"
+      ],
+      "image": "",
+      "images": [],
+      "description": "८ असोज, काठमाडौं । २०औं एसियाली खेलकुद अन्तर्गत पुरुष क्रिकेटतर्फका खेलहरू आजदेखि सुरु भएका छन् । जापानको आइचीस्थित निशिनमा रहेको कोरोगी स्पोर्ट्स पार्कमा सञ्चालन हुने पुरुष क्रिकेटतर्फ आज दुई खेल छन् । पहिलो खेल समूह ‘ए’ अन्तर्गत बिहान पौने ६ बजेदेखि अफगानिस्तान र जापानको बीचमा छ । दोस्रो खेल पौने ११ बजेदेखि समूह ‘बी’ मा […]"
+    },
+    {
+      "id": "c5f95e8adc7c9a13",
+      "title": "देशभर मनसुनी र पश्चिमी वायुको दोहोरो प्रभाव, आज यी प्रदेशमा धेरै भारी वर्षाको सम्भावना",
+      "link": "https://www.ratopati.com/story/594385/dual-effect-of-monsoon-and-westerly-winds-across-the-country-possibility-of-very-heavy-rainfall-in-these-regions-today",
+      "source": "Ratopati",
+      "sourceUrl": "https://ratopati.com/feed",
+      "pubDate": "2026-09-24T00:29:44+00:00",
+      "categories": [
+        "politics",
+        "sports"
+      ],
+      "image": "https://npcdn.ratopati.com/media/news/rain_3gUVbWNqzv.webp",
+      "images": [
+        "https://npcdn.ratopati.com/media/news/rain_3gUVbWNqzv.webp"
+      ],
+      "description": "काठमाडौँ । हाल देशभर मनसुनी वायुको साथै पश्चिमी वायुको पनि आंशिक प्रभाव रहेको मौसम पूर्वानुमान महाशाखाले जनाएको छ । साथै बङ्गालको खाडीको न्यून चापीय क्षेत्र हाल पश्चिम–मध्य तथा आसपासको उत्तर–पश्चिमी बङ्गालको खाडीमा गहिरो न्यून चापीय"
+    },
+    {
+      "id": "2f7a134248c4e656",
+      "title": "Govt prepares exit strategy from Bhotekoshi search, rescue work",
+      "link": "https://risingnepaldaily.com/news/86940",
+      "source": "The Rising Nepal",
+      "sourceUrl": "https://risingnepaldaily.com/rss",
+      "pubDate": "2026-09-24T00:28:30+00:00",
+      "categories": [
+        "politics",
+        "business",
+        "world",
+        "sports"
+      ],
+      "image": "",
+      "images": [],
+      "description": "Kathmandu, Sept. 24: The government has begun preparations to determine how and when to conclude the search and rescue o..."
+    },
+    {
+      "id": "5db46c987ebd84a1",
+      "title": "परराष्ट्रमन्त्री खनाल र जर्मनीकी आर्थिक सहयोग तथा विकासमन्त्रीबीच भेटवार्ता",
+      "link": "https://baahrakhari.com/detail/502491",
+      "source": "Baahrakhari",
+      "sourceUrl": "https://baahrakhari.com/feed",
+      "pubDate": "2026-09-24T00:28:20+00:00",
+      "categories": [
+        "politics",
+        "business",
+        "society"
+      ],
+      "image": "",
+      "images": [],
+      "description": ""
+    },
+    {
+      "id": "8ee994a9a3f5e6a9",
+      "title": "Nepal seeks G-7 support for climate resilience, reconstruction",
+      "link": "https://english.khabarhub.com/2026/24/568975/",
+      "source": "Khabarhub",
+      "sourceUrl": "https://english.khabarhub.com/feed/",
+      "pubDate": "2026-09-24T00:28:00+00:00",
+      "categories": [
+        "politics",
+        "business",
+        "world"
+      ],
+      "image": "",
+      "images": [],
+      "description": "KATHMANDU: Foreign Minister Shisir Khanal has said that long-term international support is needed for the rehabilitation and reconstruction of areas in Nepal affected by climate-related disasters. Addressing the G-7 Development Ministerial Meeting held on the sidelines of the 81st United Nations General Assembly, Khanal highlighted Nepal’s recent climate-related disasters and called for G-7 support and […]"
+    },
+    {
+      "id": "7cfa801748157959",
+      "title": "Water lifting scheme users forced to borrow money to quench thirst",
+      "link": "https://risingnepaldaily.com/news/86939",
+      "source": "The Rising Nepal",
+      "sourceUrl": "https://risingnepaldaily.com/rss",
+      "pubDate": "2026-09-24T00:26:36+00:00",
+      "categories": [
+        "politics",
+        "business",
+        "world",
+        "sports"
+      ],
+      "image": "",
+      "images": [],
+      "description": "By Gokarna DayalBaitadi, Sept. 24: Whenever thunder rumbles in the sky, Naveen Bhatt of Mate, Patan Municipality-10, bec..."
+    },
+    {
+      "id": "16a413aec84b4594",
+      "title": "असोज ८ गते बिहीबार , यस्तो छ तपाईंलो राशिफल",
+      "link": "https://newsofnepal.com/2026/09/24/788460/",
+      "source": "News of Nepal",
+      "sourceUrl": "https://newsofnepal.com/feed/",
+      "pubDate": "2026-09-24T00:23:33+00:00",
+      "categories": [
+        "politics",
+        "business",
+        "sports"
+      ],
+      "image": "https://newsofnepal.com/wp-content/uploads/2026/01/rasifa-10-3-5-5-6-150x150.jpg",
+      "images": [
+        "https://newsofnepal.com/wp-content/uploads/2026/01/rasifa-10-3-5-5-6-150x150.jpg"
+      ],
+      "description": "मेष : समय अनुकूल छ । द्रव्य लाभ, परिवार–सुख, उत्तम भोजनको अवसर मिल्नेछ । वृष : तपाईंका लागि दिन शुभ छ । कार्य सिद्धि, स्वस्थता, सुखानुभूति हुने देखिन्छ । मिथुन : समय अनुकूल भएकाले राज्य सुख, यश–कीर्ति, मांगलिक यात्राको सम्भावना छ । कर्कट : सजग रहनुहोला । रोगको सम्भावना, धन हानि, बाधा–व्यवधान आउन सक्छ । […]"
+    },
+    {
+      "id": "16cc7d071996ba2c",
+      "title": "आज यी स्थानमा धेरै भारी वर्षाको सम्भावना, हावाहुरी पनि चल्न सक्ने",
+      "link": "https://baahrakhari.com/detail/502490",
+      "source": "Baahrakhari",
+      "sourceUrl": "https://baahrakhari.com/feed",
+      "pubDate": "2026-09-24T00:18:17+00:00",
+      "categories": [
+        "politics",
+        "business",
+        "society"
+      ],
+      "image": "",
+      "images": [],
+      "description": ""
+    },
+    {
+      "id": "623c77f2d215f8f2",
+      "title": "Rethinking Nepal’s Climate Diplomacy: Beyond Balendra Shah’s Speech",
+      "link": "https://english.khabarhub.com/2026/24/568950/",
+      "source": "Khabarhub",
+      "sourceUrl": "https://english.khabarhub.com/feed/",
+      "pubDate": "2026-09-24T00:15:32+00:00",
+      "categories": [
+        "politics",
+        "business",
+        "world"
+      ],
+      "image": "",
+      "images": [],
+      "description": "With Prime Minister Balendra Shah now all set to attend the 81st session of the United Nations General Assembly (UNGA) on September 24 in New York, significant global and domestic attention rests on what he will say about climate change and its devastating impact on Nepal. Expected to highlight the Bhotekoshi floods as a stark […]"
+    },
+    {
+      "id": "048e0b227217c39b",
+      "title": "आज कुन विदेशी मुद्राको विनिमयदर कति ?",
+      "link": "https://www.onlinekhabar.com/2026/09/2024364/what-is-the-exchange-rate-of-which-foreign-currency-today-24",
+      "source": "Online Khabar",
+      "sourceUrl": "https://www.onlinekhabar.com/feed",
+      "pubDate": "2026-09-24T00:12:06+00:00",
+      "categories": [
+        "politics",
+        "business",
+        "sports",
+        "technology",
+        "entertainment"
+      ],
+      "image": "",
+      "images": [],
+      "description": "८ असोज, काठमाडौं । नेपाल राष्ट्र बैङ्कले आजका लागि विदेशी मुद्राको विनिमयदर निर्धारण गरेको छ । राष्ट्र बैङ्कका अनुसार अमेरिकी डलर एकको खरिददर १५२ रुपैयाँ ८९ पैसा र बिक्रीदर १५३ रुपैयाँ ४९ पैसा निर्धारण गरिएको छ । युरोपियन युरो एकको खरिददर १७४ रुपैयाँ ४७ पैसा र बिक्रीदर १७५ रुपैयाँ १६ पैसा, युके पाउन्ड स्ट्रलिङ एकको […]"
+    },
+    {
+      "id": "3af52ae8edb5d9eb",
+      "title": "संघीय संसद्का दुवै सदनको बैठक बस्दै",
+      "link": "https://baahrakhari.com/detail/502489",
+      "source": "Baahrakhari",
+      "sourceUrl": "https://baahrakhari.com/feed",
+      "pubDate": "2026-09-24T00:06:12+00:00",
+      "categories": [
+        "politics",
+        "business",
+        "society"
+      ],
+      "image": "",
+      "images": [],
+      "description": "यसैगरी, बैठकमा पूर्वाधार विकासमन्त्री सुनिल लम्सालले ‘फोहोरमैला व्यवस्थापन विधेयक, २०८३ माथि विचार गरियोस् ’ भन्ने प्रस्ताव प्रस्तुत गर्नेछन् ।"
+    },
+    {
+      "id": "ebc1f208508d3b47",
+      "title": "स्वास्थ्यकर्मीलाई हातपात गरे कैद र जरिबाना",
+      "link": "https://gorkhapatraonline.com/news/223984",
+      "source": "Gorkhapatra",
+      "sourceUrl": "https://gorkhapatraonline.com/rss",
+      "pubDate": "2026-09-23T23:52:38+00:00",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "image": "https://gorkhapatraonline.com/storage/media/384413/conversions/sktch-original.jpg",
+      "images": [
+        "https://gorkhapatraonline.com/storage/media/384413/conversions/sktch-original.jpg"
+      ],
+      "description": "काठमाडौँ, असोज ८ गते । स्वास्थ्यकर्मी तथा स्वास्थ्य संस्थाउपरको कसुरमा कसुरदारलाई हुने सजायमा कैद तथा सजायको दुवै व्यवस्था आकर्षित हुने गरी दण्डात्मक व्यवस्था बढाउने प्रस्ताव सरकार..."
+    },
+    {
+      "id": "968e5bbefe4bf1c8",
+      "title": "यस्तो छ आजका लागि विदेशी मुद्राको विनियमदर",
+      "link": "https://rajdhanidaily.com/id/148846/",
+      "source": "Rajdhani Daily",
+      "sourceUrl": "https://rajdhanidaily.com/feed/",
+      "pubDate": "2026-09-23T23:49:06+00:00",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "image": "https://rajdhanidaily.com/wp-content/uploads/2026/09/bideshi-mudra.jpg",
+      "images": [
+        "https://rajdhanidaily.com/wp-content/uploads/2026/09/bideshi-mudra.jpg"
+      ],
+      "description": "काठमाडौं । नेपाल राष्ट्र बैंकले आजका लागि विदेशी मुद्राको विनिमयदर निर्धारण गरेको छ । राष्ट्र बैंकका अनुसार अमेरिकी डलर एकको खरिददर १५२ रुपैयाँ ८९ पैसा र बिक्रीदर १५३ रुपैयाँ ४९ पैसा निर्धारण गरिएको छ । युरोपियन युरो एकको खरिददर १७४ रुपैयाँ ४७ पैसा र बिक्रीदर १७५ रुपैयाँ १६ पैसा, युके पाउन्ड स्ट्रलिङ एकको खरिददर २०३ […] The post यस्तो छ आजका लागि विदेशी मुद्राको विनियमदर appeared first on राजधानी राष्ट्रिय दैनिक (लोकप्रिय राष्ट्रिय दैनिक)-RajdhaniDaily.com - Online Nepali News Portal-Latest Nepa"
+    },
+    {
+      "id": "348b6e1167e94f61",
+      "title": "अकबरेमा ‘कोत्रे’ रोग देखिएपछि किसान चिन्तामा",
+      "link": "https://www.ratopati.com/story/594384/farmers-worried-after-kotre-disease-appears-in-akbari",
+      "source": "Ratopati",
+      "sourceUrl": "https://ratopati.com/feed",
+      "pubDate": "2026-09-23T23:44:31+00:00",
+      "categories": [
+        "politics",
+        "sports"
+      ],
+      "image": "https://npcdn.ratopati.com/media/news/1BI1eJZZ87.jpg",
+      "images": [
+        "https://npcdn.ratopati.com/media/news/1BI1eJZZ87.jpg"
+      ],
+      "description": "भोजपुर । भोजपुरमा व्यावसायिक रूपमा लगाइएको अकबरे खुर्सानीमा ‘कोत्रे’ (डढुवा) रोगको प्रकोप देखिएपछि किसान चिन्तित बनेका छन् । फल टिप्ने र पाक्ने समयमा खुर्सानीमा डढुवा लाग्ने, किरा पर्ने, बोट सुक्ने जस्ता रोग फैलिएपछि कृषक समस्यामा"
+    },
+    {
+      "id": "11e23f77cf8f51bd",
+      "title": "बिहीबार यस्तो छ विदेशी मुद्राको विनिमय दर",
+      "link": "https://www.ratopati.com/story/594383/this-is-the-foreign-exchange-rate-on-thursday",
+      "source": "Ratopati",
+      "sourceUrl": "https://ratopati.com/feed",
+      "pubDate": "2026-09-23T23:36:40+00:00",
+      "categories": [
+        "politics",
+        "sports"
+      ],
+      "image": "https://npcdn.ratopati.com/media/news/forex_g5zWyL63Qc.webp",
+      "images": [
+        "https://npcdn.ratopati.com/media/news/forex_g5zWyL63Qc.webp"
+      ],
+      "description": "काठमाडौँ । नेपाल राष्ट्र बैङ्कले आजका लागि विदेशी मुद्राको विनिमय दर निर्धारण गरेको छ । राष्ट्र बैङ्कका अनुसार अमेरिकी डलर एकको खरिददर १५२ रुपैयाँ ८९ पैसा र बिक्रीदर १५३ रुपैयाँ ४९ पैसा निर्धारण गरिएको छ"
+    },
+    {
+      "id": "bab8db3dc020eebd",
+      "title": "विद्यालयको नाममा जग्गा नहुँदा समस्या",
+      "link": "https://www.ratopati.com/story/594382/problem-of-not-having-land-in-the-name-of-the-school",
+      "source": "Ratopati",
+      "sourceUrl": "https://ratopati.com/feed",
+      "pubDate": "2026-09-23T23:33:55+00:00",
+      "categories": [
+        "politics",
+        "sports"
+      ],
+      "image": "https://npcdn.ratopati.com/media/news/dang-map_yCoTeipd67.jpg",
+      "images": [
+        "https://npcdn.ratopati.com/media/news/dang-map_yCoTeipd67.jpg"
+      ],
+      "description": "दाङ । जिल्लाकै पुरानो मध्येको एक विद्यालयको नाममा जग्गा नहुँदा अनेकन् समस्या भोग्नु परेको छ । तुलसीपुर उपमहानगरपालिका वडा नं ९ मा रहेको श्री माध्यमिक विद्यालय दोघरे स्थापना भएको आधा शताब्दी पूरा भए पनि हालसम्म"
+    },
+    {
+      "id": "55809b419a27dab3",
+      "title": "सङ्घीय संसद्का दुवै सदन र पाँच संसदीय समितिको बैठक आज बस्दै, यस्ता छन् कार्यसूची",
+      "link": "https://www.ratopati.com/story/594381/meetings-of-both-houses-of-the-federal-parliament-and-five-parliamentary-committees-are-being-held-today-here-is-the-agenda",
+      "source": "Ratopati",
+      "sourceUrl": "https://ratopati.com/feed",
+      "pubDate": "2026-09-23T23:30:16+00:00",
+      "categories": [
+        "politics",
+        "sports"
+      ],
+      "image": "https://npcdn.ratopati.com/media/news/samsad_ucwupzve0a_ZD51FtaQWb.jpg",
+      "images": [
+        "https://npcdn.ratopati.com/media/news/samsad_ucwupzve0a_ZD51FtaQWb.jpg"
+      ],
+      "description": "काठमाडौँ । सङ्घीय संसद्अन्तर्गत प्रतिनिधिसभा र राष्ट्रियसभा दुवै सदनको बैठक आज बस्दै छ । त्यसैगरी संसद्अन्तर्गतका विभिन्न पाँच वटा विषयगत समितिका बैठकहरू पनि आजै बोलाइएका छन् । सिंहदरबारमा बिहान ११ः०० बजे बस्ने प्रतिनिधिसभाको बैठकमा दुई वटा"
+    },
+    {
+      "id": "5d242bd796b1ec61",
+      "title": "कस्तो रहला तपाईँको दिन ? हेर्नुहोस् आजकाे राशिफल",
+      "link": "https://www.ratopati.com/story/594380/how-was-your-day-check-out-todays-horoscope",
+      "source": "Ratopati",
+      "sourceUrl": "https://ratopati.com/feed",
+      "pubDate": "2026-09-23T23:15:35+00:00",
+      "categories": [
+        "politics",
+        "sports"
+      ],
+      "image": "https://npcdn.ratopati.com/media/news/horoscope_vLkWHGsooW.webp",
+      "images": [
+        "https://npcdn.ratopati.com/media/news/horoscope_vLkWHGsooW.webp"
+      ],
+      "description": "आजको पञ्चाङ्ग वि.सं.२०८३ साल असोज ८ गते । बिहीबार । इस्वी सन् २०२६ सेप्टेम्बर २४ तारिख । नेपाल संवत् ११४६ । रौद्र संवत्सर । दक्षिणायन । शरद ऋतु । श्रीशाके १९४८ । भाद्र शुक्लपक्ष । तिथि–द्वादशी,"
+    },
+    {
+      "id": "375fd824134eef9a",
+      "title": "राहुघाट निर्माणको १६ वर्षे यात्रा: असफल ठेक्कादेखि परीक्षण उत्पादन",
+      "link": "https://www.ratopati.com/story/594379/the-16-year-journey-of-rahughat-construction-from-failed-contracts-to-trial-production",
+      "source": "Ratopati",
+      "sourceUrl": "https://ratopati.com/feed",
+      "pubDate": "2026-09-23T23:07:01+00:00",
+      "categories": [
+        "politics",
+        "sports"
+      ],
+      "image": "https://npcdn.ratopati.com/media/news/zNiivncJZw.jpg",
+      "images": [
+        "https://npcdn.ratopati.com/media/news/zNiivncJZw.jpg"
+      ],
+      "description": "म्याग्दी । म्याग्दीको बहुप्रतिक्षित राहुघाट जलविद्युत् आयोजना सुरु भएको डेढ दशकको अवधिमा परीक्षण उत्पादनको चरणमा पुगेको छ । पहिलोपटक ३२ मेगावाट क्षमतामा निर्माण अघि बढाइएको आयोजना ठेकेदारको समस्या, ठेक्का रद्द, पुनः संरचना, नयाँ ठेकेदार छनोट, कोरोना"
+    },
+    {
+      "id": "9390c0c96a797c13",
+      "title": "‘रेड कार्पेट’ र सैन्य फ्लाईओभरसहित अमेरिकामा सी जिनपिङको भव्य स्वागत",
+      "link": "https://www.ratopati.com/story/594378/xi-jinpings-grand-welcome-in-the-us-with-red-carpet-and-military-flyover",
+      "source": "Ratopati",
+      "sourceUrl": "https://ratopati.com/feed",
+      "pubDate": "2026-09-23T23:02:44+00:00",
+      "categories": [
+        "politics",
+        "sports"
+      ],
+      "image": "https://npcdn.ratopati.com/media/news/trump-&-xi_SbDV8AcNKY.webp",
+      "images": [
+        "https://npcdn.ratopati.com/media/news/trump-&-xi_SbDV8AcNKY.webp"
+      ],
+      "description": "काठमाडौँ । अमेरिकी राष्ट्रपति डोनाल्ड ट्रम्पले चिनियाँ समकक्षी सी जिनपिङलाई ‘रेड कार्पेट’ र सैन्य ‘फ्लाईओभर’सहित स्वागत गरेसँगै सीको तीनदिने ऐतिहासिक अमेरिका भ्रमण सुरु भएको छ । जोइन्ट बेस एन्ड्रयुज विमानस्थलमा स्थानीय समय अनुसार बुधबार साँझ आयोजित संक्षिप्त"
+    },
+    {
+      "id": "c2880b2615ce3b5e",
+      "title": "निजी अस्पतालको निःशुल्क सेवा लक्षित वर्गसम्म पुर्‍याउन प्रशासन सक्रिय",
+      "link": "https://www.ratopati.com/story/594377/administration-active-in-extending-free-private-hospital-services-to-target-groups",
+      "source": "Ratopati",
+      "sourceUrl": "https://ratopati.com/feed",
+      "pubDate": "2026-09-23T22:56:26+00:00",
+      "categories": [
+        "politics",
+        "sports"
+      ],
+      "image": "https://npcdn.ratopati.com/media/news/NgpgwjdX3q.jpg",
+      "images": [
+        "https://npcdn.ratopati.com/media/news/NgpgwjdX3q.jpg"
+      ],
+      "description": "झापा । झापाका निजी अस्पतालमा सरकारले तोकेको १० प्रतिशत निःशुल्क स्वास्थ्य सेवा प्रभावकारी रूपमा कार्यान्वयन गर्ने सम्बन्धमा अस्पताल सञ्चालक तथा सरोकारवालाबीच छलफल भएको छ । प्रमुख जिल्ला अधिकारी श्रमणकुमार पोखरेलको पहलमा जिल्ला प्रशासन कार्यालयमा बुधबार भएको"
+    },
+    {
+      "id": "fbdc2007d2cc658b",
+      "title": "स्वास्थ्य सेवा मूल्याङ्कनमा माडी पहिलो",
+      "link": "https://www.ratopati.com/story/594376/madi-ranks-first-in-health-service-evaluation",
+      "source": "Ratopati",
+      "sourceUrl": "https://ratopati.com/feed",
+      "pubDate": "2026-09-23T22:53:06+00:00",
+      "categories": [
+        "politics",
+        "sports"
+      ],
+      "image": "https://npcdn.ratopati.com/media/news/chitwan_map_hQtNsfDIYC.jpg",
+      "images": [
+        "https://npcdn.ratopati.com/media/news/chitwan_map_hQtNsfDIYC.jpg"
+      ],
+      "description": "चितवन । चितवनका सात स्थानीय तहका स्वास्थ्य शाखामध्ये माडी नगरपालिकाको स्वास्थ्य शाखा स्वास्थ्य सेवा मूल्याङ्कनमा पहिलो भएको छ । जनस्वास्थ्य कार्यालयले भरतपुरमा आयोजना गरेको आर्थिक वर्ष २०८२/८३ को वार्षिक समीक्षा गोष्ठीमा प्रस्तुत गरिएको स्वास्थ्य सेवाका सूचक"
+    },
+    {
+      "id": "4bbeff39e864a4eb",
+      "title": "तनहुँमा ११ हजार एक सय ३४ उद्योग",
+      "link": "https://www.ratopati.com/story/594375/11134-industries-in-tanahun",
+      "source": "Ratopati",
+      "sourceUrl": "https://ratopati.com/feed",
+      "pubDate": "2026-09-23T22:48:12+00:00",
+      "categories": [
+        "politics",
+        "sports"
+      ],
+      "image": "https://npcdn.ratopati.com/media/news/tanahu-map_us5mlswuc2_MPGIzBN5w0.jpg",
+      "images": [
+        "https://npcdn.ratopati.com/media/news/tanahu-map_us5mlswuc2_MPGIzBN5w0.jpg"
+      ],
+      "description": "तनहुँ । तनहुँमा हालसम्म ११ हजार १३४ उद्योग दर्ता भएका छन् । एकीकृत सेवा कार्यालयका अनुसार आर्थिक वर्ष २०८२/८३ सम्म जिल्लामा रहेका उद्योगमध्ये गत आर्थिक वर्षमा मात्रै ३४३ नयाँ उद्योग थपिएका छन् । एकीकृत सेवा कार्यालयका"
+    },
     {
       "id": "2360ade0b537531d",
       "title": "कास्कीको लामापाटनमा भारी वर्षा, थप वर्षाको सम्भावना रहेकाले सतर्क रहन आग्रह",
@@ -38,22 +801,6 @@
         "https://npcdn.ratopati.com/media/news/madesh-cm-office_jx3zzEZ46l.jpg"
       ],
       "description": "धनुषा । मधेस प्रदेश सरकारले नेपाल प्रहरीलाई ३५ वटा मोटरसाइकल उपलब्ध गराएको छ । प्रदेश सरकारको गृह, सञ्चार तथा कानुन मन्त्रालयले उपलब्ध गराएका १२५ सिसी क्षमताका सुपर स्प्लेन्डर मोटरसाइकल सम्बन्धित जिल्लाका प्रहरी उपरीक्षकलाई आज हस्तान्तरण गरिएको"
-    },
-    {
-      "id": "6c69439798951255",
-      "title": "राष्ट्रसंघको महासभाबाट इरानी राष्ट्रपतिले ट्रम्पलाई के दिए जवाफ ?",
-      "link": "https://baahrakhari.com/detail/502487",
-      "source": "Baahrakhari",
-      "sourceUrl": "https://baahrakhari.com/feed",
-      "pubDate": "2026-09-23T18:38:20+00:00",
-      "categories": [
-        "politics",
-        "business",
-        "society"
-      ],
-      "image": "",
-      "images": [],
-      "description": ""
     },
     {
       "id": "d1ce3f97244ec403",
@@ -158,22 +905,6 @@
       "description": "काठमाडौँ, असोज ७ गते । राष्ट्रकवि माधवप्रसाद घिमिरेको नाममा स्थापित ‘माधव घिमिरे पुरस्कार’ वरिष्ठ गीतकार कालिप्रसाद रिजाललाई प्रदान गरिएको छ ।राष्ट्रकवि माधवप्रसाद घिमिरेको १०७औँ ज..."
     },
     {
-      "id": "e36042cc5d060f2b",
-      "title": "पदक तालिकामा नेपालको खाता खुल्यो, अग्रता फराकिलो बनाउँदै चीन",
-      "link": "https://baahrakhari.com/detail/502485",
-      "source": "Baahrakhari",
-      "sourceUrl": "https://baahrakhari.com/feed",
-      "pubDate": "2026-09-23T17:50:51+00:00",
-      "categories": [
-        "politics",
-        "business",
-        "society"
-      ],
-      "image": "",
-      "images": [],
-      "description": ""
-    },
-    {
       "id": "fcec450194e87e90",
       "title": "देशभरका अस्पताललाई तयारी अवस्थामा रहन स्वास्थ्य मन्त्रालयको निर्देशन",
       "link": "https://gorkhapatraonline.com/news/223980",
@@ -225,22 +956,6 @@
       "description": "काठमाडौँ । परराष्ट्रमन्त्री शिशिर खनालले नेपालमा हालै आएको विनाशकारी बाढीबाट प्रभावित क्षेत्रको पुनः स्थापना, पुनर्वास तथा पुनर्निर्माणका लागि जर्मनीसँग सहयोग थप विस्तार गर्न आग्रह गरेका छन् । संयुक्त राष्ट्रसंघको ८१औँ महासभाको अवसरमा संयुक्त राष्ट्रसंघको मुख्यालय न्युयोर्कमा"
     },
     {
-      "id": "97c597c6bb67e079",
-      "title": "डीगोमा एशियन गेम्स र ला लिगा, नेपाली टोलीका खेल पनि हेर्न सकिने",
-      "link": "https://baahrakhari.com/detail/502484",
-      "source": "Baahrakhari",
-      "sourceUrl": "https://baahrakhari.com/feed",
-      "pubDate": "2026-09-23T17:42:34+00:00",
-      "categories": [
-        "politics",
-        "business",
-        "society"
-      ],
-      "image": "",
-      "images": [],
-      "description": ""
-    },
-    {
       "id": "3d0417442106a8c1",
       "title": "भोटेकोशी बाढीः पातारासीका १५ जनाको सामूहिक अन्त्येष्टि",
       "link": "https://gorkhapatraonline.com/news/223979",
@@ -271,22 +986,6 @@
       "image": "",
       "images": [],
       "description": "काठमाडौं। हिमालय अर्गनाइजेसन र गोर्खाज फाइनान्स लिमिटेडबीच सवारी साधन खरिदका लागि ८० प्रतिशतसम्म वित्तीय सुविधा उपलब्ध गराउने सम्झौता भएको छ। सम्झौताअनुसार हिमालय अर्गनाइजेसनअन्तर्गत बिक्री वितरण हुने व्यावसायिक तथा विद्युतीय सवारीसाधन खरिद गर्ने ग्राहकले ८० प्रतिशतसम्म सवारी कर्जा प्राप्त गर्न सक्नेछन्। कर्जा सुविधा गोर्खाज फाइनान्सको देशभर रहेका शाखामार्फत उपलब्ध हुने जनाइएको छ। सम्झौतामा हिमालय अर्गनाइजेसनका प्रमुख […] The post हिमालय अर्गनाइजेसन र गोर्खाज फाइनान्सबीच ८० प्रतिशतसम्म सवारी कर्"
-    },
-    {
-      "id": "c6a9e5f30410357c",
-      "title": "जोन्टा क्लब काठमाडौंले विद्यालयका पुस्तकालयलाई दियो १६ सय भन्दा बढी पुस्तक",
-      "link": "https://baahrakhari.com/detail/502483",
-      "source": "Baahrakhari",
-      "sourceUrl": "https://baahrakhari.com/feed",
-      "pubDate": "2026-09-23T17:35:56+00:00",
-      "categories": [
-        "politics",
-        "business",
-        "society"
-      ],
-      "image": "",
-      "images": [],
-      "description": ""
     },
     {
       "id": "d48a07711c56e971",
@@ -336,22 +1035,6 @@
         "https://gorkhapatraonline.com/storage/media/384406/conversions/nc-(1)-original.jpg"
       ],
       "description": "ललितपुर, असोज ७ गते । नेपाली कांग्रेसको १५औँ केन्द्रीय महाधिवेशनअन्तर्गत देशभरका ७५३ पालिकामध्ये ५१२ पालिकाको अधिवेशन प्रक्रिया सुरु भएको छ ।कांग्रेस केन्द्रीय कार्यसमितिका सदस्य स..."
-    },
-    {
-      "id": "4407da8d83713dc1",
-      "title": "नाडा र भन्सार विभागबीच बाढीबाट अटोमोवाइल क्षेत्रमा परेका समस्याबारे छलफल",
-      "link": "https://baahrakhari.com/detail/502482",
-      "source": "Baahrakhari",
-      "sourceUrl": "https://baahrakhari.com/feed",
-      "pubDate": "2026-09-23T17:20:00+00:00",
-      "categories": [
-        "politics",
-        "business",
-        "society"
-      ],
-      "image": "",
-      "images": [],
-      "description": ""
     },
     {
       "id": "77cf8a7648467b5c",
@@ -564,23 +1247,6 @@
       "image": "",
       "images": [],
       "description": "७ असोज, काठमाडौं । गत अप्रिल ७ को राति अमेरिकी राष्ट्रपति डोनाल्ड ट्रम्पले आफ्ना मागहरू नमाने इरानलाई ध्वस्त पारिदिने चेतावनी दिएका थिए । सामाजिक सञ्जाल ट्रुथ सोसल मार्फत सिङ्गो सभ्यतालाई नामेट पार्ने उनको चेतावनी थियो। ‘आज राति एउटा पूरै सभ्यताको अन्त्य हुनेछ, जुन कहिल्यै फर्किएर आउने छैन। म त्यस्तो नहोस् भन्ने चाहन्छु, तर सम्भवतः त्यो […]"
-    },
-    {
-      "id": "10ac501bba324ca5",
-      "title": "एमाले केन्द्रीय कमिटी बैठक : अध्यक्ष ओलीको राजनीतिक प्रतिवेदन सर्वसम्मत पारित",
-      "link": "https://gorkhapatraonline.com/news/223975",
-      "source": "Gorkhapatra",
-      "sourceUrl": "https://gorkhapatraonline.com/rss",
-      "pubDate": "2026-09-23T17:05:44+00:00",
-      "categories": [
-        "politics",
-        "business"
-      ],
-      "image": "https://gorkhapatraonline.com/storage/media/384401/conversions/1e7ea0a0-b991-4c41-a408-8d5fad50ce00-original.jpg",
-      "images": [
-        "https://gorkhapatraonline.com/storage/media/384401/conversions/1e7ea0a0-b991-4c41-a408-8d5fad50ce00-original.jpg"
-      ],
-      "description": "काठमाडौँ, असोज ७ गते । नेकपा (एमाले) केन्द्रीय कमिटीको तेस्रो बैठकले अध्यक्ष केपी शर्मा ओलीद्वारा प्रस्तुत राजनीतिक प्रतिवेदन सर्वसम्मतिले पारित गरेको छ ।ललितपुरको भनिमण्डलस्थित रा..."
     },
     {
       "id": "5a14c6ce43553f88",
@@ -873,23 +1539,6 @@
       "description": ""
     },
     {
-      "id": "be383ce0e9bfd6ed",
-      "title": "शान्ति स्थापनामा नेपालको योगदान निरन्तर रहनेछ : परराष्ट्रमन्त्री खनाल",
-      "link": "https://gorkhapatraonline.com/news/223974",
-      "source": "Gorkhapatra",
-      "sourceUrl": "https://gorkhapatraonline.com/rss",
-      "pubDate": "2026-09-23T16:37:19+00:00",
-      "categories": [
-        "politics",
-        "business"
-      ],
-      "image": "https://gorkhapatraonline.com/storage/media/384398/conversions/1000183989-original.jpg",
-      "images": [
-        "https://gorkhapatraonline.com/storage/media/384398/conversions/1000183989-original.jpg"
-      ],
-      "description": "काठमाडौँ, असोज ७ गते । परराष्ट्रमन्त्री शिशिर खनालले विश्व शान्ति तथा सुरक्षाको प्रवर्द्धनका लागि संयुक्त राष्ट्रसङ्घीय शान्ति स्थापनाका अभियानमा नेपालले पुर्‍याउँदै आएको योगदानलाई..."
-    },
-    {
       "id": "c123585cebc0af9c",
       "title": "नागरिक लगानी कोषलाई जोखिम व्यवस्थापनमा सचेत भएर अघि बढाइने : अर्थमन्त्री वाग्ले [भिडियो]",
       "link": "https://nepalsamaya.com/detail/146177",
@@ -1171,55 +1820,20 @@
       "description": "संयुक्त राष्ट्रसंघको ८१औँ महासभाका क्रममा न्युयोर्कमा शान्ति सञ्चालन विभागका उपमहासचिव जाँ–पिइरे लाक्रोइक्ससँग भएको भेटमा मन्त्री खनालले नेपालले शान्ति अभियानप्रतिको आफ्नो प्रतिबद्धता थप मजबुत बनाउने बताएका हुन्।"
     },
     {
-      "id": "931f2b891680328a",
-      "title": "कांग्रेस कोशी प्रदेश सभापतिमा लिम्बू, फागो, रायमाझी र थापाको दाबी",
-      "link": "https://www.ratopati.com/story/594358/limbu-fago-rayamajhi-and-thapa-claim-to-be-congress-koshi-province-president",
-      "source": "Ratopati",
-      "sourceUrl": "https://ratopati.com/feed",
-      "pubDate": "2026-09-23T16:11:17+00:00",
+      "id": "8d980cf9bbb1036c",
+      "title": "शान्ति स्थापनामा नेपालको योगदान निरन्तर रहनेछ : परराष्ट्रमन्त्री खनाल",
+      "link": "https://nepalnews.com/2026/09/23/nepals-contribution-to-peacekeeping-will-continue-foreign-minister-khanal/",
+      "source": "Nepal News",
+      "sourceUrl": "https://nepalnews.com/feed",
+      "pubDate": "2026-09-23T16:12:10+00:00",
       "categories": [
         "politics",
-        "sports"
+        "business",
+        "world"
       ],
-      "image": "https://npcdn.ratopati.com/media/news/koshi-sabhapati-candidate_S950ORrCHq.webp",
-      "images": [
-        "https://npcdn.ratopati.com/media/news/koshi-sabhapati-candidate_S950ORrCHq.webp"
-      ],
-      "description": "विराटनगर । नेपाली कांग्रेसको आगामी १५ औँ महाधिवेशन जारी छ । १६ गते असोजमा हुने केन्द्रीय महाधिवेशनपछि प्रदेश महाधिवेशन हुने जनाइएको छ । प्रदेश महाधिवेशनको मिति टुंगो नलागि कोशी प्रदेशको नेतृत्व हत्याउन नेताहरूबिच भने रस्साकस्सी सुरु भइसकेको"
-    },
-    {
-      "id": "bfa3742175f24cec",
-      "title": "संयुक्त राष्ट्रसंघको महासभामा सहभागी हुन अमेरिका पुगे बालेन",
-      "link": "https://www.ratopati.com/story/594357/balen-arrives-in-the-us-to-attend-the-un-general-assembly",
-      "source": "Ratopati",
-      "sourceUrl": "https://ratopati.com/feed",
-      "pubDate": "2026-09-23T16:07:26+00:00",
-      "categories": [
-        "politics",
-        "sports"
-      ],
-      "image": "https://npcdn.ratopati.com/media/news/bb_2YXYKjqkWt.webp",
-      "images": [
-        "https://npcdn.ratopati.com/media/news/bb_2YXYKjqkWt.webp"
-      ],
-      "description": "काठमाडौँ । प्रधानमन्त्री वालेन्द्र (बालेन) शाह संयुक्त राष्ट्रसंघको ८१औँ महासभामा सहभागी हुन नेपाली उच्चस्तरीय प्रतिनिधिमण्डलको नेतृत्व गर्दै अमेरिका पुगेका छन्। प्रधानमन्त्री शाह बुधबार केही बेरअघि न्युयोर्क पुगेका हुन्। उनलाई न्युयोर्कमा संयुक्त राष्ट्रसंघका लागि नेपालका स्थायी प्रतिनिधि"
-    },
-    {
-      "id": "58ffd4d2f181bacd",
-      "title": "साउदी अरबको ९६औँ राष्ट्रिय दिवस मनाइयो",
-      "link": "https://www.ratopati.com/story/594356/saudi-arabia-celebrates-its-96th-national-day",
-      "source": "Ratopati",
-      "sourceUrl": "https://ratopati.com/feed",
-      "pubDate": "2026-09-23T16:06:48+00:00",
-      "categories": [
-        "politics",
-        "sports"
-      ],
-      "image": "https://npcdn.ratopati.com/media/news/jB2rgzoyfA.jpg",
-      "images": [
-        "https://npcdn.ratopati.com/media/news/jB2rgzoyfA.jpg"
-      ],
-      "description": "काठमाडौँ । साउदी अरबको ९६औँ राष्ट्रिय दिवसका अवसरमा आज यहाँ विशेष समारोह आयोजना गरियो । नेपालका लागि साउदी अरबका राजदूत फहद मोहम्मद ए म्निखरले आयोजना गरेकाे समारोहमा संस्कृति, पर्यटन तथा नागरिक उड्डयनमन्त्री खडकराज पौडेल प्रमुख"
+      "image": "",
+      "images": [],
+      "description": "काठमाडौँ । परराष्ट्रमन्त्री शिशिर खनालले विश्व शान्ति तथा सुरक्षाको प्रवर्द्धनका लागि संयुक्त राष्ट्रसङ्घीय शान्ति स्थापनाका अभियानमा नेपालले पुर्‍याउँदै आएको योगदानलाई आगामी दिनमा पनि निरन्तरता दिने प्रतिबद्धता व्यक्त गरेका छन् । संयुक्त राष्ट्रसङ्घको ८१औँ महासभाका अवसरमा राष्ट्रसङ्घका शान्ति सञ्चालन विभाग उपमहासचिव जाँ–पिइरे लाक्रोइक्ससँग न्युयोर्कमा भएको साइडलाइन भेटवार्ताका क्रममा मन्त्री खनालले नेपाली शान्ति सैनिकप्रति संयुक्त राष्ट्रसङ्घले निरन्तर […]"
     },
     {
       "id": "6736fe548a0c760c",
@@ -1322,23 +1936,6 @@
       "description": "पेजेस्कियानले सम्बोधन सुरु गरेलगत्तै अमेरिकी प्रतिनिधिमण्डल महासभाबाट बाहिरिएका थिए । यसअघि हिजो अमेरिकी राष्ट्रपति डोनाल्ड ट्रम्पले सम्बोधन गर्दा इरानी र क्युबाली प्रतिनिधिमण्डल महासभाबाट बाहिरिएका थिए ।"
     },
     {
-      "id": "c4b9b7c7b6f0ee5d",
-      "title": "केपी ओलीको राजनीतिक प्रतिवेदन सर्वसम्मतिले पारित",
-      "link": "https://www.ratopati.com/story/594355/kp-olis-political-report-passed-unanimously",
-      "source": "Ratopati",
-      "sourceUrl": "https://ratopati.com/feed",
-      "pubDate": "2026-09-23T15:56:58+00:00",
-      "categories": [
-        "politics",
-        "sports"
-      ],
-      "image": "https://npcdn.ratopati.com/media/news/uml-cc-meeting1_duea9kH58f.webp",
-      "images": [
-        "https://npcdn.ratopati.com/media/news/uml-cc-meeting1_duea9kH58f.webp"
-      ],
-      "description": "काठमाडौँ। नेकपा (एमाले) केन्द्रीय कमिटीको तेस्रो बैठकको तेस्रो दिन अध्यक्ष केपी शर्मा ओलीद्वारा प्रस्तुत राजनीतिक प्रतिवेदन सर्वसम्मतिले पारित भएको छ। ललितपुरको भनिमण्डलस्थित रामबाग भवनमा जारी बैठकमा अध्यक्ष ओलीले प्रतिवेदनमाथि केन्द्रीय सदस्यहरूले उठाएका विषय तथा राखेका सुझावबारे"
-    },
-    {
       "id": "4329f43970ea2cac",
       "title": "IFRC Regional Director for Asia Pacific calls on Minister Badi",
       "link": "https://risingnepaldaily.com/news/86936",
@@ -1439,23 +2036,6 @@
       "description": "KATHMANDU: Hansraj Hulaschand & Co. Pvt. Ltd., the authorized distributor of Bajaj motorcycles in Nepal, has launched its Dashain campaign, “Bajaj Game of Power – Khelne Ho?” The campaign includes promotional rewards for motorcycle buyers, a digital racing game and opportunities for selected participants to meet sports personalities. Customers purchasing a Bajaj motorcycle during the […]"
     },
     {
-      "id": "b396f81b17c8519b",
-      "title": "सचिवालय बैठकपछि एमाले केन्द्रीय कमिटी बैठक समापन गर्ने तयारी",
-      "link": "https://www.ratopati.com/story/594354/preparations-to-conclude-uml-central-committee-meeting-after-secretariat-meeting",
-      "source": "Ratopati",
-      "sourceUrl": "https://ratopati.com/feed",
-      "pubDate": "2026-09-23T15:43:54+00:00",
-      "categories": [
-        "politics",
-        "sports"
-      ],
-      "image": "https://npcdn.ratopati.com/media/news/uml-ccm_D3s7F9eA5e.webp",
-      "images": [
-        "https://npcdn.ratopati.com/media/news/uml-ccm_D3s7F9eA5e.webp"
-      ],
-      "description": "काठमाडौँ । नेकपा एमालेले बिहीबार बिहान सचिवालय बैठक बोलाएको छ । केन्द्रीय कमिटी बैठक जारी रहेकै बेला एमालेले सचिवालय बैठक बोलाएको हो । एमाले केन्द्रीय सदस्य विष्णु रिजालका अनुसार बिहीबार बिहान १० बजे पार्टी केन्द्रीय कार्यालयमा"
-    },
-    {
       "id": "6127c3a9a7a62e1a",
       "title": "प्रधानमन्त्री वालेन्द्र शाह न्यूयोर्कमा अवतरण, राष्ट्रसंघका स्थायी नियोग राजदूत थापाले गरे स्वागत",
       "link": "https://nepallive.com/story/350938",
@@ -1469,23 +2049,6 @@
       "image": "",
       "images": [],
       "description": "प्रधानमन्त्री शाहलाई जेएफके अन्तर्राष्ट्रिय विमानस्थलमा राष्ट्रसंघका लागि स्थायी नियोग प्रमुख राजदूत लोकबहादुर थापाले स्वागत गरे ।"
-    },
-    {
-      "id": "cf22d2eb732bce80",
-      "title": "केएमसीका विद्यार्थीले गरे बाढीपीडितलाई २३ लाखभन्दा बढी सहयोग",
-      "link": "https://www.ratopati.com/story/594353/kmc-students-donated-over-23-million-rupees-to-flood-victims",
-      "source": "Ratopati",
-      "sourceUrl": "https://ratopati.com/feed",
-      "pubDate": "2026-09-23T15:38:02+00:00",
-      "categories": [
-        "politics",
-        "sports"
-      ],
-      "image": "https://npcdn.ratopati.com/media/news/s_w8qsMvFHtA.webp",
-      "images": [
-        "https://npcdn.ratopati.com/media/news/s_w8qsMvFHtA.webp"
-      ],
-      "description": "काठमाडौँ । काठमाडौँ मोडेल माध्यमिक विद्यालय (केएमसी) बागबजारले भदाै १० गते आएको विनाशकारी बाढीबाट प्रभावित तथा पीडित परिवारको सहयोगार्थ २३ लाख ७० हजार ३१६ रुपैयाँ प्रधानमन्त्री दैवी प्रकोप उद्धार कोषमा जम्मा गरेको छ । विद्यालय तथा"
     },
     {
       "id": "3193bdd998acb6d5",
@@ -1506,21 +2069,6 @@
       "description": "काठमाडौँ । शिक्षा तथा खेलकुदमन्त्री सस्मित पोखरेलले शिक्षा नियमावलीको एघारौ संशोधन प्रक्रिया दसैँ अगाडि नै टुङ्ग्याउन निर्देशन दिनुभएको छ ।मन्त्री पोखरेलले बुधबार मन्त्रालयका सचिवसहितका पदाधिकारी र सचिवालयसँग छलफल गर्दै शिक्षा नियमावलीको एघारौँ संशोधनको मस्यौदा तयार गरी नयाँ नियमावली लागू गर्नेगरी काम गर्न निर्देशन दिनुभएको हो । शिक्षा नियमावलीको दसौँ संशोधन आएदेखिनै बाहिर आएका गुनासालाई सम्बोधन […]"
     },
     {
-      "id": "4976a5731157787f",
-      "title": "नागरिक लगानी कोषलाई जोखिम व्यवस्थापनमा सचेत भएर अघि बढाइने : अर्थमन्त्री वाग्ले",
-      "link": "https://www.dainiknepal.com/2026/09/840882.html",
-      "source": "Dainik Nepal",
-      "sourceUrl": "https://dainiknepal.com/feed",
-      "pubDate": "2026-09-23T15:35:47+00:00",
-      "categories": [
-        "politics",
-        "sports"
-      ],
-      "image": "",
-      "images": [],
-      "description": "काठमाडौं । कार्यवाहक प्रधानमन्त्री एवं अर्थमन्त्री डा. स्वर्णिम वाग्लेले नागरिक लगानी कोषलाई आन्तरिक बचत परिचालन गर्ने महत्वपूर्ण औजारका रूपमा अघि बढाउँदै जोखिम व्यवस्थापनमा विशेष ध्यान दिने बताएका छन् । बुधबार बसेको प्रतिनिधिसभाको बैठकमा ‘नागरिक लगानी कोष ९तेस्रो संशोधन० विधेयक, २०८३’ माथिको छलफलमा उठेका प्रश्नहरूको जवाफ दिँदै अर्थमन्त्री वाग्लेले कोषमा सर्वसाधारणको बचत जोडिएकाले यसको लगानीमा सावधानी […]"
-    },
-    {
       "id": "186a5eb60d7cdb47",
       "title": "शान्ति स्थापनामा नेपालको योगदान निरन्तर रहने परराष्ट्र मन्त्री खनालको प्रतिबद्धता",
       "link": "https://bizmandu.com/content/20260923211731.html",
@@ -1534,23 +2082,6 @@
       "image": "",
       "images": [],
       "description": "काठमाडौं।परराष्ट्र मन्त्री शिशिर खनालले विश्व शान्ति तथा सुरक्षाको प्रवर्द्धनका लागि संयुक्त राष्ट्र संघीय शान्ति स्थापनाको अभियानमा नेपालले पुर्‍याउँदै आएको योगदानलाई आगामी दिनमा पनि निरन्तरता दिने प्रतिबद्धता व्यक्त गरेका छन्। संयुक्त राष्ट्र संघको ८१औं महासभाका अवसरमा राष्ट्र सङ्घका शान्ति सञ्चालन विभाग उपमहासचिव जाँ-पिइरे लाक्रोइक्ससँग न्युयोर्कमा भएको साइडलाइन भेटवार्ताका क्रममा मन्त्री खनालले नेपाली शान्ति सैनिकप्रति संयुक्त राष्ट्र […] The post शान्ति स्थापनामा नेपालको योगदान निरन्तर रहने"
-    },
-    {
-      "id": "f534f9585e223832",
-      "title": "शान्ति स्थापनामा नेपालको योगदान निरन्तर रहनेछ : परराष्ट्रमन्त्री",
-      "link": "https://www.ratopati.com/story/594352/nepals-contribution-to-peacekeeping-will-continue-foreign-minister",
-      "source": "Ratopati",
-      "sourceUrl": "https://ratopati.com/feed",
-      "pubDate": "2026-09-23T15:32:24+00:00",
-      "categories": [
-        "politics",
-        "sports"
-      ],
-      "image": "https://npcdn.ratopati.com/media/news/vet_dDgqrs5C6m.webp",
-      "images": [
-        "https://npcdn.ratopati.com/media/news/vet_dDgqrs5C6m.webp"
-      ],
-      "description": "काठमाडौँ। परराष्ट्रमन्त्री शिशिर खनालले संयुक्त राष्ट्रसङ्घीय शान्ति स्थापनाका अभियानमा नेपालको योगदान आगामी दिनमा पनि निरन्तर रहने बताएका छन् । संयुक्त राष्ट्रसंघको ८१औँ महासभाका अवसरमा न्युयोर्कमा संयुक्त राष्ट्रसंघको शान्ति सञ्चालन विभागका उपमहासचिव जाँ–पिइरे लाक्रोइक्ससँग बुधबार भएको साइडलाइन"
     },
     {
       "id": "8f19f74af6715d6f",
@@ -1569,23 +2100,6 @@
       "image": "",
       "images": [],
       "description": "अध्यक्ष ओलीको विकल्पमा जाने खालको धारणा राख्दै आएका नेताहरू नै अब मिलेर जाने तथा पार्टीको संगठनात्मक शैली सुधार्ने दिशामा मत राखेपछि बहसको कोण फेरिएको हो ।"
-    },
-    {
-      "id": "69a05d5958ba0304",
-      "title": "चार दिन भारी वर्षाको सम्भावना, तर बागमतीमा पूर्वतयारी शून्य",
-      "link": "https://www.ratopati.com/story/594351/heavy-rain-likely-for-four-days-but-no-preparations-in-bagmati",
-      "source": "Ratopati",
-      "sourceUrl": "https://ratopati.com/feed",
-      "pubDate": "2026-09-23T15:30:34+00:00",
-      "categories": [
-        "politics",
-        "sports"
-      ],
-      "image": "https://npcdn.ratopati.com/media/news/bagmati-cabinet_lfpx4coc1j_vaabusgave_VJ0uKd7DZP.webp",
-      "images": [
-        "https://npcdn.ratopati.com/media/news/bagmati-cabinet_lfpx4coc1j_vaabusgave_VJ0uKd7DZP.webp"
-      ],
-      "description": "हेटौँडा । असोज ८ देखि १२ गतेसम्म देशका अधिकांश भेगमा भारी वर्षा हुन सक्ने प्रक्षेपण गरिएको छ । तर यस्तो बेला बागमती प्रदेश सरकार भने सजग बस्न सकेको छैन । प्रदेश सरकारले विपद् जोखिम न्यूनीकरणका"
     },
     {
       "id": "b2a1935195e20287",
@@ -1622,40 +2136,6 @@
         "https://newsofnepal.com/wp-content/uploads/2026/09/d1-150x150.jpg"
       ],
       "description": "काठमाडौँ। एमजी मोटर नेपालको आधिकारिक वितरक पारामाउण्ट मोटर्स नेपालले चाडपर्वलाई लक्षित गर्दै विशेष योजना सार्वजनिक गरेको छ। कम्पनीले ‘Drive More, Celebrate More’ नामक चाडपर्व अफर ल्याएको हो। असोज ६ गतेदेखि छठ पर्वसम्म लागू हुने उक्त योजनाअन्तर्गत एमजीका विभिन्न मोडलका नयाँ गाडी खरिद गर्ने ग्राहकले ३ लाख रुपैयाँसम्म बचत गर्न सक्ने कम्पनीले जनाएको छ। अफरमा ग्राहकले […]"
-    },
-    {
-      "id": "a1693ef16dfc0434",
-      "title": "नेतृत्वको आलोचनालाई आफ्नो लोकप्रियताको माध्यम नबना‍औँ : क्षितिज थेबे",
-      "link": "https://www.ratopati.com/story/594350/lets-not-use-criticism-of-leadership-as-a-means-of-gaining-popularity-kshitij-thebe",
-      "source": "Ratopati",
-      "sourceUrl": "https://ratopati.com/feed",
-      "pubDate": "2026-09-23T15:25:56+00:00",
-      "categories": [
-        "politics",
-        "sports"
-      ],
-      "image": "https://npcdn.ratopati.com/media/news/kshitij-thebe_fKFeKpAwZE.jpg",
-      "images": [
-        "https://npcdn.ratopati.com/media/news/kshitij-thebe_fKFeKpAwZE.jpg"
-      ],
-      "description": "काठमाडौँ। नेकपा एमालेका केन्द्रीय सदस्य क्षितिज थेबेले नेतृत्वको आलोचनालाई आफ्नो राजनीतिक लोकप्रियता निर्माण गर्ने माध्यम बनाउने प्रवृत्ति त्याग्नुपर्ने बताएका छन्। पार्टीको जारी केन्द्रीय कमिटी बैठकमा बुधबार धारणा राख्दै थेबेले सङ्कटका बेला नेतृत्वले सङ्गठनलाई अनिश्चित अवस्थामा छाड्न"
-    },
-    {
-      "id": "8764fb6e17d556df",
-      "title": "कांग्रेस हेटौँडाको सभापतिमा कोइराला निर्वाचित",
-      "link": "https://www.ratopati.com/story/594349/koirala-elected-as-nc-hetauda-president",
-      "source": "Ratopati",
-      "sourceUrl": "https://ratopati.com/feed",
-      "pubDate": "2026-09-23T15:23:15+00:00",
-      "categories": [
-        "politics",
-        "sports"
-      ],
-      "image": "https://npcdn.ratopati.com/media/news/ramkrishna-koirala_EvbjblzSwH.webp",
-      "images": [
-        "https://npcdn.ratopati.com/media/news/ramkrishna-koirala_EvbjblzSwH.webp"
-      ],
-      "description": "हेटौँडा । नेपाली कांग्रेसको १५ महाधिवेशनअन्तर्गत असोज ७ गतेबाट गाउँ/नगर अधिवेशन तर्फ हेटौँडा उपमहानगरपालिकाको नगर सभापतिमा रामकृष्ण कोइराला निर्वाचित भएका छन् । केन्द्रीय महाधिवेशन कार्यतालिकाअनुसार असोज ७ गते बुधबारबाट सुरु भएको पालिका (गाउँ नगर अधिवेशन) अन्तर्गत"
     },
     {
       "id": "ec4c3977456d1479",
@@ -1696,23 +2176,6 @@
       "description": "पोखरा- पोखरा अन्तर्राष्ट्रिय विमानस्थलमा बुधबार साँझ ६ बजेर २२ मिनेटमा फ्लाइ दुबईको विमान अवतरण भएको छ। संयुक्त अरब इमिरेट्स (यूएई) को ध्वजावाहक वायुसेवा कम्पनी फ्लाई दुबई ११५ जना यात्रु बोकेर पोखरा आएको हो। जहाज बुधबार ७ बजेर ५४ मिनटमा पोखराबाट १५३ जना यात्रु बोकेर फर्किसकेको छ। १६६ सिट क्षमताको उक्त जहाजमा १० सिटमा बिजनेस र १५६ […]"
     },
     {
-      "id": "f528144a530541f1",
-      "title": "संसद् सचिवालयको स्पष्टीकरण : सम्झौता मूल्यबमोजिम नै चमेना गृहमा खाद्यवस्तु उपलब्ध",
-      "link": "https://www.ratopati.com/story/594347/parliament-secretariats-clarification-food-items-are-available-at-chamena-griha-as-per-the-agreed-price",
-      "source": "Ratopati",
-      "sourceUrl": "https://ratopati.com/feed",
-      "pubDate": "2026-09-23T15:15:42+00:00",
-      "categories": [
-        "politics",
-        "sports"
-      ],
-      "image": "https://rpcdn.ratopati.com/media/albums/sanghiye-sansad-sachibalaya-e1543329074949_GrGfrqgsbt.jpg",
-      "images": [
-        "https://rpcdn.ratopati.com/media/albums/sanghiye-sansad-sachibalaya-e1543329074949_GrGfrqgsbt.jpg"
-      ],
-      "description": "काठमाडौँ । सङ्घीय संसद् सचिवालयले संसद् भवनस्थित चमेना गृहमा खाद्यवस्तुको मूल्य बढाइएको भन्ने सामाजिक सञ्जालमा आएका विषयप्रति स्पष्टीकरण दिएको छ। सचिवालयका सहसचिव एवं प्रवक्ता एकराम गिरीले जारी गरेको प्रेस विज्ञप्तिअनुसार चमेना गृह सेवा उपलब्ध गराउँदै आएको"
-    },
-    {
       "id": "7947cbe3b5ed628b",
       "title": "Infectious animal disease (control) bill approved",
       "link": "https://english.khabarhub.com/2026/23/568947/",
@@ -1727,22 +2190,6 @@
       "image": "",
       "images": [],
       "description": "KATHMANDU: The House of Representatives has passed the ‘Infectious Animal Disease (Control) Bill, 2083’. A proposal seeking consideration on the bill by Minister for Agriculture, Forests, and Environment, Gita Chaudhary, was unanimously passed at today’s meeting of the lower house. The bill had originated in the National Assembly, Lawmakers Shobha Khanal, Ganga Laxmi Awal, Madhav […]"
-    },
-    {
-      "id": "e2a07e6863f9239f",
-      "title": "भीषण वर्षाको सम्भावना भएका ठाउँमा असोज ८ र ९ गते विद्यालय बिदा गर्न अनुरोध",
-      "link": "https://www.thahakhabar.com/detail/309209",
-      "source": "Thaha Khabar",
-      "sourceUrl": "https://www.thahakhabar.com/feed",
-      "pubDate": "2026-09-23T15:15:00+00:00",
-      "categories": [
-        "politics",
-        "business",
-        "sports"
-      ],
-      "image": "",
-      "images": [],
-      "description": ""
     },
     {
       "id": "ddb2b5d7831edf89",
@@ -2228,42 +2675,6 @@
       "description": "'अदालतमा विचाराधीन पुरानो संसद् पुनर्स्थापना स्थापना गरेर सरकारका प्रतिगामी अधिनायकवादी कदम सच्चाउन पर्दछ। जसबाट एमालेको पुरानो हैसियत जोगाउने राम्रो अवसर पनि हो', सचिव बस्नेतले भनेका छन् ।"
     },
     {
-      "id": "b675293e81cb6d43",
-      "title": "दुई महिनामै भारतबाट साढे ३ अर्ब बढीको आलु, प्याज र गोलभेँडा आयात",
-      "link": "https://www.onlinekhabar.com/2026/09/2024233/over-3-5-billion-worth-of-potatoes-onions-and-tomatoes-imported-from-india-in-two-months",
-      "source": "Online Khabar",
-      "sourceUrl": "https://www.onlinekhabar.com/feed",
-      "pubDate": "2026-09-23T14:08:55+00:00",
-      "categories": [
-        "politics",
-        "business",
-        "sports",
-        "technology",
-        "entertainment"
-      ],
-      "image": "",
-      "images": [],
-      "description": "स्वदेशी उत्पादनले बजारको दैनिक माग धान्न नसक्दा दुई महिनाकै अवधिमा १ लाख १६ हजार टनभन्दा बढी यी तरकारी आयात गर्नुपरेको देखिएको हो ।"
-    },
-    {
-      "id": "b9f50803a50d70f8",
-      "title": "साइबर ठगीविरुद्ध कारबाही तीव्र पार्ने कम्बोडियाको प्रतिबद्धता",
-      "link": "https://www.onlinekhabar.com/2026/09/2024243/cambodia-pledges-to-step-up-action-against-cyber-fraud",
-      "source": "Online Khabar",
-      "sourceUrl": "https://www.onlinekhabar.com/feed",
-      "pubDate": "2026-09-23T14:07:55+00:00",
-      "categories": [
-        "politics",
-        "business",
-        "sports",
-        "technology",
-        "entertainment"
-      ],
-      "image": "",
-      "images": [],
-      "description": "७ असोज, नोम पेन्ह (रासस/एएफपी) । कम्बोडियाका प्रधानमन्त्री हुन मानेटले बुधबार आफ्नो देश साइबर ठगीका लागि कहिल्यै पनि ‘सुरक्षित आश्रयस्थल’ नबन्ने बताएका छन्। उनले अनलाइन ठगीविरुद्ध सरकारले कारबाही तीव्र पारेको दाबी गरे । यद्यपि अन्तर्राष्ट्रिय साझेदारले कानुन कार्यान्वयनमा भएका प्रगतिलाई स्वागत गर्दै अझै धेरै काम गर्न बाँकी रहेको बताएका छन् । दक्षिणपूर्वी एसिया, विशेषगरी कम्बोडिया र द्वन्द्वग्रस्त […]"
-    },
-    {
       "id": "89f65671ea905c4b",
       "title": "चेम्बरद्वारा उद्योगमन्त्रीलाई ‘व्यापारिक उधारो असुली’ सम्बन्धी विधेयकको प्रारम्भिक मस्यौदा हस्तान्तरण",
       "link": "https://himalpress.com/2026/09/chamber-meets-industry-minister/",
@@ -2293,42 +2704,6 @@
       "image": "",
       "images": [],
       "description": "काठमाडौं। यातायात व्यवस्था विभागले सार्वजनिक सवारीसाधन सञ्चालनलाई थप व्यवस्थित, सुरक्षित र मर्यादित बनाउन कडा नियम लागू गरेको छ। विभागको नयाँ निर्देशनअनुसार अब जिप प्रकृतिका ८ देखि १४ सिट क्षमताका सवारीसाधन (जस्तै टाटा सुमो, महिन्द्रा बोलेरो आदि)लाई २५० किलोमिटरभित्रको रुटमा मात्र बाटो इजाजतपत्र प्रदान गरिनेछ। त्यस्तै, माइक्रोबसहरूको हकमा ३०० किलोमिटरभित्रको रुटमा मात्र बाटो इजाजत दिने व्यवस्था […] The post जिपलाई २५० र माइक्रोबसलाई ३०० किमीभन्दा बढीको रुटमा अबदेखि बाटो इजाजत नदिइने appeared fir"
-    },
-    {
-      "id": "87618833775ea4f1",
-      "title": "कांग्रेसको काठमाडौं महानगर सभापतिमा सुशन वैद्य निर्विरोध",
-      "link": "https://www.onlinekhabar.com/2026/09/2024239/susan-baidya-elected-unopposed-as-kathmandu-metropolitan-city-president-of-nepali-congress",
-      "source": "Online Khabar",
-      "sourceUrl": "https://www.onlinekhabar.com/feed",
-      "pubDate": "2026-09-23T14:02:52+00:00",
-      "categories": [
-        "politics",
-        "business",
-        "sports",
-        "technology",
-        "entertainment"
-      ],
-      "image": "",
-      "images": [],
-      "description": "नेपाली कांग्रेस काठमाडौं महानगर समितिको सभापतिमा सुशन वैद्य निर्विरोध चयन भएका छन् ।"
-    },
-    {
-      "id": "0edfdaf7c229c569",
-      "title": "रहेनन् केयूका संस्थापक उपकुलपति प्रा.डा. सुरेशराज शर्मा",
-      "link": "https://www.onlinekhabar.com/2026/09/2024237/kus-founding-vice-chancellor-prof-dr-suresh-raj-sharma-is-no-more",
-      "source": "Online Khabar",
-      "sourceUrl": "https://www.onlinekhabar.com/feed",
-      "pubDate": "2026-09-23T14:02:16+00:00",
-      "categories": [
-        "politics",
-        "business",
-        "sports",
-        "technology",
-        "entertainment"
-      ],
-      "image": "",
-      "images": [],
-      "description": "७ असोज, काठमाडौं । काठमाडौ विश्वविद्यालयका पूर्वउपकुलपति प्रा.डा. सुरेशराज शर्माको निधन भएको छ । काठमाडौंको धुम्बाराहीस्थित ह्याम्स अस्पतालमा उपचारको क्रममा उनको निधन भएको हो । उनको ८६ वर्षको उमेरमा बुधबार साझ ६:५० बजे मृत्यु भएको केयूका उपकुलपति विवेक बरालले जानकारी दिए । उनको भोलि (बिहीबार) दाहसंस्कार गरिने भएको छ । दाहसंस्कार गर्नुअघि उनको पार्थिव शरीर […]"
     },
     {
       "id": "a1fe3c743e4e07c4",
@@ -2609,22 +2984,6 @@
       "description": "काठमाडौँ- अमेरिकाले नेपालमा हालै आएको विनाशकारी बाढीबाट प्रभावित क्षेत्रको पुनर्लाभ तथा पुनर्निर्माणका लागि थप तीन करोड १० लाख अमेरिकी डलर सहयोग गर्ने भएको छ। यससँगै बाढीसम्बन्धी प्रतिकार्य र पुनर्लाभमा अमेरिकाको कुल सहयोग तीन करोड ६० लाख डलरभन्दा बढी पुगेको छ। न्युयोर्कमा बुधबार परराष्ट्रमन्त्री शिशिर खनालसँग भेटवार्ता गर्दै अमेरिकी उपविदेशमन्त्री एलिसन हुकरले थप सहयोगको घोषणा गरेकी […]"
     },
     {
-      "id": "41421d2c3bb01277",
-      "title": "CIT’s investment will be made transparent, result-oriented: Finance Minister Dr Wagle",
-      "link": "https://english.khabarhub.com/2026/23/568942/",
-      "source": "Khabarhub",
-      "sourceUrl": "https://english.khabarhub.com/feed/",
-      "pubDate": "2026-09-23T13:15:56+00:00",
-      "categories": [
-        "politics",
-        "business",
-        "world"
-      ],
-      "image": "",
-      "images": [],
-      "description": "KATHMANDU: Finance Minister Dr Swarnim Wagle has shared that investment of Citizen Investment Trust (CIT) would be made transparent and result-oriented. Responding to queries raised during the theoretical discussion on ‘Citizen Investment Trust (Third Amendment) Bill, 2083’ in today’s meeting of the House of Representatives, Minister Dr Wagle stressed that such types of Trust must […]"
-    },
-    {
       "id": "260029d87835ba45",
       "title": "विश्वासको बाटोमा मधेस",
       "link": "https://nepalnews.com/2026/09/23/madhesh-on-the-path-of-faith/",
@@ -2675,22 +3034,6 @@
       "image": "",
       "images": [],
       "description": "काठमाडौं। आइपीओ निष्कासन रोकिँदा नेपाल धितोपत्र बोर्ड (सेबोन)मा निवेदनको चाङ लागेको छ। सेबोनले बुधबार अध्यावधिक गरेको विवरण अनुसार आइपीओ निष्कासनका लागि सेबोनमा आवेदन दिने कम्पनीको संख्या ११२ पुगेको छ। उत्पादन तथा प्रशोधन, हाइड्रोपावर, होटल तथा पर्यटन, अन्य र इन्स्योरेन्स कम्पनीले अंकित मूल्य र प्रिमियम गरेर ७१ अर्ब २९ करोड रुपैयाँको ४९ करोड ६९ लाख कित्ता […] The post सेबोनले ६ महिनादेखि आइपीओ अनुमति नदिंदा निवेदनको चाङ, ११२ कम्पनी पाइपलाइनमा appeared first on BIZMANDU ."
-    },
-    {
-      "id": "d76cbbf6a7701851",
-      "title": "प्रतिनिधिसभाबाट सङ्क्रामक पशु रोग (नियन्त्रण) विधेयक स्वीकृत",
-      "link": "https://nepalnews.com/2026/09/23/infectious-animal-diseases-control-bill-approved-by-the-house-of-representatives/",
-      "source": "Nepal News",
-      "sourceUrl": "https://nepalnews.com/feed",
-      "pubDate": "2026-09-23T13:06:30+00:00",
-      "categories": [
-        "politics",
-        "business",
-        "world"
-      ],
-      "image": "",
-      "images": [],
-      "description": "काठमाडौँ । प्रतिनिधि सभाबाट ‘सङ्क्रामक पशु रोग (नियन्त्रण) विधेयक, २०८३’ स्वीकृत भएको छ। सभाको आजको बैठकमा कृषि, वन तथा पर्यावरणमन्त्री गीता चौधरीले प्रस्तुत गरेकी राष्ट्रिय सभामा उत्पत्ति भएको सो विधेयकमाथि विचार गरियोस् भन्ने प्रस्ताव सर्वसम्मतिबाट स्वीकृत भएको हो। उक्त प्रस्तावमाथिको छलफलमा भाग लिँदै राष्ट्रिय स्वतन्त्र पार्टी (रास्वपा) का सांसद अशोककुमार चौधरीले ग्रामीण अर्थतन्त्रको मुख्य आधारका रूपमा […]"
     },
     {
       "id": "6e619f6dbf5c0c1d",
@@ -2811,22 +3154,6 @@
       "description": "Kathmandu, September 23 There is a lot happening every day. The Daily Digest brings together some of the most important stories and developments in one place—from Nepal’s latest affairs to international news, business, sports and stories that deserve a closer look. Nepal’s public debt nears Rs 3 trillion, while debt payments outpace capital spending Nepal’s […] The post Daily Digest: The biggest stories, developments and updates of the day appeared first on OnlineKhabar English News ."
     },
     {
-      "id": "a6c9fb2e2bee60f0",
-      "title": "PM Shah reminds everyone to pay heed to weather alert",
-      "link": "https://english.khabarhub.com/2026/23/568932/",
-      "source": "Khabarhub",
-      "sourceUrl": "https://english.khabarhub.com/feed/",
-      "pubDate": "2026-09-23T12:45:40+00:00",
-      "categories": [
-        "politics",
-        "business",
-        "world"
-      ],
-      "image": "",
-      "images": [],
-      "description": "KATHMANDU: Prime Minister Balendra Shah has urged one and all to pay special attention to the weather alerts with preparedness and coordination so that impacts would be minimized. He also reminded the concerned public agencies to maintain coordination for better preparedness. The Prime Minister made such reminder in the wake of weather advisory issued by […]"
-    },
-    {
       "id": "f2611c8c665b9cf8",
       "title": "एमाले बैठकमा सुहाङले भने - जनताको विश्वास र भरोसा टुट्दै गएको छ",
       "link": "https://www.nepalviews.com/story/425778/suhang-said-at-the-uml-meeting-peoples-trust-and-confidence-are-eroding",
@@ -2895,23 +3222,6 @@
       "description": "काठमाडौं । नाडा अटोमोबाइल्स एसोसिएसन अफ नेपाल (नाडा) ले रसुवामा गएको बाढीबाट अटोमोबाइल क्षेत्रमा भएको क्षतिबारे भन्सार विभागसँग छलफल गरेको छ । नाडाका अध्यक्ष सुरेन्द्रकुमार उप्रेतीको नेतृत्वमा गएको प्रतिनिधिमण्डलले २०८३ असोज ७ गते भन्सार विभागका महानिर्देशक यमलाल भुषालसँग भेट गरी बाढीबाट भएको क्षति र प्रभावित व्यवसायीलाई राहत तथा सहुलियत उपलब्ध गराउने विषयमा छलफल गरेको हो Continue reading \"रसुवा बाढीबाट अटोमोबाइल क्षेत्रमा भएको क्षतिबारे नाडा र भन्सार विभागबीच छलफल\""
     },
     {
-      "id": "584eec5c51dfd6ca",
-      "title": "Putin ready to meet with Trump, no details available — Kremlin",
-      "link": "https://risingnepaldaily.com/news/86931",
-      "source": "The Rising Nepal",
-      "sourceUrl": "https://risingnepaldaily.com/rss",
-      "pubDate": "2026-09-23T12:34:04+00:00",
-      "categories": [
-        "politics",
-        "business",
-        "world",
-        "sports"
-      ],
-      "image": "",
-      "images": [],
-      "description": "MOSCOW, September 23. /TASS/. Russian President Vladimir Putin is ready to meet with his US counterpart Donald Trump, bu..."
-    },
-    {
       "id": "8c12d0cccff9da6c",
       "title": "भारी वर्षाको पूर्वानुमानपछि सुदूरपश्चिममा सुरक्षा संयन्त्र तयारी अवस्थामा",
       "link": "https://rajdhanidaily.com/id/148829/",
@@ -2964,23 +3274,6 @@
       "description": "Janakpur, September 23 The Madhesh provincial government has started printing and distributing driving licences on its own, aiming to reduce the long waiting time faced by service recipients. The Ministry of Labour and Transport of Madhesh printed 3,081 driving licences in its first batch and handed them over to transport management offices under the provincial […] The post Madhesh government begins printing and distributing driving licences itself appeared first on OnlineKhabar English News ."
     },
     {
-      "id": "ea67bd4d871a4e31",
-      "title": "Minister Pun and Chinese Ambassador visit NAST",
-      "link": "https://risingnepaldaily.com/news/86929",
-      "source": "The Rising Nepal",
-      "sourceUrl": "https://risingnepaldaily.com/rss",
-      "pubDate": "2026-09-23T12:16:35+00:00",
-      "categories": [
-        "politics",
-        "business",
-        "world",
-        "sports"
-      ],
-      "image": "",
-      "images": [],
-      "description": "Lalitpur, Sept 23: Minister for Science, Technology, and Innovation, Mahabir Pun and China's Ambassador to Nepal, Zhang..."
-    },
-    {
       "id": "78fadc2afbb31237",
       "title": "बाढीले नाका र राजमार्ग बन्द हुँदाको असर आयातमा देखिएन, भदौमा भित्रियो २.१४ खर्बको वस्तु",
       "link": "https://bizmandu.com/content/20260923180047.html",
@@ -2994,22 +3287,6 @@
       "image": "",
       "images": [],
       "description": "काठमाडौं। चीनसँगका दुई मुख्य नाका बन्द र काठमाडौंको लाइफलाइन मानिने पृथ्वी राजमार्ग दुई साताभन्दा बढी ठप्प हुँदा समेत आयात बढेको छ। भदौ महिनामा २ खर्ब १४ अर्ब रुपैयाँभन्दा बढीको सामान आयात भएको छ। भन्सार विभागले बुधबार सार्वजनिक गरेको तथ्यांक अनुसार चालु वर्ष दुई महिनामा ४ खर्ब १ अर्ब ५१ करोड ८९ लाख रुपैयाँको सामान भित्रिएको […] The post बाढीले नाका र राजमार्ग बन्द हुँदाको असर आयातमा देखिएन, भदौमा भित्रियो २.१४ खर्बको वस्तु appeared first on BIZMANDU ."
-    },
-    {
-      "id": "6476fd2e77ba844c",
-      "title": "Nighttime traffic halted on Kanti Highway and Bhaise-Bhimfedi-Kulekhani road",
-      "link": "https://english.khabarhub.com/2026/23/568927/",
-      "source": "Khabarhub",
-      "sourceUrl": "https://english.khabarhub.com/feed/",
-      "pubDate": "2026-09-23T12:15:32+00:00",
-      "categories": [
-        "politics",
-        "business",
-        "world"
-      ],
-      "image": "",
-      "images": [],
-      "description": "HETAUDA: The District Administration Office, Makwanpur, has restricted nighttime vehicle movement along the Kanti Highway and the Bhaise-Bhimfedi-Deurali-Kulekhani road section due to the increased risk of floods and landslides amid heavy rainfall. Administrative Officer at the District Administration Office Makwanpur Santosh Subedi said vehicle movement has been regulated based on a special weather bulletin issued […]"
     },
     {
       "id": "7deeec1c6b205da7",
@@ -3028,23 +3305,6 @@
         "https://nepalviews.cdnsolution.net/en/media/setting/banner_FHsSzcWYKk.jpg"
       ],
       "description": ""
-    },
-    {
-      "id": "90998193b9c0ce67",
-      "title": "सरकारी कदमको विरोधमा वीरगन्जका सडक पीडितको प्रदर्शन",
-      "link": "https://rajdhanidaily.com/id/148827/",
-      "source": "Rajdhani Daily",
-      "sourceUrl": "https://rajdhanidaily.com/feed/",
-      "pubDate": "2026-09-23T12:10:29+00:00",
-      "categories": [
-        "politics",
-        "business"
-      ],
-      "image": "https://rajdhanidaily.com/wp-content/uploads/2026/09/6-7-P-1.jpg",
-      "images": [
-        "https://rajdhanidaily.com/wp-content/uploads/2026/09/6-7-P-1.jpg"
-      ],
-      "description": "वीरगन्ज । त्रिभुवन राजपथ अन्तर्गत वीरगन्जको बजार क्षेत्रमा भएको सडक विस्तारका क्रममा घर संरचना तोडफोड भएका पीडितले यहाँ कालो झण्डा सहित प्रदर्शन गरेका छन् । वीरगन्जको मकालु चोकदेखि माईस्थान चोकसम्म कालोझण्डा हातमा बोकेर सडक पीडितले सरकारी कदमको बिरोधमा कालो झण्डा सहित प्रदर्शन गरेका हुन् । लालपूर्जा दिएर विना मुअब्जा सरकारले नै नागरिकको घर संरचना ध्वस्त […] The post सरकारी कदमको विरोधमा वीरगन्जका सडक पीडितको प्रदर्शन appeared first on राजधानी राष्ट्रिय दैनिक (लोकप्रिय राष्ट्रिय दैनिक)-RajdhaniDa"
     },
     {
       "id": "b00c5fee90641166",
@@ -3332,55 +3592,6 @@
       "description": "काठमाडौँ । सरकारको सार्वजनिक ऋण पौने ३० खर्ब रुपैयाँ पुगेको छ । सार्वजनिक ऋण व्यवस्थापन कार्यालयको विवरण अनुसार भदौ मसान्तसम्म नेपालको सार्वजनिक ऋण २९ खर्ब ७३ अर्ब ५ करोड ९२ लाख रुपैयाँ पुगेको हो । गत आर्थिक वर्षको असार मसान्तमा सरकारको सार्वजनिक ऋण २९ खर्ब ८१ अर्ब ७० करोड थियो । यसबीचमा लिएको ऋण भन्दा Continue reading \"सरकारी ऋण २९ खर्ब ७३ अर्ब पुग्यो, थप ६ खर्ब लिने लक्ष्य !\""
     },
     {
-      "id": "21d765624dfef097",
-      "title": "असोज ९ देखि तीन दिन भारी वर्षाको सम्भावना, सतर्क रहन प्रधानमन्त्री शाहको आग्रह",
-      "link": "https://newsofnepal.com/2026/09/23/788429/",
-      "source": "News of Nepal",
-      "sourceUrl": "https://newsofnepal.com/feed/",
-      "pubDate": "2026-09-23T11:23:54+00:00",
-      "categories": [
-        "politics",
-        "business",
-        "sports"
-      ],
-      "image": "https://newsofnepal.com/wp-content/uploads/2026/04/Balendra-Shah-150x150.jpg",
-      "images": [
-        "https://newsofnepal.com/wp-content/uploads/2026/04/Balendra-Shah-150x150.jpg"
-      ],
-      "description": "काठमाडौँ। प्रधानमन्त्री बालेन शाहले आगामी शुक्रबारदेखि आइतबारसम्म देशका विभिन्न स्थानमा भारीदेखि अति भारी वर्षाको सम्भावना रहेकाले नागरिकलाई उच्च सतर्कता अपनाउन आग्रह गरेका छन् । प्रधानमन्त्री शाहले सामाजिक सञ्जालमार्फत गण्डकी र लुम्बिनी प्रदेशका केही स्थानमा अति भारी वर्षा हुनसक्ने तथा कोशी, बागमती, मधेश, कर्णाली र सुदूरपश्चिमका विभिन्न क्षेत्रमा पनि भारी वर्षाको सम्भावना रहेको जानकारी दिएका छन् […]"
-    },
-    {
-      "id": "9bb1cfe9c2c8e845",
-      "title": "एन्फा र सरकार घम्साघम्सीले शून्यमा फुटबल, निलम्बनले अवसर गुमिरहँदा यस्तो हुन सक्छ निकास",
-      "link": "https://bizmandu.com/content/20260923170221.html",
-      "source": "Bizmandu",
-      "sourceUrl": "https://bizmandu.com/feed",
-      "pubDate": "2026-09-23T11:17:21+00:00",
-      "categories": [
-        "business",
-        "technology"
-      ],
-      "image": "",
-      "images": [],
-      "description": "काठमाडौं। साँढेको जुधाइमा बाछाको मिचाइ। यो भनाइ अहिले कतै चरितार्थ हुन्छ भने त्यो नेपाली फुटबल क्षेत्र हो। सरकार र एन्फा नेतृत्वको लामो समयको लफडाले खेल गतिविधि ठप्प छ। नेपाली फुटबल अहिले फिफाको निलम्बनमा छ। निलम्बित एन्फामाथि नेपाल प्रहरीले छापा मारेर अनुसन्धान सुरु गरेको छ। एन्फाका कोषाध्यक्ष र लेखापाल प्रहरी हिरासतमा छन् भने एन्फाको कोर नेतृत्व […] The post एन्फा र सरकार घम्साघम्सीले शून्यमा फुटबल, निलम्बनले अवसर गुमिरहँदा यस्तो हुन सक्छ निकास appeared first on BIZMANDU ."
-    },
-    {
-      "id": "8e73a6ec048110bc",
-      "title": "Min Bishwakarma says all ready to accept Deuba as senior leader",
-      "link": "https://english.khabarhub.com/2026/23/568920/",
-      "source": "Khabarhub",
-      "sourceUrl": "https://english.khabarhub.com/feed/",
-      "pubDate": "2026-09-23T11:15:49+00:00",
-      "categories": [
-        "politics",
-        "business",
-        "world"
-      ],
-      "image": "",
-      "images": [],
-      "description": "KATHMANDU: Nepali Congress leader Min Bishwakarma said he joined the faction recognized as official by the Election Commission and the court to prevent a split in the party. Speaking at an interaction organized by the Reporters Club Nepal in Kathmandu on Wednesday, Bishwakarma said that although the legal dispute over the party’s official status was […]"
-    },
-    {
       "id": "8b3b41fc61cfe084",
       "title": "एमाले बैठकमा सेनाका कुरा, विष्णु रिजालले मागे पार्टीको धारणा",
       "link": "https://himalpress.com/2026/09/uml-meeting-on-army-bishnu-rijal-seeks-partys-opinion/",
@@ -3395,27 +3606,6 @@
       "image": "",
       "images": [],
       "description": "काठमाडौँ- नेकपा एमालेका केन्द्रीय सदस्य विष्णु रिजालले नेपाली सेनाप्रति पार्टीको दृष्टिकोण स्पष्ट पार्नुपर्ने माग गर्दै पार्टीको सत्ता रणनीति, वाम एकता, नयाँ पुस्ताको सहभागिता र विगतका नीतिमाथि समेत गम्भीर समीक्षा गर्नुपर्ने धारणा राखेका छन्। एमाले केन्द्रीय कमिटी बैठकमा बुधबार धारणा राख्दै रिजालले भदौ २३-२४ का घटनामा नेपाली सेनाको भूमिकाबारे कैयौँ प्रश्न अनुत्तरित रहेको बताए। अध्यक्ष केपी […]"
-    },
-    {
-      "id": "29a26244743cd9a4",
-      "title": "लीडर सोसाइटीको सांस्कृतिक कला प्रतियोगिता २०८३ सम्पन्न",
-      "link": "https://newsofnepal.com/2026/09/23/788423/",
-      "source": "News of Nepal",
-      "sourceUrl": "https://newsofnepal.com/feed/",
-      "pubDate": "2026-09-23T11:10:30+00:00",
-      "categories": [
-        "politics",
-        "business",
-        "sports"
-      ],
-      "image": "https://newsofnepal.com/wp-content/uploads/2026/09/kala1-150x150.jpg",
-      "images": [
-        "https://newsofnepal.com/wp-content/uploads/2026/09/kala1-150x150.jpg",
-        "https://newsofnepal.com/wp-content/uploads/2026/09/kala2-768x511-1.jpg",
-        "https://newsofnepal.com/wp-content/uploads/2026/09/kala3-656x768.jpg",
-        "https://newsofnepal.com/wp-content/uploads/2026/09/kala4-686x768.jpg"
-      ],
-      "description": "काठमाडौं। लीडर सोसाइटीको आयोजनामा सांस्कृतिक कला प्रतियोगिता २०८३ सम्पन्न भएको छ। युवा पुस्तामा कला, सिर्जनशीलता तथा मौलिक संस्कृतिको संरक्षण र प्रवर्द्धनप्रति रुचि अभिवृद्धि गर्ने उद्देश्यले आयोजना गरिएको प्रतियोगितामा विभिन्न उमेर समूहका युवा कलाकारहरूको उत्साहजनक सहभागिता रहेको थियो। प्रतियोगिताको आयोजना तथा व्यवस्थापन लीडर सोसाइटीका अध्यक्ष रोशन महर्जनको नेतृत्वमा भएको थियो। कार्यक्रम संयोजक प्रतीक महर्जन, कार्यक्रम अधिकृत […]"
     },
     {
       "id": "4a7faace0eafb6f7",
@@ -3451,40 +3641,6 @@
       "image": "",
       "images": [],
       "description": "काठमाडौँ- नेपाली कांग्रेसका नेता मीन विश्वकर्माले पार्टी विभाजन हुन नदिन निर्वाचन आयोग र अदालतले आधिकारिक मानेको पक्षमा सहभागी भएको बताएका छन्। बुधबार रिपोटर्स क्लबले काठमाडौँमा गरेको साक्षात्कारमा नेता विश्वकर्माले पार्टीको आधिकारिकताका विषयमा कानुनी लडाइँ जारी रहे पनि पार्टी विभाजन हुन नदिन र एकताबद्ध राख्न निर्वाचन आयोग र अदालतले आधिकारिक मानेको कांग्रेसको पक्षमा उभिएको बताए। उनले […]"
-    },
-    {
-      "id": "0840d1cc0c467803",
-      "title": "लमजुङ मनाङ सडकमा सतर्कता अपनाउन प्रशासनको आग्रह",
-      "link": "https://newsofnepal.com/2026/09/23/788420/",
-      "source": "News of Nepal",
-      "sourceUrl": "https://newsofnepal.com/feed/",
-      "pubDate": "2026-09-23T10:50:17+00:00",
-      "categories": [
-        "politics",
-        "business",
-        "sports"
-      ],
-      "image": "https://newsofnepal.com/wp-content/uploads/2026/09/manang-sadak-150x150.jpg",
-      "images": [
-        "https://newsofnepal.com/wp-content/uploads/2026/09/manang-sadak-150x150.jpg"
-      ],
-      "description": "लमजुङ। भारी वर्षाको सम्भावना देखिएपछि जिल्ला प्रशासन कार्यालय लमजुङले बेसीशहर चामे सडकखण्ड सहित जिल्लाका ग्रामीण सडकमा उच्च सतर्कता अपनाउन आग्रह गरेको छ । मौसम पूर्वानुमान महाशाखाले शुक्रबारदेखि आइतबार (असोज ११) सम्म गण्डकी प्रदेशका केही स्थानमा भारीदेखि धेरै भारी वर्षा हुन सक्ने प्रक्षेपण गरेपछि प्रशासनले सम्भावित विपद्को जोखिमलाई मध्यनजर गर्दै पूर्वतयारीमा जोड दिएको हो । जिल्ला […]"
-    },
-    {
-      "id": "0fbcc1dee39ad696",
-      "title": "Yogesh Bhattarai says UML has suffered setback, calls for Oli to step down",
-      "link": "https://english.khabarhub.com/2026/23/568917/",
-      "source": "Khabarhub",
-      "sourceUrl": "https://english.khabarhub.com/feed/",
-      "pubDate": "2026-09-23T10:47:36+00:00",
-      "categories": [
-        "politics",
-        "business",
-        "world"
-      ],
-      "image": "",
-      "images": [],
-      "description": "KATHMANDU: CPN-UML Deputy General Secretary Yogesh Bhattarai has submitted a detailed 15-point written proposal and statement at the party’s ongoing Central Committee meeting. Bhattarai registered the written document after party Chair KP Sharma Oli did not allow him to present his views orally at the meeting, which has been underway for three days in Bhanimandal, […]"
     },
     {
       "id": "f972b2e60a2b9838",
@@ -3681,27 +3837,6 @@
         "http://english.onlinekhabar.com/wp-content/uploads/2026/09/Timure-flood-1024x684.jpeg"
       ],
       "description": "On 26 August 2026, when a colossal wedge of bedrock and glacial ice broke free from the northern flank of Mount Langtang Lirung at precisely 28.288°N, 85.528°E into Lhende Khola, it triggered devastating floods across Nepal, destroying villages, fertile land, bridges, roads, and 13 hydropower projects with a combined capacity of around 759 MW. Initial […] The post After Nepal’s Bhotekoshi flood, who pays for the damage? appeared first on OnlineKhabar English News ."
-    },
-    {
-      "id": "105d678fc662c06e",
-      "title": "महिला सशक्तीकरणका लागि ३२ पालिकामा ‘सशक्त महिला, समृद्ध नेपाल’ परियोजना सम्पन्न",
-      "link": "https://newsofnepal.com/2026/09/23/788413/",
-      "source": "News of Nepal",
-      "sourceUrl": "https://newsofnepal.com/feed/",
-      "pubDate": "2026-09-23T10:14:49+00:00",
-      "categories": [
-        "politics",
-        "business",
-        "sports"
-      ],
-      "image": "https://newsofnepal.com/wp-content/uploads/2026/09/w1-1-150x150.jpg",
-      "images": [
-        "https://newsofnepal.com/wp-content/uploads/2026/09/w1-1-150x150.jpg",
-        "https://newsofnepal.com/wp-content/uploads/2026/09/w2-1-768x511.jpg",
-        "https://newsofnepal.com/wp-content/uploads/2026/09/w4-768x558-1.jpg",
-        "https://newsofnepal.com/wp-content/uploads/2026/09/w5-768x722.jpg"
-      ],
-      "description": "काठमाडौँ। नेपाली महिलाको सशक्तीकरणका मुद्दालाई विभिन्न माध्यमबाट उजागर गर्दै लैङ्गिक समानता, महिला सशक्तीकरण र समावेशी सवाललाई नीति निर्माण तहसम्म पु¥याउने उद्देश्यले ‘सशक्त महिला, समृद्ध नेपाल’ परियोजना सञ्चालनमा रहेको छ । नेपाल सरकार, युरोपियन युनियन र संयुक्त राष्ट्रसंघ नेपालद्वारा सञ्चालित उक्त परियोजना कर्णाली प्रदेशका १०, मधेश प्रदेशका १२ र सुदूरपश्चिम प्रदेशका १० गरी ३२ पालिकामा सञ्चालन […]"
     },
     {
       "id": "a66e4cf46af8e8be",
@@ -4366,112 +4501,12 @@
       "description": "काठमाडौँ- प्रमुख प्रतिपक्षी दल नेपाली कांग्रेसका उपसभापति विश्वप्रकाश शर्माले संयुक्त राष्ट्रसंघको महासभालाई सम्बोधन गर्न न्युयोर्क पुगेका प्रधानमन्त्री वालेन्द्र शाह (बालेन) लाई जलवायु न्यायको मुद्दालाई प्रभावकारी रूपमा उठाउन सातबुँदे सुझाव दिएका छन्। प्रधानमन्त्री शाहले बिहीबार संयुक्त राष्ट्रसंघको महासभालाई सम्बोधन गर्ने कार्यक्रम छ। त्यसअघि बुधबार बिहान भिडियो सन्देश जारी गर्दै शर्माले यसअघि प्रधानमन्त्री कार्यालय सिंहदरबारमा पार्टीका तर्फबाट […]"
     },
     {
-      "id": "567f87edec0a6270",
-      "title": "मूल्य वृद्धिले आकास छोयो, सरकारलाई सोध्दा ३५ वर्षमा के गर्‍यौँ भन्ने जवाफ आउँछ : बलावती शर्मा",
-      "link": "https://himalpress.com/2026/09/price-hikes-have-skyrocketed-when-asked-about-the-government-the-answer-is-what-have-we-done-in-35-years-balawati-sharma/",
-      "source": "Himal Press",
-      "sourceUrl": "https://himalpress.com/feed/",
-      "pubDate": "2026-09-23T07:02:00+00:00",
-      "categories": [
-        "politics",
-        "business",
-        "society"
-      ],
-      "image": "",
-      "images": [],
-      "description": "काठमाडौँ- नेपाली कम्युनिष्ट पार्टीकी सांसद बलावती शर्माले दैनिक उपभोग्य वस्तुको मूल्य निरन्तर बढिरहेको भन्दै सरकारको ध्यानाकर्षण गराएकी छन्। बुधबार प्रतिनिधिसभा बैठकमा सांसद शर्माले तरकारी, खाद्यान्न, मासु, तेललगायत दैनिक उपभोग्य वस्तुको मूल्य बढ्दा सर्वसाधारण मारमा परेको बताइन् । उनले बजारमा रायोसाग प्रतिकेजी २७० रुपैयाँ, चिनी १७० रुपैयाँ, कुखुराको मासु करिब ५०० रुपैयाँ तथा खसी–बोकाको मासु १ […]"
-    },
-    {
-      "id": "74593c583adb1be8",
-      "title": "२०औं एसियन गेम्स : नेपालले खोल्यो पदकको खाता, करातेबाट शेर्पाले जिते कास्य",
-      "link": "https://himalpress.com/2026/09/20th-asian-games-nepal-opens-medal-account-sherpa-wins-bronze-in-karate/",
-      "source": "Himal Press",
-      "sourceUrl": "https://himalpress.com/feed/",
-      "pubDate": "2026-09-23T06:58:34+00:00",
-      "categories": [
-        "politics",
-        "business",
-        "society"
-      ],
-      "image": "",
-      "images": [],
-      "description": "काठमाडौँ- जापान जारी २०औं एसियन गेम्समा नेपालले पहिलो पदक जित्न सफल भएको छ। नेपालले करातेबाट पहिलो पदकस्वरुप कास्य पदक जितेको हो। नेपालका लागि करातेको कुमितेको ८४ केजीमाथिको तौल समूहमा तेन्जिङ शेर्पाले कास्य पदक जित्न सफल भएका हुन्। तेन्जिङ सुरुमा सेमिफाइनलमा इरानका नेमातीसँग ५-० अंकलेपराजित भएका थिए। सेमिफाइनल पराजित भएपछि उनले कास्य पदकका लागि लाओसका खेलाडीसँग […]"
-    },
-    {
       "id": "a4f836710c00de63",
       "title": "एसियाडमा नेपाललाई पहिलो पदक, तेन्जिङले जिते कास्य",
       "link": "https://www.nepalviews.com/story/425758/nepal-wins-first-medal-at-asian-games-tenzing-wins-bronze",
       "source": "Nepal Views",
       "sourceUrl": "https://www.nepalviews.com/feed/",
       "pubDate": "2026-09-23T06:53:43+00:00",
-      "categories": [
-        "politics",
-        "business",
-        "technology"
-      ],
-      "image": "https://nepalviews.cdnsolution.net/en/media/setting/banner_FHsSzcWYKk.jpg",
-      "images": [
-        "https://nepalviews.cdnsolution.net/en/media/setting/banner_FHsSzcWYKk.jpg"
-      ],
-      "description": ""
-    },
-    {
-      "id": "5ff2cb3d5a5fb00b",
-      "title": "विज्ञापन बोर्डको अध्यक्षमा सन्तोष श्रेष्ठ नियुक्त",
-      "link": "https://himalpress.com/2026/09/santosh-shrestha-appointed-as-chairman-of-the-advertising-board/",
-      "source": "Himal Press",
-      "sourceUrl": "https://himalpress.com/feed/",
-      "pubDate": "2026-09-23T06:52:58+00:00",
-      "categories": [
-        "politics",
-        "business",
-        "society"
-      ],
-      "image": "",
-      "images": [],
-      "description": "काठमाडौँ- सरकारले विज्ञापन बोर्डको अध्यक्षमा सन्तोष श्रेष्ठलाई नियुक्त गरेको छ । मन्त्रिपरिषद्को असोज २ गतेको निर्णयअनुसार काठमाडौँ महानगरपालिका–१४ निवासी श्रेष्ठलाई बढीमा चार वर्षका लागि बोर्डको अध्यक्ष नियुक्त गरिएको हो । नवनियुक्त अध्यक्ष श्रेष्ठले आज सूचना तथा सञ्चारमन्त्री डा विक्रम तिमिल्सिनासमक्ष पद तथा गोपनीयताको शपथ लिएका छन्। शपथपछि सूचना तथा सञ्चारमन्त्री डा तिमिल्सिनाले नवनियुक्त अध्यक्ष श्रेष्ठलाई […]"
-    },
-    {
-      "id": "1994c5221c50474a",
-      "title": "विद्युत प्राधिकरणका कार्यकारी निर्देशकले लिए शपथ, निष्ठापूर्वक काम गर्न निर्देशन",
-      "link": "https://himalpress.com/2026/09/electricity-authority-executive-director-takes-oath-instructed-to-work-with-integrity/",
-      "source": "Himal Press",
-      "sourceUrl": "https://himalpress.com/feed/",
-      "pubDate": "2026-09-23T06:47:23+00:00",
-      "categories": [
-        "politics",
-        "business",
-        "society"
-      ],
-      "image": "",
-      "images": [],
-      "description": "काठमाडौँ- नेपाल विद्युत प्राधिकरणका नवनियुक्त कार्यकारी निर्देशक दीर्घायु कुमार श्रेष्ठले पद तथा गोपनियताको शपथ लिएका छन् । ऊर्जा, जलस्रोत तथा सिँचाइ मन्त्री विराजभक्त श्रेष्ठले बुधबार विहान मन्त्रालयमा कार्यकारी निर्देशक श्रेष्ठलाई शपथ ग्रहण गराएका हुन् । उक्त अवसरमा मन्त्री श्रेष्ठले प्रणाली बनाएर निष्ठापूर्वक काम गर्न निर्देशन दिए । उनले मन्त्रालयका निकायहरुसँग उच्च समन्वय गर्न पनि सुझाए। […]"
-    },
-    {
-      "id": "7a0da58d4e32ce00",
-      "title": "राष्ट्रपति पौडेल र कार्यवाहक प्रधानमन्त्री वाग्लेबीच भेटवार्ता",
-      "link": "https://www.nepalviews.com/story/425757/meeting-between-president-poudel-and-acting-prime-minister-wagle",
-      "source": "Nepal Views",
-      "sourceUrl": "https://www.nepalviews.com/feed/",
-      "pubDate": "2026-09-23T06:26:10+00:00",
-      "categories": [
-        "politics",
-        "business",
-        "technology"
-      ],
-      "image": "https://nepalviews.cdnsolution.net/en/media/setting/banner_FHsSzcWYKk.jpg",
-      "images": [
-        "https://nepalviews.cdnsolution.net/en/media/setting/banner_FHsSzcWYKk.jpg"
-      ],
-      "description": ""
-    },
-    {
-      "id": "7970591378379f52",
-      "title": "भोटेकोशी बाढीमा बेपत्तालाई मृतकसरह कानुनी हैसियत दिन माग",
-      "link": "https://www.nepalviews.com/story/425756/demand-to-give-legal-status-to-those-missing-in-bhotekoshi-flood-as-dead",
-      "source": "Nepal Views",
-      "sourceUrl": "https://www.nepalviews.com/feed/",
-      "pubDate": "2026-09-23T06:21:26+00:00",
       "categories": [
         "politics",
         "business",
