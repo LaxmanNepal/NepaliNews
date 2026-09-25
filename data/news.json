@@ -1,10 +1,112 @@
 {
-  "generatedAt": "2026-09-25T19:33:18.684072+00:00",
+  "generatedAt": "2026-09-25T22:48:46.095544+00:00",
   "feedCount": 41,
   "healthyFeeds": 24,
   "failedFeeds": 17,
-  "itemCount": 341,
+  "itemCount": 343,
   "items": [
+    {
+      "id": "c804157a1f2cbd73",
+      "title": "बाढी पसेपछि सुस्तावासी समस्यामा",
+      "link": "https://www.ratopati.com/story/594968/susta-residents-in-trouble-after-floods",
+      "source": "Ratopati",
+      "sourceUrl": "https://ratopati.com/feed",
+      "pubDate": "2026-09-25T22:42:07+00:00",
+      "categories": [
+        "politics",
+        "sports"
+      ],
+      "image": "https://rpcdn.ratopati.com/archived-media/narayani-nadi.jpg",
+      "images": [
+        "https://rpcdn.ratopati.com/archived-media/narayani-nadi.jpg"
+      ],
+      "description": "नवलपरासी (बर्दघाट सुस्ता पश्चिम) । निरन्तरको वर्षाले पश्चिम नवलपरासीको सुस्तामा नारायणी नदीको क्बाढीबस्तीमा पस्न थालेपछि स्थानीयवासी समस्या परेका छन् । जिल्लाको सुस्ता गाउँपालिका–५ सुस्तास्थित थारु टोलका घरपरिवार बाढी पसेपछि सुस्तामै रहेको सामुदायिक भवन तथा आफन्तकहाँ आश्रय"
+    },
+    {
+      "id": "e3199d887c23ac08",
+      "title": "झापामा ‘ड्रोन’ बाट बाढीको जोखिम निगरानी",
+      "link": "https://www.ratopati.com/story/594967/flood-risk-monitoring-using-drones-in-jhapa",
+      "source": "Ratopati",
+      "sourceUrl": "https://ratopati.com/feed",
+      "pubDate": "2026-09-25T22:37:59+00:00",
+      "categories": [
+        "politics",
+        "sports"
+      ],
+      "image": "https://npcdn.ratopati.com/media/news/jhapa__dhzolqasr2_QnjZRO8TPN.webp",
+      "images": [
+        "https://npcdn.ratopati.com/media/news/jhapa__dhzolqasr2_QnjZRO8TPN.webp"
+      ],
+      "description": "झापा । बङ्गालको खाडीबाट अगाडि बढिरहेको वर्षा प्रणालीका कारण बाढी तथा डुबानको जोखिम बढेपछि झापामा जोखिम क्षेत्रको निगरानीका लागि पहिलोपटक ड्रोन प्रयोगमा ल्याइएको छ । जिल्ला विपद् व्यवस्थापन समितिले बाढी तथा डुबानको जोखिम निगरानी र"
+    },
+    {
+      "id": "5dc56693a169ab61",
+      "title": "‘विपद् आउनुअघि नै जलवायु वित्त उपलब्ध हुनुपर्छ’ सांसद विदुषी राना",
+      "link": "https://www.ratopati.com/story/594966/climate-finance-should-be-available-before-disasters-strike-mp-vidushi-rana",
+      "source": "Ratopati",
+      "sourceUrl": "https://ratopati.com/feed",
+      "pubDate": "2026-09-25T22:35:40+00:00",
+      "categories": [
+        "politics",
+        "sports"
+      ],
+      "image": "https://npcdn.ratopati.com/media/news/bidusi-rana_648oCJzZwb.jpg",
+      "images": [
+        "https://npcdn.ratopati.com/media/news/bidusi-rana_648oCJzZwb.jpg"
+      ],
+      "description": "काठमाडौँ । राष्ट्रिय स्वतन्त्र पार्टीकी सांसद विदुषी रानाले जलवायु परिवर्तनका कारण नेपालले भोगिरहेको विपद्‌ न्यूनीकरणका लागि विपद् आउनुअघि नै जलवायु वित्त उपलब्ध हुनुपर्नेमा जोड दिएकी छन् । बेलायत–नेपाल प्राज्ञिक परिषद् र लन्डनस्थित नेपाली दूतावासद्वारा आयोजित कार्यक्रमलाई सम्बोधन"
+    },
+    {
+      "id": "9095c5e58173897f",
+      "title": "बाढीको जोखिममा राप्ती तटीय क्षेत्रका बासिन्दा",
+      "link": "https://www.ratopati.com/story/594965/residents-of-rapti-coastal-areas-at-risk-of-flooding",
+      "source": "Ratopati",
+      "sourceUrl": "https://ratopati.com/feed",
+      "pubDate": "2026-09-25T22:31:23+00:00",
+      "categories": [
+        "politics",
+        "sports"
+      ],
+      "image": "https://rpcdn.ratopati.com/media/albums/rapti-river_MNNUTspPKh.jpg",
+      "images": [
+        "https://rpcdn.ratopati.com/media/albums/rapti-river_MNNUTspPKh.jpg"
+      ],
+      "description": "बाँके । बाँकेमा दुई दिनदेखि जारी अविरल वर्षाको कारण राप्ती नदी तटीय क्षेत्रका बासिन्दा बाढीको जोखिममा परेका छन् । राप्ती नदीले राप्ती सोनारीको २ नं वडादेखि नरैनापुरसम्मकै तल्लोतटीय क्षेत्रका बासिन्दालाई वर्षेनी जोखिम राख्दै आएको छ ।"
+    },
+    {
+      "id": "025874fe85f82760",
+      "title": "एमबाप्पेको निर्णायक गोलमा फ्रान्स विजयी",
+      "link": "https://www.ratopati.com/story/594964/france-wins-with-mbappes-decisive-goal",
+      "source": "Ratopati",
+      "sourceUrl": "https://ratopati.com/feed",
+      "pubDate": "2026-09-25T22:28:14+00:00",
+      "categories": [
+        "politics",
+        "sports"
+      ],
+      "image": "https://npcdn.ratopati.com/media/news/france_m0iiqHZ6EJ.webp",
+      "images": [
+        "https://npcdn.ratopati.com/media/news/france_m0iiqHZ6EJ.webp"
+      ],
+      "description": "काठमाडौँ । नेसन्स लिग अन्तर्गत समूह ‘ए’ को पहिलो खेलमा फ्रान्सले टर्किएलाई १–० गोलअन्तरले पराजित गरेको छ । खेलको ५४औँ मिनेटमा किलियन एमबाप्पेले गरेको गोल नै फ्रान्सको जितका लागि निर्णायक बन्यो । यता खेलको ८७औँ मिनेटमा उगुरकान"
+    },
+    {
+      "id": "01d66642d9aaa103",
+      "title": "नेसन्स लिगमा इटालीमाथि बेल्जियमको सहज जित",
+      "link": "https://www.ratopati.com/story/594963/belgium-comfortably-beat-italy-in-nations-league",
+      "source": "Ratopati",
+      "sourceUrl": "https://ratopati.com/feed",
+      "pubDate": "2026-09-25T22:24:20+00:00",
+      "categories": [
+        "politics",
+        "sports"
+      ],
+      "image": "https://npcdn.ratopati.com/media/news/belguim-vs-italy_o8V66rNA7D.webp",
+      "images": [
+        "https://npcdn.ratopati.com/media/news/belguim-vs-italy_o8V66rNA7D.webp"
+      ],
+      "description": "काठमाडौँ । नेसन्स लिग अन्तर्गत समूह ‘ए’ को पहिलो खेलमा बेल्जियमले इटालीलाई २–० गोलअन्तरले पराजित गरेको छ । खेलको २०औँ मिनेटमा मिका गोट्सले गोल गर्दै बेल्जियमलाई सुरुवाती अग्रता दिलाएका थिए । त्यसपछि खेलको ६९औँ मिनेटमा डोडी"
+    },
     {
       "id": "21c388b1f4c2c6d1",
       "title": "विश्व पर्यटन दिवसमा सडक महोत्सव गरिने",
@@ -1457,23 +1559,6 @@
       "description": ""
     },
     {
-      "id": "052022ee01d9527d",
-      "title": "च्यासलमा बाढीको जोखिम बढेपछि अखिल (क्रान्तिकारी) जनचेतना अभियानमा",
-      "link": "https://www.ratopati.com/story/594938/all-out-revolutionary-public-awareness-campaign-launched-as-flood-risk-increases-in-chyasal",
-      "source": "Ratopati",
-      "sourceUrl": "https://ratopati.com/feed",
-      "pubDate": "2026-09-25T15:13:45+00:00",
-      "categories": [
-        "politics",
-        "sports"
-      ],
-      "image": "https://npcdn.ratopati.com/media/news/uml-party-office-(7)_xKEkp9b7eU.webp",
-      "images": [
-        "https://npcdn.ratopati.com/media/news/uml-party-office-(7)_xKEkp9b7eU.webp"
-      ],
-      "description": "ललितपुर । च्यासल क्षेत्रमा पानीको बहाव बढेसँगै बाढीको जोखिम बढ्न थालेपछि अखिल (क्रान्तिकारी) ले जनचेतना अभियान सञ्चालन गरेको छ। खोला किनारमा हिँडिरहेका नागरिकलाई सुरक्षित स्थानमा बस्न र अनावश्यक रूपमा खोला आसपास नजान आग्रह गर्दै सङ्गठनका स्वयंसेवकहरू"
-    },
-    {
       "id": "69e8ac0d625248e1",
       "title": "कोशीमा बजेट कार्यान्वयनको अन्यौलता हट्यो",
       "link": "https://gorkhapatraonline.com/news/224258",
@@ -1491,21 +1576,19 @@
       "description": "विराटनगर समाचारदाताविराटनगर, असोज ९ गते । कोशी प्रदेश सरकारको भौतिक पूर्वाधार विकास मन्त्रालयले चालु आर्थिक वर्षमा सञ्चालन गर्नुपर्ने विकास योजनाको कार्यान्वयन रोकेको २५ दिनपछि आयो..."
     },
     {
-      "id": "b131d57945f180ac",
-      "title": "औद्योगिक विकासका लागि कर प्रणाली पुनरवलोकन र पूर्वाधार निर्माण गर्न माग",
-      "link": "https://www.ratopati.com/story/594937/koshi-province-demands-review-of-tax-system-and-construction-of-infrastructure-for-industrial-development",
-      "source": "Ratopati",
-      "sourceUrl": "https://ratopati.com/feed",
-      "pubDate": "2026-09-25T15:07:41+00:00",
+      "id": "fa1ac088058f80a4",
+      "title": "च्यासलमा बाढीको जोखिम बढेपछि अखिल (क्रान्तिकारी) जनचेतना अभियानमा",
+      "link": "https://nepallive.com/story/351053",
+      "source": "Nepal Live",
+      "sourceUrl": "https://nepallive.com/feed",
+      "pubDate": "2026-09-25T15:05:23+00:00",
       "categories": [
         "politics",
-        "sports"
+        "technology"
       ],
-      "image": "https://npcdn.ratopati.com/media/news/uddhog_Xyw6EkCmeK.webp",
-      "images": [
-        "https://npcdn.ratopati.com/media/news/uddhog_Xyw6EkCmeK.webp"
-      ],
-      "description": "विराटनगर। नेपाल उद्योग परिसंघ (सिएनआई) कोशी प्रदेशले देशको समग्र औद्योगिक तथा आर्थिक विकासका लागि कर संरचनामा व्यापक सुधार, विद्युत् महसुलमा लगाइएको मूल्य अभिवृद्धि कर (भ्याट) खारेजी तथा रुग्ण पूर्वाधारहरूको शीघ्र निर्माणको माग गर्दै सरकारलाई सुझावपत्र"
+      "image": "",
+      "images": [],
+      "description": "खोला किनारमा हिँडिरहेका नागरिकलाई सुरक्षित स्थानमा बस्न र अनावश्यक रूपमा खोला आसपास नजान आग्रह गर्दै संगठनका स्वयंसेवकहरु जनचेतना फैलाउन खटिएका छन्।"
     },
     {
       "id": "73691769e3ea3776",
@@ -1524,23 +1607,6 @@
       "description": "बाँके। मानव–वन्यजन्तु द्वन्द्व सृजना गर्ने सात ‘समस्याग्रस्त’ बाघको उद्धार गरिएको छ। उद्धार गरिएका ती बाघ बाँके, बर्दिया र चितवनबाट स्थानान्तरण गरेर ल्याइएका हुन्। सातमध्ये पाँचवटा बाघ र दुई बघेनी रहेको बर्दिया राष्ट्रिय निकुञ्जले जनाएको छ। बाँके, बर्दिया र चितवन राष्ट्रिय निकुञ्ज आसपासका क्षेत्रमा मान्छेमाथि आक्रमण गरी द्वन्द्व सृजना गरेपछि नियन्त्रणमा लिइएका बाघलाई बर्दियाको रमुवापुर र […]"
     },
     {
-      "id": "0c714d8fa1e1617b",
-      "title": "अब्दुल खानसहितका केही नेता रास्वपा प्रवेशकाे तयारीमा",
-      "link": "https://www.ratopati.com/story/594936/some-leaders-including-abdul-khan-are-preparing-to-join-the-rashtriya-swayamsevak-sangh-rss",
-      "source": "Ratopati",
-      "sourceUrl": "https://ratopati.com/feed",
-      "pubDate": "2026-09-25T15:01:14+00:00",
-      "categories": [
-        "politics",
-        "sports"
-      ],
-      "image": "https://npcdn.ratopati.com/media/news/abdul_wxHL0gD7FW.webp",
-      "images": [
-        "https://npcdn.ratopati.com/media/news/abdul_wxHL0gD7FW.webp"
-      ],
-      "description": "काठमाडौँ । नागरिक उन्मुक्ति पार्टी नेपालका वरिष्ठ उपाध्यक्ष अब्दुल खानसहित केही नेता राष्ट्रिय स्वतन्त्र पार्टी ९रास्वपा० मा प्रवेश गर्ने तयारीमा रहेको खुलेको छ । खानको नेतृत्वमा केही युवाले शुक्रबार रास्वपा सभापति रवि लामिछानेलाई भेटेर पार्टीमा आबद्ध"
-    },
-    {
       "id": "0319b2874b166c35",
       "title": "भोटेकोशी बाढी : रसुवाका तीन जनप्रतिनिधिको अवस्था अझै अज्ञात",
       "link": "https://himalpress.com/2026/09/bhotekoshi-flood-rasuwas-three/",
@@ -1555,23 +1621,6 @@
       "image": "",
       "images": [],
       "description": "काठमाडौँ- रसुवाको भोटेकोशीमा आएको वनाशकारी बाढीले बगाएर बेपत्ता भएका रसुवाको गोसाइँकुण्ड गाउँपालिकाका उपाध्यक्षसहित दुई जना जनप्रतिनिधिको एक महिनासम्म कुनै जानकारी नपाएपछि पीडित परिवारले परम्परागत काजकिरिया सुरु गरेका छन्। गत भदौ १० गते भोटेकोशी नदीमा आएको बाढीमा परी गाउँपालिकाका उपाध्यक्ष प्रतिमा लामा, वडा नं २ का वडाध्यक्ष कामीछिरिङ तामाङ र वडा नं ५ का वडाध्यक्ष दावामिङ्मार तामाङ […]"
-    },
-    {
-      "id": "0d9b5aa5863c69df",
-      "title": "‘हुँकार मधेस’ घोषणा : संयोजक बन्न स्नातकोत्तरदेखि १० वर्षे राजनीतिक अनुभवसम्मको मापदण्ड",
-      "link": "https://www.ratopati.com/story/594935/hunkar-madhes-announcement-criteria-for-becoming-a-coordinator-range-from-a-masters-degree-to-10-years-of-political-experience",
-      "source": "Ratopati",
-      "sourceUrl": "https://ratopati.com/feed",
-      "pubDate": "2026-09-25T14:55:41+00:00",
-      "categories": [
-        "politics",
-        "sports"
-      ],
-      "image": "https://npcdn.ratopati.com/media/news/hunkar-madhesh_YeR8tmNyYq.webp",
-      "images": [
-        "https://npcdn.ratopati.com/media/news/hunkar-madhesh_YeR8tmNyYq.webp"
-      ],
-      "description": "काठमाडौँ। विभिन्न राजनीतिक दल परित्याग गरेका युवाहरूको भेलाले ‘हुँकार मधेस’ नामक नयाँ राजनीतिक सङ्गठन घोषणा गरेको छ । मधेसको समग्र अधिकार, सुशासन र वैकल्पिक राजनीतिको एजेन्डासहित अघि बढ्ने घोषणा गरिएको सङ्गठनले ११८ सदस्यीय केन्द्रीय अभियन्ताको"
     },
     {
       "id": "437a22a4962272f6",
@@ -1623,23 +1672,6 @@
       "image": "",
       "images": [],
       "description": "MUMBAI: The makers of Sanjay Leela Bhansali’s Love & War have dropped the first-look poster of Alia Bhatt on Friday. Sanjay Leela Bhansali’s Love & War, one of the most awaited films of 2027, continues to surprise with every new reveal. The film also marks one of the most contemporary worlds created by SLB, moving […]"
-    },
-    {
-      "id": "7853ac464bbd661e",
-      "title": "ओलीको ‘विद्या कार्ड’ले उब्जाएको संशय : वामपन्थी एकता कि विरोधीको मुख बन्द ?",
-      "link": "https://www.ratopati.com/story/594915/olis-education-card-raises-doubts-leftist-unity-or-silencing-the-opposition",
-      "source": "Ratopati",
-      "sourceUrl": "https://ratopati.com/feed",
-      "pubDate": "2026-09-25T14:45:00+00:00",
-      "categories": [
-        "politics",
-        "sports"
-      ],
-      "image": "https://npcdn.ratopati.com/media/news/oli-bidhya_ZvysNSQMuS.webp",
-      "images": [
-        "https://npcdn.ratopati.com/media/news/oli-bidhya_ZvysNSQMuS.webp"
-      ],
-      "description": "काठमाडौँ। नेकपा एमालेमा पूर्वउपाध्यक्ष विद्यादेवी भण्डारीको पुनरागमनले वामपन्थी एकता, सहकार्य र ध्रुवीकरणले नयाँ मोड लिनसक्ने चर्चा राजनीतिक वृत्तमा चलेको छ । बिहीबार ललितपुरको भनिमण्डलस्थित रामबाघमा सम्पन्न एमालेको केन्द्रीय समिति बैठकले पूर्वराष्ट्रपति भण्डारीलाई सम्मानित वरिष्ठ नेतामा मनोनीत"
     },
     {
       "id": "e33de943923a588e",
