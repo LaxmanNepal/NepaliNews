@@ -1,10 +1,1013 @@
 {
-  "generatedAt": "2026-09-26T15:02:55.697750+00:00",
+  "generatedAt": "2026-09-26T18:35:31.174414+00:00",
   "feedCount": 41,
   "healthyFeeds": 24,
   "failedFeeds": 17,
-  "itemCount": 335,
+  "itemCount": 328,
   "items": [
+    {
+      "id": "03b665941cc1c5d9",
+      "title": "पर्यटक सुरक्षाका लागि एक्यापद्वारा पर्यटक परमिट बन्द",
+      "link": "https://www.ratopati.com/story/595148/acap-suspends-tourist-permits-for-tourist-safety",
+      "source": "Ratopati",
+      "sourceUrl": "https://ratopati.com/feed",
+      "pubDate": "2026-09-26T18:30:00+00:00",
+      "categories": [
+        "politics",
+        "sports"
+      ],
+      "image": "https://npcdn.ratopati.com/media/news/mustang_map_LeezRi6vcZ.jpg",
+      "images": [
+        "https://npcdn.ratopati.com/media/news/mustang_map_LeezRi6vcZ.jpg"
+      ],
+      "description": "मुस्ताङ । राष्ट्रिय प्रकृति संरक्षण कोष, अन्नपूर्ण संरक्षण क्षेत्र आयोजनाले सम्भावित विपद् जोखिमको प्रक्षेपण तथा त्यसबाट हुनसक्ने सम्भावित क्षति न्यूनीकरणका लागि भन्दै सो क्षेत्रमा भ्रमण गर्न जाने पर्यटकका लागि प्रवेशाज्ञा (परमिट) दिन बन्द गरेको छ"
+    },
+    {
+      "id": "056c0f23066d9e80",
+      "title": "नेपाल र बेलारुसबीच कूटनीतिक, सरकारी तथा सेवा राहदानीवाहकलाई भिसा छुट दिने सम्झौता",
+      "link": "https://gorkhapatraonline.com/news/224420",
+      "source": "Gorkhapatra",
+      "sourceUrl": "https://gorkhapatraonline.com/rss",
+      "pubDate": "2026-09-26T18:19:28+00:00",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "image": "https://gorkhapatraonline.com/storage/media/385052/conversions/1000186347-original.jpg",
+      "images": [
+        "https://gorkhapatraonline.com/storage/media/385052/conversions/1000186347-original.jpg"
+      ],
+      "description": "काठमाडौँ, असोज १० गते । नेपाल र बेलारुसबीच कूटनीतिक, सरकारी तथा सेवा राहदानीवाहकलाई भिसा छुट दिनेसम्बन्धी सम्झौतामा हस्ताक्षर भएको छ ।संयुक्त राष्ट्रसङ्घको ८१औँ महासभाका अवसरमा न्य..."
+    },
+    {
+      "id": "fc6156827d23f8db",
+      "title": "१२ बजे १२ समाचार : यस्ता छन् आजका प्रमुख समाचार",
+      "link": "https://www.ratopati.com/story/595146/12-news-at-12-these-are-todays-top-news-stories",
+      "source": "Ratopati",
+      "sourceUrl": "https://ratopati.com/feed",
+      "pubDate": "2026-09-26T18:15:00+00:00",
+      "categories": [
+        "politics",
+        "sports"
+      ],
+      "image": "https://npcdn.ratopati.com/media/news/12-am-final_viqawbfig2-(1)_fam6WtIhIE.jpg",
+      "images": [
+        "https://npcdn.ratopati.com/media/news/12-am-final_viqawbfig2-(1)_fam6WtIhIE.jpg"
+      ],
+      "description": "काठमाडाैँ र आज दिनभरका मुख्यमुख्य घटनाक्रमसहित रातोपाटीको रात्रिकालीन प्रस्तुति रातोपाटी ब्रिफिङमा ‘१२ बजे १२ समाचार’ लिएर हाजिर भएका छौँ– १. महासभामा सहभागी भएर स्वदेश फर्किए प्रधानमन्त्री संयुक्त राष्ट्रसङ्घको ८१औँ महासभामा सहभागी भएर प्रधानमन्त्री वालेन्द्र शाह शनिबार स्वदेश"
+    },
+    {
+      "id": "0a9769dc8ae25741",
+      "title": "उत्तर–पश्चिमी पाकिस्तानमा प्रहरी जाँच चौकीमा आत्मघाती विस्फोट, कम्तीमा ११ जनाको मृत्यु",
+      "link": "https://gorkhapatraonline.com/news/224419",
+      "source": "Gorkhapatra",
+      "sourceUrl": "https://gorkhapatraonline.com/rss",
+      "pubDate": "2026-09-26T18:09:18+00:00",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "image": "https://gorkhapatraonline.com/storage/media/385051/conversions/pakistan-original.jpg",
+      "images": [
+        "https://gorkhapatraonline.com/storage/media/385051/conversions/pakistan-original.jpg"
+      ],
+      "description": "डेरा इस्माइल खान (पाकिस्तान), असोज १० गते । उत्तर–पश्चिमी पाकिस्तानमा शनिबार सडकछेउको प्रहरी जाँच चौकीमा आत्मघाती आक्रमणकारीले विस्फोटक पदार्थले भरिएको सवारीसाधन विस्फोट गराउँदा कम..."
+    },
+    {
+      "id": "0f3495b1dc77b90c",
+      "title": "परराष्ट्रमन्त्री खनाल र संयुक्त राष्ट्रसङ्घका मानवअधिकार उच्चायुक्त तुर्कबिच भेटवार्ता",
+      "link": "https://gorkhapatraonline.com/news/224418",
+      "source": "Gorkhapatra",
+      "sourceUrl": "https://gorkhapatraonline.com/rss",
+      "pubDate": "2026-09-26T18:02:49+00:00",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "image": "https://gorkhapatraonline.com/storage/media/385050/conversions/1000186348-original.jpg",
+      "images": [
+        "https://gorkhapatraonline.com/storage/media/385050/conversions/1000186348-original.jpg"
+      ],
+      "description": "काठमाडौँ, असोज १० गते । परराष्ट्रमन्त्री शिशिर खनाल र संयुक्त राष्ट्रसङ्घका मानवअधिकार उच्चायुक्त भोल्कर तुर्कबिच भेटवार्ता भएको छ ।संयुक्त राष्ट्रसङ्घको ८१औँ महासभाका अवसरमा न्यु..."
+    },
+    {
+      "id": "6aa7f4900fd70a94",
+      "title": "तालतलैया गोल्डकपको उपाधि शतिसालेलाई",
+      "link": "https://www.ratopati.com/story/595147/shatisala-wins-talatalaiya-gold-cup-title",
+      "source": "Ratopati",
+      "sourceUrl": "https://ratopati.com/feed",
+      "pubDate": "2026-09-26T17:47:25+00:00",
+      "categories": [
+        "politics",
+        "sports"
+      ],
+      "image": "https://npcdn.ratopati.com/media/news/D1nR2zE3MR.jpg",
+      "images": [
+        "https://npcdn.ratopati.com/media/news/D1nR2zE3MR.jpg"
+      ],
+      "description": "सुनसरी । इटहरीमा सम्पन्न प्रथम तालतलैया गोल्डकप फुटबल प्रतियोगिताको उपाधि मोरङको शतिसाले फुटबल क्लबले जितेको छ । इटहरी–२ स्थित बुढासुब्बा खेलमैदानमा आज सम्पन्न फाइनल खेलमा शतिसालेले उदयपुरको फ्युजन फुटबल क्लबलाई ३–० गोलअन्तरले पराजित गर्दै उपाधि जितेको"
+    },
+    {
+      "id": "26f2ab5c9dfe01e5",
+      "title": "कालीगण्डकी नदीमा सतर्कता तह पार, सतर्कता अपनाउन आग्रह",
+      "link": "https://gorkhapatraonline.com/news/224417",
+      "source": "Gorkhapatra",
+      "sourceUrl": "https://gorkhapatraonline.com/rss",
+      "pubDate": "2026-09-26T17:46:04+00:00",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "image": "https://gorkhapatraonline.com/storage/media/385049/conversions/SG_MyagdiMyagdirakaligandakikobadi(2)-original.jpg",
+      "images": [
+        "https://gorkhapatraonline.com/storage/media/385049/conversions/SG_MyagdiMyagdirakaligandakikobadi(2)-original.jpg"
+      ],
+      "description": "गोरखापत्र अनलाइन काठमाडौँ, असोज १० गते । जल विज्ञान तथा ऊर्जा जलस्रोत अनुसन्धान केन्द्र अन्तर्गतको बाढी पूर्वानुमान महाशाखाका अनुसार अहिले कालीगण्डकी नदीमा सतर्कता तह पार गरेको छ ।..."
+    },
+    {
+      "id": "d473e3a8e85d3153",
+      "title": "सडक सञ्जाल अवरुद्ध हुँदा रसुवामा खाद्यान्न अभाव, बिरामी मारमा",
+      "link": "https://gorkhapatraonline.com/news/224416",
+      "source": "Gorkhapatra",
+      "sourceUrl": "https://gorkhapatraonline.com/rss",
+      "pubDate": "2026-09-26T17:26:50+00:00",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "image": "https://gorkhapatraonline.com/storage/media/385047/conversions/votekoshi-flood-original.jpg",
+      "images": [
+        "https://gorkhapatraonline.com/storage/media/385047/conversions/votekoshi-flood-original.jpg"
+      ],
+      "description": "रसुवा, असोज १० गते । भोटेकोशी बाढीका कारण चीनसँगको सीमावर्ती जिल्ला रसुवाको सडक सञ्जाल पूर्णरूपमा टुटेपछि स्थानीय जनजीवन कष्टकर बनेको छ । सडक यातायात ठप्प हुँदा जिल्लामा खाद्यान्न..."
+    },
+    {
+      "id": "463e39cf845a00a2",
+      "title": "कालीगण्डकीको बाढीले पुलको पहुँचमार्ग बगायो",
+      "link": "https://nepalnews.com/2026/09/26/kaligandaki-floods-wash-away-bridge-access-road/",
+      "source": "Nepal News",
+      "sourceUrl": "https://nepalnews.com/feed",
+      "pubDate": "2026-09-26T17:25:34+00:00",
+      "categories": [
+        "politics",
+        "business",
+        "world"
+      ],
+      "image": "",
+      "images": [],
+      "description": "नवलपुर (नवलपरासी) । नवलपरासी (बर्दघाट–सुस्तापूर्व) र तनहुँ जोड्ने कालीगण्डकी नदीमा बनेको मोटरेबल पुलको नवलपुरतर्फको पहुँचमार्ग (एप्रोच रोड) बाढीले बगाउँदा सडक पूर्ण रूपमा अवरुद्ध भएको छ । जिल्ला प्रहरी कार्यालय नवलपरासी (बर्दघाट–सुस्तापूर्व) का सूचना अधिकारी एवं प्रहरी नायब उपरीक्षक अनिल पण्डितका अनुसार पुलको पहुँचमार्ग बगाएपछि बौदीकाली गाउँपालिका–२ डेढगाउँ र तनहुँको घिरिङ गाउँपालिका जोड्ने गण्डकी प्रदेशमार्गको सम्पर्क […]"
+    },
+    {
+      "id": "9de92c99130c1d60",
+      "title": "मेन्टेनलाई हिमालय फुटसलको उपाधि",
+      "link": "https://baahrakhari.com/detail/502824",
+      "source": "Baahrakhari",
+      "sourceUrl": "https://baahrakhari.com/feed",
+      "pubDate": "2026-09-26T17:11:27+00:00",
+      "categories": [
+        "politics",
+        "business",
+        "society"
+      ],
+      "image": "",
+      "images": [],
+      "description": ""
+    },
+    {
+      "id": "5cb16a8230de5db2",
+      "title": "लुम्बिनी र सुदूरपश्चिममा हावाहुरी, भारी वर्षाको जोखिम",
+      "link": "https://gorkhapatraonline.com/news/224414",
+      "source": "Gorkhapatra",
+      "sourceUrl": "https://gorkhapatraonline.com/rss",
+      "pubDate": "2026-09-26T16:58:26+00:00",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "image": "https://gorkhapatraonline.com/storage/media/385043/conversions/hawahuri-original.jpg",
+      "images": [
+        "https://gorkhapatraonline.com/storage/media/385043/conversions/hawahuri-original.jpg"
+      ],
+      "description": "जानु पाण्डेकपिलवस्तु, असोज १० गते । बंगालको खाडीबाट विकसित भएको न्यून चापीय प्रणाली ‘डिप्रेसन’ नेपालतर्फ अघि बढेसँगै लुम्बिनी र सुदूरपश्चिम प्रदेशका विभिन्न जिल्लामा हावाहुरी र वर्..."
+    },
+    {
+      "id": "ba512c3ffbb1367e",
+      "title": "पाटा नेपाल च्याप्टरको अध्यक्षमा नरेन्द्रदेव भट्ट निर्वाचित",
+      "link": "https://www.ratopati.com/story/595144/narendra-dev-bhatta-elected-as-president-of-pata-nepal-chapter",
+      "source": "Ratopati",
+      "sourceUrl": "https://ratopati.com/feed",
+      "pubDate": "2026-09-26T16:49:03+00:00",
+      "categories": [
+        "politics",
+        "sports"
+      ],
+      "image": "https://npcdn.ratopati.com/media/news/HZnBaBCsbY.jpg",
+      "images": [
+        "https://npcdn.ratopati.com/media/news/HZnBaBCsbY.jpg"
+      ],
+      "description": "काठमाडौँ । प्यासिफिक एसिया ट्राभल एसोसिएसन (पाटा) नेपाल च्याप्टरको अध्यक्षमा नरेन्द्रदेव भट्ट निर्वाचित भएका छन् । पाटा नेपाल च्याप्टरको ५१औँ वार्षिकोत्सव तथा निर्वाचनबाट आज हेरिटेज टुर्स एण्ड ट्राभलका प्रबन्ध निर्देशक भट्टको अध्यक्षतामा नयाँ कार्यसमिति निर्वाचित"
+    },
+    {
+      "id": "4c8db00446178ba4",
+      "title": "दोभान अग्निपीडितलाई एमालेको चार लाख बढी सहयोग",
+      "link": "https://gorkhapatraonline.com/news/224413",
+      "source": "Gorkhapatra",
+      "sourceUrl": "https://gorkhapatraonline.com/rss",
+      "pubDate": "2026-09-26T16:48:39+00:00",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "image": "https://gorkhapatraonline.com/storage/media/385042/conversions/Rahat-original.jpg",
+      "images": [
+        "https://gorkhapatraonline.com/storage/media/385042/conversions/Rahat-original.jpg"
+      ],
+      "description": "साहारा लिम्बूफुङ्लिङ, असोज १० गते । ताप्लेजुङको मेरिङ्देन गाउँपालिका –३ खाम्लुङस्थित दोभान बजारका अग्निपीडित १७ परिवारलाई नेकपा (एमाले) ले चार लाख २१ हजार ११० रुपियाँ आर्थिक सहयोग..."
+    },
+    {
+      "id": "44cdf0cb23109f94",
+      "title": "हुम्लामा भारी वर्षा",
+      "link": "https://www.ratopati.com/story/595143/heavy-rain-in-humla",
+      "source": "Ratopati",
+      "sourceUrl": "https://ratopati.com/feed",
+      "pubDate": "2026-09-26T16:41:24+00:00",
+      "categories": [
+        "politics",
+        "sports"
+      ],
+      "image": "https://rpcdn.ratopati.com/media/albums/humla_BmvbKDRvti.jpg",
+      "images": [
+        "https://rpcdn.ratopati.com/media/albums/humla_BmvbKDRvti.jpg"
+      ],
+      "description": "हुम्ला । पानी पार्ने प्रणाली पश्चिम सरेसँगै कर्णाली प्रदेशको हुम्लामा भारी वर्षा भएको छ । यो सन् १९७८ पछिको ठूलो वर्षा हो । असोज ९ गते शुक्रबार दिउँसो १ः०० बजेदेखि १० गते शनिबार दिउँसो १ः००"
+    },
+    {
+      "id": "76baf0318cceeb23",
+      "title": "अन्नपूर्ण संरक्षण क्षेत्रमा पर्यटक परमिट बन्द",
+      "link": "https://baahrakhari.com/detail/502823",
+      "source": "Baahrakhari",
+      "sourceUrl": "https://baahrakhari.com/feed",
+      "pubDate": "2026-09-26T16:38:41+00:00",
+      "categories": [
+        "politics",
+        "business",
+        "society"
+      ],
+      "image": "",
+      "images": [],
+      "description": ""
+    },
+    {
+      "id": "4f6e7922d9a8a383",
+      "title": "कैलाली विद्या निकेतन धनगढीमा कथा लेखन कार्यशाला सम्पन्न",
+      "link": "https://nepalsamaya.com/detail/146306",
+      "source": "Nepal Samaya",
+      "sourceUrl": "https://nepalsamaya.com/feed",
+      "pubDate": "2026-09-26T16:35:47+00:00",
+      "categories": [
+        "politics",
+        "entertainment"
+      ],
+      "image": "",
+      "images": [],
+      "description": ""
+    },
+    {
+      "id": "2af333591fe0b89b",
+      "title": "सेतीको बहाव बढेर रामघाटमा ताल बनेपछि उच्च सतर्कता",
+      "link": "https://www.ratopati.com/story/595142/high-alert-as-seti-river-flows-increase-forming-a-lake-in-ramghat",
+      "source": "Ratopati",
+      "sourceUrl": "https://ratopati.com/feed",
+      "pubDate": "2026-09-26T16:31:47+00:00",
+      "categories": [
+        "politics",
+        "sports"
+      ],
+      "image": "https://npcdn.ratopati.com/media/news/EKw0XOXuzv.jpg",
+      "images": [
+        "https://npcdn.ratopati.com/media/news/EKw0XOXuzv.jpg"
+      ],
+      "description": "कास्की । पोखराको मध्यभाग भएर बग्ने सेती नदीको रामघाटमा अविरल वर्षाले ताल बनेपछि सो क्षेत्रमा सतर्कता अपनाइएको छ । रामघाटमा पानीको सतह बढ्दै जाँदा नदी किनारमा रहेका पोखरा–९ र पोखरा–११ का सुकुमवासी बस्ती, रामघाट, शान्तिघाट"
+    },
+    {
+      "id": "0185f43332c0cd00",
+      "title": "अन्नपूर्ण संरक्षण क्षेत्रमा प्रवेशाज्ञा दिन बन्द",
+      "link": "https://www.thahakhabar.com/detail/309385",
+      "source": "Thaha Khabar",
+      "sourceUrl": "https://www.thahakhabar.com/feed",
+      "pubDate": "2026-09-26T16:31:00+00:00",
+      "categories": [
+        "politics",
+        "business",
+        "sports"
+      ],
+      "image": "",
+      "images": [],
+      "description": ""
+    },
+    {
+      "id": "1c9aa0c96a6d2738",
+      "title": "Finance Minister Wagle leaves for Qatar to attend AIIB annual meeting",
+      "link": "https://risingnepaldaily.com/news/87064",
+      "source": "The Rising Nepal",
+      "sourceUrl": "https://risingnepaldaily.com/rss",
+      "pubDate": "2026-09-26T16:29:43+00:00",
+      "categories": [
+        "politics",
+        "business",
+        "world",
+        "sports"
+      ],
+      "image": "",
+      "images": [],
+      "description": "Kathmandu, Sept 26: Minister for Finance Dr Swarnim Wagle has left for Doha, Qatar, to attend the 11th Annual Meeting of..."
+    },
+    {
+      "id": "77f65cf3bc7d335b",
+      "title": "कैलालीमा रुखबाट लडेर एक जनाको मृत्यु",
+      "link": "https://www.ratopati.com/story/595141/one-person-dies-after-falling-from-a-tree-in-kailali",
+      "source": "Ratopati",
+      "sourceUrl": "https://ratopati.com/feed",
+      "pubDate": "2026-09-26T16:27:03+00:00",
+      "categories": [
+        "politics",
+        "sports"
+      ],
+      "image": "https://npcdn.ratopati.com/media/news/kailali-map_kznzdtkbxk_IZaujX2iw5.webp",
+      "images": [
+        "https://npcdn.ratopati.com/media/news/kailali-map_kznzdtkbxk_IZaujX2iw5.webp"
+      ],
+      "description": "धनगढी । कैलालीमा रुखबाट लडेर एक जनाको मृत्यु भएको छ। गौरीगङ्गा नगरपालिका–६ बनबेहडाकी पार्वती साउदको रुखबाट लडेर मृत्यु भएको प्रहरीले जनाएको छ। जिल्ला प्रहरी कार्यालय कैलालीका अनुसार शुक्रवार ४ः४५ बजे घाँस काट्न गौरीगङ्गा–६ स्थित बारवन सामुदायिक"
+    },
+    {
+      "id": "714333bbaa7333ce",
+      "title": "११ सडकखण्डमा के छ पछिल्लो अवस्था ?",
+      "link": "https://baahrakhari.com/detail/502822",
+      "source": "Baahrakhari",
+      "sourceUrl": "https://baahrakhari.com/feed",
+      "pubDate": "2026-09-26T16:20:39+00:00",
+      "categories": [
+        "politics",
+        "business",
+        "society"
+      ],
+      "image": "",
+      "images": [],
+      "description": ""
+    },
+    {
+      "id": "36b9b73222cf4cf7",
+      "title": "Today’s News in a Nutshell",
+      "link": "https://english.khabarhub.com/2026/26/569362/",
+      "source": "Khabarhub",
+      "sourceUrl": "https://english.khabarhub.com/feed/",
+      "pubDate": "2026-09-26T16:15:36+00:00",
+      "categories": [
+        "politics",
+        "business",
+        "world"
+      ],
+      "image": "",
+      "images": [],
+      "description": "KATHMANDU: Khabarhub brings you a glimpse of major developments of the day in Nepal, including politics, business/economy, sports, entertainment, and more. PM Shah returns home after attending UN General Assembly Prime Minister Balendra Shah has returned home after attending the United Nations General Assembly. He landed at Tribhuvan International Airport in Kathmandu on Saturday afternoon. […]"
+    },
+    {
+      "id": "415b11f9a969a77f",
+      "title": "१० बजे १० समाचार : पश्चिम नेपालमा भारी वर्षाको ‘रेड अलर्ट’, प्रधानमन्त्री फर्किँदा देखिएन तामझाम",
+      "link": "https://www.ratopati.com/story/595140/10-news-at-10-red-alert-of-heavy-rain-in-western-nepal-no-pomp-and-circumstance-seen-when-the-prime-minister-returns",
+      "source": "Ratopati",
+      "sourceUrl": "https://ratopati.com/feed",
+      "pubDate": "2026-09-26T16:15:00+00:00",
+      "categories": [
+        "politics",
+        "sports"
+      ],
+      "image": "https://npcdn.ratopati.com/media/news/cover-recovered-recovered-recovered-recovered-recovered_LdYJhXVR9F.webp",
+      "images": [
+        "https://npcdn.ratopati.com/media/news/cover-recovered-recovered-recovered-recovered-recovered_LdYJhXVR9F.webp"
+      ],
+      "description": "आज मिति २०८३ साल असोज महिनाको १० गते शनिबार । आज दिनभरका मुख्यमुख्य घटनाक्रमसहित रातोपाटीको रात्रिकालीन प्रस्तुति रातोपाटी ब्रिफिङमा ‘१० बजे १० समाचार’ लिएर हाजिर भएका छौँ– १. महासभामा सहभागी भएर स्वदेश फर्किए प्रधानमन्त्री संयुक्त राष्ट्रसङ्घको ८१औँ"
+    },
+    {
+      "id": "4cdaab7db71a71ce",
+      "title": "सुरक्षाका लागि भन्दै बन्द गरियो पर्यटक परमिट",
+      "link": "https://www.onlinekhabar.com/2026/09/2026482/tourist-permits-suspended-for-security-reasons",
+      "source": "Online Khabar",
+      "sourceUrl": "https://www.onlinekhabar.com/feed",
+      "pubDate": "2026-09-26T16:11:18+00:00",
+      "categories": [
+        "politics",
+        "business",
+        "sports",
+        "technology",
+        "entertainment"
+      ],
+      "image": "",
+      "images": [],
+      "description": "१० असोज, मुस्ताङ । राष्ट्रिय प्रकृति संरक्षण कोष, अन्नपूर्ण संरक्षण क्षेत्र आयोजनाले सम्भावित विपद् जोखिमको प्रक्षेपण तथा त्यसबाट हुनसक्ने सम्भवित क्षति न्यूनीकरणका लागि भन्दै सो क्षेत्रमा भ्रमण गर्न जाने पर्यटकका लागि प्रवेशाज्ञा (परमिट) दिन बन्द गरेको छ । एक्याप प्रधान कार्यालय पोखराको निर्णयअनुसार बिहीबारदेखि मौसममा सुधार नआएसम्म सो निर्णय लागू हुने उल्लेख गरेको छ । […]"
+    },
+    {
+      "id": "01c6bc3b62f9e155",
+      "title": "म्याग्दीमा अविरल वर्षाले दर्जनौँ बस्ती जोखिममा, सडक सञ्जाल ठप्प",
+      "link": "https://nepalnews.com/2026/09/26/incessant-rains-in-myagdi-put-dozens-of-settlements-at-risk-road-network-disrupted/",
+      "source": "Nepal News",
+      "sourceUrl": "https://nepalnews.com/feed",
+      "pubDate": "2026-09-26T16:10:43+00:00",
+      "categories": [
+        "politics",
+        "business",
+        "world"
+      ],
+      "image": "",
+      "images": [],
+      "description": "म्याग्दी। लगातारको वर्षाका कारण आएको बाढी र पहिरोले म्याग्दीका दर्जनौँ बस्तीहरू जोखिममा परेका छन्। पहिरोले घर र गोठहरूमा क्षति पुर्‍याउनुका साथै दर्जनौँ परिवार विस्थापित भएका छन्। समयमै सतर्कता अपनाइएकाले हालसम्म मानवीय क्षति भने भएको छैन। जिल्ला प्रशासन कार्यालयका सहायक प्रमुख जिल्ला अधिकारी कुलप्रसाद आचार्यका अनुसार बेनी नगरपालिका, मंगला, अन्नपूर्ण, मालिका र रघुगंगा गाउँपालिकाका विभिन्न वडामा […]"
+    },
+    {
+      "id": "ca4b584cc4de777b",
+      "title": "धाप ड्याम पूर्णरूपमा सुरक्षित : ऊर्जा मन्त्रालय",
+      "link": "https://gorkhapatraonline.com/news/224410",
+      "source": "Gorkhapatra",
+      "sourceUrl": "https://gorkhapatraonline.com/rss",
+      "pubDate": "2026-09-26T16:10:11+00:00",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "image": "https://gorkhapatraonline.com/storage/media/385039/conversions/urja_mantralaya-1-original.jpg",
+      "images": [
+        "https://gorkhapatraonline.com/storage/media/385039/conversions/urja_mantralaya-1-original.jpg"
+      ],
+      "description": "काठमाडौँ, असोज १० गते । ऊर्जा, जलस्रोत तथा सिँचाइ मन्त्रालयले गोकर्णेश्वर नगरपालिका १, शिवपुरी–नागार्जुन राष्ट्रिय निकुञ्ज क्षेत्रमा पर्ने धाप बाँध (ड्याम) सुरक्षित रहेको जनाएको छ..."
+    },
+    {
+      "id": "c2f5017e524b285a",
+      "title": "सेतीको तीव्र बहावले रामघाटमा ताल बढेपछि उच्च सतर्कता",
+      "link": "https://www.thahakhabar.com/detail/309384",
+      "source": "Thaha Khabar",
+      "sourceUrl": "https://www.thahakhabar.com/feed",
+      "pubDate": "2026-09-26T16:10:09+00:00",
+      "categories": [
+        "politics",
+        "business",
+        "sports"
+      ],
+      "image": "",
+      "images": [],
+      "description": ""
+    },
+    {
+      "id": "f3295e736fcde12b",
+      "title": "रौतहटमा गाँजा, रक्सी र अवैध कुखुरा बरामद",
+      "link": "https://www.ratopati.com/story/595139/marijuana-alcohol-and-illegal-chicken-seized-in-rautahat",
+      "source": "Ratopati",
+      "sourceUrl": "https://ratopati.com/feed",
+      "pubDate": "2026-09-26T16:03:33+00:00",
+      "categories": [
+        "politics",
+        "sports"
+      ],
+      "image": "https://npcdn.ratopati.com/media/news/raksi_bQNlwcrAvP.webp",
+      "images": [
+        "https://npcdn.ratopati.com/media/news/raksi_bQNlwcrAvP.webp"
+      ],
+      "description": "गौर । रौतहटमा प्रहरीले शनिबार छुट्टाछुट्टै स्थानबाट लागुऔषध गाँजा, भन्सार छली भारततर्फ लैजाँदै गरेको सोफी रक्सी तथा भारतबाट अवैध रूपमा भित्र्याइएका बोइलर कुखुरा बरामद गरेको छ । यमुनामाई गाउँपालिका–४ स्थित सरुअठादेखि झुलुङ्गे पुल जाने बाटोमा जाँच"
+    },
+    {
+      "id": "3fcaac28d9a2553f",
+      "title": "भारी वर्षापछि लुम्बिनीका मुख्य सात सडक अवरुद्ध",
+      "link": "https://nepalnews.com/2026/09/26/seven-main-roads-in-lumbini-blocked-after-heavy-rains/",
+      "source": "Nepal News",
+      "sourceUrl": "https://nepalnews.com/feed",
+      "pubDate": "2026-09-26T16:02:05+00:00",
+      "categories": [
+        "politics",
+        "business",
+        "world"
+      ],
+      "image": "",
+      "images": [],
+      "description": "बुटवल। लगातारको वर्षासँगै आएको पहिरो र बाढीका कारण लुम्बिनी प्रदेशका विभिन्न जिल्लामा सडक अवरुद्ध भएका छन्। प्रदेशका मुख्य राजमार्ग तथा ग्रामीण सडकका विभिन्न खण्ड अवरुद्ध हुँदा यातायात प्रभावित भएको प्रहरीले जनाएको छ। नेपाल प्रहरी राजमार्ग सुरक्षा तथा ट्राफिक व्यवस्थापन कार्यालय लुम्बिनी बुटवलको साँझ ७:३० सम्मको अद्यावधिक विवरणअनुसार लुम्बिनी प्रदेशका सात मुख्य सडक अवरुद्ध छन्। गुल्मीको […]"
+    },
+    {
+      "id": "1cbd82c15a7c3ae2",
+      "title": "बाढीको त्रासले जितगढी मन्दिरमा पुगे तिनाउ किनारका बासिन्दा",
+      "link": "https://baahrakhari.com/detail/502821",
+      "source": "Baahrakhari",
+      "sourceUrl": "https://baahrakhari.com/feed",
+      "pubDate": "2026-09-26T15:57:11+00:00",
+      "categories": [
+        "politics",
+        "business",
+        "society"
+      ],
+      "image": "",
+      "images": [],
+      "description": ""
+    },
+    {
+      "id": "d3e6b9489cea401e",
+      "title": "निजामती सेवामा ३०–५५ वर्ष लागू गर्ने बालेनको योजनामा लोकसेवाको ब्रेक, रामेश्वर खनाल भन्छन्– ‘पजनी विधि कदापि उपयुक्त होइन’",
+      "link": "https://nepallive.com/story/351103",
+      "source": "Nepal Live",
+      "sourceUrl": "https://nepallive.com/feed",
+      "pubDate": "2026-09-26T15:55:04+00:00",
+      "categories": [
+        "politics",
+        "technology"
+      ],
+      "image": "",
+      "images": [],
+      "description": "लोकसेवाको परामर्शबारे सरकारको प्रतिक्रिया भने अहिलेसम्म सार्वजनिक भएको छैन ।"
+    },
+    {
+      "id": "377b0a561830d36d",
+      "title": "Journalist Sapkota honored for his contribution to Nepal’s Media Sector",
+      "link": "https://risingnepaldaily.com/news/87063",
+      "source": "The Rising Nepal",
+      "sourceUrl": "https://risingnepaldaily.com/rss",
+      "pubDate": "2026-09-26T15:52:22+00:00",
+      "categories": [
+        "politics",
+        "business",
+        "world",
+        "sports"
+      ],
+      "image": "",
+      "images": [],
+      "description": "Kathmandu, Sept 27: Journalist Suman Sapkota, who has been actively working in the media sector for more than a decade a..."
+    },
+    {
+      "id": "26f5d69c0028aca1",
+      "title": "अर्गानिक कर्णाली : बजेटमा सीमित, उपलब्धि छैन",
+      "link": "https://himalpress.com/2026/09/organic-karnali-limited-budget-no-achievements/",
+      "source": "Himal Press",
+      "sourceUrl": "https://himalpress.com/feed/",
+      "pubDate": "2026-09-26T15:52:16+00:00",
+      "categories": [
+        "politics",
+        "business",
+        "society"
+      ],
+      "image": "",
+      "images": [],
+      "description": "सुर्खेत- देश संघीय संरचनामा प्रवेश गरेपछि बनेको प्रदेश सरकारले २०७४ फागुन ६ गते बसेको पहिलो मन्त्रिपरिषद् बैठकबाट कर्णालीलाई अर्गानिक प्रदेश बनाउने घोषणा गर्‍यो। त्यसको झन्डै दुई वर्षपछि २०७६ पुस ९ गते बसेको प्रदेश समन्वय परिषद्को दोस्रो बैठकले पनि कर्णालीलाई अर्गानिक प्रदेश बनाउने निर्णय गर्‍यो। अर्गानिक प्रदेश बनाउने अभियानअन्तर्गत २०७६ सालमा कर्णालीमा अर्गानिक कृषि सम्मेलनसमेत आयोजना […]"
+    },
+    {
+      "id": "641dcafb46bd8598",
+      "title": "पहिरोका कारण म्याग्दीका १९ घरमा क्षति",
+      "link": "https://www.onlinekhabar.com/2026/09/2026480/landslide-damages-19-houses-in-myagdi",
+      "source": "Online Khabar",
+      "sourceUrl": "https://www.onlinekhabar.com/feed",
+      "pubDate": "2026-09-26T15:49:29+00:00",
+      "categories": [
+        "politics",
+        "business",
+        "sports",
+        "technology",
+        "entertainment"
+      ],
+      "image": "",
+      "images": [],
+      "description": "१० असोज, म्याग्दी । पछिल्लो तीन दिनदेखिको निरन्तरको झरीका कारण म्याग्दीको जनजीवन प्रभावित भएको छ । झरीसँगैको बाढी पहिरोले ग्रामीण बस्तीको जिल्ला सदरमुकाम बेनी बजारको सम्पर्कबिच्छेद भएको छ । ग्रामीण क्षेत्रमा विद्युत् आपूर्ति प्रभावित भएको छ । म्याग्दी, राहुघाट र कालीगण्डकी नदीमा बाढीको सतह बढेपछि सर्तकता अपनाइएको छ । जिल्ला प्रशासन कार्यालय म्याग्दीका सहायक प्रमुख […]"
+    },
+    {
+      "id": "199804d98dfab34c",
+      "title": "एआईको नाम परिवर्तन गर्ने ट्रम्पको निर्णयलाई चीनले सम्मान गर्ने",
+      "link": "https://himalpress.com/2026/09/ai-to-be-renamed/",
+      "source": "Himal Press",
+      "sourceUrl": "https://himalpress.com/feed/",
+      "pubDate": "2026-09-26T15:48:40+00:00",
+      "categories": [
+        "politics",
+        "business",
+        "society"
+      ],
+      "image": "",
+      "images": [],
+      "description": "काठमाडौँ- चीनले अमेरिकाले ‘आर्टिफिसियल इन्टेलिजेन्स’ (एआई) लाई ‘सुपर इन्टेलिजेन्स’ (एसआई) भनेर सम्बोधन गर्ने निर्णयको सम्मान गर्ने जनाएको छ। चिनियाँ विदेश मन्त्रालयले शनिबार जारी गरेको विज्ञप्तिमा अमेरिकाको शब्दावली छनोटलाई सम्मान गर्ने उल्लेख गरेको हो। अमेरिकी राष्ट्रपति डोनाल्ड ट्रम्पले मंगलबारदेखि अमेरिकी प्रशासनका आधिकारिक सञ्चारमा ‘आर्टिफिसियल इन्टेलिजेन्स’ को सट्टा ‘सुपर इन्टेलिजेन्स’ शब्द प्रयोग गरिने घोषणा गरेका थिए। यसै […]"
+    },
+    {
+      "id": "aa8018b763edcd90",
+      "title": "वर्षाले फेरियो रुपन्देही कांग्रेसको अधिवेशन तालिका",
+      "link": "https://baahrakhari.com/detail/502820",
+      "source": "Baahrakhari",
+      "sourceUrl": "https://baahrakhari.com/feed",
+      "pubDate": "2026-09-26T15:47:56+00:00",
+      "categories": [
+        "politics",
+        "business",
+        "society"
+      ],
+      "image": "",
+      "images": [],
+      "description": ""
+    },
+    {
+      "id": "2ad6cf980ab5e487",
+      "title": "Deuba faction prepares for Nepali Congress General Convention, finalizes 783,836 active members",
+      "link": "https://english.khabarhub.com/2026/26/569414/",
+      "source": "Khabarhub",
+      "sourceUrl": "https://english.khabarhub.com/feed/",
+      "pubDate": "2026-09-26T15:45:48+00:00",
+      "categories": [
+        "politics",
+        "business",
+        "world"
+      ],
+      "image": "",
+      "images": [],
+      "description": "KATHMANDU: The faction of former Nepali Congress president Sher Bahadur Deuba has finalized its list of active members ahead of the party’s 15th General Convention. The Deuba faction has formed a General Convention Preparation Committee under the leadership of Dr Shashank Koirala. The details of the active members were handed over to Election Committee Coordinator […]"
+    },
+    {
+      "id": "53d8c538370a03f1",
+      "title": "अर्थमन्त्री वाग्ले कतार प्रस्थान",
+      "link": "https://www.thahakhabar.com/detail/309383",
+      "source": "Thaha Khabar",
+      "sourceUrl": "https://www.thahakhabar.com/feed",
+      "pubDate": "2026-09-26T15:45:46+00:00",
+      "categories": [
+        "politics",
+        "business",
+        "sports"
+      ],
+      "image": "",
+      "images": [],
+      "description": ""
+    },
+    {
+      "id": "32bae6c5c7144279",
+      "title": "कानुन निर्माणमा सक्रिय १४ सांसद, अर्थतन्त्र सम्बन्धी विधेयकमा धेरैको रुचि",
+      "link": "https://bizmandu.com/content/20260926213006.html",
+      "source": "Bizmandu",
+      "sourceUrl": "https://bizmandu.com/feed",
+      "pubDate": "2026-09-26T15:45:06+00:00",
+      "categories": [
+        "business",
+        "technology"
+      ],
+      "image": "",
+      "images": [],
+      "description": "काठमाडौं। २०८२ फागुनको निर्वाचनपछि गठन भएको नयाँ प्रतिनिधि सभामा दफावार छलफलका लागि दर्ता भएका २० विधेयकमध्ये आधामा लिमा अधिकारी आचार्य, गणेशबहादुर विश्वकर्मा र सुशील खड्काले संशोधन प्रस्ताव हालेका छन्। फरक विषय, सन्दर्भ र क्षेत्रका विधेयकमा समेत उत्तिकै अध्ययन गरेर संशोधन प्रस्ताव दर्ता गराएको प्रतिनिधि सभाको अभिलेखमा देखिन्छ। सम्पत्ति शुद्धीकरण निवारण विधेयकमा होस् या चलचित्र विधेयकमा, नेपाल […] The post कानुन निर्माणमा सक्रिय १४ सांसद, अर्थतन्त्र सम्बन्धी विधेयकमा धेरैको रुचि appeared first o"
+    },
+    {
+      "id": "a0655e3477a7bd8b",
+      "title": "सिँचाइविनै पाखोबारीमा लहलह धान (तस्वीरहरू)",
+      "link": "https://www.onlinekhabar.com/2026/09/2026429/paddy-fields-flourishing-without-irrigation-photos",
+      "source": "Online Khabar",
+      "sourceUrl": "https://www.onlinekhabar.com/feed",
+      "pubDate": "2026-09-26T15:43:16+00:00",
+      "categories": [
+        "politics",
+        "business",
+        "sports",
+        "technology",
+        "entertainment"
+      ],
+      "image": "",
+      "images": [],
+      "description": "धान खेतीका लागि खेतमा पानी जमाउनुपर्ने परम्परागत अभ्यास भन्दा फरक रुपमा यहाँका किसानले सिँचाइको नियमित सुविधा नभएका पाखा तथा भिरालो जमिनमा धान उत्पादन गरिरहेका छन् ।"
+    },
+    {
+      "id": "2a25623497ac0ebc",
+      "title": "देउवा समूहको महाधिवेशन : वडादेखि केन्द्रसम्म ‘जेनजी’ अनिवार्य",
+      "link": "https://www.onlinekhabar.com/2026/09/2026207/deuba-groups-general-convention-genji-mandatory-from-ward-to-center",
+      "source": "Online Khabar",
+      "sourceUrl": "https://www.onlinekhabar.com/feed",
+      "pubDate": "2026-09-26T15:43:05+00:00",
+      "categories": [
+        "politics",
+        "business",
+        "sports",
+        "technology",
+        "entertainment"
+      ],
+      "image": "",
+      "images": [],
+      "description": "‘निर्वाचित हुने सबै तहका कार्यसमितिहरूमा एक जना १८ देखि २८ वर्षसम्मको महिला र एक जना १८ देखि २८ वर्षसम्मको नवयुवा अनिवार्य रुपमा समावेश गर्नुपर्ने व्यवस्था गरिएको छ,’ निर्देशिका निर्माणमा संलग्न स्रोतले भन्यो ।"
+    },
+    {
+      "id": "cd4939f688914e8f",
+      "title": "रित्तिँदैछ शिविर, बढ्दैछ अत्यास",
+      "link": "https://www.onlinekhabar.com/2026/09/2026305/the-camp-is-emptying-the-anxiety-is-growing",
+      "source": "Online Khabar",
+      "sourceUrl": "https://www.onlinekhabar.com/feed",
+      "pubDate": "2026-09-26T15:42:58+00:00",
+      "categories": [
+        "politics",
+        "business",
+        "sports",
+        "technology",
+        "entertainment"
+      ],
+      "image": "",
+      "images": [],
+      "description": "बाढीको एक महिनासम्म सरकारी एवं गैरसरकारी क्षेत्रबाट उपभोग्य सामग्री केन्द्रित राहत बाहेक अर्थोक नपाएका धेरैले होल्डिङ सेन्टर छाडिसकेका छन् । होल्डिङ सेन्टर छोडेर आफन्तको घरमा शरण लिन पुगेका थुप्रैसँग अनलाइनखबरले कुराकानी गरेको छ–"
+    },
+    {
+      "id": "c784c255147edc8b",
+      "title": "द मिनिएचरिस्ट अफ जुनागढ : ‘मजबुरी’, ‘जुनुन’ र ‘दर्द’ को पेरुङ्गो",
+      "link": "https://www.onlinekhabar.com/2026/09/2026043/the-miniaturists-of-junagadh-compulsion-passion-and-pain",
+      "source": "Online Khabar",
+      "sourceUrl": "https://www.onlinekhabar.com/feed",
+      "pubDate": "2026-09-26T15:41:58+00:00",
+      "categories": [
+        "politics",
+        "business",
+        "sports",
+        "technology",
+        "entertainment"
+      ],
+      "image": "",
+      "images": [],
+      "description": "हुसेन : पूरै चिया एकैपटक नसक्नु । कपमा एक घुट्को अवश्य छाडिदिनु । नूर : किन ? हुसेन : जसले चियाको अन्तिम घुट्को छाड्छ, ऊ त्यसकै तृष्णालाई पछ्याएर जुनागढ पक्कै फर्कन्छ । …………. घरसँगको वियोगको क्षण—जसको आहतलाई संसारका कुनै माध्यममा व्यक्त गर्न गाह्रो छ। जीवन सङ्घारमा उभिएको छ, बाहिर एउटा अपरिचित यात्राले पर्खिरहेको छ, भित्र […]"
+    },
+    {
+      "id": "c4f2c1ff83c8e618",
+      "title": "Kathmandu 10 Actions announced",
+      "link": "https://nepalitimes.com/kathmandu-10-actions-announced",
+      "source": "Nepali Times",
+      "sourceUrl": "https://www.nepalitimes.com/feed/",
+      "pubDate": "2026-09-26T15:40:54+00:00",
+      "categories": [
+        "politics",
+        "business",
+        "society",
+        "technology"
+      ],
+      "image": "https://media.nepalitimes.com/cover/Jitendra%20Bajracharya%20ICIMOD.jpg",
+      "images": [
+        "https://media.nepalitimes.com/cover/Jitendra%20Bajracharya%20ICIMOD.jpg"
+      ],
+      "description": "ICIMOD's Himalayan members pledge to work on early warning and data sharing"
+    },
+    {
+      "id": "49213508bc697e2f",
+      "title": "पोखरा रामघाटमा सेतीबाट हरेक वर्ष बन्छ ताल, जोखिम कति ?",
+      "link": "https://www.onlinekhabar.com/2026/09/2026468/a-lake-is-formed-every-year-from-seti-in-pokharas-ramghat-what-is-the-risk",
+      "source": "Online Khabar",
+      "sourceUrl": "https://www.onlinekhabar.com/feed",
+      "pubDate": "2026-09-26T15:40:00+00:00",
+      "categories": [
+        "politics",
+        "business",
+        "sports",
+        "technology",
+        "entertainment"
+      ],
+      "image": "",
+      "images": [],
+      "description": "रामघाटमा यही असार अन्तिममा पनि ताल बनेको थियो । सेती नदी र यसबाट निम्तिन सक्ने विपद्बारे अध्ययन गरेका इन्जिनियर डाक्टर नारायण गुरुङ त सन् २०१८ मा शान्ति वनको ढिक छुन करिब डेढ, दुई मिटरमात्र बाँकी रहने गरी रामघाटमा ताल बनेको बताउँछन् ।"
+    },
+    {
+      "id": "d65929f5a8e3c14b",
+      "title": "हात्तीले फेरेको कञ्चनपुरवासीको रातचर्या",
+      "link": "https://www.onlinekhabar.com/2026/09/2026205/the-night-life-of-the-people-of-kanchanpur-changed-by-elephants",
+      "source": "Online Khabar",
+      "sourceUrl": "https://www.onlinekhabar.com/feed",
+      "pubDate": "2026-09-26T15:39:40+00:00",
+      "categories": [
+        "politics",
+        "business",
+        "sports",
+        "technology",
+        "entertainment"
+      ],
+      "image": "",
+      "images": [],
+      "description": "भारतको दुधुवा राष्ट्रिय निकुञ्जबाट नेपाल प्रवेश गर्ने हात्ती लालझाडी–मोहना करिडोर हुँदै कञ्चनपुरका विभिन्न क्षेत्रमा पुग्ने गरेका छन् ।"
+    },
+    {
+      "id": "a595f7987e83c3f0",
+      "title": "उपभोक्तालाई ‘विष’ बेच्दै व्यापारी, चियापत्तीदेखि पुष्टकारीसम्म दूषित",
+      "link": "https://www.onlinekhabar.com/2026/09/2025979/traders-selling-poison-to-consumers-contaminated-everything-from-tea-leaves-to-supplements",
+      "source": "Online Khabar",
+      "sourceUrl": "https://www.onlinekhabar.com/feed",
+      "pubDate": "2026-09-26T15:38:35+00:00",
+      "categories": [
+        "politics",
+        "business",
+        "sports",
+        "technology",
+        "entertainment"
+      ],
+      "image": "",
+      "images": [],
+      "description": "खाद्य प्रविधि तथा गुण नियन्त्रण विभागले यही ६ र ८ असोजमा गरेका बजार अनुगमन र त्यसपछि जारी गरेका सूचना केलाउने हो भने अहिले नेपाली बजार उपभोक्ताका लागि विष किन्ने थलो जस्तै बनेको छ ।"
+    },
+    {
+      "id": "7cda36339d9c2e19",
+      "title": "ईश्वर बाबुआमा खोज्न पोर्चुगलबाट आए, न बाबुआमा भेटे न घर",
+      "link": "https://www.onlinekhabar.com/2026/09/2026271/ishwar-came-from-portugal-to-look-for-his-parents-but-he-found-neither-his-parents-nor-his-home",
+      "source": "Online Khabar",
+      "sourceUrl": "https://www.onlinekhabar.com/feed",
+      "pubDate": "2026-09-26T15:37:45+00:00",
+      "categories": [
+        "politics",
+        "business",
+        "sports",
+        "technology",
+        "entertainment"
+      ],
+      "image": "",
+      "images": [],
+      "description": "पोर्चुगलबाट डेढ महिनाको बच्चा छोडेर नेपाल आएका ईश्वर बस्नेतले आठ दिनसम्म बाबुआमा खोजे, शव भेटिएन । परिवारले ३५–४० वर्ष लगाएर बनाएको सपनाको घर पनि बाढीले लग्यो । उनीसँग फर्किने अब घर र गाँउ रहेन, सम्झनाबाहेक ।"
+    },
+    {
+      "id": "4d4ae777c87d4126",
+      "title": "द्वन्द्वकालका यौनहिंसा पीडित, जसका लागि आएन शान्ति",
+      "link": "https://www.onlinekhabar.com/2026/09/2025752/victims-of-conflict-era-sexual-violence-for-whom-peace-never-came",
+      "source": "Online Khabar",
+      "sourceUrl": "https://www.onlinekhabar.com/feed",
+      "pubDate": "2026-09-26T15:36:31+00:00",
+      "categories": [
+        "politics",
+        "business",
+        "sports",
+        "technology",
+        "entertainment"
+      ],
+      "image": "",
+      "images": [],
+      "description": "खारा भिडन्त जति चर्चित छ उति नै गुमनाम छ, युद्धमा खाराका सर्वसाधारणमाथि भएको ज्यादती । त्योभन्दा बढी महिलामाथि भएका हिंसाका शृंखला अनगिन्ती छन् ।"
+    },
+    {
+      "id": "ecf5e43f43fad932",
+      "title": "मधेश र कोशीबीच आर्थिक तथा वित्तीय सहकार्य गर्ने समझदारी",
+      "link": "https://himalpress.com/2026/09/madhesh-and-koshi-to-strengthen-economic-and/",
+      "source": "Himal Press",
+      "sourceUrl": "https://himalpress.com/feed/",
+      "pubDate": "2026-09-26T15:35:02+00:00",
+      "categories": [
+        "politics",
+        "business",
+        "society"
+      ],
+      "image": "",
+      "images": [],
+      "description": "काठमाडौँ- मधेश प्रदेश सरकारको अर्थ मन्त्रालय र कोशी प्रदेश सरकारको आर्थिक मामिला तथा योजना मन्त्रालयबीच आर्थिक तथा वित्तीय क्षेत्रमा सहकार्य र समन्वय गर्ने समझदारी भएको छ। मधेश प्रदेशका अर्थमन्त्री युवराज भट्टराई र कोशी प्रदेशका आर्थिक मामिला तथा योजनामन्त्री विदुरकुमार लिङ्थेपद्वारा शुक्रबार हस्ताक्षरित समझदारीपत्रमा दुवै प्रदेशका अर्थरआर्थिक मामिला मन्त्रालयबीच पूर्व–बजेट परामर्श, बजेट तर्जुमा, राजस्व प्रशासन, सार्वजनिक वित्तीय […]"
+    },
+    {
+      "id": "931f371dcf57c3fc",
+      "title": "अमेरिका पुगेर पनि किन राष्ट्रसंघको महासभामा गएनन् चिनियाँ राष्ट्रपति ?",
+      "link": "https://www.onlinekhabar.com/2026/09/2026291/why-didnt-the-chinese-president-attend-the-united-nations-general-assembly-even-after-reaching-the-united-states",
+      "source": "Online Khabar",
+      "sourceUrl": "https://www.onlinekhabar.com/feed",
+      "pubDate": "2026-09-26T15:34:40+00:00",
+      "categories": [
+        "politics",
+        "business",
+        "sports",
+        "technology",
+        "entertainment"
+      ],
+      "image": "",
+      "images": [],
+      "description": "सीको महासभामा अनुपस्थितिलाई चीनले संयुक्त राष्ट्रसंघको महत्वबारे दिँदै आएको जोडसँग जोडेर विश्लेषण गरिएको छ ।"
+    },
+    {
+      "id": "3ff03a31766afd42",
+      "title": "लगातारको वर्षापछिको विपद्मा ६ जनाको मृत्यु, ४०७ जनाको उद्धार",
+      "link": "https://nepallive.com/story/351102",
+      "source": "Nepal Live",
+      "sourceUrl": "https://nepallive.com/feed",
+      "pubDate": "2026-09-26T15:33:46+00:00",
+      "categories": [
+        "politics",
+        "technology"
+      ],
+      "image": "",
+      "images": [],
+      "description": "नेपाल प्रहरीले सार्वजनिक गरेको विवरणअनुसार विपद्मा परी बागमती र लुम्बिनी प्रदेशमा दुई–दुई तथा गण्डकी र कर्णाली प्रदेशमा एक–एक जनाको मृत्यु भएको हो।"
+    },
+    {
+      "id": "9dd13a752a98d4e0",
+      "title": "पछिल्लो बाढी पहिरोमा परेर ६ जनाको मृत्यु",
+      "link": "https://nepalnews.com/2026/09/26/6-people-died-in-the-latest-floods-and-landslides/",
+      "source": "Nepal News",
+      "sourceUrl": "https://nepalnews.com/feed",
+      "pubDate": "2026-09-26T15:32:31+00:00",
+      "categories": [
+        "politics",
+        "business",
+        "world"
+      ],
+      "image": "",
+      "images": [],
+      "description": "काठमाडौँ। अविरल वर्षाका कारण यही असोज ८ गतेदेखि देशका विभिन्न स्थानमा आएको बाढी, पहिरोलगायत विपद्मा परी हालसम्म छ जनाको मृत्यु भएको छ। विपदबाट बागमती र लुम्बिनी प्रदेशमा दुईरदुई, गण्डकी र कर्णालीमा एकरएक जनाको मृत्यु भएको केन्द्रीय प्रहरी प्रवक्ता अविनारायण काफ्लेले जानकारी दिए। बाढीपहिरोमा परी दुई जना घाइते भएका छन् । घाइतेका लागि स्थानीय अस्पताल उपचार […]"
+    },
+    {
+      "id": "4f4ef44426051044",
+      "title": "२२ वर्षीया रूबी झापा–२ बाट कांग्रेस महाधिवेशन प्रतिनिधि",
+      "link": "https://www.onlinekhabar.com/2026/09/2026475/ruby-23-is-a-congress-general-convention-representative-from-jhapa-2",
+      "source": "Online Khabar",
+      "sourceUrl": "https://www.onlinekhabar.com/feed",
+      "pubDate": "2026-09-26T15:22:35+00:00",
+      "categories": [
+        "politics",
+        "business",
+        "sports",
+        "technology",
+        "entertainment"
+      ],
+      "image": "",
+      "images": [],
+      "description": "१० असोज, काठमाडौं । नेपाली कांग्रेसको १५औँ महाधिवेशनअन्तर्गत झापा जिल्ला निर्वाचन क्षेत्र नं. २ मा युवा महिलाको तर्फबाट रूबी सिटौला महाधिवेशन प्रतिनिधि निर्वाचित भएकी छिन् । २२ वर्षीया उनी निर्विरोध महाधिवेशन प्रतिनिधि बनेकी हुन् । निर्वाचन समितिले सार्वजनिक गरेको उम्मेदवारहरूको प्राथमिक सूची अनुसार, युवा महिलातर्फ सिटौलाको मात्रै उम्मेदवारी परेको हो । यो सँगै उनी महाधिवेशन […]"
+    },
+    {
+      "id": "45a99b89e563fe83",
+      "title": "पहिरोका कारण सात मुख्य राजमार्ग अझै अवरुद्ध, तीन राजमार्ग आंशिक सञ्चालनमा",
+      "link": "https://bizmandu.com/content/20260926210425.html",
+      "source": "Bizmandu",
+      "sourceUrl": "https://bizmandu.com/feed",
+      "pubDate": "2026-09-26T15:19:25+00:00",
+      "categories": [
+        "business",
+        "technology"
+      ],
+      "image": "",
+      "images": [],
+      "description": "काठमाडौं। अविरल वर्षासँगैको बाढी र पहिरोका कारण सात वटा राजमार्ग पूर्ण रूपमा छन्। सडक विभागको शनिबार राति ८ बजेसम्मको विवरण अनुसार अवरुद्धमध्ये कान्ति लोकपथ सञ्चालनमा आएको छ। विभागका अनुसार पूर्व–पश्चिम राजमार्गको भाइरल डाँडा तथा धानखोला नजिकको सडक खण्ड अवरुद्ध छ। यस्तै, पृथ्वी राजमार्गको कृष्णभीर, चौकीभीर, जवाङ खोला, फिस्लिङ, बाँगे तथा चालिसेलगायतका सडक खण्डमा पहिरो गएको […] The post पहिरोका कारण सात मुख्य राजमार्ग अझै अवरुद्ध, तीन राजमार्ग आंशिक सञ्चालनमा appeared first on BIZMANDU ."
+    },
+    {
+      "id": "d36447403a97ac77",
+      "title": "पछिल्लो विपदमा छ जनाको मृत्यु",
+      "link": "https://www.thahakhabar.com/detail/309382",
+      "source": "Thaha Khabar",
+      "sourceUrl": "https://www.thahakhabar.com/feed",
+      "pubDate": "2026-09-26T15:17:43+00:00",
+      "categories": [
+        "politics",
+        "business",
+        "sports"
+      ],
+      "image": "",
+      "images": [],
+      "description": ""
+    },
+    {
+      "id": "9f5794304ef1ea87",
+      "title": "Foreign Minister Khanal calls for reform in international finance structure",
+      "link": "https://english.khabarhub.com/2026/26/569406/",
+      "source": "Khabarhub",
+      "sourceUrl": "https://english.khabarhub.com/feed/",
+      "pubDate": "2026-09-26T15:15:47+00:00",
+      "categories": [
+        "politics",
+        "business",
+        "world"
+      ],
+      "image": "",
+      "images": [],
+      "description": "KATHMANDU: Foreign Minister Shisir Khanal has called for timely reforms to the international financial structure in a way that enhances the voice and representation of developing nations in the global economic governance system. Addressing the 50th annual meeting of the Group of 77 (G-77) and China, held Saturday at the United Nations Headquarters in New […]"
+    },
+    {
+      "id": "7d65bde1deeccfc7",
+      "title": "रुस-युक्रेनबीच हवाई आक्रमण तीव्र",
+      "link": "https://himalpress.com/2026/09/air-atta-between-russia-and-ukraine/",
+      "source": "Himal Press",
+      "sourceUrl": "https://himalpress.com/feed/",
+      "pubDate": "2026-09-26T15:12:39+00:00",
+      "categories": [
+        "politics",
+        "business",
+        "society"
+      ],
+      "image": "",
+      "images": [],
+      "description": "काठमाडौँ- रुस र युक्रेनबीच हवाई आक्रमण तीव्र बन्दै जाँदा शनिबार दुवै देशमा भएका आक्रमणमा कम्तीमा सात जनाको मृत्यु भएको छ। युक्रेनमा रुसी आक्रमणबाट चार जनाको ज्यान गएको छ भने रुसमा युक्रेनी ड्रोन आक्रमणमा तीन जनाको मृत्यु भएको अधिकारीले जनाएका छन्। रुसले युक्रेनमाथि पूर्णस्तरको आक्रमण सुरु गरेको करिब साढे चार वर्ष बितिसक्दा पनि युद्ध जारी छ। अग्रमोर्चामा […]"
+    },
+    {
+      "id": "d98f3cf7431939f8",
+      "title": "बालेन फर्केकै दिन अर्थमन्त्री वाग्ले लागे कतार",
+      "link": "https://nepallive.com/story/351101",
+      "source": "Nepal Live",
+      "sourceUrl": "https://nepallive.com/feed",
+      "pubDate": "2026-09-26T15:12:13+00:00",
+      "categories": [
+        "politics",
+        "technology"
+      ],
+      "image": "",
+      "images": [],
+      "description": "एसियाली पूर्वाधार लगानी बैंक (एआईआईबी) को सञ्चालक समितिको ११औँ वार्षिक बैठकमा सहभागी हुन उनी कतार प्रस्थान गरेका हुन्।"
+    },
+    {
+      "id": "035681f28d68b249",
+      "title": "रुस–युक्रेनबिच हवाई आक्रमण तीव्र, दुवैतर्फ सात जनाको मृत्यु",
+      "link": "https://www.ratopati.com/story/595137/airstrikes-intensify-between-russia-and-ukraine-seven-killed-on-both-sides",
+      "source": "Ratopati",
+      "sourceUrl": "https://ratopati.com/feed",
+      "pubDate": "2026-09-26T15:11:30+00:00",
+      "categories": [
+        "politics",
+        "sports"
+      ],
+      "image": "https://rpcdn.ratopati.com/media/albums/Russian-military-attacks-invades-Ukraine_MBTvdOUETC.webp",
+      "images": [
+        "https://rpcdn.ratopati.com/media/albums/Russian-military-attacks-invades-Ukraine_MBTvdOUETC.webp"
+      ],
+      "description": "रुस र युक्रेनबीच हवाई आक्रमण तीव्र बन्दै जाँदा शनिबार दुवै देशमा भएका आक्रमणमा कम्तीमा सात जनाको मृत्यु भएको छ । युक्रेनमा रुसी आक्रमणबाट चार जनाको ज्यान गएको छ भने रुसमा युक्रेनी ड्रोन आक्रमणमा तीन जनाको मृत्यु"
+    },
     {
       "id": "f7827566ac8d5049",
       "title": "पछिल्लो विपदबाट छ जनाको मृत्यु",
@@ -70,7 +1073,7 @@
     },
     {
       "id": "b70763750ac491e4",
-      "title": "पछिल्लो विपद्‍ परेर ६ जनाको मृत्यु",
+      "title": "पछिल्लो विपद्‍मा परेर ६ जनाको मृत्यु",
       "link": "https://www.ratopati.com/story/595136/6-people-died-in-the-latest-disaster",
       "source": "Ratopati",
       "sourceUrl": "https://ratopati.com/feed",
@@ -86,24 +1089,6 @@
       "description": "काठमाडौँ । अविरल वर्षाका कारण यही असोज ८ गतेदेखि देशका विभिन्न स्थानमा आएको बाढी, पहिरोलगायत विपद्मा परी हालसम्म छ जनाको मृत्यु भएको छ । विपद्बाट बागमती र लुम्बिनी प्रदेशमा दुई/दुई, गण्डकी र कर्णालीमा एक/एक जनाको मृत्यु"
     },
     {
-      "id": "49213508bc697e2f",
-      "title": "पोखरा रामघाटमा सेतीबाट हरेक वर्ष बन्छ ताल, जोखिम कति ?",
-      "link": "https://www.onlinekhabar.com/2026/09/2026468/a-lake-is-formed-every-year-from-seti-in-pokharas-ramghat-what-is-the-risk",
-      "source": "Online Khabar",
-      "sourceUrl": "https://www.onlinekhabar.com/feed",
-      "pubDate": "2026-09-26T14:52:00+00:00",
-      "categories": [
-        "politics",
-        "business",
-        "sports",
-        "technology",
-        "entertainment"
-      ],
-      "image": "",
-      "images": [],
-      "description": "रामघाटमा यही असार अन्तिममा पनि ताल बनेको थियो । सेती नदी र यसबाट निम्तिन सक्ने विपद्बारे अध्ययन गरेका इन्जिनियर डाक्टर नारायण गुरुङ त सन् २०१८ मा शान्ति वनको ढिक छुन करिब डेढ, दुई मिटरमात्र बाँकी रहने गरी रामघाटमा ताल बनेको बताउँछन् ।"
-    },
-    {
       "id": "aad5ba07a268cc33",
       "title": "४८ वर्षको वर्षा अभिलेख तोडियो, सिमिकोटमा २४ घण्टामै ११४.८ मिलिमिटर पानी",
       "link": "https://nepallive.com/story/351099",
@@ -117,22 +1102,6 @@
       "image": "",
       "images": [],
       "description": "समुद्री सतहबाट २ हजार ९९३ मिटर उचाइमा रहेको सिमिकोटमा यसअघि पनि ९० मिलिमिटरभन्दा बढी वर्षा भएका घटना छन्। अभिलेखअनुसार सन् २०१५ जनवरी ३ मा ९८ मिलिमिटर, सन् २००० जुन ९ मा ९२.८ मिलिमिटर र जुन ८ मा ९०.४ मिलिमिटर वर्षा भएको थियो। सन् २०१७ मे ३ मा ८४ मिलिमिटर वर्षा भएको थियो।"
-    },
-    {
-      "id": "12bde0cf3617103b",
-      "title": "तिनाउ नदीमा बाढी बढ्दो, तटीय क्षेत्रमा उच्च सतर्कता अपनाउन आग्रह",
-      "link": "https://baahrakhari.com/detail/502815",
-      "source": "Baahrakhari",
-      "sourceUrl": "https://baahrakhari.com/feed",
-      "pubDate": "2026-09-26T14:51:35+00:00",
-      "categories": [
-        "politics",
-        "business",
-        "society"
-      ],
-      "image": "",
-      "images": [],
-      "description": ""
     },
     {
       "id": "7cb1f52b100f6fa2",
@@ -168,38 +1137,6 @@
       "description": "प्रधानमन्त्री बालेन्द्र शाहले संयुक्त राष्ट्रसंघको ८१औँ महासभामा दिनुभएको सम्बोधन अहिले निकै चर्चामा छ । मैले पनि उहाँको सम्बोधनलाई दोहोर्‍याएर–तेहेर्‍याएर सुनेँ । धेरै कुरा मन परे, केही विषयले गम्भीर रूपमा सोच्न बाध्य बनायो । मनदेखि नै प्रशंसा"
     },
     {
-      "id": "660ee16128832845",
-      "title": "सेतीको बहाव बढेर रामघाटमा ताल बनेपछि उच्च सतर्कता",
-      "link": "https://nepalnews.com/2026/09/26/high-alert-as-seti-river-flows-increase-forming-a-lake-in-ramghat/",
-      "source": "Nepal News",
-      "sourceUrl": "https://nepalnews.com/feed",
-      "pubDate": "2026-09-26T14:44:17+00:00",
-      "categories": [
-        "politics",
-        "business",
-        "world"
-      ],
-      "image": "",
-      "images": [],
-      "description": "कास्की। पोखराको मध्यभाग भएर बग्ने सेती नदीको रामघाटमा अविरल वर्षाले ताल बनेपछि सो क्षेत्रमा सतर्कता अपनाइएको छ । रामघाटमा पानीको सतह बढ्दै जाँदा नदी किनारमा रहेका पोखरा-९ र पोखरा-११ का सुकुम्वासी बस्ती, रामघाट, शान्तिघाट तथा बौद्ध गुम्बाका शवदाह गृहहरूसमेत जलमग्न भई जोखिममा परेका छन् । सेतीमा पानीको बहाव बढेर रामघाटमा ताल बनेपछि त्यस वरपरको सुकुम्वासी […]"
-    },
-    {
-      "id": "a3f4d73ecdc721b2",
-      "title": "अर्थमन्त्री वाग्ले कतार प्रस्थान",
-      "link": "https://himalpress.com/2026/09/finance-minister-wagle-in-qatar/",
-      "source": "Himal Press",
-      "sourceUrl": "https://himalpress.com/feed/",
-      "pubDate": "2026-09-26T14:43:49+00:00",
-      "categories": [
-        "politics",
-        "business",
-        "society"
-      ],
-      "image": "",
-      "images": [],
-      "description": "काठमाडौँ- अर्थमन्त्री डा. स्वर्णिम वाग्ले एसियाली पूर्वाधार लगानी विकास बैंक (एआईआईबी) को सञ्चालक समितिको ११औँ वार्षिक बैठकमा सहभागी हुन कतार प्रस्थान गरेका छन्। बैठकमा भाग लिन नेपाली प्रतिनिधिमण्डलको नेतृत्व गर्दै मन्त्री वाग्ले शनिबार साँझ कतारको राजधानी दोहा प्रस्थान गरेका हुन्। उनीसँग अर्थ मन्त्रालय, अन्तर्राष्ट्रिय आर्थिक सम्बन्ध महाशाखा प्रमुख, सहसचिव अमृत लम्साल पनि सहभागी छन्। एघारौँ वार्षिक […]"
-    },
-    {
       "id": "22a98446d4b538cd",
       "title": "खस आर्यतर्फ कांग्रेस महाधिवेशन प्रतिनिधि बन्न राजीव लामिछाने मैदानमा",
       "link": "https://nepalsamaya.com/detail/146304",
@@ -209,38 +1146,6 @@
       "categories": [
         "politics",
         "entertainment"
-      ],
-      "image": "",
-      "images": [],
-      "description": ""
-    },
-    {
-      "id": "c29b90a3dbbbe4f8",
-      "title": "भारी वर्षापछि लुम्बिनीका मुख्य सात सडक अवरुद्ध",
-      "link": "https://baahrakhari.com/detail/502814",
-      "source": "Baahrakhari",
-      "sourceUrl": "https://baahrakhari.com/feed",
-      "pubDate": "2026-09-26T14:42:00+00:00",
-      "categories": [
-        "politics",
-        "business",
-        "society"
-      ],
-      "image": "",
-      "images": [],
-      "description": ""
-    },
-    {
-      "id": "cd74309b53016ac5",
-      "title": "खेलरो एपले ल्यायो नज फिचर",
-      "link": "https://baahrakhari.com/detail/502813",
-      "source": "Baahrakhari",
-      "sourceUrl": "https://baahrakhari.com/feed",
-      "pubDate": "2026-09-26T14:33:50+00:00",
-      "categories": [
-        "politics",
-        "business",
-        "society"
       ],
       "image": "",
       "images": [],
@@ -298,75 +1203,6 @@
       "description": "प्रहरीले दुवै जिल्लामा जारी छापा अभियानका क्रममा तीन हजारभन्दा बढी मदिराका बोतल बरामद गरेको र १५ जनाभन्दा बढीलाई पक्राउ गरेको जनाएको छ ।"
     },
     {
-      "id": "0f4b92fd366399ad",
-      "title": "हुम्लामा भारी वर्षा",
-      "link": "https://himalpress.com/2026/09/heavy-rainfall-in-humla/",
-      "source": "Himal Press",
-      "sourceUrl": "https://himalpress.com/feed/",
-      "pubDate": "2026-09-26T14:25:54+00:00",
-      "categories": [
-        "politics",
-        "business",
-        "society"
-      ],
-      "image": "",
-      "images": [],
-      "description": "कर्णाली- पानी पार्ने प्रणाली पश्चिम सरेसँगै कर्णाली प्रदेशको हुम्लामा भारी वर्षा भएको छ। यो सन् १९७८ पछिको ठूलो वर्षा हो। असोज ९ गते शुक्रबार दिउँसो १ः०० बजेदेखि १० गते शनिबार दिउँसो १ः०० बजेसम्मको २४ घण्टाको मापन अनुसार हुम्लाको सदरमुकाम सिमकोटमा ११४ दशमलव ८ मिलिमिटर वर्षा भएको मौसम तथा जलवायु विज्ञान कार्यालय सुर्खेतका कार्यालय प्रमुख डा.इन्दिरा कँडेलले […]"
-    },
-    {
-      "id": "2a25623497ac0ebc",
-      "title": "देउवा समूहको महाधिवेशन : वडादेखि केन्द्रसम्म ‘जेनजी’ अनिवार्य",
-      "link": "https://www.onlinekhabar.com/2026/09/2026207/deuba-groups-general-convention-genji-mandatory-from-ward-to-center",
-      "source": "Online Khabar",
-      "sourceUrl": "https://www.onlinekhabar.com/feed",
-      "pubDate": "2026-09-26T14:25:05+00:00",
-      "categories": [
-        "politics",
-        "business",
-        "sports",
-        "technology",
-        "entertainment"
-      ],
-      "image": "",
-      "images": [],
-      "description": "‘निर्वाचित हुने सबै तहका कार्यसमितिहरूमा एक जना १८ देखि २८ वर्षसम्मको महिला र एक जना १८ देखि २८ वर्षसम्मको नवयुवा अनिवार्य रुपमा समावेश गर्नुपर्ने व्यवस्था गरिएको छ,’ निर्देशिका निर्माणमा संलग्न स्रोतले भन्यो ।"
-    },
-    {
-      "id": "c784c255147edc8b",
-      "title": "द मिनिएचरिस्ट अफ जुनागढ : ‘मजबुरी’, ‘जुनुन’ र ‘दर्द’ को पेरुङ्गो",
-      "link": "https://www.onlinekhabar.com/2026/09/2026043/the-miniaturists-of-junagadh-compulsion-passion-and-pain",
-      "source": "Online Khabar",
-      "sourceUrl": "https://www.onlinekhabar.com/feed",
-      "pubDate": "2026-09-26T14:23:58+00:00",
-      "categories": [
-        "politics",
-        "business",
-        "sports",
-        "technology",
-        "entertainment"
-      ],
-      "image": "",
-      "images": [],
-      "description": "हुसेन : पूरै चिया एकैपटक नसक्नु । कपमा एक घुट्को अवश्य छाडिदिनु । नूर : किन ? हुसेन : जसले चियाको अन्तिम घुट्को छाड्छ, ऊ त्यसकै तृष्णालाई पछ्याएर जुनागढ पक्कै फर्कन्छ । …………. घरसँगको वियोगको क्षण—जसको आहतलाई संसारका कुनै माध्यममा व्यक्त गर्न गाह्रो छ। जीवन सङ्घारमा उभिएको छ, बाहिर एउटा अपरिचित यात्राले पर्खिरहेको छ, भित्र […]"
-    },
-    {
-      "id": "01289a1e66b90188",
-      "title": "राति हावाहुरीसहित अति भारी वर्षाको सम्भावना",
-      "link": "https://gorkhapatraonline.com/news/224408",
-      "source": "Gorkhapatra",
-      "sourceUrl": "https://gorkhapatraonline.com/rss",
-      "pubDate": "2026-09-26T14:22:34+00:00",
-      "categories": [
-        "politics",
-        "business"
-      ],
-      "image": "https://gorkhapatraonline.com/storage/media/385036/conversions/warning-map-day-1-1790425227752-original.jpg",
-      "images": [
-        "https://gorkhapatraonline.com/storage/media/385036/conversions/warning-map-day-1-1790425227752-original.jpg"
-      ],
-      "description": "काठमाडौँ, असोज १० गते । नेपाल मौसम विज्ञान विभाग अन्तर्गतको मौसम पूर्वानुमान महाशाखाले शनिबार राति देशका विभिन्न भूभागमा हावाहुरीसहित भारीदेखि अति भारीसम्म वर्षा हुने पूर्वानुमान ग..."
-    },
-    {
       "id": "e4d54272b21494d9",
       "title": "गायिका रिया खत्रीद्वारा ‘युके शहर’ सार्वजनिक",
       "link": "https://www.ratopati.com/story/595133/singer-riya-khatri-releases-uk-city",
@@ -384,42 +1220,6 @@
       "description": "काठमाडौं । गायिका तथा मोडल रिया खत्रीले नयाँ सांगीतिक प्रस्तुति ‘युके शहर’ सार्वजनिक गरेकी छन्। ‘युके शहर’ रियाले आफ्नो आधिकारिक युट्युब च्यानलमार्फत दर्शक–श्रोतामाझ सार्वजनिक गरेकी हुन् । रिया खत्री र गायक क्रिश क्षेत्रीको स्वर तथा अभिनय"
     },
     {
-      "id": "d65929f5a8e3c14b",
-      "title": "हात्तीले फेरेको कञ्चनपुरवासीको रातचर्या",
-      "link": "https://www.onlinekhabar.com/2026/09/2026205/the-night-life-of-the-people-of-kanchanpur-changed-by-elephants",
-      "source": "Online Khabar",
-      "sourceUrl": "https://www.onlinekhabar.com/feed",
-      "pubDate": "2026-09-26T14:21:40+00:00",
-      "categories": [
-        "politics",
-        "business",
-        "sports",
-        "technology",
-        "entertainment"
-      ],
-      "image": "",
-      "images": [],
-      "description": "भारतको दुधुवा राष्ट्रिय निकुञ्जबाट नेपाल प्रवेश गर्ने हात्ती लालझाडी–मोहना करिडोर हुँदै कञ्चनपुरका विभिन्न क्षेत्रमा पुग्ने गरेका छन् ।"
-    },
-    {
-      "id": "7cda36339d9c2e19",
-      "title": "ईश्वर बाबुआमा खोज्न पोर्चुगलबाट आए, न बाबुआमा भेटे न घर",
-      "link": "https://www.onlinekhabar.com/2026/09/2026271/ishwar-came-from-portugal-to-look-for-his-parents-but-he-found-neither-his-parents-nor-his-home",
-      "source": "Online Khabar",
-      "sourceUrl": "https://www.onlinekhabar.com/feed",
-      "pubDate": "2026-09-26T14:19:45+00:00",
-      "categories": [
-        "politics",
-        "business",
-        "sports",
-        "technology",
-        "entertainment"
-      ],
-      "image": "",
-      "images": [],
-      "description": "पोर्चुगलबाट डेढ महिनाको बच्चा छोडेर नेपाल आएका ईश्वर बस्नेतले आठ दिनसम्म बाबुआमा खोजे, शव भेटिएन । परिवारले ३५–४० वर्ष लगाएर बनाएको सपनाको घर पनि बाढीले लग्यो । उनीसँग फर्किने अब घर र गाँउ रहेन, सम्झनाबाहेक ।"
-    },
-    {
       "id": "35850b2b9bcb766f",
       "title": "कान्ति लोकपथमा खसेको पहिरो हटाइयो, रातको समयमा सवारीसाधन सञ्चालनमा भने रोक",
       "link": "https://bizmandu.com/content/20260926200410.html",
@@ -433,39 +1233,6 @@
       "image": "",
       "images": [],
       "description": "ललितपुर। कान्ति लोकपथमा खसेको पहिरो हटाएर रोकिएका सवारीसाधनलाई गन्तव्यतर्फ पठाइएको छ। यद्यपि जोखिमलाई ध्यानमा राख्दै रातको समयमा सवारीसाधन सञ्चालनमा रोक लगाइएको कान्ति लोकपथ आयोजनाले जनाएको छ। लगातारको वर्षापछि कान्ति लोकपथको बिर्खेधारा, पाङ्दुर र टाकुर्चेमा पहिरो गएपछि शुक्रबार दिनभरी नै सवारीसाधन सञ्चालन हुन सकेको थिएन। शनिबार बिहानैदेखि पहिरो पन्छाएर दिउँसोपछि रोकिएका सबै सवारीसाधन गन्तव्यतर्फ पठाइएको आयोजनाका […] The post कान्ति लोकपथमा खसेको पहिरो हटाइयो, रातको समयमा सवारीसाधन सञ्चालनमा भने"
-    },
-    {
-      "id": "ddf24ceddd8cd276",
-      "title": "पहिरोले घर पुरिएर बेपत्ता भएकी महिला मृत फेला",
-      "link": "https://www.thahakhabar.com/detail/309381",
-      "source": "Thaha Khabar",
-      "sourceUrl": "https://www.thahakhabar.com/feed",
-      "pubDate": "2026-09-26T14:18:00+00:00",
-      "categories": [
-        "politics",
-        "business",
-        "sports"
-      ],
-      "image": "",
-      "images": [],
-      "description": ""
-    },
-    {
-      "id": "e57f6613ca7b19b5",
-      "title": "मध्यपहाडी लोकमार्ग खुल्यो, तमोर करिडोर आंशिक सञ्चालनमा",
-      "link": "https://gorkhapatraonline.com/news/224405",
-      "source": "Gorkhapatra",
-      "sourceUrl": "https://gorkhapatraonline.com/rss",
-      "pubDate": "2026-09-26T14:17:32+00:00",
-      "categories": [
-        "politics",
-        "business"
-      ],
-      "image": "https://gorkhapatraonline.com/storage/media/385032/conversions/Nawa-khola-sadak-khulaidai-original.jpg",
-      "images": [
-        "https://gorkhapatraonline.com/storage/media/385032/conversions/Nawa-khola-sadak-khulaidai-original.jpg"
-      ],
-      "description": "राधा लुइटेलफिदिम, असोज १० गते । निरन्तरको वर्षापश्चात् तीन दिनदेखि अवरूद्ध रहेको तमोर करिडोर आंशिक रूपमा खुलेको छ । यस सडक अन्तरगत पाँचथर र धनकुटाको सिमावर्ती नावाखोलामा पानीको बहा..."
     },
     {
       "id": "44f8353e543f3517",
@@ -551,77 +1318,6 @@
       "description": "हुम्ला सदरमुकाम सिमिकोटमा गएको २४ घण्टा अवधिमा भएको वर्षाले ४८ वर्ष अवधिको पुरानो उच्च रेकर्ड तोडेको हो ।"
     },
     {
-      "id": "cd4939f688914e8f",
-      "title": "रित्तिँदैछ शिविर, बढ्दैछ अत्यास",
-      "link": "https://www.onlinekhabar.com/2026/09/2026305/the-camp-is-emptying-the-anxiety-is-growing",
-      "source": "Online Khabar",
-      "sourceUrl": "https://www.onlinekhabar.com/feed",
-      "pubDate": "2026-09-26T14:10:58+00:00",
-      "categories": [
-        "politics",
-        "business",
-        "sports",
-        "technology",
-        "entertainment"
-      ],
-      "image": "",
-      "images": [],
-      "description": "बाढीको एक महिनासम्म सरकारी एवं गैरसरकारी क्षेत्रबाट उपभोग्य सामग्री केन्द्रित राहत बाहेक अर्थोक नपाएका धेरैले होल्डिङ सेन्टर छाडिसकेका छन् । होल्डिङ सेन्टर छोडेर आफन्तको घरमा शरण लिन पुगेका थुप्रैसँग अनलाइनखबरले कुराकानी गरेको छ–"
-    },
-    {
-      "id": "a0655e3477a7bd8b",
-      "title": "सिँचाइविनै पाखोबारीमा लहलह धान (तस्वीरहरू)",
-      "link": "https://www.onlinekhabar.com/2026/09/2026429/paddy-fields-flourishing-without-irrigation-photos",
-      "source": "Online Khabar",
-      "sourceUrl": "https://www.onlinekhabar.com/feed",
-      "pubDate": "2026-09-26T14:09:16+00:00",
-      "categories": [
-        "politics",
-        "business",
-        "sports",
-        "technology",
-        "entertainment"
-      ],
-      "image": "",
-      "images": [],
-      "description": "धान खेतीका लागि खेतमा पानी जमाउनुपर्ने परम्परागत अभ्यास भन्दा फरक रुपमा यहाँका किसानले सिँचाइको नियमित सुविधा नभएका पाखा तथा भिरालो जमिनमा धान उत्पादन गरिरहेका छन् ।"
-    },
-    {
-      "id": "a595f7987e83c3f0",
-      "title": "उपभोक्तालाई ‘विष’ बेच्दै व्यापारी, चियापत्तीदेखि पुष्टकारीसम्म दूषित",
-      "link": "https://www.onlinekhabar.com/2026/09/2025979/traders-selling-poison-to-consumers-contaminated-everything-from-tea-leaves-to-supplements",
-      "source": "Online Khabar",
-      "sourceUrl": "https://www.onlinekhabar.com/feed",
-      "pubDate": "2026-09-26T14:08:35+00:00",
-      "categories": [
-        "politics",
-        "business",
-        "sports",
-        "technology",
-        "entertainment"
-      ],
-      "image": "",
-      "images": [],
-      "description": "खाद्य प्रविधि तथा गुण नियन्त्रण विभागले यही ६ र ८ असोजमा गरेका बजार अनुगमन र त्यसपछि जारी गरेका सूचना केलाउने हो भने अहिले नेपाली बजार उपभोक्ताका लागि विष किन्ने थलो जस्तै बनेको छ ।"
-    },
-    {
-      "id": "04ab612b2033f363",
-      "title": "पहिरोमा परी बेपत्ता महिलाको मृत्यु",
-      "link": "https://gorkhapatraonline.com/news/224407",
-      "source": "Gorkhapatra",
-      "sourceUrl": "https://gorkhapatraonline.com/rss",
-      "pubDate": "2026-09-26T14:08:01+00:00",
-      "categories": [
-        "politics",
-        "business"
-      ],
-      "image": "https://gorkhapatraonline.com/storage/media/385035/conversions/death-original.jpg",
-      "images": [
-        "https://gorkhapatraonline.com/storage/media/385035/conversions/death-original.jpg"
-      ],
-      "description": "रेखीराम रानातानसेन, असोज १० गते । रिव्दीको–६ धुस्तुङ्की ५९ वर्षीया कृष्णकुमारी सारू मृत फेला पर्नुभएको छ । शुक्रबार दिउँसो पहिरोमा परी बेपत्ता हुनुभएकी सारू शनिबार बेलुकी पहिरोले च..."
-    },
-    {
       "id": "a0f5f704358654d9",
       "title": "जोगबनीमा नेपाल–भारत सीमा सुरक्षा अधिकारीबिच बैठक",
       "link": "https://www.ratopati.com/story/595131/meeting-between-nepal-india-border-security-officials-in-jogbani",
@@ -637,42 +1333,6 @@
         "https://npcdn.ratopati.com/media/news/sima-baithak_LAG0EMKoCc.webp"
       ],
       "description": "विराटनगर । नेपाल–भारत सीमा क्षेत्रको सुरक्षा व्यवस्था थप सुदृढ बनाउन र सीमापार अपराध नियन्त्रण गर्ने उद्देश्यले सशस्त्र प्रहरी बल (एपीएफ) र भारतको सशस्त्र सीमा बल (एसएसबी) का अधिकारीहरूबिच जोगबनीस्थित सीमा नियन्त्रण चौकी (बीसीपी) मा समन्वय"
-    },
-    {
-      "id": "4d4ae777c87d4126",
-      "title": "द्वन्द्वकालका यौनहिंसा पीडित, जसका लागि आएन शान्ति",
-      "link": "https://www.onlinekhabar.com/2026/09/2025752/victims-of-conflict-era-sexual-violence-for-whom-peace-never-came",
-      "source": "Online Khabar",
-      "sourceUrl": "https://www.onlinekhabar.com/feed",
-      "pubDate": "2026-09-26T14:06:31+00:00",
-      "categories": [
-        "politics",
-        "business",
-        "sports",
-        "technology",
-        "entertainment"
-      ],
-      "image": "",
-      "images": [],
-      "description": "खारा भिडन्त जति चर्चित छ उति नै गुमनाम छ, युद्धमा खाराका सर्वसाधारणमाथि भएको ज्यादती । त्योभन्दा बढी महिलामाथि भएका हिंसाका शृंखला अनगिन्ती छन् ।"
-    },
-    {
-      "id": "931f371dcf57c3fc",
-      "title": "अमेरिका पुगेर पनि किन राष्ट्रसंघको महासभामा गएनन् चिनियाँ राष्ट्रपति ?",
-      "link": "https://www.onlinekhabar.com/2026/09/2026291/why-didnt-the-chinese-president-attend-the-united-nations-general-assembly-even-after-reaching-the-united-states",
-      "source": "Online Khabar",
-      "sourceUrl": "https://www.onlinekhabar.com/feed",
-      "pubDate": "2026-09-26T14:03:40+00:00",
-      "categories": [
-        "politics",
-        "business",
-        "sports",
-        "technology",
-        "entertainment"
-      ],
-      "image": "",
-      "images": [],
-      "description": "सीको महासभामा अनुपस्थितिलाई चीनले संयुक्त राष्ट्रसंघको महत्वबारे दिँदै आएको जोडसँग जोडेर विश्लेषण गरिएको छ ।"
     },
     {
       "id": "926263a2bdcb7a1c",
@@ -691,54 +1351,6 @@
         "https://newsofnepal.com/wp-content/uploads/2026/09/pustika2-150x150.jpg"
       ],
       "description": "सर्लाही। महिनावारी किशोरी तथा महिलाको जीवनमा आउने स्वाभाविक प्रक्रिया हो। महिनावारी कुनै दोष नभई प्रजनन प्रक्रियासँग सम्बन्धित प्राकृतिक प्रक्रिया हो। यस प्रक्रियालाई सहज रूपमा बुझ्न नसक्दा किशोरी उमेरदेखि नै विभेद र अन्धविश्वासको त्रासमा बस्नुपर्ने अवस्था अझै कायम छ। परिवार र समाजमा महिनावारीलाई लाज, छुवाछूत र धार्मिक विश्वाससँग जोडेर हेर्ने परम्परा तथा प्रवृत्ति कायम रहँदा सुरक्षित […]"
-    },
-    {
-      "id": "357f1b9ec5d38c67",
-      "title": "कान्तिलोक पथमा खसेको पहिरो हटाइयो",
-      "link": "https://nepallive.com/story/351098",
-      "source": "Nepal Live",
-      "sourceUrl": "https://nepallive.com/feed",
-      "pubDate": "2026-09-26T14:01:27+00:00",
-      "categories": [
-        "politics",
-        "technology"
-      ],
-      "image": "",
-      "images": [],
-      "description": "यद्यपि जोखिमलाई ध्यानमा राख्दै रातको समयमा सवारीसाधन सञ्चालनमा रोक लगाइएको कान्ति लोक पथ आयोजनाले जनाएको छ ।"
-    },
-    {
-      "id": "141f4643634e79dd",
-      "title": "म्याग्दीमा दर्जनौँ बस्ती जोखिममा, मुख्य र ग्रामीण सडक ठप्प",
-      "link": "https://gorkhapatraonline.com/news/224404",
-      "source": "Gorkhapatra",
-      "sourceUrl": "https://gorkhapatraonline.com/rss",
-      "pubDate": "2026-09-26T14:00:33+00:00",
-      "categories": [
-        "politics",
-        "business"
-      ],
-      "image": "https://gorkhapatraonline.com/storage/media/385033/conversions/%E0%A4%AC%E0%A5%87%E0%A4%A8%E0%A5%80-%E0%A4%A6%E0%A4%B0%E0%A4%B5%E0%A4%BE%E0%A4%99-%E0%A4%B8%E0%A4%A1%E0%A4%95-%E0%A4%96%E0%A4%A3%E0%A5%8D%E0%A4%A1%E0%A4%AE%E0%A4%BE-%E0%A4%AA%E0%A4%B0%E0%A5%8D%E0%A4%A8%E0%A5%87-%E0%A4%AB%E0%A4%BE%E0%A4%AA%E0%A4%B0%E0%A4%96%E0%A5%87%E0%A4%A4-%E0%A4%AA%E0%A4%B9%E0%A4%BF%E0%A4%B0%E0%A5%8B-%281%29-original.jpg",
-      "images": [
-        "https://gorkhapatraonline.com/storage/media/385033/conversions/%E0%A4%AC%E0%A5%87%E0%A4%A8%E0%A5%80-%E0%A4%A6%E0%A4%B0%E0%A4%B5%E0%A4%BE%E0%A4%99-%E0%A4%B8%E0%A4%A1%E0%A4%95-%E0%A4%96%E0%A4%A3%E0%A5%8D%E0%A4%A1%E0%A4%AE%E0%A4%BE-%E0%A4%AA%E0%A4%B0%E0%A5%8D%E0%A4%A8%E0%A5%87-%E0%A4%AB%E0%A4%BE%E0%A4%AA%E0%A4%B0%E0%A4%96%E0%A5%87%E0%A4%A4-%E0%A4%AA%E0%A4%B9%E0%A4%BF%E0%A4%B0%E0%A5%8B-%281%29-original.jpg"
-      ],
-      "description": "अमृतप्रसाद पौडेलम्याग्दी, असोज १० गते । लगातारको अविरल वर्षाका कारण आएको बाढी तथा पहिरोले गर्दा हिमाली जिल्ला म्याग्दीका विभिन्न बस्तीहरू जोखिममा परेका छन् । अविरल वर्षासँगै आएको प..."
-    },
-    {
-      "id": "bba82157ccd56a94",
-      "title": "अर्थमन्त्री वाग्ले दोहा प्रस्थान",
-      "link": "https://baahrakhari.com/detail/502812",
-      "source": "Baahrakhari",
-      "sourceUrl": "https://baahrakhari.com/feed",
-      "pubDate": "2026-09-26T13:59:54+00:00",
-      "categories": [
-        "politics",
-        "business",
-        "society"
-      ],
-      "image": "",
-      "images": [],
-      "description": ""
     },
     {
       "id": "177d65e7f789f733",
@@ -790,22 +1402,6 @@
       "image": "",
       "images": [],
       "description": "१० असोज, काठमाडौं । नेपाली महिला क्रिकेट टोलीकी कप्तान इन्दु बर्मा क्यानडा सुपर ६० क्रिकेट प्रतियोगिता खेल्न क्यानडा प्रस्थान गरेकी छन् । इन्दुलाई प्रतियोगिताको दोस्रो संस्करणका लागि टोरन्टो सिक्सर्सले आफ्नो टोलीमा अनुबन्ध गरेको छ । उनी क्यानडाको भ्यानकुभरस्थित बीसी प्लेसमा सेप्टेम्बर २९ देखि अक्टोबर ४ सम्म सञ्चालन हुने प्रतियोगितामा सहभागी हुनेछिन् । क्यानडा सुपर ६० […]"
-    },
-    {
-      "id": "6dad7a993356b2a2",
-      "title": "कांग्रेस देउवा पक्षले १५औँ महाधिवेशन मंसिरको २१, २२ र २३ गते गर्ने",
-      "link": "https://www.thahakhabar.com/detail/309379",
-      "source": "Thaha Khabar",
-      "sourceUrl": "https://www.thahakhabar.com/feed",
-      "pubDate": "2026-09-26T13:49:52+00:00",
-      "categories": [
-        "politics",
-        "business",
-        "sports"
-      ],
-      "image": "",
-      "images": [],
-      "description": ""
     },
     {
       "id": "02a838b3751eb3a9",
@@ -942,55 +1538,6 @@
       "description": "१० असोज, काठमाडौं । आईसीसी क्रिकेट विश्वकप लिग २ अन्तर्गत नेपाल र ओमानसँग हुने शृङ्खलाका लागि क्यानडाले १५ सदस्यीय टोली घोषणा गरेको छ । टोलीको कप्तानी ३६ वर्षीय हम्जा तारिकले गर्नेछन् भने श्रेयस मोभ्भा उपकप्तान छन् । हम्जा तारिकले ७ वर्षपछि क्यानडाको एकदिवसिय टोलीमा पुनरागमन गर्न लागेका हुन् । उनले सन् २०११ मा अफगानिस्तानविरुद्ध ओडीआई […]"
     },
     {
-      "id": "dfc15380fb4d7cfc",
-      "title": "सडक सञ्जाल अवरुद्ध हुँदा रसुवामा खाद्यान्न अभाव, बिरामी मारमा",
-      "link": "https://nepalnews.com/2026/09/26/food-shortage-illness-grip-rasuwa-as-road-network-disrupted/",
-      "source": "Nepal News",
-      "sourceUrl": "https://nepalnews.com/feed",
-      "pubDate": "2026-09-26T13:41:08+00:00",
-      "categories": [
-        "politics",
-        "business",
-        "world"
-      ],
-      "image": "",
-      "images": [],
-      "description": "रसुवा। भोटेकोशी बाढीका कारण चीनसँगको सीमावर्ती जिल्ला रसुवाको सडक सञ्जाल अवरुद्ध भएपछि स्थानीय जनजीवन कष्टकर बनेको छ । सडक यातायात ठप्प हुँदा जिल्लामा खाद्यान्न तथा दैनिक उपभोग्य वस्तुको अभाव बढ्दै गएको छ भने कृषक, व्यवसायी र बिरामीसमेत प्रत्यक्ष मारमा परेका छन्। बाढी गएको एक महिना बितिसक्दा पनि सडक सञ्चालनमा आउन नसकेपछि रसुवागढी तथा आसपासका क्षेत्रमा […]"
-    },
-    {
-      "id": "f03acf25a2d48c15",
-      "title": "बक्सिङमा नेपालको चुनौती समाप्त",
-      "link": "https://baahrakhari.com/detail/502811",
-      "source": "Baahrakhari",
-      "sourceUrl": "https://baahrakhari.com/feed",
-      "pubDate": "2026-09-26T13:40:40+00:00",
-      "categories": [
-        "politics",
-        "business",
-        "society"
-      ],
-      "image": "",
-      "images": [],
-      "description": ""
-    },
-    {
-      "id": "49db69728804abc0",
-      "title": "बाँकेको दुर्गम नरैनापुरबाटै राजस्व सेवा",
-      "link": "https://gorkhapatraonline.com/news/224402",
-      "source": "Gorkhapatra",
-      "sourceUrl": "https://gorkhapatraonline.com/rss",
-      "pubDate": "2026-09-26T13:40:23+00:00",
-      "categories": [
-        "politics",
-        "business"
-      ],
-      "image": "https://gorkhapatraonline.com/storage/media/385029/conversions/samjhauta-patra-ka-sath-palika-ra-rajasswa-ka-sarokarwala-original.jpg",
-      "images": [
-        "https://gorkhapatraonline.com/storage/media/385029/conversions/samjhauta-patra-ka-sath-palika-ra-rajasswa-ka-sarokarwala-original.jpg"
-      ],
-      "description": "सिराज खाननेपालगन्ज, असोज १० गते । बाँकेको दुर्गम र पिछडिएको मानिने जिल्लाको पूर्वी सीमानामा पर्ने नरैनापुर गाउँपालिकाबाटै आन्तरिक राजस्वसम्बन्धी सेवा सुरु भएको छ । आन्तरिक राजस्व क..."
-    },
-    {
       "id": "0f27eca731d29db0",
       "title": "रुसले युद्धमोर्चामा ६०० वर्षअघि मृत्यु भएका राजकुमारको अवशेष किन पठाइरहेको छ ?",
       "link": "https://www.onlinekhabar.com/2026/09/2026419/why-is-russia-sending-the-remains-of-a-prince-who-died-600-years-ago-to-the-battlefield",
@@ -1042,6 +1589,23 @@
       "description": "१० असोज, स्याङ्जा । तीन दिनदेखि लगातार परेको वर्षाका कारण कालीगण्डकी नदीमा पानीको बहाव बढेपछि स्याङ्जामा रहेको कालीगण्डकी ‘ए’ जलविद्युत् केन्द्रको विद्युत् उत्पादन बन्द गरिएको छ । नदीमा पानीको बहाव उच्च भएपछि बेल्टारीबाट हुँदै आएको १४४ मेगावाट विद्युत् उत्पादन शुक्रबार राति ८:४५ बजेदेखि रोकिएको हो । मिर्मीस्थित बाँधका तीनवटै ढोका खोलिएको आयोजनाले जनाएको छ । […]"
     },
     {
+      "id": "8868057759043c76",
+      "title": "कान्ति लोकपथमा खसेको पहिरो हटाइयो",
+      "link": "https://www.ratopati.com/story/595129/landslide-on-kanti-lokpath-removed",
+      "source": "Ratopati",
+      "sourceUrl": "https://ratopati.com/feed",
+      "pubDate": "2026-09-26T13:35:01+00:00",
+      "categories": [
+        "politics",
+        "sports"
+      ],
+      "image": "https://npcdn.ratopati.com/media/news/kantilokpath_GpvvavBuLk.jpg",
+      "images": [
+        "https://npcdn.ratopati.com/media/news/kantilokpath_GpvvavBuLk.jpg"
+      ],
+      "description": "ललितपुर । कान्ति लोकपथमा खसेको पहिरो हटाएर रोकिएका सवारीसाधनलाई गन्तव्यतर्फ पठाइएको छ । यद्यपि जोखिमलाई ध्यानमा राख्दै रातको समयमा सवारीसाधन सञ्चालनमा रोक लगाइएको कान्ति लोकपथ आयोजनाले जनाएको छ । लगातारको वर्षापछि कान्ति लोकपथको बिर्खेधारा, पाङ्दुर र टाकुर्चेमा"
+    },
+    {
       "id": "872e98f94871e62f",
       "title": "पाल्पामा पहिरोले घर पुरिँदा बेपत्ता भएकी महिला मृत भेटिइन्",
       "link": "https://www.onlinekhabar.com/2026/09/2026417/woman-who-went-missing-after-house-buried-by-landslide-in-palpa-found-dead",
@@ -1075,40 +1639,6 @@
         "https://npcdn.ratopati.com/media/news/dhangadhi-duban_10hwI0dcSk.jpg"
       ],
       "description": "धनगढी । सुदूरपश्चिममा लगातार वर्षाका कारण नदी, खोला तथा जलस्रोतमा पानीको बहाव बढ्न थालेको छ । तत्कालै ठुलो बाढीको चेतावनी दिने अवस्था नरहे पनि आगामी दुई दिनसम्म वर्षा हुने पूर्वानुमान रहेकाले कैलाली, कञ्चनपुरसहित पहाडी जिल्लामा सतर्कता"
-    },
-    {
-      "id": "373ba9401b344a57",
-      "title": "२५ औँ श्रृङ्खलामा विविध विषयका १८ प्रश्नोत्तर",
-      "link": "https://gorkhapatraonline.com/news/224355",
-      "source": "Gorkhapatra",
-      "sourceUrl": "https://gorkhapatraonline.com/rss",
-      "pubDate": "2026-09-26T13:25:41+00:00",
-      "categories": [
-        "politics",
-        "business"
-      ],
-      "image": "https://gorkhapatraonline.com/storage/media/385027/conversions/825310502_1577638227428371_144992989094608950_n-original.jpg",
-      "images": [
-        "https://gorkhapatraonline.com/storage/media/385027/conversions/825310502_1577638227428371_144992989094608950_n-original.jpg"
-      ],
-      "description": "काठमाडौँ, असोज १० गते । गोरखापत्र अनलाइनको लोकसेवा तयारी विशेष कार्यक्रमको २५ औँ शृङ्खलामा समसामयिक विषयमा १८ वटा प्रश्नोत्तर समावेश छन् ।गोरखापत्र अनलाइनका लागि समाचारदाता सपना था..."
-    },
-    {
-      "id": "3f7ae83763b20b1a",
-      "title": "राति सल्यानका सबै सडक बन्द",
-      "link": "https://gorkhapatraonline.com/news/224401",
-      "source": "Gorkhapatra",
-      "sourceUrl": "https://gorkhapatraonline.com/rss",
-      "pubDate": "2026-09-26T13:24:03+00:00",
-      "categories": [
-        "politics",
-        "business"
-      ],
-      "image": "https://gorkhapatraonline.com/storage/media/385028/conversions/raapti-highway-salyan-original.jpg",
-      "images": [
-        "https://gorkhapatraonline.com/storage/media/385028/conversions/raapti-highway-salyan-original.jpg"
-      ],
-      "description": "शंकर केसी शारदा (सल्यान), असोज १० गते । लगातारको वर्षा र हावाहुरीका कारण सडकमा पहिरो, ढुङ्गा खस्ने तथा रुख र विद्युत्का पोल ढल्ने जोखिम बढेपछि सल्यानका सबै सडक रातिको समयमा बन्द ग..."
     },
     {
       "id": "b4775c93965d035c",
@@ -1271,39 +1801,6 @@
       "description": "बुटवल । पाल्पाको रिब्दीकोट गाउँपालिका–६ धुस्तुङमा पहिरोमा परी बेपत्ता ५९ वर्षीया कृष्णकुमारी सारुको शव फेला परेको छ । जिल्ला प्रहरी कार्यालय पाल्पाका अनुसार असोज ९ गते गएको पहिरोले स्थानीय घरहरूमा क्षति पुर्‍याउँदा सारु बेपत्ता भएकी थिइन्"
     },
     {
-      "id": "25bbc277fbf2fde0",
-      "title": "संयुक्त राष्ट्रसङ्घको महासभामा सहभागिताले नेपालको प्रतिष्ठा अभिवृद्धि",
-      "link": "https://gorkhapatraonline.com/news/224400",
-      "source": "Gorkhapatra",
-      "sourceUrl": "https://gorkhapatraonline.com/rss",
-      "pubDate": "2026-09-26T13:09:18+00:00",
-      "categories": [
-        "politics",
-        "business"
-      ],
-      "image": "https://gorkhapatraonline.com/storage/media/385023/conversions/press_meet-original.jpg",
-      "images": [
-        "https://gorkhapatraonline.com/storage/media/385023/conversions/press_meet-original.jpg"
-      ],
-      "description": "काठमाडौँ, असोज १० गते । प्रधानमन्त्री वालेन्द्र शाहले संयुक्त राष्ट्रसङ्घको ८१औँ महासभामा सम्बोधन तथा महासभाअन्तर्गतका कार्यक्रममा नेपालको सक्रिय सहभागिताले अन्तरराष्ट्रिय मञ्चमा न..."
-    },
-    {
-      "id": "a96d015a5caf30dc",
-      "title": "पूर्वी नेपालतर्फ मौसम सुधार, पश्चिमी क्षेत्रमा आइतवारदेखि सुधार हुने",
-      "link": "https://www.thahakhabar.com/detail/309377",
-      "source": "Thaha Khabar",
-      "sourceUrl": "https://www.thahakhabar.com/feed",
-      "pubDate": "2026-09-26T13:07:23+00:00",
-      "categories": [
-        "politics",
-        "business",
-        "sports"
-      ],
-      "image": "",
-      "images": [],
-      "description": "उनकाअनुसार आईतवार दिउँसोसम्म वागमतीको पश्चिमी भूभाग, मधेशको पश्चिमी भू–भाग तथा गण्डकी, लुम्बिनी, कर्णाली र सुदूरपश्चिमका अधिकांश स्थानमा मध्यम वर्षाको सम्भावना रहेको छ।"
-    },
-    {
       "id": "f986d3caf442173c",
       "title": "पाकिस्तानमा बम विष्फोट हुँदा ११ जनाको मृत्यु, ३० घाइते",
       "link": "https://www.onlinekhabar.com/2026/09/2026403/11-killed-30-injured-in-bomb-blast-in-pakistan",
@@ -1336,40 +1833,6 @@
       "image": "",
       "images": [],
       "description": "काठमाडौँ- नेपाली कांग्रेसको संस्थापनइतर समूहले पनि १५ औँ महाधिवेशनको प्रक्रिया अघि बढाएको छ। शनिबार सम्पर्क कार्यालय चुनदेवीमा आयोजित पत्रकार सम्मेलनमा सदस्यता व्यवस्थापन केन्द्रीय समितिले क्रियाशील सदस्यताको विवरण केन्द्रीय निर्वाचन समितिलाई हस्तान्तरण गरेको हो। महाधिवेशनका लागि ७ लाख ८३ हजार ८३६ जना पार्टी क्रियाशील अद्यावधिक गरिएको र जसमध्ये ५ लाख ७३ हजार २६९ जना पुराना तथा […]"
-    },
-    {
-      "id": "c6daaee4e8efa61d",
-      "title": "हावाहुरीले दाङ–देउखुरी क्षेत्रमा धानबालीमा ठुलो क्षति",
-      "link": "https://gorkhapatraonline.com/news/224399",
-      "source": "Gorkhapatra",
-      "sourceUrl": "https://gorkhapatraonline.com/rss",
-      "pubDate": "2026-09-26T13:03:12+00:00",
-      "categories": [
-        "politics",
-        "business"
-      ],
-      "image": "https://gorkhapatraonline.com/storage/media/385022/conversions/Dhan-original.jpg",
-      "images": [
-        "https://gorkhapatraonline.com/storage/media/385022/conversions/Dhan-original.jpg"
-      ],
-      "description": "सन्तोष दहित दाङ, असोज १० गते । शनिबार आएको हावाहुरी र लगातारको वर्षाका कारण दाङको देउखुरी क्षेत्रमा धानबालीमा ठुलो क्षति पुगेको छ। पाक्न लागेको धान हावाहुरीले ढलाएपछि किसान चिन्ति..."
-    },
-    {
-      "id": "ed8e520cf2c6bea2",
-      "title": "विपद्‍मा परी ६ जनाको मृत्यु",
-      "link": "https://gorkhapatraonline.com/news/224398",
-      "source": "Gorkhapatra",
-      "sourceUrl": "https://gorkhapatraonline.com/rss",
-      "pubDate": "2026-09-26T13:02:50+00:00",
-      "categories": [
-        "politics",
-        "business"
-      ],
-      "image": "https://gorkhapatraonline.com/storage/media/385021/conversions/death-original.jpg",
-      "images": [
-        "https://gorkhapatraonline.com/storage/media/385021/conversions/death-original.jpg"
-      ],
-      "description": "काठमाडौं, असोज १० गते । अविरल वर्षाको कारण गत असोज ८ गतेदेखि देशका विभिन्न स्थानमा आएको बाढी, पहिरो लगायतका विपद्‍मा परी हालसम्म ६ जनाको मृत्यु भएको छ ।बाढी, पहिरो लगायतका विपद्‍मा..."
     },
     {
       "id": "4733defa604aeb5b",
@@ -1563,38 +2026,6 @@
       "description": "Kathmandu, Sept 26: Nepal's bodybuilder Sagendra Singh has clinched gold medal at the 58th Asian Bodybuilding Championsh..."
     },
     {
-      "id": "bd4c70c354a906da",
-      "title": "मौसम प्रतिकूल भएसँगै मुस्ताङको पर्यटन क्षेत्र प्रभावित",
-      "link": "https://nepalnews.com/2026/09/26/mustangs-tourism-sector-affected-by-adverse-weather/",
-      "source": "Nepal News",
-      "sourceUrl": "https://nepalnews.com/feed",
-      "pubDate": "2026-09-26T12:33:50+00:00",
-      "categories": [
-        "politics",
-        "business",
-        "world"
-      ],
-      "image": "",
-      "images": [],
-      "description": "मुस्ताङ।मौसम प्रतिकूलता भएसँगै धार्मिक तथा पर्यटकीय जिल्ला मुस्ताङ सुनसान बन्दै गएको छ । निरन्तरको वर्षासँगै बाढीपहिरोको बढ्नुका साथै कतिपय स्थानमा राजमार्ग अवरुद्ध हुँदा यहाँको पर्यटन क्षेत्र प्रभावित भएको हो। गत भदौ १० गते रसुवाको भोटेकोशीमा आएको विनाशकारी बाढीले प्रभावित भएको मुस्ताङको पर्यटन अहिलेको पर्यटकीय याममा मौसम प्रतिकूलता हुँदा प्रभावित भएको छ । विगतका वर्षहरूमा अनुकूलयामसँगै […]"
-    },
-    {
-      "id": "b004fb096c357ca5",
-      "title": "बाढी र पहिरोका कारण गुल्मीमा ११ परिवार विस्थापित",
-      "link": "https://nepalnews.com/2026/09/26/11-families-displaced-in-gulmi-due-to-floods-and-landslides/",
-      "source": "Nepal News",
-      "sourceUrl": "https://nepalnews.com/feed",
-      "pubDate": "2026-09-26T12:30:48+00:00",
-      "categories": [
-        "politics",
-        "business",
-        "world"
-      ],
-      "image": "",
-      "images": [],
-      "description": "गुल्मी । अविरल वर्षासँगै आएको बाढी, पहिरो र हावाहुरीका कारण गुल्मीमा ११ परिवार विस्थापित भएका छन्। विपद्‍मा परी गोठ भत्किँदा तीन पशुचौपाया मरेका छन् । बाढी तथा पहिरोको जोखिममा परेका, घरको छानोमा क्षति पुगेका प्रभावित परिवारलाई प्रहरी तथा स्थानीयको सहयोगमा सुरक्षित स्थानमा सारिएको जिल्ला प्रहरी कायालय गुल्मीका सुभना अधिकारी एवं प्रहरी नायब उपरीक्षक वीरेन्द्रवीर विश्वकर्माले […]"
-    },
-    {
       "id": "7f907716d00cec1f",
       "title": "प्रधानमन्त्री शाह स्वदेश फिर्ता",
       "link": "https://rajdhanidaily.com/id/149026/",
@@ -1610,86 +2041,6 @@
         "https://rajdhanidaily.com/wp-content/uploads/2026/09/balen-airport-phirta.jpg"
       ],
       "description": "काठमाडौं । प्रधानमन्त्री बालेन्द्र शाह संयुक्त राष्ट्रसंघको ८१औँ महासभामा सहभागी भई आज स्वदेश फर्किएका छन् । उनलाई त्रिभुवन अन्तर्राष्ट्रिय विमानस्थलमा अर्थमन्त्री डा स्वर्णिम वाग्ले, गृहमन्त्री सुधन गुरुङ, संस्कृति, पर्यटन तथा नागरिक उड्डयनमन्त्री खडकराज पौडेलले स्वागत गरेका थिए । प्रधानमन्त्री शाह नेपाली प्रतिनिधिमण्डलको नेतृत्व गर्दै महासभाको उच्चस्तरीय सप्ताहमा सहभागी हुन यही ६ असोजमा संयुक्तराज्य अमेरिकाको न्युयोर्क […] The post प्रधानमन्त्री शाह स्वदेश फिर्ता appeared first on राजधानी राष्"
-    },
-    {
-      "id": "2d556f3a6fdec0f8",
-      "title": "पहिरोका कारण कोरला सडक अवरुद्ध",
-      "link": "https://nepalnews.com/2026/09/26/korala-road-blocked-due-to-landslide/",
-      "source": "Nepal News",
-      "sourceUrl": "https://nepalnews.com/feed",
-      "pubDate": "2026-09-26T12:28:41+00:00",
-      "categories": [
-        "politics",
-        "business",
-        "world"
-      ],
-      "image": "",
-      "images": [],
-      "description": "मुस्ताङ। लगातार परेको वर्षाका कारण जोमसोम–कोरला सडक आजदेखि अवरुद्ध भएको छ । जोमसोम–कोरला नाका जोड्ने सडकखण्डको तीन स्थानमा पहिरो खसेपछि सडक अवरुद्ध भएको जिल्ला प्रहरी कार्यालय मुस्ताङले जनाएको छ। कोरला नाका जाड्ने जोमसोम–कोरला राष्ट्रिय राजमार्गअन्तर्गत बारागुङ मुक्तिक्षेत्रको चैले गाउँभन्दा माथि कालोभीर, कागबेनीदेखि ताङ्वे सडक र उपल्लो मुस्ताङको लोघेकर दामोदरकुण्ड–२ घमीस्थित सेल्फीडाँडा सडकमा पहिरो खसेपछि सडक […]"
-    },
-    {
-      "id": "4134fa3308f59e3e",
-      "title": "नारायणी नदीले सतर्कता तह पार गर्‍यो",
-      "link": "https://nepalnews.com/2026/09/26/narayani-river-crosses-alert-level/",
-      "source": "Nepal News",
-      "sourceUrl": "https://nepalnews.com/feed",
-      "pubDate": "2026-09-26T12:27:18+00:00",
-      "categories": [
-        "politics",
-        "business",
-        "world"
-      ],
-      "image": "",
-      "images": [],
-      "description": "चितवन। नारायणी नदीले सतर्कता तह पार गरेको छ। बिहीबारदेखि परेको वर्षापछि अहिले नारायणी नदीले सतर्कता तह पार गरेको हो । नारायणी बेसिन कार्यालय चितवनका अनुसार हाल पानीको सतह आठ दशमलव ३० मिटर पुगेको छ । कार्यालयका प्रमुख सुमित अधिकारीले नदीको बहाव बढ्दै गएकोले तटीय क्षेत्रका बासिन्दालाई सर्तक रहन आग्रह गरिएको बताए । उनका अनुसार नारायणी […]"
-    },
-    {
-      "id": "1116ffee7f5eb67f",
-      "title": "धाप ड्याम पूर्णरूपमा सुरक्षित : ऊर्जा मन्त्रालय",
-      "link": "https://nepalnews.com/2026/09/26/dhap-dam-completely-safe-ministry-of-energy/",
-      "source": "Nepal News",
-      "sourceUrl": "https://nepalnews.com/feed",
-      "pubDate": "2026-09-26T12:24:47+00:00",
-      "categories": [
-        "politics",
-        "business",
-        "world"
-      ],
-      "image": "",
-      "images": [],
-      "description": "काठमाडौँ । ऊर्जा, जलस्रोत तथा सिँचाइ मन्त्रालयले गोकर्णेश्वर नगरपालिका १, शिवपुरी-नागार्जुन राष्ट्रिय निकुञ्ज क्षेत्रमा पर्ने धाप बाँध (ड्याम) सुरक्षित रहेको जनाएको छ । मन्त्रालय मातहतको सिँचाइ विभागअन्तर्गत पर्ने नागमती तथा धाप बाँध आयोजनाले शनिबार विज्ञप्ति जारी गरी काठमाडौँ उपत्यकाको सुख्खायामको पानीको आवश्यकता पूर्ति गर्न निर्मित धाप बाँध र यसको मुख्य संरचना हालसम्म पूर्ण रूपमा सुरक्षित […]"
-    },
-    {
-      "id": "bc4d98301167d187",
-      "title": "नगर विकास कोष खारेज गरी १ खर्ब अधिकृत पुँजीको ‘पूर्वाधार विकास कोष’ बनाइने",
-      "link": "https://www.ratopati.com/story/595122/the-urban-development-fund-will-be-abolished-and-an-infrastructure-development-fund-with-an-authorized-capital-of-rs-100-billion-will-be-created",
-      "source": "Ratopati",
-      "sourceUrl": "https://ratopati.com/feed",
-      "pubDate": "2026-09-26T12:23:52+00:00",
-      "categories": [
-        "politics",
-        "sports"
-      ],
-      "image": "https://npcdn.ratopati.com/media/news/purbadhar-bikas-mantralaya_jf748mqGSI.jpg",
-      "images": [
-        "https://npcdn.ratopati.com/media/news/purbadhar-bikas-mantralaya_jf748mqGSI.jpg"
-      ],
-      "description": "काठमाडौँ । सरकारले तीन दशक पुरानो ‘नगर विकास कोष ऐन, २०५३’ लाई खारेज गर्दै नयाँ कानुनी प्रबन्धसहित १ खर्ब रुपैयाँ अधिकृत पुँजी रहने ‘पूर्वाधार विकास कोष’ स्थापना गर्ने प्रक्रिया अघि बढाएको छ । पूर्वाधार विकास मन्त्रालयले"
-    },
-    {
-      "id": "f1198090a499fe03",
-      "title": "शशांक कोइराला : ‘नयाँ जोशका साथ १५औँ महाधिवेशनमा जाँदैछौँ’",
-      "link": "https://nepallive.com/story/351096",
-      "source": "Nepal Live",
-      "sourceUrl": "https://nepallive.com/feed",
-      "pubDate": "2026-09-26T12:23:31+00:00",
-      "categories": [
-        "politics",
-        "technology"
-      ],
-      "image": "",
-      "images": [],
-      "description": "महाराजगञ्जको चुनदेवीस्थित सम्पर्क कार्यालयमा शनिबार आयोजित पत्रकार सम्मेलनमा उनले आफूहरू नयाँ जोशका १५ औं महाधिवेशनमा जान लागेको बताएका हुन् ।"
     },
     {
       "id": "5f94a128cb78e584",
@@ -1744,40 +2095,6 @@
       "description": "GULMI: Eleven families have been displaced in Gulmi due to floods, landslides and strong winds triggered by continuous rainfall. Three livestock also died after sheds collapsed in the disasters. According to Gulmi District Police Office information officer Subarna Adhikari and Deputy Superintendent of Police Birendra Bir Bishwakarma, families whose homes were damaged or who were […]"
     },
     {
-      "id": "b5c24ba6e9560167",
-      "title": "नेपालमा सुरक्षित गर्भपतन : ७१ प्रतिशत महिलाको पहिलो रोजाइमा औषधि",
-      "link": "https://www.ratopati.com/story/595069/safe-abortion-in-nepal-medication-is-the-first-choice-for-71-percent-of-women",
-      "source": "Ratopati",
-      "sourceUrl": "https://ratopati.com/feed",
-      "pubDate": "2026-09-26T12:15:00+00:00",
-      "categories": [
-        "politics",
-        "sports"
-      ],
-      "image": "https://npcdn.ratopati.com/media/news/safe-abortion_mUT6c2L88w.webp",
-      "images": [
-        "https://npcdn.ratopati.com/media/news/safe-abortion_mUT6c2L88w.webp"
-      ],
-      "description": "काठमाडौँ । आर्थिक वर्ष २०८२/८३ मा देशभर एक लाख ५ हजार ६ सय २८ जना महिलाले सुरक्षित गर्भपतन सेवा लिएका छन् । अघिल्लो वर्षको तुलनामा यसमा केही कमी आए तापनि सेवाग्राहीमध्ये बहुसङ्ख्यक अर्थात् ७१.२५ प्रतिशत महिलाले"
-    },
-    {
-      "id": "c431490653a3df8e",
-      "title": "सन् २०२७ को विश्वकप अन्तिम हुन सक्ने कोहलीको संकेत",
-      "link": "https://www.ratopati.com/story/595121/kohli-hints-that-the-2027-world-cup-could-be-the-last",
-      "source": "Ratopati",
-      "sourceUrl": "https://ratopati.com/feed",
-      "pubDate": "2026-09-26T12:08:26+00:00",
-      "categories": [
-        "politics",
-        "sports"
-      ],
-      "image": "https://npcdn.ratopati.com/media/news/825256896_3023936897963431_2229471942515664016_n_11neXMB4su.webp",
-      "images": [
-        "https://npcdn.ratopati.com/media/news/825256896_3023936897963431_2229471942515664016_n_11neXMB4su.webp"
-      ],
-      "description": "काठमाडौँ । भारतीय क्रिकेट टोलीका स्टार ब्याट्सम्यान विराट कोहलीले सन् २०२७ मा हुने एक दिवसीय विश्वकप भारतका लागि आफ्नो अन्तिम विश्वकप हुने संकेत गरेका छन् । उनले आफ्नो अन्तिम विश्वकपमा भारतलाई उपाधि दिलाउन सक्दो प्रयास"
-    },
-    {
       "id": "d4ff3b5d033bf23a",
       "title": "सरकारले भन्यो– राष्ट्रसंघमा नेपालको सहभागिताले अन्तर्राष्ट्रिय मञ्चमा छवि बढ्यो",
       "link": "https://www.onlinekhabar.com/2026/09/2026351/government-says-nepals-participation-in-the-united-nations-has-enhanced-its-image-on-the-international-stage",
@@ -1794,23 +2111,6 @@
       "image": "",
       "images": [],
       "description": "परराष्ट्र मन्त्रालयका निमित्त सचिव गणेशप्रसाद ढकालले भ्रमणबारे जानकारी गराउँदै महासभामा नेपालको सक्रिय र सफल सहभागिता रहेको बताए ।"
-    },
-    {
-      "id": "085f7d6aeb72c984",
-      "title": "नेपाली कांग्रेसको देउवा समूहको वडा अधिवेशनको तयारी तीव्र",
-      "link": "https://www.ratopati.com/story/595119/preparations-for-the-ward-convention-of-the-deuba-faction-of-the-nepali-congress-are-in-full-swing",
-      "source": "Ratopati",
-      "sourceUrl": "https://ratopati.com/feed",
-      "pubDate": "2026-09-26T12:04:44+00:00",
-      "categories": [
-        "politics",
-        "sports"
-      ],
-      "image": "https://npcdn.ratopati.com/media/news/congress-deuba-shekhar-team-(8)_Acdk8zcCMx.jpg",
-      "images": [
-        "https://npcdn.ratopati.com/media/news/congress-deuba-shekhar-team-(8)_Acdk8zcCMx.jpg"
-      ],
-      "description": "काठमाडौँ । नेपाली कांग्रेसको निवर्तमान सभापति शेरबहादुर देउवा समूहको आसन्न १५ औँ महाधिवेशन अन्तर्गत वडा अधिवेशनको तयारीले गति लिएको छ। यसै क्रममा, पार्टीको क्रियाशील सदस्यता व्यवस्थापन समितिले वडा तहको अधिवेशनका लागि आवश्यक क्रियाशील सदस्यताको अन्तिम"
     },
     {
       "id": "82f45e3707a5f30a",
@@ -1850,40 +2150,6 @@
       "description": "Can these progressive young disruptors become nation builders?"
     },
     {
-      "id": "1bdc242cb1d05b4e",
-      "title": "सहमति नजुटेपछि ‘इमर्जेन्सी मोड’मा कांग्रेस महाधिवेशनको तयारी : डा.महत",
-      "link": "https://www.ratopati.com/story/595118/preparations-for-congress-general-convention-in-emergency-mode-after-no-consensus-reached-dr-mahat",
-      "source": "Ratopati",
-      "sourceUrl": "https://ratopati.com/feed",
-      "pubDate": "2026-09-26T11:58:50+00:00",
-      "categories": [
-        "politics",
-        "sports"
-      ],
-      "image": "https://npcdn.ratopati.com/media/news/825309681_1828018848643298_1894348004961144404_n_d1Rykq36hq.webp",
-      "images": [
-        "https://npcdn.ratopati.com/media/news/825309681_1828018848643298_1894348004961144404_n_d1Rykq36hq.webp"
-      ],
-      "description": "काठमाडौँ । नेपाली कांग्रेसको संस्थापन इतर पक्षले पार्टीको १५औँ महाधिवेशनको तयारी आपत्कालीन अवस्था (इमर्जेन्सी मोड) मा गरिरहेको बताएको छ । शनिबार पार्टीको सम्पर्क कार्यालय चुनदेवीमा आयोजित पत्रकार सम्मेलनमा नेता डा. प्रकाशशरण महतले समयको चापका कारण"
-    },
-    {
-      "id": "7efd3e37b49c5065",
-      "title": "नेपाली कांग्रेस पुरानो हो तर फाटेको होइन : डा. शशांक कोइराला",
-      "link": "https://www.ratopati.com/story/595117/nepali-congress-is-old-but-not-broken-dr-shashank-koirala",
-      "source": "Ratopati",
-      "sourceUrl": "https://ratopati.com/feed",
-      "pubDate": "2026-09-26T11:55:28+00:00",
-      "categories": [
-        "politics",
-        "sports"
-      ],
-      "image": "https://npcdn.ratopati.com/media/news/825261287_1174114841621406_3003855948908023660_n_wL4uP5yHgR.webp",
-      "images": [
-        "https://npcdn.ratopati.com/media/news/825261287_1174114841621406_3003855948908023660_n_wL4uP5yHgR.webp"
-      ],
-      "description": "काठमाडौँ । नेपाली कांग्रेस इत्तर समूहको महाअधिवेशन तयारी समितिका संयोजक प्राध्यापक डाक्टर शशांक कोइरालाले आसन्न अधिवेशन पार्टीका लागि एउटा ठूलो परीक्षाको समय भएको बताएका छन्। नेपाली कांग्रेस संस्थापन इतर पक्षद्वारा शनिबार पार्टी सम्पर्क कार्यालय चुनदेवीमा आयोजित"
-    },
-    {
       "id": "14648c1760b9759f",
       "title": "पहिरोका कारण जोमसोम–कोरला सडक अवरुद्ध",
       "link": "https://www.onlinekhabar.com/2026/09/2026349/landslide-blocks-jomsom-korla-road",
@@ -1918,40 +2184,6 @@
       "description": "KATHMANDU: Prime Minister Balendra Shah has returned home after attending the United Nations General Assembly. He landed at Tribhuvan International Airport in Kathmandu on Saturday afternoon. Shah had departed for the United States on Tuesday evening to attend the UN General Assembly. He addressed the General Assembly on Ashoj 8, drawing international attention to the […]"
     },
     {
-      "id": "c32faee91be6bca1",
-      "title": "जय नेपाल पार्टीको केन्द्रीय कार्यालय उद्घाटन",
-      "link": "https://www.ratopati.com/story/595116/jai-nepal-party-central-office-inaugurated",
-      "source": "Ratopati",
-      "sourceUrl": "https://ratopati.com/feed",
-      "pubDate": "2026-09-26T11:51:27+00:00",
-      "categories": [
-        "politics",
-        "sports"
-      ],
-      "image": "https://npcdn.ratopati.com/media/news/dhawal-shumsher_QOpC8TfF2Z.jpg",
-      "images": [
-        "https://npcdn.ratopati.com/media/news/dhawal-shumsher_QOpC8TfF2Z.jpg"
-      ],
-      "description": "काठमाडौँ। राष्ट्रियताको संरक्षण र हिन्दु राष्ट्रको पुनर्स्थापना गर्ने मुख्य उद्देश्यका साथ स्थापना भएको जय नेपाल पार्टीले आफ्नो केन्द्रीय कार्यालयको औपचारिक उद्घाटन गरेको छ। काठमाडौँको चाबहिलमा शनिबार आयोजित विशेष कार्यक्रमबिच कार्यालयको उद्घाटन गरिएको हो। पार्टीका सभापति"
-    },
-    {
-      "id": "2887d1370ebe40a0",
-      "title": "११ वर्षमै एसियाड स्वर्ण, युकी कुरिहाराले रचे इतिहास",
-      "link": "https://www.ratopati.com/story/595115/yuki-kurihara-creates-history-with-asian-games-gold-at-11-years-old",
-      "source": "Ratopati",
-      "sourceUrl": "https://ratopati.com/feed",
-      "pubDate": "2026-09-26T11:46:13+00:00",
-      "categories": [
-        "politics",
-        "sports"
-      ],
-      "image": "https://npcdn.ratopati.com/media/news/825256724_2103990866910487_6019313484431722558_n_iENTtgyEMX.webp",
-      "images": [
-        "https://npcdn.ratopati.com/media/news/825256724_2103990866910487_6019313484431722558_n_iENTtgyEMX.webp"
-      ],
-      "description": "काठमाडौँ । जापानका ११ वर्षीय युकी कुरिहाराले २०औँ एसियाली खेलकुदमा ईस्पोट्र्सतर्फ स्वर्ण पदक जित्दै इतिहास रचेका छन् । आइची–नागोयामा जारी एसियाली खेलकुदअन्तर्गत शनिबार भएको ‘पुयो पुयो च्याम्पियन्स’को फाइनलमा दक्षिण कोरियाका काङ डोङसिनलाई १०–२ ले पराजित"
-    },
-    {
       "id": "28b56bca0f41b66f",
       "title": "Finance, Home and Tourism ministers welcome PM Shah at airport",
       "link": "https://english.khabarhub.com/2026/26/569372/",
@@ -1966,23 +2198,6 @@
       "image": "",
       "images": [],
       "description": "KATHMANDU: Prime Minister Balendra Shah has returned home after attending the 81st session of the United Nations General Assembly, leading a 14-member Nepali delegation. Acting Prime Minister and Finance Minister Swarnim Wagle, Home Minister Sudhan Gurung and Tourism Minister Ganesh Paudel reached the airport to welcome him. Prime Minister Shah had departed for New York […]"
-    },
-    {
-      "id": "c951e3e90d51562f",
-      "title": "एआई बहसमा छुटेको एउटा प्रश्न : लेखकले मेसिनसँग सहकार्य गर्न पाउँछ कि पाउँदैन ?",
-      "link": "https://www.ratopati.com/story/595065/a-question-left-unanswered-in-the-ai-debate-should-writers-collaborate-with-machines-or-not",
-      "source": "Ratopati",
-      "sourceUrl": "https://ratopati.com/feed",
-      "pubDate": "2026-09-26T11:45:00+00:00",
-      "categories": [
-        "politics",
-        "sports"
-      ],
-      "image": "https://npcdn.ratopati.com/media/news/cetait-caou-mourir_OTA3kn8uyn.webp",
-      "images": [
-        "https://npcdn.ratopati.com/media/news/cetait-caou-mourir_OTA3kn8uyn.webp"
-      ],
-      "description": "लेखक सेबास्तियाँ बायलीलाई दुःख लागेको छ, कृत्रिम बुद्धिमत्तासम्बन्धी बहसमा लेखकका लागि दुई वटा मात्रै भूमिका तय गरिएका छन् : एक निर्दोष अनि अर्को ठग । लेखकहरूले यो प्रविधिलाई पारदर्शी ढंगले प्रयोग गर्न पाउनुपर्ने उनको तर्क छ"
     },
     {
       "id": "012364204a41b00b",
@@ -2001,40 +2216,6 @@
         "https://nepalviews.cdnsolution.net/en/media/setting/banner_FHsSzcWYKk.jpg"
       ],
       "description": ""
-    },
-    {
-      "id": "93f2368310ae7cba",
-      "title": "कांग्रेसको निर्वाचनमा तोकिएको शुल्कबाहेक अतिरिक्त रकम नलिन निर्वाचन समितिको निर्देशन",
-      "link": "https://www.ratopati.com/story/595114/election-committee-directs-not-to-charge-additional-fees-other-than-the-prescribed-fee-for-the-congress-election",
-      "source": "Ratopati",
-      "sourceUrl": "https://ratopati.com/feed",
-      "pubDate": "2026-09-26T11:43:45+00:00",
-      "categories": [
-        "politics",
-        "sports"
-      ],
-      "image": "https://npcdn.ratopati.com/media/news/congress-office-(1)_jngkj3r13m_7PHWnhfPpk.jpg",
-      "images": [
-        "https://npcdn.ratopati.com/media/news/congress-office-(1)_jngkj3r13m_7PHWnhfPpk.jpg"
-      ],
-      "description": "काठमाडौँ । नेपाली कांग्रेसको १५औँ महाधिवेशनअन्तर्गत विभिन्न तहका निर्वाचनमा तोकिएको शुल्कबाहेक अतिरिक्त रकम नलिन केन्द्रीय निर्वाचन समितिले निर्देशन दिएको छ । समितिले पार्टीका विभिन्न तहका निर्वाचनका क्रममा ‘नेपाली कांग्रेस १५औँ महाधिवेशन निर्वाचन निर्देशिका, २०८३’ को अनुसूची–२१"
-    },
-    {
-      "id": "3e2d02a29740e81c",
-      "title": "कांग्रेसको १५ औँ महाधिवेशन मंसिर २१, २२ र २३ गते गर्ने इतर पक्षको निर्णय",
-      "link": "https://www.ratopati.com/story/595113/other-parties-decide-to-hold-the-15th-congress-of-the-nepali-congress-on-mangsir-21-22-and-23",
-      "source": "Ratopati",
-      "sourceUrl": "https://ratopati.com/feed",
-      "pubDate": "2026-09-26T11:41:56+00:00",
-      "categories": [
-        "politics",
-        "sports"
-      ],
-      "image": "https://npcdn.ratopati.com/media/news/nepali-congress-deuba-team-press-meet_npl-1_OZ7a2zapSx.webp",
-      "images": [
-        "https://npcdn.ratopati.com/media/news/nepali-congress-deuba-team-press-meet_npl-1_OZ7a2zapSx.webp"
-      ],
-      "description": "काठमाडौँ । नेपाली कांग्रेस संस्थापन इतर पक्षले पार्टीको १५ औँ महाधिवेशन आउँदो मंसिर २१, २२ र २३ गते गर्ने भएको छ। शनिबार पार्टी सम्पर्क कार्यालय चुनदेवीमा आयोजित पत्रकार सम्मेलनका क्रममा पार्टीका नेता डा. प्रकाशशरण महतले मंसिर तेस्रो"
     },
     {
       "id": "4e78268c7a397fdc",
@@ -2124,21 +2305,6 @@
       "description": ""
     },
     {
-      "id": "afc619438a544533",
-      "title": "चाडपर्वमा उपभोक्ता ठगीबाट रोक्न बजार अनुगमनमा तीव्रता",
-      "link": "https://nepalsamaya.com/detail/146301",
-      "source": "Nepal Samaya",
-      "sourceUrl": "https://nepalsamaya.com/feed",
-      "pubDate": "2026-09-26T11:31:05+00:00",
-      "categories": [
-        "politics",
-        "entertainment"
-      ],
-      "image": "",
-      "images": [],
-      "description": ""
-    },
-    {
       "id": "630b52d26d8c587f",
       "title": "‘ग्रे लिस्ट’बाट निस्कन नेपालले कसको सहयोग लिने ?",
       "link": "https://www.onlinekhabar.com/2026/09/2026330/whose-help-will-nepal-seek-to-exit-the-grey-list",
@@ -2213,24 +2379,6 @@
       "description": "काठमाडौं। प्रधानमन्त्री वालेन्द्र शाह संयुक्त राष्ट्रसङ्घको ८१औँ महासभामा सहभागी भएर आज स्वदेश फर्किएका छन्। १४ सदस्यीय नेपाली प्रतिनिधिमण्डलको नेतृत्व गर्दै अमेरिका पुगेका शाह केहीबेरअघि त्रिभुवन अन्तर्राष्ट्रिय विमानस्थलमा अवतरण गरेका हुन्। प्रधानमन्त्री शाह गत असोज ६ गते कतारको दोहा हुँदै अमेरिकाको न्युयोर्क प्रस्थान गरेका थिए। न्युयोर्क पुगेपछि उनले संयुक्त राष्ट्रसङ्घको महासभामा नेपालको प्रतिनिधित्व गर्दै विभिन्न कार्यक्रममा […] The post संयुक्त राष्ट्रसंघको महासभामा सहभागी भएर प्रधानमन्त्र"
     },
     {
-      "id": "75dc16fc583ae57a",
-      "title": "नारायणी नदीमा बाढीले सतर्कता तह पार गर्‍यो",
-      "link": "https://www.onlinekhabar.com/2026/09/2026334/flooding-in-narayani-river-crosses-alert-level",
-      "source": "Online Khabar",
-      "sourceUrl": "https://www.onlinekhabar.com/feed",
-      "pubDate": "2026-09-26T11:21:25+00:00",
-      "categories": [
-        "politics",
-        "business",
-        "sports",
-        "technology",
-        "entertainment"
-      ],
-      "image": "",
-      "images": [],
-      "description": "नारायणी बेसिन कार्यालय चितवनका अनुसार हाल पानीको सतह ८ दशमलव ३० मिटर पुगेको छ ।"
-    },
-    {
       "id": "f1a8e39a140a9e69",
       "title": "मुगुमा आगलागी हुँदा दुई घर जलेर नष्ट",
       "link": "https://www.nepalviews.com/story/425924/two-houses-destroyed-in-fire-in-mugu",
@@ -2263,25 +2411,6 @@
       "image": "",
       "images": [],
       "description": "KATHMANDU: As preparations for the 15th General Convention of the Nepali Congress gather pace, invitations are being extended to leaders of major political parties to attend the opening ceremony. Nepali Congress leader Uday Shumsher Rana separately met Rastriya Swatantra Party (RSP) Chair Rabi Lamichhane, CPN-UML Chair KP Sharma Oli and Nepali Communist Party coordinator Pushpa […]"
-    },
-    {
-      "id": "109316aa4f6133cb",
-      "title": "इतिहासको पुनर्परिभाषा",
-      "link": "https://nepalnews.com/2026/09/26/redefining-history/",
-      "source": "Nepal News",
-      "sourceUrl": "https://nepalnews.com/feed",
-      "pubDate": "2026-09-26T11:15:06+00:00",
-      "categories": [
-        "politics",
-        "business",
-        "world"
-      ],
-      "image": "https://nepalnews.com/wp-content/uploads/2026/09/Romila_Thapar_cropped.jpg",
-      "images": [
-        "https://nepalnews.com/wp-content/uploads/2026/09/Romila_Thapar_cropped.jpg",
-        "https://nepalnews.com/wp-content/uploads/2026/09/111-1.jpeg"
-      ],
-      "description": "भारतका समकालीन इतिहासकारहरूको नामावलीमा नछुट्ने एउटा नाम हो- रोमिला थापर। जवाहरलाल नेहरू विश्वविद्यालय (जेएनयू) मा इतिहासको प्राध्यापनसँगै उनले भारतको ऐतिहासिक अनुसन्धानमा जीवनको लामो समय बिताइन्। उनी इतिहास कसैको मनगढन्ते तर्कनाको भरमा होइन, बरु वैज्ञानिक अनुसन्धान पद्धतिभित्र बसेर वस्तुगत प्रमाण र वस्तुसंगत तर्कका आधारमा लेखिनुपर्ने मतकी पक्षपाती हुन्। विशेषतः सन् २०१४ मा भारतीय जनता पार्टी (भाजपा) […]"
     },
     {
       "id": "037caaad460689f3",
@@ -2394,58 +2523,6 @@
       "description": "काठमाडौं । नेपाली कांग्रेस आफ्नो संस्थापककालीन वैचारिक आदर्शबाट टाढिँदै गएको भन्दै पार्टीलाई पुनः वैचारिक, संगठनात्मक र नैतिक आधारमा सुदृढ गर्नुपर्नेमा जोड दिइएको छ।प्रजातान्त्रिक विचार समाजद्वारा आयोजित कार्यक्रममा प्रस्तुत अवधारणामा कांग्रेसको ऐतिहासिक योगदान महत्वपूर्ण भए पनि पछिल्लो समय पार्टीभित्र गुटबन्दी, नेतृत्वकेन्द्रित राजनीति, वैचारिक अस्पष्टता र सत्ताकेन्द्रित प्रवृत्ति बढेको विश्लेषण गरिएको छ। कार्यक्रममा कांग्रेसको मूल पहिचान राष्ट्रियता, […]"
     },
     {
-      "id": "48fadce68118bf34",
-      "title": "कांग्रेस इतर समूहले केन्द्रीय निर्वाचन समितिलाई बुझायो क्रियाशील सदस्यताको विवरण",
-      "link": "https://www.onlinekhabar.com/2026/09/2026326/congress-and-other-groups-submit-details-of-active-membership-to-the-central-election-committee",
-      "source": "Online Khabar",
-      "sourceUrl": "https://www.onlinekhabar.com/feed",
-      "pubDate": "2026-09-26T11:06:10+00:00",
-      "categories": [
-        "politics",
-        "business",
-        "sports",
-        "technology",
-        "entertainment"
-      ],
-      "image": "",
-      "images": [],
-      "description": "१० असोज, काठमाडौं । नेपाली कांग्रेसको संस्थापन इतर समूहले १५ औं महाधिवेशनका लागि गठन गरेको सदस्यता व्यवस्थापन केन्द्रीय समितिले क्रियाशील सदस्यताको विवरण केन्द्रीय निर्वाचन समितिलाई हस्तान्तरण गरेको छ । महराजगञ्जको चुनदेवीस्थित सम्पर्क कार्यालयमा शनिबार पत्रकार सम्मेलन गरेर इतर समूहको सदस्यता व्यवस्थापन समितिका संयोजक किरणराज शर्मा पौडेलले निर्वाचन समितिका संयोजक एकराज पोेख्रेललाई क्रियाशील सदस्यताको विवरण हस्तान्तरण […]"
-    },
-    {
-      "id": "27961c5077c3c4bc",
-      "title": "रुकुम पश्चिममा खोलाले बगाएर महिलाको मृत्यु",
-      "link": "https://www.onlinekhabar.com/2026/09/2026323/woman-dies-after-being-swept-away-by-river-in-rukum-west",
-      "source": "Online Khabar",
-      "sourceUrl": "https://www.onlinekhabar.com/feed",
-      "pubDate": "2026-09-26T11:02:41+00:00",
-      "categories": [
-        "politics",
-        "business",
-        "sports",
-        "technology",
-        "entertainment"
-      ],
-      "image": "",
-      "images": [],
-      "description": "रुकुम पश्चिममा खोलाले बगाउँदा एक ५८ वर्षीया महिलाको मृत्यु भएको छ ।"
-    },
-    {
-      "id": "18a573995d5f29c0",
-      "title": "यूएन महासभामा सहभागी भएर स्वदेश फर्किए प्रधानमन्त्री शाह",
-      "link": "https://nepalnews.com/2026/09/26/prime-minister-shah-returns-home-after-attending-the-un-general-assembly/",
-      "source": "Nepal News",
-      "sourceUrl": "https://nepalnews.com/feed",
-      "pubDate": "2026-09-26T11:01:32+00:00",
-      "categories": [
-        "politics",
-        "business",
-        "world"
-      ],
-      "image": "",
-      "images": [],
-      "description": "काठमाडौं । प्रधानमन्त्री बालेन शाह संयुक्त राष्ट्रसंघको ८१औँ महासभामा सहभागी भएर स्वदेश फर्किएका छन्। प्रधानमन्त्री शाह केहीबेरअघि त्रिभुवन अन्तर्राष्ट्रिय विमानस्थलमा अवतरण गरेका हुन्। महासभामा सहभागी हुन प्रधानमन्त्री शाह गत मंगलबार साँझ अमेरिका प्रस्थान गरेका थिए। उनले महासभालाई ८ गते सम्बोधन गरेका थिए। अमेरिका भ्रमणका क्रममा प्रधानमन्त्री शाहले विभिन्न देशका प्रतिनिधि तथा अन्तर्राष्ट्रिय समुदायका प्रतिनिधिसँग भेटवार्ता […]"
-    },
-    {
       "id": "6284a9da47788132",
       "title": "धाप ड्यामको अवस्था के छ ? जोखिम छ कि छैन ?",
       "link": "https://www.nepalviews.com/story/425921/what-is-the-condition-of-the-dhap-dam-is-it-at-risk-or-not",
@@ -2462,22 +2539,6 @@
         "https://nepalviews.cdnsolution.net/en/media/setting/banner_FHsSzcWYKk.jpg"
       ],
       "description": ""
-    },
-    {
-      "id": "365d44666f9ff875",
-      "title": "Heightened vigilance urged in and around Chitwan National Park areas",
-      "link": "https://english.khabarhub.com/2026/26/569364/",
-      "source": "Khabarhub",
-      "sourceUrl": "https://english.khabarhub.com/feed/",
-      "pubDate": "2026-09-26T10:45:03+00:00",
-      "categories": [
-        "politics",
-        "business",
-        "world"
-      ],
-      "image": "",
-      "images": [],
-      "description": "CHITWAN: The Chitwan National Park Office has issued a warning for heightened vigilance in the park and nearby regions due to an increased risk of flooding and inundation caused by continuous rainfall. Avinash Thapamagar, the park’s information and conservation officer, noted that the Narayani, Rapti, and Riu Rivers, along with several smaller rivers in the […]"
     },
     {
       "id": "71a3ecfb98bdfdf5",
@@ -2613,6 +2674,23 @@
       "image": "",
       "images": [],
       "description": "Kathmandu, Sept 26: Foreign Minister Shisir Khanal has described the Nepali diaspora as a crucial pillar of Nepal's deve..."
+    },
+    {
+      "id": "aa298f5f40c55d55",
+      "title": "Heightened vigilance urged in and around Chitwan National Park areas",
+      "link": "https://risingnepaldaily.com/news/87057",
+      "source": "The Rising Nepal",
+      "sourceUrl": "https://risingnepaldaily.com/rss",
+      "pubDate": "2026-09-26T10:21:51+00:00",
+      "categories": [
+        "politics",
+        "business",
+        "world",
+        "sports"
+      ],
+      "image": "",
+      "images": [],
+      "description": "Narayangadh (Chitwan), Sept 26: The Chitwan National Park Office has issued a warning for heightened vigilance in the pa..."
     },
     {
       "id": "660f56400d1a25da",
@@ -2752,22 +2830,6 @@
         "https://rajdhanidaily.com/wp-content/uploads/2026/09/Congress-deuba-group-2-e1786693980367.jpg"
       ],
       "description": "काठमाडौं । नेपाली कांग्रेसको संस्थापनइतर समूहले १५औं महाधिवेशनका लागि जिल्ला निर्वाचन अधिकृतको जिम्मेवारी तोकेको छ । समितिका संयोजक एगराज पोखरेलले जिल्ला निर्वाचन अधिकृतलाई पत्र पठाउँदै सम्बन्धित जिल्लामा पार्टी संयोजक तथा अन्य पदाधिकारीसँग समन्वय गरी काम गर्न निर्देशन समेत दिएको छ । एगराज पोखरेलको नेतृत्वमा रहेको निर्वाचन समितिमा रुपेश कोइराला, डा. विनिता कार्की, अमितकुमार कर्ण, अनिता […] The post देउवा समूहले महाधिवेशनका लागि तोक्यो मतदान अधिकृत appeared first on राजधानी राष्ट्रिय दैनिक (लोकप्"
-    },
-    {
-      "id": "0d25df4ccf158303",
-      "title": "Narayani flood nears danger level as all Gandak Barrage gates open",
-      "link": "https://english.khabarhub.com/2026/26/569358/",
-      "source": "Khabarhub",
-      "sourceUrl": "https://english.khabarhub.com/feed/",
-      "pubDate": "2026-09-26T09:45:34+00:00",
-      "categories": [
-        "politics",
-        "business",
-        "world"
-      ],
-      "image": "",
-      "images": [],
-      "description": "NAWALPUR: The water level in the Narayani River in Nawalparasi (Bardaghat-Sustapur) has risen close to the danger level, prompting authorities to step up preparations to move residents in vulnerable areas to safety. According to the Devghat Hydrometer Center, the water level in the Narayani River reached 8.98 meters at 3 pm on Saturday. The danger […]"
     },
     {
       "id": "aaf9e6f00043dcb6",
@@ -2982,56 +3044,6 @@
       "image": "",
       "images": [],
       "description": "Kathmandu, Sept 26: Nepal has laid emphasis on the collective and coordinated efforts among international communities to..."
-    },
-    {
-      "id": "25362e66955bf806",
-      "title": "Chief Minister Thapa commits to ease access to health services",
-      "link": "https://risingnepaldaily.com/news/87054",
-      "source": "The Rising Nepal",
-      "sourceUrl": "https://risingnepaldaily.com/rss",
-      "pubDate": "2026-09-26T08:53:20+00:00",
-      "categories": [
-        "politics",
-        "business",
-        "world",
-        "sports"
-      ],
-      "image": "",
-      "images": [],
-      "description": "Lalitpur, Sept 26: Bagmati Province Chief Minister Kiran Thapa has pledged that the provincial government will prioritiz..."
-    },
-    {
-      "id": "2d92bd2b4181e479",
-      "title": "Accelerate development cooperation for developing nations through GDI, says FM Khanal",
-      "link": "https://risingnepaldaily.com/news/87053",
-      "source": "The Rising Nepal",
-      "sourceUrl": "https://risingnepaldaily.com/rss",
-      "pubDate": "2026-09-26T08:49:46+00:00",
-      "categories": [
-        "politics",
-        "business",
-        "world",
-        "sports"
-      ],
-      "image": "",
-      "images": [],
-      "description": "Kathmandu, Sept 26: Foreign Minister Shisir Khanal has stated that the remaining time leading up to 2030 should be utili..."
-    },
-    {
-      "id": "1918e05e522ea638",
-      "title": "Landslide buries man inside house in Baglung",
-      "link": "https://english.khabarhub.com/2026/26/569351/",
-      "source": "Khabarhub",
-      "sourceUrl": "https://english.khabarhub.com/feed/",
-      "pubDate": "2026-09-26T08:36:13+00:00",
-      "categories": [
-        "politics",
-        "business",
-        "world"
-      ],
-      "image": "",
-      "images": [],
-      "description": "BAGLUNG: A man died after being buried by a landslide triggered by incessant rainfall in Tarakhola Rural Municipality-5, Baglung. Man Bahadur Roka, 59, of Dhasmar, died after a landslide from above his house struck the building and buried him while he was sleeping last night, according to Phanindra Prasai, chief superintendent of police at the […]"
     },
     {
       "id": "f0afc1bbebbad66a",
@@ -3321,23 +3333,6 @@
       "image": "",
       "images": [],
       "description": "काठमाडौँ- ‍ १३ देशका लागि सिफारिस भएका राजदूत पदमा नियुक्तिका लागि सूचना वा उजुरी भए प्रमाणसहित पेस गर्न संसदीय सुनुवाइ समितिले आह्वान गरेको छ। समितिले आज सार्वजनिक गरेको सूचनामा प्रस्तावित राजदूतका सम्बन्धमा कसैलाई नियुक्तिका लागि उपयुक्त छैन भन्ने लागेमा स्पष्ट आधार तथा सबुतप्रमाणसहित रीतपूर्वक उजुरी दिन सकिने जनाएको छ। सूचना पहिलोपटक प्रकाशित भएको मितिले १० […]"
-    },
-    {
-      "id": "d54da0a15e58d163",
-      "title": "आवश्यक सर्त पूरा भए एक सातामै होर्मुज जलडमरूमध्य खुल्ने : इरान",
-      "link": "https://rajdhanidaily.com/id/149005/",
-      "source": "Rajdhani Daily",
-      "sourceUrl": "https://rajdhanidaily.com/feed/",
-      "pubDate": "2026-09-26T07:10:05+00:00",
-      "categories": [
-        "politics",
-        "business"
-      ],
-      "image": "https://rajdhanidaily.com/wp-content/uploads/2026/09/araghachi.jpg",
-      "images": [
-        "https://rajdhanidaily.com/wp-content/uploads/2026/09/araghachi.jpg"
-      ],
-      "description": "संयुक्त राष्ट्रसंघ । इरानले आवश्यक सर्तहरू पूरा भए सात दिनभित्र होर्मुज जलडमरूमध्य पुनः खोल्न सकिने योजना अमेरिकासमक्ष प्रस्तुत गरेको जनाएको छ । इरानका विदेशमन्त्री सैयद अब्बास अराघ्चीले शुक्रबार न्युयोर्कस्थित संयुक्त राष्ट्रसंघको मुख्यालयमा सञ्चारकर्मीसँग कुरा गर्दै कतारमार्फत अमेरिकालाई सात दिनभित्र जलडमरूमध्य खोल्ने ठोस योजना प्रस्तुत गरिएको जानकारी दिए । उनका अनुसार अमेरिकाले सो प्रस्ताव स्वीकार गरेसँगै […] The post आवश्यक सर्त पूरा भए एक सातामै होर्मुज जलडमरूमध्य खुल्ने : इरान appeared fir"
     },
     {
       "id": "37d4b0168a1ff631",
@@ -3899,36 +3894,6 @@
       "description": "इरानको प्रस्तावबारे जिज्ञासा राख्दा एक अमेरिकी अधिकारीले मध्यस्थकर्ताहरूमार्फत्‌ सकारात्मक वार्ता भइरहेको र परमाणु मुद्दाहरूमाथि छलफल पनि त्यसमा समावेश रहेको बीबीसीलाई बताएका छन्।"
     },
     {
-      "id": "ba9bb4e0156937cf",
-      "title": "जलवायु क्षतिसँगै आर्थिक असमानता घटाउन अन्तर्राष्ट्रिय वित्तीय संरचना सुधार्न नेपालको माग",
-      "link": "https://bizmandu.com/content/20260926091256.html",
-      "source": "Bizmandu",
-      "sourceUrl": "https://bizmandu.com/feed",
-      "pubDate": "2026-09-26T03:27:56+00:00",
-      "categories": [
-        "business",
-        "technology"
-      ],
-      "image": "",
-      "images": [],
-      "description": "काठमाडौं। परराष्ट्रमन्त्री शिशिर खनालले विकासशील मुलुकहरूको आवाज र प्रतिनिधित्व बढ्ने गरी अन्तर्राष्ट्रिय वित्तीय संरचनामा समयानुकूल सुधार गर्न आह्वान गरेका छन्। संयुक्त राष्ट्रसंघको मुख्यालय, न्युयोर्कमा जारी संयुक्त राष्ट्रसंघको ८१औँ महासभाका अवसरमा आयोजित ‘समूह–७७ र चीन’को ५०औँ वार्षिक बैठकलाई सम्बोधन गर्दै मन्त्री खनालले विश्व आर्थिक शासन व्यवस्थामा विकासशील मुलुकको अर्थपूर्ण सहभागिता सुनिश्चित गर्नुपर्ने बताएका हुन्। संयुक्त राष्ट्रसंघको […] The post जलवायु क्षतिसँगै आर्थिक असमानता घटाउन अन"
-    },
-    {
-      "id": "3ab11e32d691c4f5",
-      "title": "खुम्बुमा भारी हिमपात, आइल्यान्ड पिकमा रोकिएका सात विदेशी पर्यटकको उद्धार",
-      "link": "https://bizmandu.com/content/20260926091211.html",
-      "source": "Bizmandu",
-      "sourceUrl": "https://bizmandu.com/feed",
-      "pubDate": "2026-09-26T03:27:11+00:00",
-      "categories": [
-        "business",
-        "technology"
-      ],
-      "image": "",
-      "images": [],
-      "description": "सोलुखुम्बु। सोलुखुम्बुको खुम्बु क्षेत्रमा भारी हिमपात भएपछि उच्च हिमाली क्षेत्रमा पुगेका पर्यटकको आवागमन प्रभावित भएको छ। इम्जा छे (आइल्यान्ड पिक) क्षेत्रमा हिमपातका कारण रोकिएका सात विदेशी पर्यटकको उद्धार गरिएको छ। प्रमुख जिल्ला अधिकारी कमानसिंह थापामगरका अनुसार खुम्बुको माथिल्लो क्षेत्रमा आधा मिटरभन्दा बढी हिउँ जमिसकेको छ। लगातारको वर्षापछि उच्च क्षेत्रमा हिमपात सुरु भएको हो। प्रतिकूल मौसमका […] The post खुम्बुमा भारी हिमपात, आइल्यान्ड पिकमा रोकिएका सात विदेशी पर्यटकको उद्धार appeared first on"
-    },
-    {
       "id": "68b0ebad307b6c78",
       "title": "गण्डकीमा आज पर्ने छ ‘भारी’देखि ‘अति भारी’ वर्षा, सोमबारदेखि खुल्ने छ मौसम",
       "link": "https://himalpress.com/2026/09/heavy-to-very-heavy-rains-to-fall-in-gandaki-today-weather-to-clear-from-monday/",
@@ -4115,22 +4080,6 @@
       "description": "काठमाडौँ- बारामा करेन्ट लागेर एक बालकको मृत्यु भएको छ। अन्य चारजना घाइते भएका छन्। कोल्हवी नगरपालिका–३ जुगुवा टोलमा करेन्ट लागेर स्थानीय श्याम रामका १० वर्षीय छोरा आकाशको मृत्यु भएको जिल्ला प्रहरी कार्यालय बाराका प्रवक्ता मीनबहादुर घलेले जानकारी दिए। घरमा टेलिभिजन चलाउने क्रममा बिजुलीको तार सर्ट भई करेन्ट लाग्दा आकाश गम्भीर घाइते भएका थिए। उपचारका लागि […]"
     },
     {
-      "id": "2a95c47ff5af94b5",
-      "title": "नारायणीले जलसतह पार गर्‍यो, उच्च सतर्कता अपनाउन आग्रह",
-      "link": "https://himalpress.com/2026/09/narayani-crosses-water-level-high-alert-urged/",
-      "source": "Himal Press",
-      "sourceUrl": "https://himalpress.com/feed/",
-      "pubDate": "2026-09-26T01:34:56+00:00",
-      "categories": [
-        "politics",
-        "business",
-        "society"
-      ],
-      "image": "",
-      "images": [],
-      "description": "काठमाडौँ- अत्याधिक वर्षाका कारण नारायणी नदीमा जलसतहले सतर्कता तह पार गरेको जनाएको छ। चितवनको देवघाटस्थित नारायणी नदीको जलमापन केन्द्रमा नदीको सतह लगातार बढ्दो क्रममा रहेको छ।जलसतह बढ्दै गएकाले नदीको तल्लो तटीय क्षेत्र तथा आसपासका डुबान भइरहने स्थानमा बसोबास गर्ने बासिन्दालाई महाशाखाले साँझसम्मै उच्च सतर्कता अपनाउन आग्रह गरेको छ। महाशाखाका अनुसार, नदीमा पानीको बहाव थप बढ्न […]"
-    },
-    {
       "id": "49fa27a24ab2a77a",
       "title": "Nepal, one month after",
       "link": "https://nepalitimes.com/nepal-one-month-after",
@@ -4148,56 +4097,6 @@
         "https://media.nepalitimes.com/cover/Trisuli%20Bazar%20after%20Nepal%20floods%20NT%202.jpg"
       ],
       "description": "The Bhote Kosi-Trisuli disaster will soon be a distant memory, but it left lasting lessons"
-    },
-    {
-      "id": "604bcc974cbc5eb9",
-      "title": "कहाँ कहाँ भयो ‘अति भारी’ वर्षा?",
-      "link": "https://himalpress.com/2026/09/where-did-the-very-heavy-rain-occur/",
-      "source": "Himal Press",
-      "sourceUrl": "https://himalpress.com/feed/",
-      "pubDate": "2026-09-26T01:00:35+00:00",
-      "categories": [
-        "politics",
-        "business",
-        "society"
-      ],
-      "image": "",
-      "images": [],
-      "description": "काठमाडौँ। पछिल्लो १२ घण्टामा विभिन्न ठाउँमा भारी वर्षा भएको छ। मौसम पूर्वानुमान महाशाखाका अनुसार गुल्मी जिल्लाको भार्से मौसम मापन केन्द्रमा ११४ मिलिमिटर वर्षा भएको छ। १०० मिलिमिटर भन्दा बढीको वर्षालाई अति भारी वर्षा भनिन्छ। तर भार्सेमा १२ घण्टामै अति भारी वर्षा भएको छ। मौसम महाशाखाले आज बिहान साढे ६ बजे जनाएअनुसार पछिल्लो १२ घण्टामा गण्डकी, […]"
-    },
-    {
-      "id": "fc8ebffd8d00dee4",
-      "title": "महाधिवशेनमा होमिएको कांग्रेसले बनायो १५ समिति",
-      "link": "https://himalpress.com/2026/09/congress-forms-10-committees-ahead-of-general-convention/",
-      "source": "Himal Press",
-      "sourceUrl": "https://himalpress.com/feed/",
-      "pubDate": "2026-09-26T00:55:17+00:00",
-      "categories": [
-        "politics",
-        "business",
-        "society"
-      ],
-      "image": "",
-      "images": [],
-      "description": "काठमाडौँ- नेपाली कांग्रेसले १५औं महाधिवेशनको तयारी सन्दर्भमा विभिन्न १५ वटा समिति गठन गरेको छ। भदौ १ गते सम्पन्न बैठकले सभापति गगन थापाको संयोजकत्वमा महाधिवेशन मूल आयोजक समिति गठन गरेको थियो। सोही सन्दर्भमा विभिन्न समितिहरूसँग समन्वय र सहजीकरण गर्न, महाधिवेशन प्रक्रियालाई व्यवस्थित गर्न, महाधिवेशनको व्यबस्थापनसँग सम्बन्धित विषयमा तत्काल कुनै निर्णय गर्नु परेमा त्यसको संयोजन गर्न तथा […]"
-    },
-    {
-      "id": "1804c76f787420e1",
-      "title": "कति छ विदेशी मुद्राको विनिमय दर?",
-      "link": "https://himalpress.com/2026/09/what-is-the-foreign-exchange-rate-49/",
-      "source": "Himal Press",
-      "sourceUrl": "https://himalpress.com/feed/",
-      "pubDate": "2026-09-26T00:43:25+00:00",
-      "categories": [
-        "politics",
-        "business",
-        "society"
-      ],
-      "image": "https://himalpress.com/wp-content/uploads/2026/09/Screenshot_2026-09-26_051515_mpGA4wPQg4-600x454.png",
-      "images": [
-        "https://himalpress.com/wp-content/uploads/2026/09/Screenshot_2026-09-26_051515_mpGA4wPQg4-600x454.png"
-      ],
-      "description": "काठमाडौँ- नेपाल राष्ट्र बैंकले आज (शनिबार)का लागि विदेशी मुद्राहरूको विनिमयदर निर्धारण गरेको छ। आज अमेरिकी डलर १ को खरिददर १५३ रुपैयाँ ०१ पैसा र बिक्रीदर १५३ रुपैयाँ ६१ पैसा निर्धारण भएको छ। आज युरो १ को खरिददर १७४ रुपैयाँ ३२ पैसा र बिक्रीदर १७५ रुपैयाँ छ। आज पाउन्ड स्ट्रलिङ १ को खरिददर २०२ रुपैयाँ ६४ […]"
     },
     {
       "id": "c3ec7e547214191a",
@@ -5580,25 +5479,6 @@
         "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/1a2c/live/d66b0b50-b285-11f1-a430-4d16ee157c41.jpg"
       ],
       "description": "नेपाल र तिब्बतको सीमावर्ती क्षेत्रमा विनाशकारी बाढी उत्पन्न हुने गरी चट्टानसहितको हिमपहिरो जानुमा जलवायु परिवर्तनको भूमिका रहेको हुन सक्ने निष्कर्ष एउटा वैज्ञानिक अध्ययनले निकालेको छ।"
-    },
-    {
-      "id": "f67007d19c8ce70c",
-      "title": "Climate warming set off Nepal disaster: Report",
-      "link": "https://nepalitimes.com/climate-warming-set-off-nepal-disaster-report",
-      "source": "Nepali Times",
-      "sourceUrl": "https://www.nepalitimes.com/feed/",
-      "pubDate": "2026-09-17T09:22:36+00:00",
-      "categories": [
-        "politics",
-        "business",
-        "society",
-        "technology"
-      ],
-      "image": "https://media.nepalitimes.com/cover/Conceptual%20representation-2.jpg",
-      "images": [
-        "https://media.nepalitimes.com/cover/Conceptual%20representation-2.jpg"
-      ],
-      "description": "Scientists conclude global warming influenced catastrophic mountain collapse"
     },
     {
       "id": "638aa54f6fac3490",
