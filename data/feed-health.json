@@ -1,16 +1,16 @@
 {
-  "generatedAt": "2026-09-26T21:33:56.967609+00:00",
+  "generatedAt": "2026-09-26T23:53:51.580485+00:00",
   "feedCount": 41,
-  "healthyFeeds": 24,
-  "failedFeeds": 17,
+  "healthyFeeds": 20,
+  "failedFeeds": 21,
   "feeds": [
     {
       "name": "Online Khabar",
       "url": "https://www.onlinekhabar.com/feed",
       "status": "healthy",
       "items": 40,
-      "responseMs": 109,
-      "lastSuccess": "2026-09-26T21:33:05.044122+00:00",
+      "responseMs": 1065,
+      "lastSuccess": "2026-09-26T23:53:02.436500+00:00",
       "error": ""
     },
     {
@@ -27,8 +27,8 @@
       "url": "https://ratopati.com/feed",
       "status": "healthy",
       "items": 30,
-      "responseMs": 373,
-      "lastSuccess": "2026-09-26T21:33:06.079983+00:00",
+      "responseMs": 518,
+      "lastSuccess": "2026-09-26T23:53:04.495402+00:00",
       "error": ""
     },
     {
@@ -45,8 +45,8 @@
       "url": "https://gorkhapatraonline.com/rss",
       "status": "healthy",
       "items": 10,
-      "responseMs": 1077,
-      "lastSuccess": "2026-09-26T21:33:06.974295+00:00",
+      "responseMs": 1129,
+      "lastSuccess": "2026-09-26T23:53:05.481176+00:00",
       "error": ""
     },
     {
@@ -72,8 +72,8 @@
       "url": "http://feeds.bbci.co.uk/nepali/rss.xml",
       "status": "healthy",
       "items": 30,
-      "responseMs": 602,
-      "lastSuccess": "2026-09-26T21:33:09.054376+00:00",
+      "responseMs": 743,
+      "lastSuccess": "2026-09-26T23:53:07.969581+00:00",
       "error": ""
     },
     {
@@ -90,8 +90,8 @@
       "url": "https://www.annapurnapost.com/rss",
       "status": "healthy",
       "items": 0,
-      "responseMs": 246,
-      "lastSuccess": "2026-09-26T21:33:11.412437+00:00",
+      "responseMs": 279,
+      "lastSuccess": "2026-09-26T23:53:10.694616+00:00",
       "error": ""
     },
     {
@@ -99,8 +99,8 @@
       "url": "https://rajdhanidaily.com/feed/",
       "status": "healthy",
       "items": 10,
-      "responseMs": 178,
-      "lastSuccess": "2026-09-26T21:33:11.658326+00:00",
+      "responseMs": 354,
+      "lastSuccess": "2026-09-26T23:53:10.973403+00:00",
       "error": ""
     },
     {
@@ -110,7 +110,7 @@
       "items": 0,
       "responseMs": null,
       "lastSuccess": null,
-      "error": "HTTP Error 404: Not Found"
+      "error": "<urlopen error [Errno 104] Connection reset by peer>"
     },
     {
       "name": "News24 Nepal",
@@ -126,8 +126,8 @@
       "url": "https://nepallive.com/feed",
       "status": "healthy",
       "items": 5,
-      "responseMs": 398,
-      "lastSuccess": "2026-09-26T21:33:13.210285+00:00",
+      "responseMs": 469,
+      "lastSuccess": "2026-09-26T23:53:11.762664+00:00",
       "error": ""
     },
     {
@@ -151,20 +151,20 @@
     {
       "name": "Lokaantar",
       "url": "https://www.lokaantar.com/feed",
-      "status": "healthy",
+      "status": "failed",
       "items": 0,
-      "responseMs": 681,
-      "lastSuccess": "2026-09-26T21:33:14.961475+00:00",
-      "error": ""
+      "responseMs": null,
+      "lastSuccess": null,
+      "error": "<urlopen error [Errno 104] Connection reset by peer>"
     },
     {
       "name": "Dainik Nepal",
       "url": "https://dainiknepal.com/feed",
-      "status": "healthy",
-      "items": 1,
-      "responseMs": 3525,
-      "lastSuccess": "2026-09-26T21:33:15.642157+00:00",
-      "error": ""
+      "status": "failed",
+      "items": 0,
+      "responseMs": null,
+      "lastSuccess": null,
+      "error": "<urlopen error [Errno 104] Connection reset by peer>"
     },
     {
       "name": "Sajha Post",
@@ -180,8 +180,8 @@
       "url": "https://nepalsamaya.com/feed",
       "status": "healthy",
       "items": 5,
-      "responseMs": 879,
-      "lastSuccess": "2026-09-26T21:33:21.630565+00:00",
+      "responseMs": 868,
+      "lastSuccess": "2026-09-26T23:53:16.286107+00:00",
       "error": ""
     },
     {
@@ -216,8 +216,8 @@
       "url": "https://himalKhabar.com/feed",
       "status": "healthy",
       "items": 5,
-      "responseMs": 1011,
-      "lastSuccess": "2026-09-26T21:33:42.471775+00:00",
+      "responseMs": 1201,
+      "lastSuccess": "2026-09-26T23:53:36.977594+00:00",
       "error": ""
     },
     {
@@ -225,8 +225,8 @@
       "url": "https://nepaltimes.com/feed",
       "status": "healthy",
       "items": 0,
-      "responseMs": 204,
-      "lastSuccess": "2026-09-26T21:33:43.482404+00:00",
+      "responseMs": 198,
+      "lastSuccess": "2026-09-26T23:53:38.179010+00:00",
       "error": ""
     },
     {
@@ -234,8 +234,8 @@
       "url": "https://bizmandu.com/feed",
       "status": "healthy",
       "items": 15,
-      "responseMs": 1629,
-      "lastSuccess": "2026-09-26T21:33:43.686574+00:00",
+      "responseMs": 1756,
+      "lastSuccess": "2026-09-26T23:53:38.376953+00:00",
       "error": ""
     },
     {
@@ -243,8 +243,8 @@
       "url": "https://arthasarokar.com/feed",
       "status": "healthy",
       "items": 20,
-      "responseMs": 1180,
-      "lastSuccess": "2026-09-26T21:33:45.315579+00:00",
+      "responseMs": 1367,
+      "lastSuccess": "2026-09-26T23:53:40.132689+00:00",
       "error": ""
     },
     {
@@ -252,8 +252,8 @@
       "url": "https://himalpress.com/feed/",
       "status": "healthy",
       "items": 40,
-      "responseMs": 1972,
-      "lastSuccess": "2026-09-26T21:33:46.496012+00:00",
+      "responseMs": 2106,
+      "lastSuccess": "2026-09-26T23:53:41.499347+00:00",
       "error": ""
     },
     {
@@ -261,8 +261,8 @@
       "url": "https://www.thahakhabar.com/feed",
       "status": "healthy",
       "items": 5,
-      "responseMs": 462,
-      "lastSuccess": "2026-09-26T21:33:48.467546+00:00",
+      "responseMs": 519,
+      "lastSuccess": "2026-09-26T23:53:43.605465+00:00",
       "error": ""
     },
     {
@@ -270,8 +270,8 @@
       "url": "https://baahrakhari.com/feed",
       "status": "healthy",
       "items": 5,
-      "responseMs": 816,
-      "lastSuccess": "2026-09-26T21:33:48.929701+00:00",
+      "responseMs": 381,
+      "lastSuccess": "2026-09-26T23:53:44.124409+00:00",
       "error": ""
     },
     {
@@ -279,8 +279,8 @@
       "url": "https://newsofnepal.com/feed/",
       "status": "healthy",
       "items": 12,
-      "responseMs": 1034,
-      "lastSuccess": "2026-09-26T21:33:49.745607+00:00",
+      "responseMs": 1104,
+      "lastSuccess": "2026-09-26T23:53:44.505268+00:00",
       "error": ""
     },
     {
@@ -288,27 +288,27 @@
       "url": "https://nepalnews.com/feed",
       "status": "healthy",
       "items": 12,
-      "responseMs": 1470,
-      "lastSuccess": "2026-09-26T21:33:50.779729+00:00",
+      "responseMs": 1521,
+      "lastSuccess": "2026-09-26T23:53:45.609664+00:00",
       "error": ""
     },
     {
       "name": "Nepal Views",
       "url": "https://www.nepalviews.com/feed/",
-      "status": "healthy",
-      "items": 30,
-      "responseMs": 364,
-      "lastSuccess": "2026-09-26T21:33:52.249751+00:00",
-      "error": ""
+      "status": "failed",
+      "items": 0,
+      "responseMs": null,
+      "lastSuccess": null,
+      "error": "<urlopen error [Errno 104] Connection reset by peer>"
     },
     {
       "name": "Khabarhub",
       "url": "https://english.khabarhub.com/feed/",
-      "status": "healthy",
-      "items": 12,
-      "responseMs": 346,
-      "lastSuccess": "2026-09-26T21:33:52.613892+00:00",
-      "error": ""
+      "status": "failed",
+      "items": 0,
+      "responseMs": null,
+      "lastSuccess": null,
+      "error": "<urlopen error [Errno 104] Connection reset by peer>"
     },
     {
       "name": "The Annapurna Express",
@@ -324,8 +324,8 @@
       "url": "https://risingnepaldaily.com/rss",
       "status": "healthy",
       "items": 10,
-      "responseMs": 1179,
-      "lastSuccess": "2026-09-26T21:33:53.566630+00:00",
+      "responseMs": 1174,
+      "lastSuccess": "2026-09-26T23:53:47.792424+00:00",
       "error": ""
     },
     {
@@ -333,8 +333,8 @@
       "url": "https://english.onlinekhabar.com/feed",
       "status": "healthy",
       "items": 20,
-      "responseMs": 417,
-      "lastSuccess": "2026-09-26T21:33:54.745355+00:00",
+      "responseMs": 690,
+      "lastSuccess": "2026-09-26T23:53:48.966774+00:00",
       "error": ""
     },
     {
@@ -369,8 +369,8 @@
       "url": "https://www.nepalitimes.com/feed/",
       "status": "healthy",
       "items": 30,
-      "responseMs": 173,
-      "lastSuccess": "2026-09-26T21:33:56.792593+00:00",
+      "responseMs": 323,
+      "lastSuccess": "2026-09-26T23:53:51.256016+00:00",
       "error": ""
     }
   ]
