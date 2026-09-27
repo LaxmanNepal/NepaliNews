@@ -1,13 +1,81 @@
 {
-  "generatedAt": "2026-09-27T18:21:04.737275+00:00",
+  "generatedAt": "2026-09-27T21:30:00.183513+00:00",
   "feedCount": 41,
-  "healthyFeeds": 23,
-  "failedFeeds": 18,
-  "itemCount": 328,
+  "healthyFeeds": 24,
+  "failedFeeds": 17,
+  "itemCount": 340,
   "items": [
     {
+      "id": "1a2ab1f695d55118",
+      "title": "जमुनाहनाकाबाट भारतीय पर्यटकलाई भित्र्याउन आग्रह",
+      "link": "https://www.ratopati.com/story/595389/request-to-bring-indian-tourists-from-jamunahanaka",
+      "source": "Ratopati",
+      "sourceUrl": "https://ratopati.com/feed",
+      "pubDate": "2026-09-27T20:00:00+00:00",
+      "categories": [
+        "politics",
+        "sports"
+      ],
+      "image": "https://npcdn.ratopati.com/media/news/banke-district-map_buY1dHpxrb.jpg",
+      "images": [
+        "https://npcdn.ratopati.com/media/news/banke-district-map_buY1dHpxrb.jpg"
+      ],
+      "description": "बाँके । पर्यटन प्रवर्द्धनका लागि बाँकेको जमुनाहनाकाबाट भारतीय पर्यटकलाई निर्बाध भित्र्याउन पर्यटन व्यवसायीले आग्रह गरेका छन् । नेपालगन्ज पर्यटन परिषद्को आइतबार यहाँ आयोजित प्रथम अधिवेशन तथा साधरणसभामा सरोकार भएका व्यक्ति तथा सङ्घसंस्थाले जिल्लामा रहेका पर्यटकीय क्षेत्रको"
+    },
+    {
+      "id": "5c5000bcc299188e",
+      "title": "सडक अवरुद्ध भएपछि भैरहवामा दर्जनौँ बस रोकिए",
+      "link": "https://www.ratopati.com/story/595388/dozens-of-buses-stopped-in-bhairahawa-after-road-blockage",
+      "source": "Ratopati",
+      "sourceUrl": "https://ratopati.com/feed",
+      "pubDate": "2026-09-27T19:30:03+00:00",
+      "categories": [
+        "politics",
+        "sports"
+      ],
+      "image": "https://npcdn.ratopati.com/media/news/buspark-nirbachan-farkifi-(11)_QXSQWZK8h8.jpg",
+      "images": [
+        "https://npcdn.ratopati.com/media/news/buspark-nirbachan-farkifi-(11)_QXSQWZK8h8.jpg"
+      ],
+      "description": "रूपन्देही । लगातारको वर्षासँगै विभिन्न राजमार्ग तथा सडकखण्डमा पहिरो खसेर सडक अवरुद्ध भएपछि भैरहवाबाट सञ्चालन हुने लामो दूरीका यातायात सेवा प्रभावित भएका छन् । काठमाडौँ, पोखरा, बागलुङ, बेनी, जनकपुरलगायतका गन्तव्यमा जाने दर्जनौँ बस सञ्चालन हुन नसकेपछि"
+    },
+    {
+      "id": "22a42b98be344a89",
+      "title": "फाइबर चुँडिएपछि तीन जिल्लामा सञ्चार सम्पर्क विच्छेद",
+      "link": "https://www.ratopati.com/story/595387/communication-outage-in-three-districts-after-fiber-ruptures",
+      "source": "Ratopati",
+      "sourceUrl": "https://ratopati.com/feed",
+      "pubDate": "2026-09-27T19:02:24+00:00",
+      "categories": [
+        "politics",
+        "sports"
+      ],
+      "image": "https://rpcdn.ratopati.com/media/albums/myagdi_Yxx1IewRfU.jpg",
+      "images": [
+        "https://rpcdn.ratopati.com/media/albums/myagdi_Yxx1IewRfU.jpg"
+      ],
+      "description": "म्याग्दी । फाइबर चुँडिएपछि धवलागिरिका तीन जिल्लामा आइतबार बिहानदेखि सञ्चार सम्पर्क विच्छेद भएको छ । पर्वतको कुश्मा नगरपालिका–१ सहश्रधारामा कालीगण्डकीले कटान गरेर विद्युत्, नेपाल टेलिकम र निजी क्षेत्रका इन्टरनेट सेवा प्रदायक कम्पनीको फाइबर जडित पोल बगाएपछि"
+    },
+    {
+      "id": "3546dfb3dff7b214",
+      "title": "बागलुङमा पहिरोमा १० जनाको मृत्यु, एक बेपत्ता",
+      "link": "https://www.ratopati.com/story/595386/10-dead-one-missing-in-landslide-in-baglung",
+      "source": "Ratopati",
+      "sourceUrl": "https://ratopati.com/feed",
+      "pubDate": "2026-09-27T18:52:28+00:00",
+      "categories": [
+        "politics",
+        "sports"
+      ],
+      "image": "https://npcdn.ratopati.com/media/news/baglung-map_saube82urq.jpg",
+      "images": [
+        "https://npcdn.ratopati.com/media/news/baglung-map_saube82urq.jpg"
+      ],
+      "description": "बागलुङ । बागलुङमा अविरल वर्षापछि आएको पहिरोमा परी १० जनाको मृत्यु भएको छ भने एक जना बेपत्ता भएका छन् । वर्षाका कारण पछिल्लो दुई दिनमा जिल्लामा ठुलो मानवीय क्षति भएको हो । आइतबार मात्रै नौ जनाको"
+    },
+    {
       "id": "a96138ab514dab8d",
-      "title": "१२ बजे १२ समाचार: कांग्रेसको महामन्त्रीमा उम्मेदवारी दिनेको लर्को, काठमाडौँमा तरकारीको मूल्य आकासियो",
+      "title": "१२ बजे १२ समाचार: कांग्रेस महामन्त्रीमा आकाङ्क्षीकाे लर्को, काठमाडौँमा तरकारीको मूल्य आकासियो",
       "link": "https://www.ratopati.com/story/595384/12-oclock-12-news-a-flurry-of-candidates-for-the-post-of-general-secretary-of-the-nepali-congress-vegetable-prices-skyrocket-in-kathmandu",
       "source": "Ratopati",
       "sourceUrl": "https://ratopati.com/feed",
@@ -16,9 +84,9 @@
         "politics",
         "sports"
       ],
-      "image": "https://npcdn.ratopati.com/media/news/12-nes_pKmRiIbSon.webp",
+      "image": "https://npcdn.ratopati.com/media/news/12-nes_dJYgC9xj9G.webp",
       "images": [
-        "https://npcdn.ratopati.com/media/news/12-nes_pKmRiIbSon.webp"
+        "https://npcdn.ratopati.com/media/news/12-nes_dJYgC9xj9G.webp"
       ],
       "description": "काठमाडौँ । आज दिनभरका मुख्य १२ घटनाक्रम रातोपाटी डटकमको नियमित प्रस्तुति ‘१२ बजे १२ समाचार’मा प्रस्तुत गरेका छौँ– १. कांग्रेसको महामन्त्रीमा उम्मेदवारी दिनेको लर्को नेपाली कांग्रेसको १५औँ महाधिवेशनमा महामन्त्री पदमा उम्मेदवारी दिनेको लर्को लागेको छ । अहिलेसम्म"
     },
@@ -172,6 +240,24 @@
         "https://gorkhapatraonline.com/storage/media/385254/conversions/Rain___3_-(1)-original.jpg"
       ],
       "description": "गोरखापत्र अनलाइन काठमाडौँ, असोज ११ गते । नेपाल मौसम विज्ञान विभाग अन्तर्गतको मौसम पूर्वानुमान महाशाखाले सोमबार हिमाली र पहाडी भूभागमा मेघगर्जन चट्याङसहित मध्यमसम्मको वर्षा हुने सम्..."
+    },
+    {
+      "id": "c85613693348ffc9",
+      "title": "छ महिनाको तलबसहित प्रसूति बिदा कार्यान्वयन गर्न आह्वान",
+      "link": "https://newsofnepal.com/2026/09/27/789022/",
+      "source": "News of Nepal",
+      "sourceUrl": "https://newsofnepal.com/feed/",
+      "pubDate": "2026-09-27T17:30:21+00:00",
+      "categories": [
+        "politics",
+        "business",
+        "sports"
+      ],
+      "image": "https://newsofnepal.com/wp-content/uploads/2026/09/st1-150x150.jpeg",
+      "images": [
+        "https://newsofnepal.com/wp-content/uploads/2026/09/st1-150x150.jpeg"
+      ],
+      "description": "काठमाडौं । नेपालमा छ महिनाभन्दा कम उमेरका १० मध्ये करिब सात शिशुले मात्र पूर्ण स्तनपान पाउने गरेको तथ्य सार्वजनिक भएको छ । नवजात शिशुलाई जन्मिएको एक घण्टाभित्र स्तनपान गराउने अभ्यास पनि अपेक्षाअनुसार हुन नसकेको भन्दै छ महिनाको तलबसहितको प्रसूति बिदा शीघ्र कार्यान्वयन गर्न, स्तनपानमैत्री कार्यस्थल बनाउन तथा आमाको दूध प्रतिस्थापन गर्ने वस्तुको अनुचित बजारीकरण नियन्त्रण […]"
     },
     {
       "id": "93237dfab42f808f",
@@ -550,6 +636,24 @@
       "image": "",
       "images": [],
       "description": ""
+    },
+    {
+      "id": "7096ad05a6430368",
+      "title": "अविरल वर्षाबाट २१ जनाको मृत्यु, ५ जना बेपत्ता",
+      "link": "https://newsofnepal.com/2026/09/27/789019/",
+      "source": "News of Nepal",
+      "sourceUrl": "https://newsofnepal.com/feed/",
+      "pubDate": "2026-09-27T16:18:07+00:00",
+      "categories": [
+        "politics",
+        "business",
+        "sports"
+      ],
+      "image": "https://newsofnepal.com/wp-content/uploads/2026/09/narayani-badi-150x150.jpg",
+      "images": [
+        "https://newsofnepal.com/wp-content/uploads/2026/09/narayani-badi-150x150.jpg"
+      ],
+      "description": "काठमाडौं। असोज ८ गतेदेखि लगातार भइरहेको अविरल वर्षाका कारण देशका विभिन्न स्थानमा बाढी, पहिरो र डुबानका घटना बढ्दा २१ जनाको मृत्यु भएको छ भने ५ जना बेपत्ता भएका छन् । राष्ट्रिय विपद् जोखिम न्यूनीकरण तथा व्यवस्थापन प्राधिकरणका अनुसार वर्षाजन्य विपद्बाट ५ जना घाइते भएका छन् भने ७४७ परिवार प्रत्यक्ष प्रभावित भएका छन् । प्राधिकरणले आइतबार […]"
     },
     {
       "id": "d9633d891dbf843c",
@@ -967,6 +1071,24 @@
       "description": "फ्री इन्टरनेट दिने प्रलोभन देखाउँदै ह्याकरहरूले ‘स्पेसएक्स सिक्स जी’ नामक नक्कली एप मार्फत ठगी गरिरहेका छन्। यो मालवेयरले सिङ्गापुरमा होस्ट गरिएको आफ्नो सर्भरबाट सीधै नेपालका १९ वटा मोबाइल बैङ्किङ एपहरूको सूची तानेको फेला परेको छ। यसले प्रयोगकर्ताको फोनमा ह्याकरद्वारा उल्लिखित बैंक खाता देखिएको अवस्थामा सीधै सूचना पठाउँछ र त्यही बैंकको इन्टरफेस अनुसारको फिसिङ लिङ्क पठाउँछ।"
     },
     {
+      "id": "17b47dc5ba3cb427",
+      "title": "विपद्को जोखिम कायमै, उच्च सतर्कता अपनाउन प्रधानमन्त्रीको अपिल",
+      "link": "https://newsofnepal.com/2026/09/27/789017/",
+      "source": "News of Nepal",
+      "sourceUrl": "https://newsofnepal.com/feed/",
+      "pubDate": "2026-09-27T15:56:41+00:00",
+      "categories": [
+        "politics",
+        "business",
+        "sports"
+      ],
+      "image": "https://newsofnepal.com/wp-content/uploads/2026/09/balen-shaha-1-150x150.jpg",
+      "images": [
+        "https://newsofnepal.com/wp-content/uploads/2026/09/balen-shaha-1-150x150.jpg"
+      ],
+      "description": "काठमाडौं। प्रधानमन्त्री बालेन शाहले देशका विभिन्न क्षेत्रमा बाढी, पहिरो, डुबान, हावाहुरी र चट्याङका घटना भइरहेकाले विपद्को जोखिम अझै कायमै रहेको भन्दै नदी तटीय तथा पहाडी क्षेत्रमा बसोबास गर्ने नागरिकलाई उच्च सतर्कता अपनाउन आग्रह गरेका छन्। प्रधानमन्त्री शाहले आइतबार सार्वजनिक अपिल जारी गर्दै अत्यावश्यक कामबाहेक यात्रा नगर्न तथा संकटको अवस्था आएमा निःशुल्क नम्बर १२३४ मा सम्पर्क […]"
+    },
+    {
       "id": "f686724e10083a84",
       "title": "मर्स्याङ्दी नदी थुनिएपछि चामे बजार खाली गराइयो",
       "link": "https://nepallive.com/story/351153",
@@ -1216,6 +1338,24 @@
       "description": "NAWALPARASI: The residents of Susta have been evacuated and moved to safety after the flood in Narayani River in Chitwan entered their settlement. As incessant rainfall continues to swell water levels in the Narayani River the Susta folks were brought across the River. Floodwater entered and inundated the settlements including Tharu Tole and other areas […]"
     },
     {
+      "id": "c69fd72f52215622",
+      "title": "धिरेनलाई वडा अध्यक्ष कप चेसको उपाधि",
+      "link": "https://newsofnepal.com/2026/09/27/789014/",
+      "source": "News of Nepal",
+      "sourceUrl": "https://newsofnepal.com/feed/",
+      "pubDate": "2026-09-27T15:44:59+00:00",
+      "categories": [
+        "politics",
+        "business",
+        "sports"
+      ],
+      "image": "https://newsofnepal.com/wp-content/uploads/2026/09/wada1-150x150.jpg",
+      "images": [
+        "https://newsofnepal.com/wp-content/uploads/2026/09/wada1-150x150.jpg"
+      ],
+      "description": "काठमाडौँ। दोस्रो काठमाडौँ–१० वडा अध्यक्ष कप राष्ट्रिय खुला र्‍यापिड चेस प्रतियोगिताको उपाधि खोटाङका धिरेन राईले जितेका छन्। स्विस लिग प्रणालीमा नौ चरणमा सञ्चालन भएको प्रतियोगितामा धिरेनले ८ दशमलव ५ अंक जोड्दै उपाधि हात पारे। झापाका ज्वाला लिम्बु ८ अंकसहित दोस्रो तथा मकवानपुरका क्षितिज भण्डारी ७ दशमलव ५ अंकसहित तेस्रो भए। समान ७ दशमलव ५ अंक […]"
+    },
+    {
       "id": "09db44178d22ca49",
       "title": "मर्स्याङ्दी आसपासका बस्ती खाली गर्न आग्रह",
       "link": "https://himalpress.com/2026/09/settlements-around-the-marsyangdi-river/",
@@ -1346,6 +1486,24 @@
       "description": "चितवन । नारायणी नदीमा आएको बाढीले बगाएको विशाल ‘राइनोज क्रुजसिप’ चितवन र नवलपरासी जोड्ने नारायणी पुलमा अड्किएपछि पुलमा सवारी तथा पैदल आवागमन पूर्ण रूपमा बन्द गरिएको छ। आइतबार साँझ गैँडाकोट नगरपालिका–२ स्थित होटल रिभर क्राउनबाट बाढीले बगाएको क्रुज पुलको संरचनामा आएर अड्किएको हो। क्रुज पुलको पिलरमा ठोक्किएर अड्किएपछि पुलमा क्षति पुग्न सक्ने जोखिमलाई ध्यानमा राख्दै […]"
     },
     {
+      "id": "717a737175da1f94",
+      "title": "नारायणीमा अड्किएको राइनो सिप निकाल्ने तयारी",
+      "link": "https://newsofnepal.com/2026/09/27/789011/",
+      "source": "News of Nepal",
+      "sourceUrl": "https://newsofnepal.com/feed/",
+      "pubDate": "2026-09-27T15:30:02+00:00",
+      "categories": [
+        "politics",
+        "business",
+        "sports"
+      ],
+      "image": "https://newsofnepal.com/wp-content/uploads/2026/09/cruj-150x150.jpg",
+      "images": [
+        "https://newsofnepal.com/wp-content/uploads/2026/09/cruj-150x150.jpg"
+      ],
+      "description": "चितवन। नारायणी नदीमा सञ्चालनमा रहेको राइनो सिप पुलको संरचनामा अड्किएपछि त्यसलाई सुरक्षित रूपमा निकाल्ने तयारी गरिएको छ। नदीमा आएको बाढीको तीव्र बहावका कारण सिप बग्दै पुलमा पुगेर अड्किएको हो। सिप पुलमा अड्किएपछि त्यसलाई थप क्षति हुन नदिन तथा पुलको संरचनामा समेत असर नपर्ने गरी निकाल्ने तयारी थालिएको छ। बाढीको बहाव उच्च रहेकाले उद्धार तथा प्राविधिक […]"
+    },
+    {
       "id": "4aea231a5f12f1fd",
       "title": "काठमाडौँ हिँडेका सवारीसाधन कुरिनटारमै रोकिए",
       "link": "https://www.thahakhabar.com/detail/309448",
@@ -1360,40 +1518,6 @@
       "image": "",
       "images": [],
       "description": ""
-    },
-    {
-      "id": "7c7e8c92ef196f3e",
-      "title": "कालीगण्डकी करिडोरको ४६ ठाउँमा पहिरो (सूचीसहित)",
-      "link": "https://www.ratopati.com/story/595359/landslides-in-46-places-along-the-kaligandaki-corridor-with-list",
-      "source": "Ratopati",
-      "sourceUrl": "https://ratopati.com/feed",
-      "pubDate": "2026-09-27T15:23:14+00:00",
-      "categories": [
-        "politics",
-        "sports"
-      ],
-      "image": "https://npcdn.ratopati.com/media/news/majhi-basti-kaligandaki_npl-10_o3g0ssWChE.webp",
-      "images": [
-        "https://npcdn.ratopati.com/media/news/majhi-basti-kaligandaki_npl-10_o3g0ssWChE.webp"
-      ],
-      "description": "काठमाडाैँ । स्ताङ हुँदै चीनको कोरला नाका जोड्ने कालीगण्डकी करिडोर सडकका ४६ ठाउँमा पहिरो खसेपछि यातायात प्रभावित भएको छ। लगातारको वर्षासँगै विभिन्न स्थानमा पहिरो, ढुंगा खस्ने र सडक अवरुद्ध हुने समस्या देखिएको हो। पहिरोका कारण नेपाल–चीन"
-    },
-    {
-      "id": "686a92b9523f5f8e",
-      "title": "काठमाडौँ हिँडेका सवारीसाधन कुरिनटारमा रोकिए, तस्बिरहरू",
-      "link": "https://www.ratopati.com/story/595358/vehicles-heading-to-kathmandu-stopped-at-kurintar-photos",
-      "source": "Ratopati",
-      "sourceUrl": "https://ratopati.com/feed",
-      "pubDate": "2026-09-27T15:17:54+00:00",
-      "categories": [
-        "politics",
-        "sports"
-      ],
-      "image": "https://npcdn.ratopati.com/media/news/5-kurintarma-rokiye-gadi_npl-4_fYWpxiFIxF.webp",
-      "images": [
-        "https://npcdn.ratopati.com/media/news/5-kurintarma-rokiye-gadi_npl-4_fYWpxiFIxF.webp"
-      ],
-      "description": "काठमाडाैँ। पृथ्वी राजमार्ग अन्तर्गत चितवनको इच्छाकामना गाउँपालिका–४ कुरिनटारमा मालवाहक सवारीसाधन रोकिएका छन्। इलाका प्रहरी कार्यालय मुग्लिनका अनुसार आइतबार काठमाडौँतर्फ हिँडेका सवारीसाधनलाई मुग्लिन, लेवाटार, कुरिनटार र चुम्लिङटारलगायत सुरक्षित स्थानमा रोकेर राखिएको हो।"
     },
     {
       "id": "b062c0031ed5506e",
@@ -1483,38 +1607,23 @@
       "description": "११ असोज, काठमाडौं । भारतका स्टार ब्याटर विराट कोहलीले एकदिवसीय अन्तर्राष्ट्रिय (ओडीआई) क्रिकेटमा १५ हजार रन पूरा गर्दै नयाँ कीर्तिमान बनाएका छन् । वेस्ट इन्डिजविरुद्ध पहिलो ओडीआईका क्रममा कोहलीले यो उपलब्धि हासिल गरेका हुन् । उनले चौका प्रहार गर्दै १५ हजार रनको कोशेढुङ्गा पार गरेका थिए । कोहली ओडीआईमा १५ हजार रन बनाउने दोस्रो खेलाडी […]"
     },
     {
-      "id": "9dac35cc4df4b83d",
-      "title": "चार दिनको वर्षामा देशभर क्षति, २ हजार नागरिक सुरक्षित स्थानमा सारिए",
-      "link": "https://www.ratopati.com/story/595357/four-days-of-rain-cause-damage-across-the-country-2000-citizens-evacuated-to-safer-places",
-      "source": "Ratopati",
-      "sourceUrl": "https://ratopati.com/feed",
-      "pubDate": "2026-09-27T15:12:45+00:00",
+      "id": "e05c7c9fc78cbcd6",
+      "title": "पहिरोले धादिङका राजमार्ग ठप्प",
+      "link": "https://newsofnepal.com/2026/09/27/789007/",
+      "source": "News of Nepal",
+      "sourceUrl": "https://newsofnepal.com/feed/",
+      "pubDate": "2026-09-27T15:09:22+00:00",
       "categories": [
         "politics",
+        "business",
         "sports"
       ],
-      "image": "https://npcdn.ratopati.com/media/news/bipad_K1MTVLWec3.webp",
+      "image": "https://newsofnepal.com/wp-content/uploads/2026/09/pahiro1-150x150.jpg",
       "images": [
-        "https://npcdn.ratopati.com/media/news/bipad_K1MTVLWec3.webp"
+        "https://newsofnepal.com/wp-content/uploads/2026/09/pahiro1-150x150.jpg",
+        "https://newsofnepal.com/wp-content/uploads/2026/09/dhading-pahiro-768x550.jpg"
       ],
-      "description": "काठमाडौँ । बंगालको खाडीमा विकसित न्यून चापीय प्रणालीका कारण असोज ८ देखि ११ गतेसम्म भएको भारीदेखि अति भारी वर्षाले देशका विभिन्न क्षेत्रमा जनधनमा क्षति पुर्‍याएको छ। राष्ट्रिय विपद् जोखिम न्यूनीकरण तथा व्यवस्थापन प्राधिकरणका अनुसार वर्षासँग"
-    },
-    {
-      "id": "cb175257365db8b6",
-      "title": "कोहलीले तोडे सचिनको कीर्तिमान",
-      "link": "https://www.ratopati.com/story/595356/kohli-breaks-sachins-record",
-      "source": "Ratopati",
-      "sourceUrl": "https://ratopati.com/feed",
-      "pubDate": "2026-09-27T15:09:16+00:00",
-      "categories": [
-        "politics",
-        "sports"
-      ],
-      "image": "https://npcdn.ratopati.com/media/news/kohli_4y07cG70c8.webp",
-      "images": [
-        "https://npcdn.ratopati.com/media/news/kohli_4y07cG70c8.webp"
-      ],
-      "description": "तिरुवनन्तपुरम । तिरुवनन्तपुरममा वेस्ट इन्डिजविरुद्धको पहिलो एकदिवसीय खेलमा विराट कोहलीले नयाँ कीर्तिमान बनाएका छन् । कोहली एकदिवसीय क्रिकेटमा सबैभन्दा छिटो १५ हजार रन पूरा गर्ने ब्याटर बनेका छन् । कोहलीले ३०३औँ पारीमा १५ हजार रन पूरा गरेका"
+      "description": "धादिङ । अविरल वर्षासँगै पहिरो खस्दा धादिङका मुख्य राजमार्गहरूमा यातायात अस्तव्यस्त बनेको छ। पृथ्वी राजमार्ग र त्रिभुवन राजपथका विभिन्न स्थानमा पहिरो खसेपछि सवारी साधन रोकिएका छन्। बेनिघाटरोराङ गाउँपालिका–१०, हुग्दीखोला नजिक डाँडाबाट ठूलो पहिरो खसेपछि पृथ्वी राजमार्ग पूर्ण रूपमा अवरुद्ध भएको छ। पहिरोका कारण रातिदेखि सवारी आवागमन रोकिएको छ। सडक खुलाउन पहिरो पन्छाउने प्रयास भइरहेको छ। […]"
     },
     {
       "id": "b47df59337620b73",
@@ -1598,6 +1707,25 @@
       "description": "काठमाडौं। राजनीतिक दबाब र सूचनामा समेत अरूको नै भर पर्दा प्रहरीको विश्वसनीयतामा निरन्तर प्रश्न उठ्न थालेको छ। सुशासनको आडमा बनेका नयाँ पार्टी र सरकारले पनि अघिल्ला राजनीतिक दलहरूको भन्दा चर्को दबाब र प्रभाव अनुसन्धानकारी निकायहरूलाई दिन थालेका छन्। नेपाल प्रहरी सबैभन्दा बढी यसको चपेटामा पर्ने गरेको छ। पछिल्लो उदाहरण बनेको छ – पूर्व प्रधानन्यायाधीश चोलेन्द्र […] The post राजनीतिक दबाबमा अनुसन्धानकारी निकाय: आदेश र सूचना अर्कैको, बदनाम संगठनको appeared first on BIZMANDU ."
     },
     {
+      "id": "c3ea01e7439fe0d7",
+      "title": "‘द एभरेस्ट ड्रीम’ले शिम्लामा जित्यो स्पेशल जुरी अवार्ड",
+      "link": "https://newsofnepal.com/2026/09/27/789003/",
+      "source": "News of Nepal",
+      "sourceUrl": "https://newsofnepal.com/feed/",
+      "pubDate": "2026-09-27T15:02:26+00:00",
+      "categories": [
+        "politics",
+        "business",
+        "sports"
+      ],
+      "image": "https://newsofnepal.com/wp-content/uploads/2026/09/22-1-150x150.jpg",
+      "images": [
+        "https://newsofnepal.com/wp-content/uploads/2026/09/22-1-150x150.jpg",
+        "https://newsofnepal.com/wp-content/uploads/2026/09/33-768x590.jpg"
+      ],
+      "description": "काठमाडौं। नेपाली डकुमेन्ट्री फिल्म ‘द एभरेस्ट ड्रीम’ ले भारतको शिम्लामा आयोजित १२औँ अन्तर्राष्ट्रिय फिल्म फेस्टिभल अफ शिम्लामा स्पेशल जुरी सर्ट डकुमेन्ट्री अवार्ड जितेको छ। निर्देशक तथा संचारकर्मी गणेश पाण्डेले निर्देशन तथा निर्माण गरेको ‘द एभरेस्ट ड्रीम’ले विश्वभरका अन्तर्राष्ट्रिय वृत्तचित्रबीच प्रतिस्पर्धा गर्दै यो अवार्ड हात पारेको हो। आज शिम्लामा आयोजित अवार्ड समारोहमा हिमाचल प्रदेशका गभर्नर कविन्दर […]"
+    },
+    {
       "id": "919fa6e58de7a4e2",
       "title": "देउवा समूहले ल्यायो क्षेत्रीय प्रतिनिधिको नयाँ मापदण्ड, २१ देखि ७५ जनासम्म चयन हुने",
       "link": "https://nepallive.com/story/351152",
@@ -1678,6 +1806,25 @@
       "description": "काठमाडौँ- इरानको इस्लामिक रिभोल्युसनरी गार्ड कर्प्स (आईआरजीसी) को नौसेनाले अमेरिकी सेनाको एक मानवरहित पानीमुनि चल्ने ड्रोन (यूयूभी) लाई आफ्नो नियन्त्रणमा लिएको दाबी गरेको छ। आईआरजीसी नौसेनाका अनुसार विशेष गोप्य जानकारी र अत्याधुनिक इलेक्ट्रोनिक युद्ध (इलेक्ट्रोनिक वारफेयर) प्रविधिको प्रयोग गरी अमेरिकी ड्रोनलाई नियन्त्रणमा लिइएको हो। इरानले नियन्त्रणमा लिएको ड्रोन ‘रेमस ६००’ नामक उन्नत ‘अन्डरवाटर’ ड्रोन भएको […]"
     },
     {
+      "id": "e4af3e00885b8dac",
+      "title": "बाढी–पहिरोमा सेनाको उद्धार तीव्र : ६८० जनाभन्दा बढी सुरक्षित स्थानमा सारिए",
+      "link": "https://newsofnepal.com/2026/09/27/788999/",
+      "source": "News of Nepal",
+      "sourceUrl": "https://newsofnepal.com/feed/",
+      "pubDate": "2026-09-27T14:57:00+00:00",
+      "categories": [
+        "politics",
+        "business",
+        "sports"
+      ],
+      "image": "https://newsofnepal.com/wp-content/uploads/2026/09/ud2-150x150.jpg",
+      "images": [
+        "https://newsofnepal.com/wp-content/uploads/2026/09/ud2-150x150.jpg",
+        "https://newsofnepal.com/wp-content/uploads/2026/09/ud3-768x518-1.jpg"
+      ],
+      "description": "काठमाडौं । अविरल वर्षाका कारण देशका विभिन्न स्थानमा आएको बाढी, पहिरो तथा डुबानबाट प्रभावित क्षेत्रमा नेपाली सेनाले खोज, उद्धार, राहत वितरण, सुरक्षित स्थानमा स्थानान्तरण तथा सडक खुलाउने कार्यलाई तीव्रता दिएको छ। नेपाली सेनाका अनुसार म्याग्दीको अन्नपूर्ण गाउँपालिका–५ पाउद्वारमा पहिरोमा फसेका ७८ जना स्थानीयलाई हेलिकप्टरमार्फत उद्धार गरी मुक्तिमार्ग माध्यमिक विद्यालयमा सुरक्षित स्थानमा सारिएको छ। यस्तै, पर्वत, […]"
+    },
+    {
       "id": "b3645e6902d162da",
       "title": "PM Shah says disaster risk remains, urges public to stay alert",
       "link": "https://english.khabarhub.com/2026/27/569615/",
@@ -1707,6 +1854,24 @@
       "image": "",
       "images": [],
       "description": "प्रधानमन्त्री शाहका अनुसार असोज ८ गतेदेखि अहिलेसम्म विभिन्न विपद्का घटनामा परी २१ जनाको मृत्यु र ५ जना बेपत्ता भएका छन्। म्याग्दी, डोल्पा, धनुषा, पाल्पा, बाग्लुङ, लमजुङ, रुकुम पश्चिम, काभ्रे, धादिङ, मकवानपुर र सुर्खेतलगायत जिल्लामा मानवीय क्षति भएको उनले बताएका छन्। घाइते पाँच जनाको निःशुल्क उपचारको व्यवस्था गरिएको उनको भनाइ छ।"
+    },
+    {
+      "id": "ce880822e90fccd2",
+      "title": "मनाङ हिमपहिरो अपडेट : दुई जनाको शव फेला, ८ जना अझै सम्पर्कविहीन",
+      "link": "https://newsofnepal.com/2026/09/27/788995/",
+      "source": "News of Nepal",
+      "sourceUrl": "https://newsofnepal.com/feed/",
+      "pubDate": "2026-09-27T14:49:06+00:00",
+      "categories": [
+        "politics",
+        "business",
+        "sports"
+      ],
+      "image": "https://newsofnepal.com/wp-content/uploads/2026/09/manang33-150x150.jpg",
+      "images": [
+        "https://newsofnepal.com/wp-content/uploads/2026/09/manang33-150x150.jpg"
+      ],
+      "description": "मनाङ । मनाङको नार्पाभूमि गाउँपालिका–५ स्थित हिमलुङ हिमालमा गएको हिमपहिरोमा परी सम्पर्कविहीन भएका २२ जनामध्ये दुई जनाको शव फेला परेको छ। आइतबार साँझ १८ः१५ बजेसम्मको अपडेटअनुसार कैलाश हेलिकप्टरमार्फत दुई जनाको शव उद्धार गरी प्रादेशिक अस्पताल मनाङमा ल्याएर राखिएको छ। यस्तै, हिमपहिरोपछि सम्पर्कविहीन भएका १२ जना फू गाउँमा सम्पर्कमा आएका छन्। उनीहरू सुरक्षित अवस्थामा रहेको प्रारम्भिक […]"
     },
     {
       "id": "782332c6e45bf92d",
@@ -2156,6 +2321,24 @@
       "description": "काठमाडौं । राष्ट्रिय स्वतन्त्र पार्टी (रास्वपा) संसदीय दलले माननीय सांसदहरूका स्वकीय सचिव (पर्सनल सेक्रेटरी) हरूका लागि एक दिवसीय अभिमुखीकरण कार्यक्रम आयोजना गरेको छ। जनप्रतिनिधिको संसदीय भूमिकालाई अझ प्रभावकारी, व्यवस्थित र जिम्मेवार बनाउने उद्देश्यका साथ उक्त कार्यक्रम आयोजना गरिएको हो। संसदीय अभ्यास केवल सदनभित्रको उपस्थितिमा मात्र सीमित नहुने र सही सूचना, व्यवस्थित समन्वय, जिम्मेवार सचिवालय एवं […] The post रास्वपा सांसदका स्वकीय सचिवहरूका लागि अभिमुखीकरण कार्यक्रम appeared first on राजधानी "
     },
     {
+      "id": "c4a3d8f3ffa02053",
+      "title": "बाढीको चपेटामा देवघाटको विद्युतीय शवदाह गृह",
+      "link": "https://newsofnepal.com/2026/09/27/788992/",
+      "source": "News of Nepal",
+      "sourceUrl": "https://newsofnepal.com/feed/",
+      "pubDate": "2026-09-27T13:25:54+00:00",
+      "categories": [
+        "politics",
+        "business",
+        "sports"
+      ],
+      "image": "https://newsofnepal.com/wp-content/uploads/2026/09/dev-ghat22-150x150.jpg",
+      "images": [
+        "https://newsofnepal.com/wp-content/uploads/2026/09/dev-ghat22-150x150.jpg"
+      ],
+      "description": "चितवन। देवघाटधामस्थित नारायणी नदी किनारमा निर्माणाधीन विद्युतीय शवदाह गृह बाढी र नदी कटानको उच्च जोखिममा परेको छ। निर्माणको काम अन्तिम चरणमा पुगेका बेला नारायणी नदीको बाढी भवन परिसरमै प्रवेश गरेपछि निर्माणाधीन संरचना क्षतिग्रस्त हुने जोखिम बढेको हो। नारायणी नदीमा पानीको बहाव बढेसँगै बाढी शवदाह गृहको परिसरमा पसेको छ। देवघाट क्षेत्र विकास समितिका कार्यकारी निर्देशक सनद […]"
+    },
+    {
       "id": "7309cdaacaf3aa1e",
       "title": "नेपाललाई ३ अर्ब ८३ करोड सहयोग गर्ने यूएईको प्रतिबद्धता",
       "link": "https://www.nepalviews.com/story/425982/uae-pledges-to-provide-383-billion-rupees-in-aid-to-nepal",
@@ -2244,6 +2427,24 @@
       "image": "",
       "images": [],
       "description": "बदलिँदो पर्यटन परिवेश अनुसार संस्थागत क्षमता र सेवा प्रवाह सुदृढ बनाउनुपर्नेमा सहभागीले जोड दिए ।"
+    },
+    {
+      "id": "48e76f3240fa2b6c",
+      "title": "स्याकार र एनआईसी एशियाबीच सम्झौता, होण्डा खरिदमा सहुलियतपूर्ण कर्जा सुविधा",
+      "link": "https://newsofnepal.com/2026/09/27/788989/",
+      "source": "News of Nepal",
+      "sourceUrl": "https://newsofnepal.com/feed/",
+      "pubDate": "2026-09-27T13:17:47+00:00",
+      "categories": [
+        "politics",
+        "business",
+        "sports"
+      ],
+      "image": "https://newsofnepal.com/wp-content/uploads/2026/09/fd-150x150.jpg",
+      "images": [
+        "https://newsofnepal.com/wp-content/uploads/2026/09/fd-150x150.jpg"
+      ],
+      "description": "काठमाडौं । नेपालका लागि होण्डा कारको आधिकारिक वितरक स्याकार ट्रेडिङ कम्पनी प्रालि र एनआईसी एशिया बैंकबीच होण्डाका ग्राहकलाई सहुलियतपूर्ण सवारी कर्जा उपलब्ध गराउनेसम्बन्धी सम्झौता भएको छ। सम्झौताअनुसार एनआईसी एशिया बैंकले होण्डाका ग्राहकलाई आकर्षक तथा कम ब्याजदरमा सवारी कर्जाको सुविधा उपलब्ध गराउनेछ। यस सहकार्यको मुख्य उद्देश्य ग्राहकलाई नयाँ होण्डा गाडी खरिद गर्न आर्थिक रूपमा सहज बनाउनु […]"
     },
     {
       "id": "c015abbfaec36aca",
@@ -2363,6 +2564,25 @@
         "http://english.onlinekhabar.com/wp-content/uploads/2026/09/Himlung-1024x500-1.jpg"
       ],
       "description": "Kathmandu, September 27 Two bodies have been recovered after an avalanche struck Himlung Himal in Narpa Bhumi Rural Municipality-5 of Manang, leaving several people missing. According to Manang Chief District Officer Mukti Prasad Khanal, a rescue team brought the two bodies to Chame by helicopter on Sunday. “Two bodies have just arrived by helicopter. It […] The post 2 bodies recovered after avalanche leaves climbers missing in Himlung appeared first on OnlineKhabar English News ."
+    },
+    {
+      "id": "c9ce6b7246fb3a7e",
+      "title": "टीभीएस एनटर्क १५० नेपालमा सार्वजनिक, मूल्य कति ?",
+      "link": "https://newsofnepal.com/2026/09/27/788985/",
+      "source": "News of Nepal",
+      "sourceUrl": "https://newsofnepal.com/feed/",
+      "pubDate": "2026-09-27T13:08:41+00:00",
+      "categories": [
+        "politics",
+        "business",
+        "sports"
+      ],
+      "image": "https://newsofnepal.com/wp-content/uploads/2026/09/Launch-2--150x150.jpg",
+      "images": [
+        "https://newsofnepal.com/wp-content/uploads/2026/09/Launch-2--150x150.jpg",
+        "https://newsofnepal.com/wp-content/uploads/2026/09/tvs-768x511-1.jpg"
+      ],
+      "description": "काठमाडौं । टीभीएस मोटर कम्पनीले नेपालका लागि आधिकारिक वितरक जगदम्बा मोटर्ससँगको सहकार्यमा नेपालकै पहिलो १५० सीसी हाइपर स्पोर्ट स्कुटर टीभीएस एनटर्क १५० सार्वजनिक गरेको छ। काठमाडौंको नक्सालमा आयोजित कार्यक्रममा नयाँ स्कुटर सार्वजनिक गरिएको हो। कार्यक्रममा जगदम्बा मोटर्स तथा टीभीएस मोटर कम्पनीका प्रतिनिधि, सञ्चारकर्मी, सामग्री निर्माता, डिलर तथा अन्य सरोकारवालाको सहभागिता थियो। कार्यक्रममा १०० भन्दा बढी […]"
     },
     {
       "id": "2871c0f12a5e804c",
