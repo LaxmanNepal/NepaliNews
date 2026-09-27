@@ -1,10 +1,266 @@
 {
-  "generatedAt": "2026-09-27T21:30:00.183513+00:00",
+  "generatedAt": "2026-09-27T23:53:40.268944+00:00",
   "feedCount": 41,
   "healthyFeeds": 24,
   "failedFeeds": 17,
-  "itemCount": 340,
+  "itemCount": 343,
   "items": [
+    {
+      "id": "4aa67404f33a5141",
+      "title": "सडक अवरुद्ध हुनासाथ खुलाउने प्रयास",
+      "link": "https://gorkhapatraonline.com/news/224563",
+      "source": "Gorkhapatra",
+      "sourceUrl": "https://gorkhapatraonline.com/rss",
+      "pubDate": "2026-09-27T23:51:56+00:00",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "image": "https://gorkhapatraonline.com/storage/media/385258/conversions/RP_KAVRE_cfaf0235-93c5-4c40-9063-82b2b668c890-original.jpg",
+      "images": [
+        "https://gorkhapatraonline.com/storage/media/385258/conversions/RP_KAVRE_cfaf0235-93c5-4c40-9063-82b2b668c890-original.jpg"
+      ],
+      "description": "काठमाडौँ, असोज १२ गते । वर्षाका कारण देशका प्रमुख राजमार्ग तथा सडकमा आएको बाढीपहिरोको अवरोध हटाउन सरकारले विशेष आपत्कालीन कार्ययोजना कार्यान्वयनमा ल्याएको छ । सरकारले पूर्वाधार विक..."
+    },
+    {
+      "id": "6fecf931f23edb0c",
+      "title": "बागलुङमा पहिरोबाट जनधनको ठूलो क्षति, १० जनाको मृत्यु, एक बेपत्ता",
+      "link": "https://rajdhanidaily.com/id/149117/",
+      "source": "Rajdhani Daily",
+      "sourceUrl": "https://rajdhanidaily.com/feed/",
+      "pubDate": "2026-09-27T23:49:51+00:00",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "image": "https://rajdhanidaily.com/wp-content/uploads/2026/09/Baglung-pahiro-death.jpg",
+      "images": [
+        "https://rajdhanidaily.com/wp-content/uploads/2026/09/Baglung-pahiro-death.jpg"
+      ],
+      "description": "बागलुङ । बागलुङमा अविरल वर्षापछि आएको पहिरोमा परी १० जनाको मृत्यु भएको छ भने एक जना बेपत्ता भएका छन् । वर्षाका कारण पछिल्लो दुई दिनमा जिल्लामा ठूलो मानवीय क्षति भएको हो । आइतबार मात्रै नौ जनाको मृत्यु भएको छ भने एक जना बेपत्ता छन् । शनिबार एक जनाको मृत्यु भएको थियो । जिल्ला प्रहरी कार्यालय […] The post बागलुङमा पहिरोबाट जनधनको ठूलो क्षति, १० जनाको मृत्यु, एक बेपत्ता appeared first on राजधानी राष्ट्रिय दैनिक (लोकप्रिय राष्ट्रिय दैनिक)-RajdhaniDaily.com - Online Nepali News Portal-Latest Nepali On"
+    },
+    {
+      "id": "e1edf4641dc62809",
+      "title": "आजका लागि तोकियो विदेशी मुद्राको विनिमय दर",
+      "link": "https://www.ratopati.com/story/595401/foreign-currency-exchange-rates-set-for-today",
+      "source": "Ratopati",
+      "sourceUrl": "https://ratopati.com/feed",
+      "pubDate": "2026-09-27T23:42:58+00:00",
+      "categories": [
+        "politics",
+        "sports"
+      ],
+      "image": "https://rpcdn.ratopati.com/media/albums/forex_3HNlavACP4.jpg",
+      "images": [
+        "https://rpcdn.ratopati.com/media/albums/forex_3HNlavACP4.jpg"
+      ],
+      "description": "काठमाडौँ । नेपाल राष्ट्र बैंकले आजका लागि विदेशी मुद्राको विनिमय दर निर्धारण गरेको छ । राष्ट्र बैंकका अनुसार अमेरिकी डलर एकको खरिददर १५३ रुपैयाँ ०१ पैसा र बिक्रीदर १५३ रुपैयाँ ६१ पैसा निर्धारण गरिएको छ"
+    },
+    {
+      "id": "2afb733e3cfa811a",
+      "title": "बाढी पहिरोले धवलागिरि क्षेत्रमा सडक सञ्जाल विच्छेद",
+      "link": "https://www.ratopati.com/story/595400/floods-and-landslides-disrupt-road-network-in-dhaulagiri-region",
+      "source": "Ratopati",
+      "sourceUrl": "https://ratopati.com/feed",
+      "pubDate": "2026-09-27T23:40:02+00:00",
+      "categories": [
+        "politics",
+        "sports"
+      ],
+      "image": "https://npcdn.ratopati.com/media/news/prithivi-rajmarg_n1RWVXGqVL.webp",
+      "images": [
+        "https://npcdn.ratopati.com/media/news/prithivi-rajmarg_n1RWVXGqVL.webp"
+      ],
+      "description": "गण्डकी । कालीगण्डकी नदीमा आइतबार आएको बाढीका कारण धवलागिरि क्षेत्रका पर्वत, बागलुङ, म्याग्दी र मुस्ताङलाई राष्ट्रिय सडक सञ्जालमा जोड्ने मध्यपहाडी लोकमार्ग ठाउँठाउँमा अवरूद्ध भएको छ । बाढीले पर्वतको कुश्मा नगरपालिकास्थित नयाँपुलमा झन्डै १०० मिटर सडक बगाएको"
+    },
+    {
+      "id": "959f4ebc6cc4f6da",
+      "title": "सङ्घीय संसद्का दुवै सदनको बैठक आज बस्दै, यस्तो छ सम्भावित कार्यसूची",
+      "link": "https://www.ratopati.com/story/595399/both-houses-of-the-federal-parliament-are-meeting-today-here-is-the-possible-agenda",
+      "source": "Ratopati",
+      "sourceUrl": "https://ratopati.com/feed",
+      "pubDate": "2026-09-27T23:37:11+00:00",
+      "categories": [
+        "politics",
+        "sports"
+      ],
+      "image": "https://npcdn.ratopati.com/media/news/samsad_9q2zyeYiS3.jpg",
+      "images": [
+        "https://npcdn.ratopati.com/media/news/samsad_9q2zyeYiS3.jpg"
+      ],
+      "description": "काठमाडौँ । सङ्घीय संसद्का दुवै सदन (प्रतिनिधिसभा र राष्ट्रियसभा) को बैठक आज बस्दै छ । प्रतिनिधिसभाको बैठक बिहान ११ः ०० बजे तथा राष्ट्रियसभाको बैठक अपराह्न १ः१५ बजेका लागि बोलाइएको छ । आजको प्रतिनिधिसभा बैठकमा प्रधानमन्त्री वालेन्द्र"
+    },
+    {
+      "id": "5373f6a0d6d766ac",
+      "title": "आजका लागि यस्तो छ विदेशी मुद्राको विनिमयदर",
+      "link": "https://www.onlinekhabar.com/2026/09/2027285/this-is-the-foreign-currency-exchange-rate-for-today-31",
+      "source": "Online Khabar",
+      "sourceUrl": "https://www.onlinekhabar.com/feed",
+      "pubDate": "2026-09-27T23:35:22+00:00",
+      "categories": [
+        "politics",
+        "business",
+        "sports",
+        "technology",
+        "entertainment"
+      ],
+      "image": "",
+      "images": [],
+      "description": "१२ असोज, काठमाडौं । नेपाल राष्ट्र बैंकले आजका लागि विदेशी मुद्राको विनिमयदर निर्धारण गरेको छ । राष्ट्र बैंकका अनुसार अमेरिकी डलर एकको खरिददर १५३ रुपैयाँ ०१ पैसा र बिक्रीदर १५३ रुपैयाँ ६१ पैसा निर्धारण गरिएको छ । युरोपियन युरो एकको खरिददर १७४ रुपैयाँ ३० पैसा र बिक्रीदर १७४ रुपैयाँ ९८ पैसा, युके पाउन्ड स्ट्रलिङ एकको […]"
+    },
+    {
+      "id": "02890d5fc52728ce",
+      "title": "कागतीदेखि ड्रागन फ्रुटसम्मः तीन युवाको आँटले बाँझा खेतमा फुल्यो सपना",
+      "link": "https://www.ratopati.com/story/595398/from-lemons-to-dragon-fruit-the-courage-of-three-young-people-made-dreams-bloom-in-a-barren-field",
+      "source": "Ratopati",
+      "sourceUrl": "https://ratopati.com/feed",
+      "pubDate": "2026-09-27T23:31:25+00:00",
+      "categories": [
+        "politics",
+        "sports"
+      ],
+      "image": "https://npcdn.ratopati.com/media/news/x3R5zYKkVB.jpg",
+      "images": [
+        "https://npcdn.ratopati.com/media/news/x3R5zYKkVB.jpg"
+      ],
+      "description": "लमजुङ । बेँसीसहर नगरपालिका–१० बाँझा खेतमा मस्र्याङ्दी नदी किनारको जग्गामा तीन युवाले सुरु गरेको ड्रागन फ्रुटखेतीले नयाँ सम्भावना देखाएको छ । केही वर्षअघि कागतीखेतीबाट अपेक्षित आम्दानी लिन नसकेपछि इन्द्र घले, योगबहादुर घले र रामबहादुर गुरुङ"
+    },
+    {
+      "id": "e9753ae22b22b582",
+      "title": "सोमबार कुन राशिका लागि शुभ ? हेर्नुहोस् राशिफल",
+      "link": "https://www.ratopati.com/story/595397/which-zodiac-sign-is-auspicious-on-monday-see-horoscope",
+      "source": "Ratopati",
+      "sourceUrl": "https://ratopati.com/feed",
+      "pubDate": "2026-09-27T23:15:00+00:00",
+      "categories": [
+        "politics",
+        "sports"
+      ],
+      "image": "https://npcdn.ratopati.com/media/news/horoscope_XkWmpVM1yU.jpg",
+      "images": [
+        "https://npcdn.ratopati.com/media/news/horoscope_XkWmpVM1yU.jpg"
+      ],
+      "description": "आजको पञ्चाङ्ग वि.सं.२०८३ साल असोज १२ गते । सोमबार । इस्वी सन् २०२६ सेप्टेम्बर २८ तारिख । नेपाल संवत् ११४६ । रौद्र संवत्सर । दक्षिणायन । शरद ऋतु । श्रीशाके १९४८ । आश्विन कृष्णपक्ष । तिथि–द्वितीया,"
+    },
+    {
+      "id": "8223509ff797294b",
+      "title": "शैक्षिक पूर्वाधारमा ठुलो लगानी, अब उपलब्धि देखाउने दबाब",
+      "link": "https://www.ratopati.com/story/595396/huge-investment-in-educational-infrastructure-now-pressure-to-show-achievements",
+      "source": "Ratopati",
+      "sourceUrl": "https://ratopati.com/feed",
+      "pubDate": "2026-09-27T23:06:30+00:00",
+      "categories": [
+        "politics",
+        "sports"
+      ],
+      "image": "https://rpcdn.ratopati.com/media/albums/school-student_LCq8XQKq1h.jpg",
+      "images": [
+        "https://rpcdn.ratopati.com/media/albums/school-student_LCq8XQKq1h.jpg"
+      ],
+      "description": "सुदूरपश्चिम । सुदूरपश्चिम प्रदेश सरकारले पछिल्ला वर्षमा विद्यालय भवनदेखि आवश्यक शैक्षिक पूर्वाधार निर्माणमा ठुलो लगानी गरेको छ । अब भौतिक संरचना थपिँदै जाँदा विद्यार्थीको सिकाइ उपलब्धि र शिक्षाको गुणस्तरमा त्यसको प्रतिफल देखाउने दबाब बढेको छ"
+    },
+    {
+      "id": "0adb60c79a28f6e7",
+      "title": "‘राष्ट्रिय डिजिटल साक्षरता अभियान’ शुभारम्भ",
+      "link": "https://www.ratopati.com/story/595395/national-digital-literacy-campaign-launched",
+      "source": "Ratopati",
+      "sourceUrl": "https://ratopati.com/feed",
+      "pubDate": "2026-09-27T22:41:53+00:00",
+      "categories": [
+        "politics",
+        "sports"
+      ],
+      "image": "https://npcdn.ratopati.com/media/news/hotel-and-resturant_J1sFWK33Uj.jpg",
+      "images": [
+        "https://npcdn.ratopati.com/media/news/hotel-and-resturant_J1sFWK33Uj.jpg"
+      ],
+      "description": "काठमाडौँ । होटल तथा रेष्टुरेन्टको डिजिटल रूपान्तरणका लागि ‘राष्ट्रिय डिजिटल साक्षरता अभियान’ शुभारम्भ गरिएको छ । होटल व्यवसायी महासङ्घ नेपालले ४७औँ विश्व पर्यटन दिवसका अवसरमा आयोजना गरेको कार्यक्रममा होटल तथा रेस्टुरेन्ट क्षेत्रको डिजिटल रूपान्तरणका लागि ‘राष्ट्रिय"
+    },
+    {
+      "id": "a161184aaeca0877",
+      "title": "मेची भन्सार : दुई अर्ब ८३ करोड राजस्व सङ्कलन",
+      "link": "https://www.ratopati.com/story/595394/mechi-customs-revenue-collection-of-283-billion",
+      "source": "Ratopati",
+      "sourceUrl": "https://ratopati.com/feed",
+      "pubDate": "2026-09-27T22:38:51+00:00",
+      "categories": [
+        "politics",
+        "sports"
+      ],
+      "image": "https://npcdn.ratopati.com/media/news/mechi-bhansar_t9rMckU4i6.jpg",
+      "images": [
+        "https://npcdn.ratopati.com/media/news/mechi-bhansar_t9rMckU4i6.jpg"
+      ],
+      "description": "झापा । मेची भन्सार कार्यालय काँकडभिट्टाले चालु आर्थिक वर्षको पहिलो दुई महिनामा रु दुई अर्ब ८३ करोड ३३ लाख ७५ हजार राजस्व सङ्कलन गरेको छ । कार्यालयले साउन र भदौ महिनाका लागि कुल रु तीन अर्ब"
+    },
+    {
+      "id": "3889ed1465405a6b",
+      "title": "जिब्रो छेड्ने श्रेष्ठलाई रु दुई लाखसहित सम्मान",
+      "link": "https://www.ratopati.com/story/595393/tongue-piercing-artist-honored-with-rs-200000",
+      "source": "Ratopati",
+      "sourceUrl": "https://ratopati.com/feed",
+      "pubDate": "2026-09-27T22:36:35+00:00",
+      "categories": [
+        "politics",
+        "sports"
+      ],
+      "image": "https://npcdn.ratopati.com/media/news/jibro-chedne-jatra-(9)_YftsazbaN1.jpg",
+      "images": [
+        "https://npcdn.ratopati.com/media/news/jibro-chedne-jatra-(9)_YftsazbaN1.jpg"
+      ],
+      "description": "भक्तपुर । बागमती प्रदेशका मुख्यमन्त्री किरण थापामगरले ऐतिहासिक जिब्रो छेड्ने परम्पराको संरक्षणमा योगदान दिएको भन्दै वीरेन्द्र कसजू श्रेष्ठलाई रु दुई लाख नगदसहित सम्मान गरेका छन् । श्रेष्ठले पाँचौँ पटक जिब्रो छेडेका हुन् । थिमिमा आइतबार आयोजित"
+    },
+    {
+      "id": "7540bd905f8c02f7",
+      "title": "जलवायु न्यायको आवाजलाई अन्तर्राष्ट्रिय मञ्चमा प्रभावकारी रूपमा प्रस्तुत गरिनेछ : वनमन्त्री चौधरी",
+      "link": "https://www.ratopati.com/story/595392/the-voice-of-climate-justice-will-be-effectively-presented-on-the-international-stage-forest-minister-chaudhary",
+      "source": "Ratopati",
+      "sourceUrl": "https://ratopati.com/feed",
+      "pubDate": "2026-09-27T22:05:20+00:00",
+      "categories": [
+        "politics",
+        "sports"
+      ],
+      "image": "https://npcdn.ratopati.com/media/news/gita-chaudhary_hG539VeNk1.webp",
+      "images": [
+        "https://npcdn.ratopati.com/media/news/gita-chaudhary_hG539VeNk1.webp"
+      ],
+      "description": "काठमाडौँ । कृषि, वन तथा पर्यावरणमन्त्री गीता चौधरीले आगामी दिनमा पर्वतीय कूटनीतिलाई अझ सशक्त बनाउँदै जलवायु न्यायमा नेपालको आवाजलाई कोप–३१ लगायतका अन्तर्राष्ट्रिय मञ्चमा थप प्रभावकारी रूपमा प्रस्तुत गरिने बताएकी छन् । ‘जलवायु न्यायका लागि पर्वतीय कूटनीति"
+    },
+    {
+      "id": "2e19e624d43aed17",
+      "title": "ग्रिससँग जर्मनी स्तब्ध, समूह ‘बी’ को तेस्रो स्थानमा झर्‍यो",
+      "link": "https://www.ratopati.com/story/595391/germany-stunned-by-greece-drops-to-third-place-in-group-b",
+      "source": "Ratopati",
+      "sourceUrl": "https://ratopati.com/feed",
+      "pubDate": "2026-09-27T21:59:44+00:00",
+      "categories": [
+        "politics",
+        "sports"
+      ],
+      "image": "https://npcdn.ratopati.com/media/news/grecee_4jEt5bFiHI.webp",
+      "images": [
+        "https://npcdn.ratopati.com/media/news/grecee_4jEt5bFiHI.webp"
+      ],
+      "description": "काठमाडौँ । युइएफए नेसन्स लिग अन्तर्गत समूह ‘बी’ को खेलमा ग्रिसले बलियो प्रतिस्पर्धी जर्मनीमाथि १–० गोलको अप्रत्याशित जित हात पारेको छ । यस हारसँगै जर्मनी समूहको तेस्रो स्थानमा झरेको छ भने ग्रिस शीर्ष स्थानमा कायमै"
+    },
+    {
+      "id": "f9b4e0001d40e871",
+      "title": "नर्वेलाई हराउँदै पोर्चुगल समूह ‘डी’ को शीर्ष स्थानमा",
+      "link": "https://www.ratopati.com/story/595390/portugal-top-group-d-after-beating-norway",
+      "source": "Ratopati",
+      "sourceUrl": "https://ratopati.com/feed",
+      "pubDate": "2026-09-27T21:51:57+00:00",
+      "categories": [
+        "politics",
+        "sports"
+      ],
+      "image": "https://npcdn.ratopati.com/media/news/portugal_D7G26775fm.webp",
+      "images": [
+        "https://npcdn.ratopati.com/media/news/portugal_D7G26775fm.webp"
+      ],
+      "description": "काठमाडौँ । युइएफए नेसन्स लिग अन्तर्गत समूह ‘डी’ को दोस्रो खेलमा सोमाबर बिहान पोर्चुगलले नर्वेमाथि २–१ गोलको प्रतिस्पर्धात्मक जित निकालेको छ । यो जितसँगै पोर्चुगल समूहको शीर्ष स्थानमा उक्लिएको छ भने नर्वे दोस्रो स्थानमा झरेको"
+    },
     {
       "id": "1a2ab1f695d55118",
       "title": "जमुनाहनाकाबाट भारतीय पर्यटकलाई भित्र्याउन आग्रह",
@@ -347,7 +603,7 @@
       "link": "https://baahrakhari.com/detail/502947",
       "source": "Baahrakhari",
       "sourceUrl": "https://baahrakhari.com/feed",
-      "pubDate": "2026-09-27T16:54:56+00:00",
+      "pubDate": "2026-09-27T16:54:00+00:00",
       "categories": [
         "politics",
         "business",
@@ -505,23 +761,6 @@
       "image": "",
       "images": [],
       "description": "Kathmandu, Sept 27: Twenty-one people died from incidents of natural disaster including landslide, flood and inundation..."
-    },
-    {
-      "id": "04e4de9f9dff5b25",
-      "title": "नारायणी पुलमा क्रुज अड्किँदा ठुला सवारीसाधन चलाउन रोक",
-      "link": "https://gorkhapatraonline.com/news/224553",
-      "source": "Gorkhapatra",
-      "sourceUrl": "https://gorkhapatraonline.com/rss",
-      "pubDate": "2026-09-27T16:32:54+00:00",
-      "categories": [
-        "politics",
-        "business"
-      ],
-      "image": "https://gorkhapatraonline.com/storage/media/385245/conversions/IMG_2884-original.jpg",
-      "images": [
-        "https://gorkhapatraonline.com/storage/media/385245/conversions/IMG_2884-original.jpg"
-      ],
-      "description": "बोमलाल गिरीनवलपुर, असोज ११ गते । नारायणी पुलको पिलरमा राइनो क्रुज जहाज आएर अड्किएपछि ठुला र मालवाहक सवारी साधन आवतजावतमा रोक लगाइएको छ । पुलमा आवतजावत बन्द हुँदा हजारौँ यात्रु प्रभ..."
     },
     {
       "id": "3869b71294d4f37b",
@@ -807,40 +1046,6 @@
       "description": "तिरुवनन्तपुरम । तिरुवनन्तपुरमस्थित ग्रिनफिल्ड स्टेडियममा भएको पहिलो एकदिवसीय खेलमा भारतले वेस्टइन्डिजलाई ८ विकेटले पराजित गरेको छ । जितसँगै भारतले तीन खेलको शृंखलामा १–० को अग्रता बनाएको छ । पहिले ब्याटिङ गरेको वेस्टइन्डिजले निर्धारित ५० ओभरमा ७ विकेट"
     },
     {
-      "id": "1584d25d0827cbe0",
-      "title": "बाढीपहिरो तथा डुबान प्रभावित क्षेत्रबाट ६८२ जनाको उद्धार",
-      "link": "https://www.ratopati.com/story/595372/682-people-rescued-from-flood-and-landslide-affected-areas",
-      "source": "Ratopati",
-      "sourceUrl": "https://ratopati.com/feed",
-      "pubDate": "2026-09-27T16:09:48+00:00",
-      "categories": [
-        "politics",
-        "sports"
-      ],
-      "image": "https://npcdn.ratopati.com/media/news/sena_20WTViv5vo.webp",
-      "images": [
-        "https://npcdn.ratopati.com/media/news/sena_20WTViv5vo.webp"
-      ],
-      "description": "काठमाडौँ। नेपाली सेनाले अविरल वर्षासँगैको पहिरो, बाढी तथा डुबान प्रभावित क्षेत्रबाट आज ६८४ जनाको उद्धार गरेको छ । सेनाले आज पर्वत, म्याग्दी, बागलुङ र जाजरकोटका विभिन्न स्थानबाट उनीहरुलाई उद्धार गरी सुरक्षित स्थलमा स्थानान्तरण गरेको हो ।"
-    },
-    {
-      "id": "87711f18d25393cb",
-      "title": "सप्तरीमा बाढीबाट पाँच सय परिवार विस्थापित",
-      "link": "https://www.ratopati.com/story/595371/five-hundred-families-displaced-by-floods-in-saptari",
-      "source": "Ratopati",
-      "sourceUrl": "https://ratopati.com/feed",
-      "pubDate": "2026-09-27T16:07:36+00:00",
-      "categories": [
-        "politics",
-        "sports"
-      ],
-      "image": "https://rpcdn.ratopati.com/media/albums/saptari_k8UxWCpXOK.jpg",
-      "images": [
-        "https://rpcdn.ratopati.com/media/albums/saptari_k8UxWCpXOK.jpg"
-      ],
-      "description": "सप्तरी । सप्तरीको सप्तकोशी नदीमा गएको बाढीले ५०० भन्दा बढी घर डुबानमा परेका छन् । यहाँको हनुमाननगर कङ्कालिनी नगरपालिकाको तटीय क्षेत्रमा बसोबास गर्ने वडा नं पाँच हजार ७१२ मा ३८० र वडा नं १३ को"
-    },
-    {
       "id": "373f715ba4ec6172",
       "title": "कर्जा सुरक्षण कोष वित्तीय संस्थाभन्दा सहकारीलाई महँगो, समस्याग्रस्त हुँदै निक्षेप फिर्ता",
       "link": "https://www.onlinekhabar.com/2026/09/2027207/credit-guarantee-fund-is-more-expensive-for-cooperatives-than-financial-institutions-deposit-returns-are-becoming-problematic",
@@ -1000,23 +1205,6 @@
       "description": "पोखरा । लगातारको वर्षाले सबैभन्दा बढी गण्डकी प्रदेशमा १८ जनाको मृत्यु भएको छ । ४ जना बेपत्ता छन् भने ३ घाइते भएका छन् । त्यसमध्ये सबैभन्दा बढी मानवीय क्षति बागलुङमा भयो । बागलुङमा मात्रै १० जनाको मृत्यु भएको हो । म्याग्दीमा ६ र मनाङमा २ जनाले अकालमा ज्यान गुमाएको नेपाल प्रहरी कार्यालय गण्डकी प्रदेशले जनाएको […] The post गण्डकीमा १८ जनाको मृत्यु, ४ बेपत्ता appeared first on राजधानी राष्ट्रिय दैनिक (लोकप्रिय राष्ट्रिय दैनिक)-RajdhaniDaily.com - Online Nepali News Portal-Latest Nepali Online News p"
     },
     {
-      "id": "6bca48d0d6a80724",
-      "title": "लागुऔषध कारोबारी पक्राउ गर्न धनुषा प्रहरीले गर्‍यो हवाई फायर",
-      "link": "https://www.ratopati.com/story/595370/dhanusha-police-fire-in-the-air-to-arrest-drug-trafficker",
-      "source": "Ratopati",
-      "sourceUrl": "https://ratopati.com/feed",
-      "pubDate": "2026-09-27T16:01:00+00:00",
-      "categories": [
-        "politics",
-        "sports"
-      ],
-      "image": "https://npcdn.ratopati.com/media/news/pk_MbFjNINTQJ.webp",
-      "images": [
-        "https://npcdn.ratopati.com/media/news/pk_MbFjNINTQJ.webp"
-      ],
-      "description": "जनकपुरधाम । धनुषा प्रहरीले लागुऔषध खैरो हेरोइन कारोबार भइरहेको सूचनाका आधारमा कारबाही गर्दै एक युवकलाई पक्राउ गरेको छ। पक्राउ गर्ने क्रममा प्रहरीमाथि स्थानीयको समूहले आक्रमण गर्न खोजेपछि प्रहरीले एक राउण्ड हवाई फायरसमेत गरेको जनाएको छ। जिल्ला"
-    },
-    {
       "id": "870f0702d820bf86",
       "title": "चामेवासी कोही सुरक्षित ठाउँ खोज्दै जंगलतिर, कोही ब्यारेकमा",
       "link": "https://www.onlinekhabar.com/2026/09/2027268/some-chame-residents-are-looking-for-a-safe-place-some-are-heading-to-the-forest-some-are-heading-to-the-barracks",
@@ -1157,23 +1345,6 @@
       "description": "पछिका दिनहरूमा मुलुककै शक्तिशाली कार्यकारी प्रमुख हुँदै बालेन जसरी ‘ग्लोबल सेलिब्रेटी’ बने, त्यसले ‘छैन’ भन्ने उत्तरलाई अझ तोडिलो बनाइदियो ।"
     },
     {
-      "id": "ba6112662e1260aa",
-      "title": "वर्षा र पहिरोले विभिन्न राजमार्ग प्रभावित, केही सडक एकतर्फी सञ्चालनमा",
-      "link": "https://www.ratopati.com/story/595369/rain-and-landslides-affect-highways-across-the-country-some-roads-are-in-one-way-operation",
-      "source": "Ratopati",
-      "sourceUrl": "https://ratopati.com/feed",
-      "pubDate": "2026-09-27T15:53:12+00:00",
-      "categories": [
-        "politics",
-        "sports"
-      ],
-      "image": "https://npcdn.ratopati.com/media/news/prithivi-rajmarg_n1RWVXGqVL.webp",
-      "images": [
-        "https://npcdn.ratopati.com/media/news/prithivi-rajmarg_n1RWVXGqVL.webp"
-      ],
-      "description": "काठमाडौँ । लगातारको वर्षा, पहिरो, बाढी तथा सडक कटानका कारण देशका विभिन्न राष्ट्रिय राजमार्ग तथा प्रमुख सडकखण्डमा यातायात प्रभावित भएको छ। सडक विभागले पछिल्लो अवस्थाबारे जानकारी दिँदै अवरुद्ध सडक खुलाउने तथा जोखिमयुक्त स्थानमा यातायात सहज बनाउने"
-    },
-    {
       "id": "4145d30877a0ed1d",
       "title": "क्रेनको सहायताले नारायणी पुलमा अड्किएको क्रुजसिप निकाल्ने प्रयास गरिंदै",
       "link": "https://www.onlinekhabar.com/2026/09/2027265/efforts-are-being-made-to-remove-a-cruise-ship-stuck-on-the-narayani-bridge-with-the-help-of-a-crane",
@@ -1190,23 +1361,6 @@
       "image": "",
       "images": [],
       "description": "११, असोज, चितवन । नारायणी नदीको बाढीले बगाएर पुलमा गएर अड्किएको राइनो क्रुज सिपलाई क्रेनको सहायताले निकाल्ने प्रयास अगाडि बढाइएको छ । जिल्ला प्रहरी कार्यालय चितवनका अनुसार सकभर क्रुजलाई क्रेन लगाएर किनारामा लैजाने प्रयास गरिने र त्यसबाट पनि सम्भव नभए अन्य बैकल्पिक उपायहरू अपनाइने छ । दुईवटा क्रेनको सहायताले तानेर क्रुजलाई गैंडाकोटतर्फको भागमा नै लैजाने […]"
-    },
-    {
-      "id": "b9c7927bb240d070",
-      "title": "कोहलीको ५५औँ शतक, एकदिवसीयमा सबैभन्दा छिटो १५ हजार रन पूरा गर्ने खेलाडी",
-      "link": "https://www.ratopati.com/story/595368/kohlis-55th-century-fastest-to-reach-15000-runs-in-odis",
-      "source": "Ratopati",
-      "sourceUrl": "https://ratopati.com/feed",
-      "pubDate": "2026-09-27T15:52:21+00:00",
-      "categories": [
-        "politics",
-        "sports"
-      ],
-      "image": "https://npcdn.ratopati.com/media/news/virat_Dwkio9AgTQ.webp",
-      "images": [
-        "https://npcdn.ratopati.com/media/news/virat_Dwkio9AgTQ.webp"
-      ],
-      "description": "तिरुवन्ततपुरम । भारतका स्टार ब्याट्सम्यान विराट कोहलीले एकदिवसीय अन्तर्राष्ट्रिय क्रिकेटमा ५५औँ शतक पूरा गरेका छन् । उनले छक्का प्रहार गर्दै शतक पूरा गरेका हुन् । यससँगै कोहली एकदिवसीयमा १५ हजार रन पूरा गर्ने सबैभन्दा छिटो ब्याट्सम्यानसमेत"
     },
     {
       "id": "7f3d2fea727ca865",
@@ -1372,23 +1526,6 @@
       "description": "काठमाडौँ- मनाङको चामे गाउँपालिका–४ स्थित घट्टेखोलामा पहिरो झरिरहेको र त्यसका कारण मर्स्याङ्दी नदीमा जुनसुकै बेला ठूलो बाढी आउनसक्ने जोखिम भएपछि लमजुङतर्फ नदी आसपासका बस्तीका स्थानीयवासीलाई सुरक्षित स्थानमा सर्न आग्रह गर्दै आइतबार साँझदेखि प्रहरीले माइकिङ गर्न थालेको छ। लमजुङका प्रमुख जिल्ला अधिकारी कृष्णप्रसाद खनालका अनुसार साँझ करिब ७ः०० बजेदेखि नेपाल प्रहरी र सशस्त्र प्रहरी परिचालन गरी मस्र्याङ्दी […]"
     },
     {
-      "id": "6371323e01135e27",
-      "title": "सोमबारदेखि वीरगञ्जमा वडा कार्यालयबाट मालपोत कर तिर्ने व्यवस्था",
-      "link": "https://www.ratopati.com/story/595366/arrangement-to-pay-land-revenue-tax-from-ward-office-in-birgunj-from-monday",
-      "source": "Ratopati",
-      "sourceUrl": "https://ratopati.com/feed",
-      "pubDate": "2026-09-27T15:44:12+00:00",
-      "categories": [
-        "politics",
-        "sports"
-      ],
-      "image": "https://npcdn.ratopati.com/media/news/birganj-mahangar_JUnHRqE9rG.jpg",
-      "images": [
-        "https://npcdn.ratopati.com/media/news/birganj-mahangar_JUnHRqE9rG.jpg"
-      ],
-      "description": "वीरगञ्ज । अब वीरगञ्जवासीले वडा कार्यालयबाटै मालपोत कर सङ्लन गर्न सक्ने भएका छन् । वीरगञ्ज महानगरपालिकाले नगरवासीलाई मालपोत कर तिर्न सहज हुने गरी अब सम्बन्धित वडा कार्यालयबाटै मालपोत कर सङ्लन गर्ने व्यवस्था लागू गरेको छ"
-    },
-    {
       "id": "59fa4037d5da2472",
       "title": "कालीगण्डकी करिडोरको ४६ स्थानमा पहिरो, यातायात सेवा प्रभावित",
       "link": "https://nepalnews.com/2026/09/27/landslides-at-46-places-along-kaligandaki-corridor-transport-services-affected/",
@@ -1403,57 +1540,6 @@
       "image": "",
       "images": [],
       "description": "काठमाडौं।अविरल वर्षाका कारण कालीगण्डकी करिडोरअन्तर्गतको मालढुंगा-बेनी-जोमसोम-कोरला सडक खण्डको ४६ स्थानमा पहिरो गएको छ। असोज ८ गतेदेखिको निरन्तर वर्षाले सडकका विभिन्न खण्डमा पहिरो खस्ने, ढुङ्गा खस्ने, नदी तथा खोलामा बाढी आउने र सडक कटान हुँदा यातायात सेवा नराम्ररी प्रभावित बनेको छ। करिडोर आयोजनाका अनुसार माथिल्लो भेगदेखि तल्लो भेगसम्मका दर्जनौं स्थानमा सडक अवरुद्ध भएको छ। लाटीखोला, फर्स्या, […]"
-    },
-    {
-      "id": "e8c8bd75d2d021b7",
-      "title": "बाढीपहिरोले क्षतिग्रस्त डुम्रे–बेँसीसहर–चामे सडकमा मर्मत तीव्र",
-      "link": "https://www.ratopati.com/story/595364/repairs-are-underway-on-the-flood-damaged-dumre-besisahar-chame-road-efforts-are-underway-to-open-the-road-in-risky-areas",
-      "source": "Ratopati",
-      "sourceUrl": "https://ratopati.com/feed",
-      "pubDate": "2026-09-27T15:40:53+00:00",
-      "categories": [
-        "politics",
-        "sports"
-      ],
-      "image": "https://npcdn.ratopati.com/media/news/chame-sadak_JUhDzZ8p72.webp",
-      "images": [
-        "https://npcdn.ratopati.com/media/news/chame-sadak_JUhDzZ8p72.webp"
-      ],
-      "description": "काठमाडाैँ। लगातारको वर्षाका कारण डुम्रे–बेँसीसहर–चामे सडकका विभिन्न स्थानमा बाढी, पहिरो र नदी कटानबाट भएको क्षति मर्मत तथा सडक सञ्चालनमा ल्याउने काम तीव्र पारिएको छ। डुम्रे–बेँसीसहर–चामे सडक आयोजनाले सार्वजनिक गरेको पछिल्लो विवरणअनुसार डुम्रे–रामबजार, रामबजार–स्याङ्गे, नासो गाउँपालिकाका खोत्रो"
-    },
-    {
-      "id": "2a76dc0df9b21f04",
-      "title": "'मिस युनिभर्स नेपाल २०२६'काे उपाधि प्रयाशनालाई",
-      "link": "https://www.ratopati.com/story/595361/prayashna-wins-the-title-of-miss-universe-nepal-2026",
-      "source": "Ratopati",
-      "sourceUrl": "https://ratopati.com/feed",
-      "pubDate": "2026-09-27T15:32:27+00:00",
-      "categories": [
-        "politics",
-        "sports"
-      ],
-      "image": "https://npcdn.ratopati.com/media/news/prayashana_juHQUPvmOo.webp",
-      "images": [
-        "https://npcdn.ratopati.com/media/news/prayashana_juHQUPvmOo.webp"
-      ],
-      "description": "काठमाडौँ ।'मिस युनिभर्स नेपाल २०२६'काे उपाधि प्रयाशना गुरुङले जितेकी छन्। आइतबार साँझ आयोजित प्रतियोगितामा अन्य प्रतियोगीलाई पछि पार्दै उनले उपाधि चुमेकी हुन् । गुरुङले अब `मिस युनिभर्स २०२६´ नेपालको प्रतिनिधित्व गर्नेछिन् । प्रतियोगिताको मुख्य निर्णायकमा बलिउड"
-    },
-    {
-      "id": "6fd1165716b24e50",
-      "title": "दिल्लीमा मन्त्रीले युवकलाई थप्पड हानेको भिडियो सार्वजनिक",
-      "link": "https://www.ratopati.com/story/595360/video-of-minister-slapping-young-man-goes-viral-in-delhi",
-      "source": "Ratopati",
-      "sourceUrl": "https://ratopati.com/feed",
-      "pubDate": "2026-09-27T15:31:34+00:00",
-      "categories": [
-        "politics",
-        "sports"
-      ],
-      "image": "https://npcdn.ratopati.com/media/news/prabesh-verma_z1Mt16KV6D.webp",
-      "images": [
-        "https://npcdn.ratopati.com/media/news/prabesh-verma_z1Mt16KV6D.webp"
-      ],
-      "description": "नयाँ दिल्ली । भारतको दिल्ली सरकारका मन्त्री प्रवेश वर्माले एक युवकलाई थप्पड हानेको भिडियो सार्वजनिक भएको छ । आम आदमी पार्टीले आइतबार सामाजिक सञ्जाल एक्समार्फत उक्त भिडियो सार्वजनिक गर्दै तिलक नगरमा सडक निर्माणमा भएको भनिएको भ्रष्टाचारबारे"
     },
     {
       "id": "083fa8fa95462b25",
@@ -3027,24 +3113,6 @@
       "description": "नारायणी नदीमा जलसतह खतरा तहभन्दा माथि अर्थात्‌ करिब ११ मिटर पुगेको र अझै बढ्दो क्रममा रहेको बाढी पूर्वानुमान महाशाखाले जनाएको छ।"
     },
     {
-      "id": "58c56011a91acc3d",
-      "title": "कोशीमा रोकिएको ठेक्का प्रक्रियाको काम सुरु",
-      "link": "https://www.onlinekhabar.com/2026/09/2027097/work-on-the-stalled-contract-process-in-koshi-begins",
-      "source": "Online Khabar",
-      "sourceUrl": "https://www.onlinekhabar.com/feed",
-      "pubDate": "2026-09-27T12:15:41+00:00",
-      "categories": [
-        "politics",
-        "business",
-        "sports",
-        "technology",
-        "entertainment"
-      ],
-      "image": "",
-      "images": [],
-      "description": "११ असोज, विराटनगर । कोशी प्रदेश सरकारको भौतिक पूर्वाधार विकास मन्त्रालयले चालु आर्थिक वर्षका लागि रोकिएका विकास निर्माणसँग सम्बन्धित आयोजनाहरूको ठेक्का प्रक्रिया सुचारु गरेको छ । मन्त्रालयले प्रदेश मातहतका १४ वटै पूर्वाधार विकास कार्यालयहरूलाई परिपत्र गर्दै पहिलो चरणमा अधिकांश योजनाहरूको ठेक्का प्रक्रिया तत्काल अघि बढाउन निर्देशन दिएको हो । हाल रोकिएका कार्यक्रम तथा आयोजनाहरू दुई […]"
-    },
-    {
       "id": "473905496410d08f",
       "title": "Two bodies recovered from landslide in Ghiwang, two others rescued",
       "link": "https://english.khabarhub.com/2026/27/569564/",
@@ -3160,23 +3228,6 @@
         "https://rajdhanidaily.com/wp-content/uploads/2022/05/death.jpg"
       ],
       "description": "काठमाडौं । छुट्टाछुट्टै स्थानमा ३ जना मृत अवस्थामा प्रहरीले फेला पारेको छ । काठमाडौं, नवलपरासी र सुर्खेतमा ती मृतक फेला परेका हुन् । काठमाडौं, चन्द्रागिरी नगरपालिका-२ परियारटोल बस्ने रोल्पा माडी गाउँपालिका(२ घर भएका ३० वर्षीय ओम प्रकाश घर्ती मगर आफ्नै कोठामा शनिबार मृत अवस्थामा फेला परेका छन् । सुर्खेत, वीरेन्द्रनगर नगरपालिका-३ त्रिवेणी टोल बस्ने दैलेख […] The post ३ जना मृत अवस्थामा भेटिए appeared first on राजधानी राष्ट्रिय दैनिक (लोकप्रिय राष्ट्रिय दैनिक)-RajdhaniDaily.com - Online Nepali News"
-    },
-    {
-      "id": "19a77bfc41b11d51",
-      "title": "विपद्‍मा परी हालसम्म १५ जनाको मृत्यु",
-      "link": "https://rajdhanidaily.com/id/149094/",
-      "source": "Rajdhani Daily",
-      "sourceUrl": "https://rajdhanidaily.com/feed/",
-      "pubDate": "2026-09-27T11:54:47+00:00",
-      "categories": [
-        "politics",
-        "business"
-      ],
-      "image": "https://rajdhanidaily.com/wp-content/uploads/2026/09/newskarkahna-news928650..jpg",
-      "images": [
-        "https://rajdhanidaily.com/wp-content/uploads/2026/09/newskarkahna-news928650..jpg"
-      ],
-      "description": "काठमाडौं । अविरल वर्षाको कारण गत असोज ८ गतेदेखि देशका विभिन्न स्थानमा आएको बाढी, पहिरो लगायतका विपद्‍मा परी हालसम्म १५ जनाको मृत्यु भएको प्रहरीले जनाएको छ । बाढी, पहिरो लगायतका विपद्‍मा परी बागमती प्रदेशमा ३ जना, लुम्बिनी प्रदेशमा ४ जना, गण्डकी प्रदेशमा ५ जना, कर्णाली प्रदेशमा २ जना र मधेस प्रदेशमा १ जना गरी जम्मा […] The post विपद्‍मा परी हालसम्म १५ जनाको मृत्यु appeared first on राजधानी राष्ट्रिय दैनिक (लोकप्रिय राष्ट्रिय दैनिक)-RajdhaniDaily.com - Online Nepali News Portal-Latest Nepali Onlin"
     },
     {
       "id": "eabfa2f505610c0c",
