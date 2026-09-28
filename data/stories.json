@@ -1,8 +1,565 @@
 {
-  "generatedAt": "2026-09-28T17:16:50.122925+00:00",
-  "sourceItemCount": 338,
-  "storyCount": 325,
+  "generatedAt": "2026-09-28T22:36:25.398814+00:00",
+  "sourceItemCount": 336,
+  "storyCount": 324,
   "stories": [
+    {
+      "id": "2153431d4a63b85d",
+      "title": "एसियाड क्रिकेटको क्वार्टरफाइनलमा नेपालले आज श्रीलङ्कासँग खेल्दै",
+      "summary": "काठमाडौँ । जापानमा जारी २०औँ एसियाली खेलकुदअन्तर्गत पुरुष क्रिकेटको क्वार्टरफाइनलमा नेपालले आज श्रीलङ्कासँग खेल्दै छ । खेल निसिनस्थित कोरोगी स्पोर्ट्स पार्कमा नेपाली समयअनुसार बिहान पौने ६ बजे सुरु हुनेछ । समूह ‘ए’को विजेता बनेर नेपाल",
+      "publishedAt": "2026-09-28T22:27:28+00:00",
+      "updatedAt": "2026-09-28T22:27:28+00:00",
+      "sourceCount": 1,
+      "languageCount": 1,
+      "sources": [
+        "Ratopati"
+      ],
+      "categories": [
+        "politics",
+        "sports"
+      ],
+      "items": [
+        {
+          "id": "49c12700c102d09b",
+          "title": "एसियाड क्रिकेटको क्वार्टरफाइनलमा नेपालले आज श्रीलङ्कासँग खेल्दै",
+          "link": "https://www.ratopati.com/story/595657/nepal-to-play-sri-lanka-in-asiad-cricket-quarterfinals-today",
+          "source": "Ratopati",
+          "sourceUrl": "https://ratopati.com/feed",
+          "pubDate": "2026-09-28T22:27:28+00:00",
+          "categories": [
+            "politics",
+            "sports"
+          ],
+          "image": "https://npcdn.ratopati.com/media/news/nepali-cricket-team-warmup_QrRmfemZu1.webp",
+          "images": [
+            "https://npcdn.ratopati.com/media/news/nepali-cricket-team-warmup_QrRmfemZu1.webp"
+          ],
+          "description": "काठमाडौँ । जापानमा जारी २०औँ एसियाली खेलकुदअन्तर्गत पुरुष क्रिकेटको क्वार्टरफाइनलमा नेपालले आज श्रीलङ्कासँग खेल्दै छ । खेल निसिनस्थित कोरोगी स्पोर्ट्स पार्कमा नेपाली समयअनुसार बिहान पौने ६ बजे सुरु हुनेछ । समूह ‘ए’को विजेता बनेर नेपाल"
+        }
+      ]
+    },
+    {
+      "id": "e22297b6355a2fb0",
+      "title": "कालीगण्डकी बाढीले उजाडियो तिल्केनी",
+      "summary": "म्याग्दी । म्याग्दीको रघुगङ्गा गाउँपालिका–३ तिल्केनीचौरका गमबहादुर सेञ्चुरीको घर नजिकै दुई दिनयता कालीगण्डकी बग्न थालेको छ । आइतबार बिहानदेखि नदीले कटान गर्न थालेपछि उनले सामान निकालेर घर अगाडिको सडकमा थुपार्नुभयो । ती सामान लगेर कहाँ बस्ने",
+      "publishedAt": "2026-09-28T20:03:53+00:00",
+      "updatedAt": "2026-09-28T20:03:53+00:00",
+      "sourceCount": 1,
+      "languageCount": 1,
+      "sources": [
+        "Ratopati"
+      ],
+      "categories": [
+        "politics",
+        "sports"
+      ],
+      "items": [
+        {
+          "id": "ad727ab8b2907dfa",
+          "title": "कालीगण्डकी बाढीले उजाडियो तिल्केनी",
+          "link": "https://www.ratopati.com/story/595656/tilkeni-devastated-by-kaligandaki-floods",
+          "source": "Ratopati",
+          "sourceUrl": "https://ratopati.com/feed",
+          "pubDate": "2026-09-28T20:03:53+00:00",
+          "categories": [
+            "politics",
+            "sports"
+          ],
+          "image": "https://npcdn.ratopati.com/media/news/L80C71ZwtT.jpg",
+          "images": [
+            "https://npcdn.ratopati.com/media/news/L80C71ZwtT.jpg"
+          ],
+          "description": "म्याग्दी । म्याग्दीको रघुगङ्गा गाउँपालिका–३ तिल्केनीचौरका गमबहादुर सेञ्चुरीको घर नजिकै दुई दिनयता कालीगण्डकी बग्न थालेको छ । आइतबार बिहानदेखि नदीले कटान गर्न थालेपछि उनले सामान निकालेर घर अगाडिको सडकमा थुपार्नुभयो । ती सामान लगेर कहाँ बस्ने"
+        }
+      ]
+    },
+    {
+      "id": "c66f3033284c4cc2",
+      "title": "प्रतिबन्धले इरानी उड्डयन क्षेत्र प्रभावित भएको अमेरिकी दाबी",
+      "summary": "काठमाडौँ । संयुक्त राज्य अमेरिकाले इरानको उड्डयन क्षेत्रमाथि लगाएको प्रतिबन्ध सफल भएको बताएको छ । अमेरिकाले सेप्टेम्बरको सुरुमा इरानको सम्पूर्ण उड्डयन क्षेत्रमाथि प्रतिबन्ध लगाएको थियो । यो दबाबपूर्ण अभियान अन्तर्गत इरानले ‘आर्थिक श्वासरोध’ हुने दाबी अमेरिकी अर्थमन्त्री",
+      "publishedAt": "2026-09-28T18:51:00+00:00",
+      "updatedAt": "2026-09-28T18:51:00+00:00",
+      "sourceCount": 1,
+      "languageCount": 1,
+      "sources": [
+        "Ratopati"
+      ],
+      "categories": [
+        "politics",
+        "sports"
+      ],
+      "items": [
+        {
+          "id": "311f09a47be34be9",
+          "title": "प्रतिबन्धले इरानी उड्डयन क्षेत्र प्रभावित भएको अमेरिकी दाबी",
+          "link": "https://www.ratopati.com/story/595655/us-claims-sanctions-have-affected-iranian-aviation-sector",
+          "source": "Ratopati",
+          "sourceUrl": "https://ratopati.com/feed",
+          "pubDate": "2026-09-28T18:51:00+00:00",
+          "categories": [
+            "politics",
+            "sports"
+          ],
+          "image": "https://npcdn.ratopati.com/media/news/iran-usa-war_FYZ9KV6X8v.webp",
+          "images": [
+            "https://npcdn.ratopati.com/media/news/iran-usa-war_FYZ9KV6X8v.webp"
+          ],
+          "description": "काठमाडौँ । संयुक्त राज्य अमेरिकाले इरानको उड्डयन क्षेत्रमाथि लगाएको प्रतिबन्ध सफल भएको बताएको छ । अमेरिकाले सेप्टेम्बरको सुरुमा इरानको सम्पूर्ण उड्डयन क्षेत्रमाथि प्रतिबन्ध लगाएको थियो । यो दबाबपूर्ण अभियान अन्तर्गत इरानले ‘आर्थिक श्वासरोध’ हुने दाबी अमेरिकी अर्थमन्त्री"
+        }
+      ]
+    },
+    {
+      "id": "e0117b570dc29336",
+      "title": "मृतकका परिवारलाई रु एक लाख राहत",
+      "summary": "गण्डकी । गण्डकी प्रदेश सरकारले बागलुङ, म्याग्दीलगायत जिल्लामा बाढी पहिरोमा परी मृत्यु भएका व्यक्तिका परिवारलाई रु एक लाखका दरले राहत दिने निर्णय गरेको छ । साथै, किरिया खर्चबापत रु २५ हजार दिने भएको छ । सोमबार",
+      "publishedAt": "2026-09-28T18:45:00+00:00",
+      "updatedAt": "2026-09-28T18:45:00+00:00",
+      "sourceCount": 1,
+      "languageCount": 1,
+      "sources": [
+        "Ratopati"
+      ],
+      "categories": [
+        "politics",
+        "sports"
+      ],
+      "items": [
+        {
+          "id": "dd21a9342c71d8f6",
+          "title": "मृतकका परिवारलाई रु एक लाख राहत",
+          "link": "https://www.ratopati.com/story/595654/rs-1-lakh-relief-to-the-family-of-the-deceased",
+          "source": "Ratopati",
+          "sourceUrl": "https://ratopati.com/feed",
+          "pubDate": "2026-09-28T18:45:00+00:00",
+          "categories": [
+            "politics",
+            "sports"
+          ],
+          "image": "https://npcdn.ratopati.com/media/news/gandaki-pardesh-sarkar-mukha-mantralaya_GLFHzAtFRh_VWgd28F4AD.jpg",
+          "images": [
+            "https://npcdn.ratopati.com/media/news/gandaki-pardesh-sarkar-mukha-mantralaya_GLFHzAtFRh_VWgd28F4AD.jpg"
+          ],
+          "description": "गण्डकी । गण्डकी प्रदेश सरकारले बागलुङ, म्याग्दीलगायत जिल्लामा बाढी पहिरोमा परी मृत्यु भएका व्यक्तिका परिवारलाई रु एक लाखका दरले राहत दिने निर्णय गरेको छ । साथै, किरिया खर्चबापत रु २५ हजार दिने भएको छ । सोमबार"
+        }
+      ]
+    },
+    {
+      "id": "1e02acac8ead58cd",
+      "title": "देशभर २७२ विपद्का घटना",
+      "summary": "काठमाडौँ । पछिल्लो २४ घण्टामा देशभर २७२ विपद्का घटना भएका छन् । विपद्मा परेका एक हजार १८१ जनाको उद्धार गरिएको छ । राष्ट्रिय विपद् जोखिम न्यूनीकरण तथा व्यवस्थापन प्राधिकरणका प्रवक्ता शान्ति महतका अनुसार उद्धार तथा व्यवस्थापनका",
+      "publishedAt": "2026-09-28T18:28:49+00:00",
+      "updatedAt": "2026-09-28T18:28:49+00:00",
+      "sourceCount": 1,
+      "languageCount": 1,
+      "sources": [
+        "Ratopati"
+      ],
+      "categories": [
+        "politics",
+        "sports"
+      ],
+      "items": [
+        {
+          "id": "9159fde22c86b421",
+          "title": "देशभर २७२ विपद्का घटना",
+          "link": "https://www.ratopati.com/story/595653/272-disaster-incidents-across-the-country",
+          "source": "Ratopati",
+          "sourceUrl": "https://ratopati.com/feed",
+          "pubDate": "2026-09-28T18:28:49+00:00",
+          "categories": [
+            "politics",
+            "sports"
+          ],
+          "image": "https://npcdn.ratopati.com/media/news/bipad_K1MTVLWec3.webp",
+          "images": [
+            "https://npcdn.ratopati.com/media/news/bipad_K1MTVLWec3.webp"
+          ],
+          "description": "काठमाडौँ । पछिल्लो २४ घण्टामा देशभर २७२ विपद्का घटना भएका छन् । विपद्मा परेका एक हजार १८१ जनाको उद्धार गरिएको छ । राष्ट्रिय विपद् जोखिम न्यूनीकरण तथा व्यवस्थापन प्राधिकरणका प्रवक्ता शान्ति महतका अनुसार उद्धार तथा व्यवस्थापनका"
+        }
+      ]
+    },
+    {
+      "id": "c696d9d588dec87d",
+      "title": "१२ बजे १२ समाचार : रेबिज खोप अभाव, राप्रपा अध्यक्ष लिङ्देनविरुद्ध मुद्दा दायर",
+      "summary": "काठमाडौँ । आज दिनभरका मुख्य १२ घटनाक्रम रातोपाटी डटकमको नियमित प्रस्तुति ‘१२ बजे १२ समाचार’मा प्रस्तुत गरेका छौँ– १. रेबिजविरद्ध खोपको अभाव रेबिजविरुद्ध खोपको अभाव कायमै छ । खोप खरिदका लागि पर्याप्त बजेट विनियोजन नहुँदा समस्या भएको",
+      "publishedAt": "2026-09-28T18:18:42+00:00",
+      "updatedAt": "2026-09-28T18:18:42+00:00",
+      "sourceCount": 1,
+      "languageCount": 1,
+      "sources": [
+        "Ratopati"
+      ],
+      "categories": [
+        "politics",
+        "sports"
+      ],
+      "items": [
+        {
+          "id": "f667a338b0129747",
+          "title": "१२ बजे १२ समाचार : रेबिज खोप अभाव, राप्रपा अध्यक्ष लिङ्देनविरुद्ध मुद्दा दायर",
+          "link": "https://www.ratopati.com/story/595652/12-oclock-12-news-case-filed-against-rpp-chairman-lingden-over-lack-of-rabies-vaccine",
+          "source": "Ratopati",
+          "sourceUrl": "https://ratopati.com/feed",
+          "pubDate": "2026-09-28T18:18:42+00:00",
+          "categories": [
+            "politics",
+            "sports"
+          ],
+          "image": "https://npcdn.ratopati.com/media/news/12_S7DKAvmQlm.webp",
+          "images": [
+            "https://npcdn.ratopati.com/media/news/12_S7DKAvmQlm.webp"
+          ],
+          "description": "काठमाडौँ । आज दिनभरका मुख्य १२ घटनाक्रम रातोपाटी डटकमको नियमित प्रस्तुति ‘१२ बजे १२ समाचार’मा प्रस्तुत गरेका छौँ– १. रेबिजविरद्ध खोपको अभाव रेबिजविरुद्ध खोपको अभाव कायमै छ । खोप खरिदका लागि पर्याप्त बजेट विनियोजन नहुँदा समस्या भएको"
+        }
+      ]
+    },
+    {
+      "id": "16198d4a4d313b18",
+      "title": "विदेश पठाउने नाममा ९४ लाख ठगी गर्ने दुई जना पक्राउ",
+      "summary": "काठमाडौँ, असोज १२ गते । वैदेशिक रोजगारीका लागि विदेश पठाइदिने भन्दै रु ९४ लाख ठगी गरेको आरोपमा प्रहरीले दुई जनालाई पक्राउ गरेको छ । काठमाडौँ उपत्यका अपराध अनुसन्धान कार्यालय टेकुले...",
+      "publishedAt": "2026-09-28T18:11:59+00:00",
+      "updatedAt": "2026-09-28T18:11:59+00:00",
+      "sourceCount": 1,
+      "languageCount": 1,
+      "sources": [
+        "Gorkhapatra"
+      ],
+      "categories": [
+        "business",
+        "politics"
+      ],
+      "items": [
+        {
+          "id": "e8f802a3595d7b23",
+          "title": "विदेश पठाउने नाममा ९४ लाख ठगी गर्ने दुई जना पक्राउ",
+          "link": "https://gorkhapatraonline.com/news/224704",
+          "source": "Gorkhapatra",
+          "sourceUrl": "https://gorkhapatraonline.com/rss",
+          "pubDate": "2026-09-28T18:11:59+00:00",
+          "categories": [
+            "politics",
+            "business"
+          ],
+          "image": "https://gorkhapatraonline.com/storage/media/385449/conversions/handcuffs-original.jpg",
+          "images": [
+            "https://gorkhapatraonline.com/storage/media/385449/conversions/handcuffs-original.jpg"
+          ],
+          "description": "काठमाडौँ, असोज १२ गते । वैदेशिक रोजगारीका लागि विदेश पठाइदिने भन्दै रु ९४ लाख ठगी गरेको आरोपमा प्रहरीले दुई जनालाई पक्राउ गरेको छ । काठमाडौँ उपत्यका अपराध अनुसन्धान कार्यालय टेकुले..."
+        }
+      ]
+    },
+    {
+      "id": "0fc6e163b9d8d999",
+      "title": "कोरलाका ४६ स्थानमा पहिरो, सडक पूर्ण रूपमा सञ्चालन हुन एक साता लाग्ने",
+      "summary": "मुस्ताङ, असोज १२ गते । उत्तर–दक्षिण जोड्ने रष्ट्रिय गौरवको बेनी–जोमसोम–कोरला खण्डका ४६ स्थानमा भारी वर्षाका कारण आएको बाढीपहिरो र नदी कटानले क्षति पुर्‍याएको छ । जिल्ला विपद् व्यवस...",
+      "publishedAt": "2026-09-28T18:05:44+00:00",
+      "updatedAt": "2026-09-28T18:05:44+00:00",
+      "sourceCount": 1,
+      "languageCount": 1,
+      "sources": [
+        "Gorkhapatra"
+      ],
+      "categories": [
+        "business",
+        "politics"
+      ],
+      "items": [
+        {
+          "id": "b7efea3333cf4e86",
+          "title": "कोरलाका ४६ स्थानमा पहिरो, सडक पूर्ण रूपमा सञ्चालन हुन एक साता लाग्ने",
+          "link": "https://gorkhapatraonline.com/news/224703",
+          "source": "Gorkhapatra",
+          "sourceUrl": "https://gorkhapatraonline.com/rss",
+          "pubDate": "2026-09-28T18:05:44+00:00",
+          "categories": [
+            "politics",
+            "business"
+          ],
+          "image": "https://gorkhapatraonline.com/storage/media/385448/conversions/Sadak-News-Photo-original.jpg",
+          "images": [
+            "https://gorkhapatraonline.com/storage/media/385448/conversions/Sadak-News-Photo-original.jpg"
+          ],
+          "description": "मुस्ताङ, असोज १२ गते । उत्तर–दक्षिण जोड्ने रष्ट्रिय गौरवको बेनी–जोमसोम–कोरला खण्डका ४६ स्थानमा भारी वर्षाका कारण आएको बाढीपहिरो र नदी कटानले क्षति पुर्‍याएको छ । जिल्ला विपद् व्यवस..."
+        }
+      ]
+    },
+    {
+      "id": "2163579bb94fd099",
+      "title": "पृथ्वीको परिक्रमा गरेर फर्कियो स्पेस एक्सको स्टारसिप",
+      "summary": "",
+      "publishedAt": "2026-09-28T17:57:00+00:00",
+      "updatedAt": "2026-09-28T17:57:00+00:00",
+      "sourceCount": 1,
+      "languageCount": 1,
+      "sources": [
+        "Baahrakhari"
+      ],
+      "categories": [
+        "business",
+        "politics",
+        "society"
+      ],
+      "items": [
+        {
+          "id": "65eb65f4b41c8604",
+          "title": "पृथ्वीको परिक्रमा गरेर फर्कियो स्पेस एक्सको स्टारसिप",
+          "link": "https://baahrakhari.com/detail/503068",
+          "source": "Baahrakhari",
+          "sourceUrl": "https://baahrakhari.com/feed",
+          "pubDate": "2026-09-28T17:57:00+00:00",
+          "categories": [
+            "politics",
+            "business",
+            "society"
+          ],
+          "image": "",
+          "images": [],
+          "description": ""
+        }
+      ]
+    },
+    {
+      "id": "06aca74e571ccf49",
+      "title": "गुल्मीका अवरुद्ध सडकहरू खुलाउने प्रयास तीव्र",
+      "summary": "रमेश विश्वकर्मागुल्मी, असोज १२ गते। भारी वर्षाका कारण गुल्मी जिल्लाका विभिन्न सडक खण्डहरुमा खसेको पहिरो हटाई यातायात सुचारु गर्ने कामलाई तीव्र पारिएको छ। यस जिल्लाको रुद्रवेणी–वामी...",
+      "publishedAt": "2026-09-28T17:50:23+00:00",
+      "updatedAt": "2026-09-28T17:50:23+00:00",
+      "sourceCount": 1,
+      "languageCount": 1,
+      "sources": [
+        "Gorkhapatra"
+      ],
+      "categories": [
+        "business",
+        "politics"
+      ],
+      "items": [
+        {
+          "id": "59873dcc73e5732b",
+          "title": "गुल्मीका अवरुद्ध सडकहरू खुलाउने प्रयास तीव्र",
+          "link": "https://gorkhapatraonline.com/news/224702",
+          "source": "Gorkhapatra",
+          "sourceUrl": "https://gorkhapatraonline.com/rss",
+          "pubDate": "2026-09-28T17:50:23+00:00",
+          "categories": [
+            "politics",
+            "business"
+          ],
+          "image": "https://gorkhapatraonline.com/storage/media/385447/conversions/unnamed-original.jpg",
+          "images": [
+            "https://gorkhapatraonline.com/storage/media/385447/conversions/unnamed-original.jpg"
+          ],
+          "description": "रमेश विश्वकर्मागुल्मी, असोज १२ गते। भारी वर्षाका कारण गुल्मी जिल्लाका विभिन्न सडक खण्डहरुमा खसेको पहिरो हटाई यातायात सुचारु गर्ने कामलाई तीव्र पारिएको छ। यस जिल्लाको रुद्रवेणी–वामी..."
+        }
+      ]
+    },
+    {
+      "id": "d7e594e6445d67c6",
+      "title": "हावाहुरीले बडिगाडका दर्जनबढी घरमा क्षति",
+      "summary": "रामकृष्ण बोहराबागलुङ, असोज १२ गते । निरन्तरको वर्षाले ग्रामीण सडक अबरुद्ध बाहेक खासै असर नगरेको पश्चिम बागलुङको बडिगाड गाउँपालिकामा चलेको तीव्र गतिको हावाहुरीले ठुलो क्षति गरेको छ...",
+      "publishedAt": "2026-09-28T17:37:11+00:00",
+      "updatedAt": "2026-09-28T17:37:11+00:00",
+      "sourceCount": 1,
+      "languageCount": 1,
+      "sources": [
+        "Gorkhapatra"
+      ],
+      "categories": [
+        "business",
+        "politics"
+      ],
+      "items": [
+        {
+          "id": "7ce0f44fe9e6e69e",
+          "title": "हावाहुरीले बडिगाडका दर्जनबढी घरमा क्षति",
+          "link": "https://gorkhapatraonline.com/news/224701",
+          "source": "Gorkhapatra",
+          "sourceUrl": "https://gorkhapatraonline.com/rss",
+          "pubDate": "2026-09-28T17:37:11+00:00",
+          "categories": [
+            "politics",
+            "business"
+          ],
+          "image": "https://gorkhapatraonline.com/storage/media/385446/conversions/hawa-original.jpg",
+          "images": [
+            "https://gorkhapatraonline.com/storage/media/385446/conversions/hawa-original.jpg"
+          ],
+          "description": "रामकृष्ण बोहराबागलुङ, असोज १२ गते । निरन्तरको वर्षाले ग्रामीण सडक अबरुद्ध बाहेक खासै असर नगरेको पश्चिम बागलुङको बडिगाड गाउँपालिकामा चलेको तीव्र गतिको हावाहुरीले ठुलो क्षति गरेको छ..."
+        }
+      ]
+    },
+    {
+      "id": "f427eef84b8d5550",
+      "title": "बाढीपहिरोबाट म्याग्दीका २०० परिवार विस्थापित",
+      "summary": "म्याग्दी, असोज १२ गते । असोज ८ देखि ११ गतेसम्म परेको वर्षात् र बाढीपहिरोका कारण म्याग्दीका २०० परिवार विस्थापित भएका छन् । सदरमुकाम बेनीबाट ग्रामीण क्षेत्र जोड्ने सडक अवरुद्ध बनेका...",
+      "publishedAt": "2026-09-28T17:32:18+00:00",
+      "updatedAt": "2026-09-28T17:32:18+00:00",
+      "sourceCount": 1,
+      "languageCount": 1,
+      "sources": [
+        "Gorkhapatra"
+      ],
+      "categories": [
+        "business",
+        "politics"
+      ],
+      "items": [
+        {
+          "id": "d7b385f7ac668cbf",
+          "title": "बाढीपहिरोबाट म्याग्दीका २०० परिवार विस्थापित",
+          "link": "https://gorkhapatraonline.com/news/224700",
+          "source": "Gorkhapatra",
+          "sourceUrl": "https://gorkhapatraonline.com/rss",
+          "pubDate": "2026-09-28T17:32:18+00:00",
+          "categories": [
+            "politics",
+            "business"
+          ],
+          "image": "https://gorkhapatraonline.com/storage/media/385445/conversions/pahiro-original.jpg",
+          "images": [
+            "https://gorkhapatraonline.com/storage/media/385445/conversions/pahiro-original.jpg"
+          ],
+          "description": "म्याग्दी, असोज १२ गते । असोज ८ देखि ११ गतेसम्म परेको वर्षात् र बाढीपहिरोका कारण म्याग्दीका २०० परिवार विस्थापित भएका छन् । सदरमुकाम बेनीबाट ग्रामीण क्षेत्र जोड्ने सडक अवरुद्ध बनेका..."
+        }
+      ]
+    },
+    {
+      "id": "d298ac7cbf78479b",
+      "title": "संसद बाहिर प्रचण्ड : 'यही तरिकाले सरकार चलाउने हो त्यसको मूल्य भारी पर्छ' [भिडियो]",
+      "summary": "",
+      "publishedAt": "2026-09-28T17:31:40+00:00",
+      "updatedAt": "2026-09-28T17:31:40+00:00",
+      "sourceCount": 1,
+      "languageCount": 1,
+      "sources": [
+        "Nepal Samaya"
+      ],
+      "categories": [
+        "entertainment",
+        "politics"
+      ],
+      "items": [
+        {
+          "id": "f56843fa85b7f87b",
+          "title": "संसद बाहिर प्रचण्ड : 'यही तरिकाले सरकार चलाउने हो त्यसको मूल्य भारी पर्छ' [भिडियो]",
+          "link": "https://nepalsamaya.com/detail/146390",
+          "source": "Nepal Samaya",
+          "sourceUrl": "https://nepalsamaya.com/feed",
+          "pubDate": "2026-09-28T17:31:40+00:00",
+          "categories": [
+            "politics",
+            "entertainment"
+          ],
+          "image": "",
+          "images": [],
+          "description": ""
+        }
+      ]
+    },
+    {
+      "id": "8580c73eae1e37a1",
+      "title": "सिमलतालमा सडक भासिँदा यातायात एकतर्फी",
+      "summary": "नारायणगढ। नारायणगढ–मुग्लिन सडकखण्डअन्तर्गत चितवनको सिमलतालमा करिब ७० मिटर सडक भासिएपछि एकतर्फी रुपमा यातायात सञ्चालन गरिएको छ। सडक डिभिजन भरतपुरका सूचना अधिकारी इन्जिनियर कृष्णप्रसाद आचार्यका अनुसार आज साँझ सिमलतालमा सडक भासिएको हो । सडक भासिएपछि उक्त स्थानमा एकतर्फी यातायात सञ्चालन गरिने उनले बताए। सडक डिभिजन कार्यालयले सडकको अवस्था हेरेर सावधानीपूर्वक यात्रा गर्न र लेन अनुशासन पालना […]",
+      "publishedAt": "2026-09-28T17:29:35+00:00",
+      "updatedAt": "2026-09-28T17:29:35+00:00",
+      "sourceCount": 1,
+      "languageCount": 1,
+      "sources": [
+        "Nepal News"
+      ],
+      "categories": [
+        "business",
+        "politics",
+        "world"
+      ],
+      "items": [
+        {
+          "id": "4ba7ce30e4ababd2",
+          "title": "सिमलतालमा सडक भासिँदा यातायात एकतर्फी",
+          "link": "https://nepalnews.com/2026/09/28/traffic-is-one-way-due-to-road-collapse-in-simaltal/",
+          "source": "Nepal News",
+          "sourceUrl": "https://nepalnews.com/feed",
+          "pubDate": "2026-09-28T17:29:35+00:00",
+          "categories": [
+            "politics",
+            "business",
+            "world"
+          ],
+          "image": "",
+          "images": [],
+          "description": "नारायणगढ। नारायणगढ–मुग्लिन सडकखण्डअन्तर्गत चितवनको सिमलतालमा करिब ७० मिटर सडक भासिएपछि एकतर्फी रुपमा यातायात सञ्चालन गरिएको छ। सडक डिभिजन भरतपुरका सूचना अधिकारी इन्जिनियर कृष्णप्रसाद आचार्यका अनुसार आज साँझ सिमलतालमा सडक भासिएको हो । सडक भासिएपछि उक्त स्थानमा एकतर्फी यातायात सञ्चालन गरिने उनले बताए। सडक डिभिजन कार्यालयले सडकको अवस्था हेरेर सावधानीपूर्वक यात्रा गर्न र लेन अनुशासन पालना […]"
+        }
+      ]
+    },
+    {
+      "id": "9bb9de6d97a44e07",
+      "title": "भोटेकोशी बाढी पीडितका लागि न्यू ह्यामसरका नेपाली समुदायबाट एक करोड ८४ लाख रुपैयाँ सहयोग",
+      "summary": "अमेरिकाको न्यू ह्यामसर राज्यमा बसोबास गर्ने नेपाली अमेरिकी समुदायले नेपालका भोटेकोशी बाढी पीडितको राहत तथा पुनर्स्थापनाका लागि एक करोड ८४ लाख रुपैयाँभन्दा बढी सहयोग गरेको छ। समाजको अगुवाइमा सञ्चालन गरिएको राहत संकलन अभियानमार्फत एक लाख २० हजार अमेरिकी डलरभन्दा बढी रकम संकलन गरी प्रधानमन्त्री दैवीप्रकोप उद्धार कोषमा प्रदान गरिएको हो। समाजका अध्यक्ष लाक्पा शेर्पा नेतृत्वको […] The post भोटेकोशी बाढी पीडितका लागि न्यू ह्यामसरका नेपाली समुदायबाट एक करोड ८४ लाख रुपैयाँ सहयोग appeared first on BIZMAND",
+      "publishedAt": "2026-09-28T17:20:20+00:00",
+      "updatedAt": "2026-09-28T17:20:20+00:00",
+      "sourceCount": 1,
+      "languageCount": 1,
+      "sources": [
+        "Bizmandu"
+      ],
+      "categories": [
+        "business",
+        "technology"
+      ],
+      "items": [
+        {
+          "id": "7996768bcfe231f5",
+          "title": "भोटेकोशी बाढी पीडितका लागि न्यू ह्यामसरका नेपाली समुदायबाट एक करोड ८४ लाख रुपैयाँ सहयोग",
+          "link": "https://bizmandu.com/content/20260928230520.html",
+          "source": "Bizmandu",
+          "sourceUrl": "https://bizmandu.com/feed",
+          "pubDate": "2026-09-28T17:20:20+00:00",
+          "categories": [
+            "business",
+            "technology"
+          ],
+          "image": "",
+          "images": [],
+          "description": "अमेरिकाको न्यू ह्यामसर राज्यमा बसोबास गर्ने नेपाली अमेरिकी समुदायले नेपालका भोटेकोशी बाढी पीडितको राहत तथा पुनर्स्थापनाका लागि एक करोड ८४ लाख रुपैयाँभन्दा बढी सहयोग गरेको छ। समाजको अगुवाइमा सञ्चालन गरिएको राहत संकलन अभियानमार्फत एक लाख २० हजार अमेरिकी डलरभन्दा बढी रकम संकलन गरी प्रधानमन्त्री दैवीप्रकोप उद्धार कोषमा प्रदान गरिएको हो। समाजका अध्यक्ष लाक्पा शेर्पा नेतृत्वको […] The post भोटेकोशी बाढी पीडितका लागि न्यू ह्यामसरका नेपाली समुदायबाट एक करोड ८४ लाख रुपैयाँ सहयोग appeared first on BIZMAND"
+        }
+      ]
+    },
+    {
+      "id": "740fa4ecc283053a",
+      "title": "उत्तरी नाका बन्दले कपडादेखि गाडीसम्मको आयात प्रभावित, दसैंका सामान ३०% मात्र बजारमा",
+      "summary": "काठमाडौं। दसैं सुरु हुन दुई सातामात्रै बाँकी छ। चीनबाट नेपाल आउने चाडपर्व लक्षित सामानको आपूर्ति प्रभावित हुँदा सम्बद्ध व्यवसायी त चिन्तामा छन् नै, सर्वसाधारण पनि प्रभावित हुने अवस्था आएको छ। रसुवागढी र तातोपानी नाका बन्द रहेकै अवस्थामा वैकल्पिक रूपमा प्रयोग गरिएको मुस्ताङको कोरला नाका पनि आइतबारको बाढीपहिरो र हिमपातका कारण प्रभावित भएको छ। यसले चीनबाट […] The post उत्तरी नाका बन्दले कपडादेखि गाडीसम्मको आयात प्रभावित, दसैंका सामान ३०% मात्र बजारमा appeared first on BIZMANDU .",
+      "publishedAt": "2026-09-28T17:19:13+00:00",
+      "updatedAt": "2026-09-28T17:19:13+00:00",
+      "sourceCount": 1,
+      "languageCount": 1,
+      "sources": [
+        "Bizmandu"
+      ],
+      "categories": [
+        "business",
+        "technology"
+      ],
+      "items": [
+        {
+          "id": "8baf4f99c6849b99",
+          "title": "उत्तरी नाका बन्दले कपडादेखि गाडीसम्मको आयात प्रभावित, दसैंका सामान ३०% मात्र बजारमा",
+          "link": "https://bizmandu.com/content/20260928230413.html",
+          "source": "Bizmandu",
+          "sourceUrl": "https://bizmandu.com/feed",
+          "pubDate": "2026-09-28T17:19:13+00:00",
+          "categories": [
+            "business",
+            "technology"
+          ],
+          "image": "https://bizmandu.com/wp-content/uploads/2024/10/newroad-indrachowk-dashain-1-1024x683.jpg",
+          "images": [
+            "https://bizmandu.com/wp-content/uploads/2024/10/newroad-indrachowk-dashain-1-1024x683.jpg",
+            "https://bizmandu.com/wp-content/uploads/2026/09/Panidhara-Malekhu-Muglin-Section-Prithvi-Highway.jpg"
+          ],
+          "description": "काठमाडौं। दसैं सुरु हुन दुई सातामात्रै बाँकी छ। चीनबाट नेपाल आउने चाडपर्व लक्षित सामानको आपूर्ति प्रभावित हुँदा सम्बद्ध व्यवसायी त चिन्तामा छन् नै, सर्वसाधारण पनि प्रभावित हुने अवस्था आएको छ। रसुवागढी र तातोपानी नाका बन्द रहेकै अवस्थामा वैकल्पिक रूपमा प्रयोग गरिएको मुस्ताङको कोरला नाका पनि आइतबारको बाढीपहिरो र हिमपातका कारण प्रभावित भएको छ। यसले चीनबाट […] The post उत्तरी नाका बन्दले कपडादेखि गाडीसम्मको आयात प्रभावित, दसैंका सामान ३०% मात्र बजारमा appeared first on BIZMANDU ."
+        }
+      ]
+    },
     {
       "id": "6965d0743827eb16",
       "title": "बागलुङको ताराखोलामा पहिरोमा पुरिएर थप दुई जनाको मृत्यु",
@@ -191,41 +748,6 @@
             "https://npcdn.ratopati.com/media/news/humla-map_1YzcbHeZBF.jpg"
           ],
           "description": "हुम्ला । जडीबुटी सङ्कलनका लागि हिमाली भेग पुगेपछि एक सातादेखि परिवारको सम्पर्कमा नरहेका हुम्लाका १० जना सकुशल सम्पर्कमा आएका छन् । सिमकोट गाउँपालिका–२ ठेहेगाउँका उनीहरू भदौ २८ गते जडीबुटी सङ्कलनका लागि खार्पुनाथ गाउँपालिका–५ र चङ्खेली गाउँपालिका–४"
-        }
-      ]
-    },
-    {
-      "id": "1d08f172795061de",
-      "title": "बाढी पहिरोबाट म्याग्दीका २०० परिवार विस्थापित",
-      "summary": "म्याग्दी । यही असोज ८ देखि ११ गतेसम्म परेको वर्षात् र बाढीपहिरोका कारण म्याग्दीका २०० परिवार विस्थापित भएका छन् । सदरमुकाम बेनीबाट ग्रामीण क्षेत्र जोड्ने सडक अवरुद्ध बनेका, स्थानीय तहसँग सञ्चार, यातायात र विद्युत् सम्पर्क",
-      "publishedAt": "2026-09-28T16:56:18+00:00",
-      "updatedAt": "2026-09-28T16:56:18+00:00",
-      "sourceCount": 1,
-      "languageCount": 1,
-      "sources": [
-        "Ratopati"
-      ],
-      "categories": [
-        "politics",
-        "sports"
-      ],
-      "items": [
-        {
-          "id": "02007ea659eccfec",
-          "title": "बाढी पहिरोबाट म्याग्दीका २०० परिवार विस्थापित",
-          "link": "https://www.ratopati.com/story/595649/200-families-displaced-in-myagdi-due-to-floods-and-landslides",
-          "source": "Ratopati",
-          "sourceUrl": "https://ratopati.com/feed",
-          "pubDate": "2026-09-28T16:56:18+00:00",
-          "categories": [
-            "politics",
-            "sports"
-          ],
-          "image": "https://rpcdn.ratopati.com/media/albums/myagdi_Yxx1IewRfU.jpg",
-          "images": [
-            "https://rpcdn.ratopati.com/media/albums/myagdi_Yxx1IewRfU.jpg"
-          ],
-          "description": "म्याग्दी । यही असोज ८ देखि ११ गतेसम्म परेको वर्षात् र बाढीपहिरोका कारण म्याग्दीका २०० परिवार विस्थापित भएका छन् । सदरमुकाम बेनीबाट ग्रामीण क्षेत्र जोड्ने सडक अवरुद्ध बनेका, स्थानीय तहसँग सञ्चार, यातायात र विद्युत् सम्पर्क"
         }
       ]
     },
@@ -836,41 +1358,6 @@
             "https://npcdn.ratopati.com/media/news/pahiro_DlTNPbiB6E.jpg"
           ],
           "description": "तनहुँ । तनहुँको बन्दीपुर गाउँपालिका-४ ठूलढुङ्गामा पहिरो खस्दा एउटा घर जोखिममा परेको छ। साेमरबार साँझ भोजराज थापाको घरको पछाडिबाट पहिरो खसेपछि घर जोखिममा परेको हो । पहिरोबाट मानवीय क्षति भने नभएको जिल्ला प्रहरी कार्यालय तनहुँले"
-        }
-      ]
-    },
-    {
-      "id": "afc7c19ac4815547",
-      "title": "कोरलाका ४६ स्थानमा पहिरो, सडक पूर्ण रूपमा सञ्चालन हुन एक साता लाग्ने",
-      "summary": "",
-      "publishedAt": "2026-09-28T16:10:35+00:00",
-      "updatedAt": "2026-09-28T16:10:35+00:00",
-      "sourceCount": 1,
-      "languageCount": 1,
-      "sources": [
-        "Thaha Khabar"
-      ],
-      "categories": [
-        "business",
-        "politics",
-        "sports"
-      ],
-      "items": [
-        {
-          "id": "f0fec41569cc3e91",
-          "title": "कोरलाका ४६ स्थानमा पहिरो, सडक पूर्ण रूपमा सञ्चालन हुन एक साता लाग्ने",
-          "link": "https://www.thahakhabar.com/detail/309516",
-          "source": "Thaha Khabar",
-          "sourceUrl": "https://www.thahakhabar.com/feed",
-          "pubDate": "2026-09-28T16:10:35+00:00",
-          "categories": [
-            "politics",
-            "business",
-            "sports"
-          ],
-          "image": "",
-          "images": [],
-          "description": ""
         }
       ]
     },
@@ -1882,23 +2369,21 @@
       ]
     },
     {
-      "id": "3702896519161bae",
+      "id": "7d47b5d45d1a2f36",
       "title": "त्रिविद्वारा अध्ययन बिदापछि काममा नफर्कने कर्मचारीबाट १६ करोड रुपैयाँ असुल",
       "summary": "काठमाडौं । त्रिभुवन विश्वविद्यालयले अध्ययन बिदा लिएपछि विश्वविद्यालयको नियमानुसार सेवामा नफर्किएका शिक्षक तथा कर्मचारीबाट करिब १६ करोड ५० लाख रुपैयाँ असुलउपर गरेको छ । त्रिवि रजिष्ट्रारको कार्यालयअन्तर्गत कर्मचारी प्रशासन महाशाखाका अनुसार हालसम्म ७५ वटा अवस्थाबाट करिब १६ करोड ५० लाख रुपैयाँ असुलउपर भइसकेको छ । त्रिविले अध्ययन बिदापछि सेवामा नफर्किएका तथा फर्किएर तोकिएको सेवा अवधि […] The post त्रिविद्वारा अध्ययन बिदापछि काममा नफर्कने कर्मचारीबाट १६ करोड रुपैयाँ असुल appeared first on राजधानी राष",
       "publishedAt": "2026-09-28T15:41:45+00:00",
       "updatedAt": "2026-09-28T15:41:45+00:00",
-      "sourceCount": 3,
+      "sourceCount": 2,
       "languageCount": 1,
       "sources": [
         "Himal Press",
-        "Rajdhani Daily",
-        "Ratopati"
+        "Rajdhani Daily"
       ],
       "categories": [
         "business",
         "politics",
-        "society",
-        "sports"
+        "society"
       ],
       "items": [
         {
@@ -1917,23 +2402,6 @@
             "https://rajdhanidaily.com/wp-content/uploads/2026/06/tu-univercity.jpg"
           ],
           "description": "काठमाडौं । त्रिभुवन विश्वविद्यालयले अध्ययन बिदा लिएपछि विश्वविद्यालयको नियमानुसार सेवामा नफर्किएका शिक्षक तथा कर्मचारीबाट करिब १६ करोड ५० लाख रुपैयाँ असुलउपर गरेको छ । त्रिवि रजिष्ट्रारको कार्यालयअन्तर्गत कर्मचारी प्रशासन महाशाखाका अनुसार हालसम्म ७५ वटा अवस्थाबाट करिब १६ करोड ५० लाख रुपैयाँ असुलउपर भइसकेको छ । त्रिविले अध्ययन बिदापछि सेवामा नफर्किएका तथा फर्किएर तोकिएको सेवा अवधि […] The post त्रिविद्वारा अध्ययन बिदापछि काममा नफर्कने कर्मचारीबाट १६ करोड रुपैयाँ असुल appeared first on राजधानी राष"
-        },
-        {
-          "id": "7e082317eb4e6003",
-          "title": "त्रिविद्वारा अध्ययन बिदापछि काममा नफर्कने कर्मचारीबाट १६ करोड असुल",
-          "link": "https://www.ratopati.com/story/595628/tu-recovers-rs-160-million-from-employees-who-do-not-return-to-work-after-study-leave",
-          "source": "Ratopati",
-          "sourceUrl": "https://ratopati.com/feed",
-          "pubDate": "2026-09-28T14:27:43+00:00",
-          "categories": [
-            "politics",
-            "sports"
-          ],
-          "image": "https://npcdn.ratopati.com/media/news/tribhuwan-university_wy1rk50crt_67nnt3rrft_xhrukeuukk_8vupetmw6k_2ISwH5xZcV.jpg",
-          "images": [
-            "https://npcdn.ratopati.com/media/news/tribhuwan-university_wy1rk50crt_67nnt3rrft_xhrukeuukk_8vupetmw6k_2ISwH5xZcV.jpg"
-          ],
-          "description": "काठमाडौँ। त्रिभुवन विश्वविद्यालयले अध्ययन बिदा लिएपछि विश्वविद्यालयको नियमानुसार सेवामा नफर्किएका शिक्षक तथा कर्मचारीबाट करिब रु १६ करोड ५० लाख असुलउपर गरेको छ। त्रिवि रजिष्ट्रारको कार्यालयअन्तर्गत कर्मचारी प्रशासन महाशाखाका अनुसार हालसम्म ७५ वटा अवस्थाबाट करिब रु"
         },
         {
           "id": "341be5f8cefc8884",
@@ -2417,41 +2885,6 @@
       ]
     },
     {
-      "id": "92133f457ef73116",
-      "title": "पक्की पुल बन्यो, सडक छैन",
-      "summary": "शेरबहादुर सार्की बाजुरा, असोज १२ गते । बाजुराको खप्तड छेडेदह गाउँपालिका–३ र बूढीगङ्गा नगरपालिका–४ को बिचमा पर्ने बार्जुगाड खोलामा पक्की पुल निर्माण भएको दुई वर्ष बितिसक्दा पनि सञ्च...",
-      "publishedAt": "2026-09-28T15:20:17+00:00",
-      "updatedAt": "2026-09-28T15:20:17+00:00",
-      "sourceCount": 1,
-      "languageCount": 1,
-      "sources": [
-        "Gorkhapatra"
-      ],
-      "categories": [
-        "business",
-        "politics"
-      ],
-      "items": [
-        {
-          "id": "e007cfc9080d37de",
-          "title": "पक्की पुल बन्यो, सडक छैन",
-          "link": "https://gorkhapatraonline.com/news/224693",
-          "source": "Gorkhapatra",
-          "sourceUrl": "https://gorkhapatraonline.com/rss",
-          "pubDate": "2026-09-28T15:20:17+00:00",
-          "categories": [
-            "politics",
-            "business"
-          ],
-          "image": "https://gorkhapatraonline.com/storage/media/385435/conversions/%E0%A4%85%E0%A4%B2%E0%A4%AA%E0%A4%A4%E0%A5%8D%E0%A4%B0-%E0%A4%AA%E0%A4%B0%E0%A5%8D%E0%A4%A6%E0%A5%88-%E0%A4%97%E0%A4%8F%E0%A4%95%E0%A4%BE%E0%A5%87-%E0%A4%AA%E0%A4%95%E0%A5%8D%E0%A4%95%E0%A5%80--%E0%A4%AA%E0%A5%81%E0%A4%B2-original.jpg",
-          "images": [
-            "https://gorkhapatraonline.com/storage/media/385435/conversions/%E0%A4%85%E0%A4%B2%E0%A4%AA%E0%A4%A4%E0%A5%8D%E0%A4%B0-%E0%A4%AA%E0%A4%B0%E0%A5%8D%E0%A4%A6%E0%A5%88-%E0%A4%97%E0%A4%8F%E0%A4%95%E0%A4%BE%E0%A5%87-%E0%A4%AA%E0%A4%95%E0%A5%8D%E0%A4%95%E0%A5%80--%E0%A4%AA%E0%A5%81%E0%A4%B2-original.jpg"
-          ],
-          "description": "शेरबहादुर सार्की बाजुरा, असोज १२ गते । बाजुराको खप्तड छेडेदह गाउँपालिका–३ र बूढीगङ्गा नगरपालिका–४ को बिचमा पर्ने बार्जुगाड खोलामा पक्की पुल निर्माण भएको दुई वर्ष बितिसक्दा पनि सञ्च..."
-        }
-      ]
-    },
-    {
       "id": "dc9ac2e93c857178",
       "title": "वित्त व्यवस्थापन प्रणालीमा मधेश प्रदेशले पायो ‘डी प्लस’",
       "summary": "काठमाडौँ- मधेश प्रदेश सरकारले वित्त व्यवस्थापन (पीएफएम) प्रणालीमा ‘डी प्लस’ श्रेणी प्राएको छ। प्रदेश सरकार, एसियाली विकास बैंक (एडीबी) र नेपाल आर्थिक पत्रकार समाज (सेजन) को संयुक्त आयोजनामा सोमबार जनकपुरधाममा आयोजित कार्यक्रममा मुख्यमन्त्री कृष्णप्रसाद यादव, प्रदेशका अर्थमन्त्री युवराज भट्टराई, एडीबी नेपाल आवासीय नियोगका देशीय निर्देशक अर्नो काउश्वा र सेजनाका अधयष भागवत भट्टराईले प्रतिवेदन सार्वजनिक गरेका […]",
@@ -2516,41 +2949,6 @@
           "image": "",
           "images": [],
           "description": "काठमाडौं। सर्वोच्च अदालतले पूर्व प्रधानन्यायाधीश चोलेन्द्र शमशेर जबराको पक्राउको घटनालाई लोकतान्त्रिक शासन प्रणालीले स्वीकार गर्न नसक्ने टिप्पणी गरेको छ। सर्वोच्चका न्यायाधीश सम्मिलित पूर्ण बैठकले न्यायिक जनशक्तिमाथि राज्यले गर्ने व्यवहार संवेदनशील हुनुपर्ने पनि जनाएको छ। संविधानले न्यायपालिकालाई लोकतान्त्रिक शासन प्रणालीको आधारभूत मूल्यको रूपमा आत्मसात् गरेको र पूर्वप्रधान्यायाधीश, पूर्वन्यायाधीश एवं बहालवाला प्रत्येक न्यायाधीश र न्यायिक जनशक्ति […] The post चोलेन्द्र पक्राउमा सर्वोच्चको ‘फूलको"
-        }
-      ]
-    },
-    {
-      "id": "e1841a8af67a259a",
-      "title": "स्वेच्छाचारी कामकारबाहीलाई लोकतान्त्रिक शासन प्रणालीले स्वीकार गर्नसक्दैन : सर्वोच्च अदालत",
-      "summary": "",
-      "publishedAt": "2026-09-28T15:17:00+00:00",
-      "updatedAt": "2026-09-28T15:17:00+00:00",
-      "sourceCount": 1,
-      "languageCount": 1,
-      "sources": [
-        "Baahrakhari"
-      ],
-      "categories": [
-        "business",
-        "politics",
-        "society"
-      ],
-      "items": [
-        {
-          "id": "66885a4d4e00aa43",
-          "title": "स्वेच्छाचारी कामकारबाहीलाई लोकतान्त्रिक शासन प्रणालीले स्वीकार गर्नसक्दैन : सर्वोच्च अदालत",
-          "link": "https://baahrakhari.com/detail/503063",
-          "source": "Baahrakhari",
-          "sourceUrl": "https://baahrakhari.com/feed",
-          "pubDate": "2026-09-28T15:17:00+00:00",
-          "categories": [
-            "politics",
-            "business",
-            "society"
-          ],
-          "image": "",
-          "images": [],
-          "description": ""
         }
       ]
     },
@@ -3732,41 +4130,6 @@
       ]
     },
     {
-      "id": "abb0b35063bd6842",
-      "title": "मर्स्याङ्दीका दुवै जलविद्युत् आयोजना पुनः सञ्चालन",
-      "summary": "लमजुङ, असोज १२ गते । मर्स्याङ्दी नदीमा पानीको सतह र बहाव बढेपछि आइतबार बिहानदेखि बन्द भएका लमजुङका दुई ठुला जलविद्युत् आयोजना पुनः सञ्चालनमा आएका छन् ।जिल्लामा सञ्चालित ७० मेगावाटक...",
-      "publishedAt": "2026-09-28T14:21:16+00:00",
-      "updatedAt": "2026-09-28T14:21:16+00:00",
-      "sourceCount": 1,
-      "languageCount": 1,
-      "sources": [
-        "Gorkhapatra"
-      ],
-      "categories": [
-        "business",
-        "politics"
-      ],
-      "items": [
-        {
-          "id": "dcd94a50c5410da2",
-          "title": "मर्स्याङ्दीका दुवै जलविद्युत् आयोजना पुनः सञ्चालन",
-          "link": "https://gorkhapatraonline.com/news/224694",
-          "source": "Gorkhapatra",
-          "sourceUrl": "https://gorkhapatraonline.com/rss",
-          "pubDate": "2026-09-28T14:21:16+00:00",
-          "categories": [
-            "politics",
-            "business"
-          ],
-          "image": "https://gorkhapatraonline.com/storage/media/385436/conversions/marsyangdi-original.jpg",
-          "images": [
-            "https://gorkhapatraonline.com/storage/media/385436/conversions/marsyangdi-original.jpg"
-          ],
-          "description": "लमजुङ, असोज १२ गते । मर्स्याङ्दी नदीमा पानीको सतह र बहाव बढेपछि आइतबार बिहानदेखि बन्द भएका लमजुङका दुई ठुला जलविद्युत् आयोजना पुनः सञ्चालनमा आएका छन् ।जिल्लामा सञ्चालित ७० मेगावाटक..."
-        }
-      ]
-    },
-    {
       "id": "151364fea6f624c5",
       "title": "निर्वाचन आयोगमाथि विपक्षीको दबाब",
       "summary": "निर्वाचन आयोगले भने आफ्ना सबै निर्णय सर्वसम्मत र कानूनी रूपमा मान्य रहेको भन्दै आरोप अस्वीकार गरेको छ ।",
@@ -3884,41 +4247,6 @@
       ]
     },
     {
-      "id": "dae01e13a61087fd",
-      "title": "सिमलतालमा ७० मिटर सडक भासियो, एकतर्फी यातायात सञ्चालन",
-      "summary": "चितवन। मुग्लिन–नारायणगढ सडकखण्डअन्तर्गत सिमलताल (CH 24+100) मा करिब ७० मिटर सडक भासिएपछि यातायात सञ्चालन एकतर्फी भएको छ। सडक भासिएका कारण सवारी आवागमन प्रभावित भएकाले यात्रु तथा चालकलाई सावधानीपूर्वक यात्रा गर्न र लेन अनुशासन पालना गर्न सडक",
-      "publishedAt": "2026-09-28T14:16:28+00:00",
-      "updatedAt": "2026-09-28T14:16:28+00:00",
-      "sourceCount": 1,
-      "languageCount": 1,
-      "sources": [
-        "Ratopati"
-      ],
-      "categories": [
-        "politics",
-        "sports"
-      ],
-      "items": [
-        {
-          "id": "9899b7aca47aed00",
-          "title": "सिमलतालमा ७० मिटर सडक भासियो, एकतर्फी यातायात सञ्चालन",
-          "link": "https://www.ratopati.com/story/595626/70-meters-of-road-washed-away-on-muglin-narayangadh-road-one-way-traffic-at-simaltal",
-          "source": "Ratopati",
-          "sourceUrl": "https://ratopati.com/feed",
-          "pubDate": "2026-09-28T14:16:28+00:00",
-          "categories": [
-            "politics",
-            "sports"
-          ],
-          "image": "https://npcdn.ratopati.com/media/news/sadakbhasiyo_CxAlLYdcOm.webp",
-          "images": [
-            "https://npcdn.ratopati.com/media/news/sadakbhasiyo_CxAlLYdcOm.webp"
-          ],
-          "description": "चितवन। मुग्लिन–नारायणगढ सडकखण्डअन्तर्गत सिमलताल (CH 24+100) मा करिब ७० मिटर सडक भासिएपछि यातायात सञ्चालन एकतर्फी भएको छ। सडक भासिएका कारण सवारी आवागमन प्रभावित भएकाले यात्रु तथा चालकलाई सावधानीपूर्वक यात्रा गर्न र लेन अनुशासन पालना गर्न सडक"
-        }
-      ]
-    },
-    {
       "id": "9330442587257e29",
       "title": "Two more bodies recovered from Himlung avalanche, death toll reaches four",
       "summary": "MANANG: The bodies of two more people who died in an avalanche on Mount Himlung in Manang have been recovered. A search and rescue team from the Nepal National Mountain Guide Association (NNMGA) recovered the bodies of Birendra Gurung and Ghanshyam Rai on Monday. The bodies of Chhabi Bhote and Pasang Bhote had been recovered […]",
@@ -3989,41 +4317,6 @@
           "image": "",
           "images": [],
           "description": "यो योजना अन्तर्गत जीडब्लूएमको ओरा–५ ईभी खरिद गर्ने ग्राहकले २ लाख रुपैयाँसम्म र हाभाल जोलियन म्याक्स ईभी खरिद गर्दा ३ लाख रुपैयाँसम्मको लाभ पाउने कम्पनीले जनाएको छ ।"
-        }
-      ]
-    },
-    {
-      "id": "e64593f91d2debd6",
-      "title": "‘विद्या भण्डारी एमालेको गुटगत राजनीतिमा फर्किए केपी ओलीकै छायामा पर्नु हुनेछ’",
-      "summary": "काठमाडौँ । चार दशकभन्दा लामो समयदेखि मानव अधिकार, सामाजिक न्याय, विधिको शासन र लोकतान्त्रिक प्रणालीको सुदृढीकरणका पक्षमा निरन्तर वकालत गर्दै आएका व्यक्ति हुन् सुवोध प्याकुरेल । अन्तर्राष्ट्रिय मञ्चहरूमा नेपालको मानव अधिकार तथा लोकतान्त्रिक आन्दोलनको प्रतिनिधित्व",
-      "publishedAt": "2026-09-28T14:15:00+00:00",
-      "updatedAt": "2026-09-28T14:15:00+00:00",
-      "sourceCount": 1,
-      "languageCount": 1,
-      "sources": [
-        "Ratopati"
-      ],
-      "categories": [
-        "politics",
-        "sports"
-      ],
-      "items": [
-        {
-          "id": "07e652f0de3ee688",
-          "title": "‘विद्या भण्डारी एमालेको गुटगत राजनीतिमा फर्किए केपी ओलीकै छायामा पर्नु हुनेछ’",
-          "link": "https://www.ratopati.com/story/595577/vidya-bhandari-will-fall-under-kp-olis-shadow-if-she-returns-to-umls-factional-politics",
-          "source": "Ratopati",
-          "sourceUrl": "https://ratopati.com/feed",
-          "pubDate": "2026-09-28T14:15:00+00:00",
-          "categories": [
-            "politics",
-            "sports"
-          ],
-          "image": "https://npcdn.ratopati.com/media/news/subodh-pyakurel_91QxmITbJt.webp",
-          "images": [
-            "https://npcdn.ratopati.com/media/news/subodh-pyakurel_91QxmITbJt.webp"
-          ],
-          "description": "काठमाडौँ । चार दशकभन्दा लामो समयदेखि मानव अधिकार, सामाजिक न्याय, विधिको शासन र लोकतान्त्रिक प्रणालीको सुदृढीकरणका पक्षमा निरन्तर वकालत गर्दै आएका व्यक्ति हुन् सुवोध प्याकुरेल । अन्तर्राष्ट्रिय मञ्चहरूमा नेपालको मानव अधिकार तथा लोकतान्त्रिक आन्दोलनको प्रतिनिधित्व"
         }
       ]
     },
@@ -4275,41 +4568,6 @@
       ]
     },
     {
-      "id": "b2a8dd81ceb759d1",
-      "title": "बेनी–रत्नेचौर–बागलुङ सडक सञ्चालनमा",
-      "summary": "बेनी समाचारदाताबेनी (म्याग्दी), असोज १२ गते । अविरल वर्षाका कारण तीन दिनदेखि अवरुद्ध बेनी–रत्नेचौर–बागलुङ सडक सञ्चालनमा आएको छ । बेनीदेखि बागलुङसम्मका विभिन्न स्थानमा बाढीपहिरोले क...",
-      "publishedAt": "2026-09-28T14:08:42+00:00",
-      "updatedAt": "2026-09-28T14:08:42+00:00",
-      "sourceCount": 1,
-      "languageCount": 1,
-      "sources": [
-        "Gorkhapatra"
-      ],
-      "categories": [
-        "business",
-        "politics"
-      ],
-      "items": [
-        {
-          "id": "f8f96900d9183f1f",
-          "title": "बेनी–रत्नेचौर–बागलुङ सडक सञ्चालनमा",
-          "link": "https://gorkhapatraonline.com/news/224692",
-          "source": "Gorkhapatra",
-          "sourceUrl": "https://gorkhapatraonline.com/rss",
-          "pubDate": "2026-09-28T14:08:42+00:00",
-          "categories": [
-            "politics",
-            "business"
-          ],
-          "image": "https://gorkhapatraonline.com/storage/media/385434/conversions/beni-Baglung-sadak-(1)-original.jpg",
-          "images": [
-            "https://gorkhapatraonline.com/storage/media/385434/conversions/beni-Baglung-sadak-(1)-original.jpg"
-          ],
-          "description": "बेनी समाचारदाताबेनी (म्याग्दी), असोज १२ गते । अविरल वर्षाका कारण तीन दिनदेखि अवरुद्ध बेनी–रत्नेचौर–बागलुङ सडक सञ्चालनमा आएको छ । बेनीदेखि बागलुङसम्मका विभिन्न स्थानमा बाढीपहिरोले क..."
-        }
-      ]
-    },
-    {
       "id": "e261f712b9808cf6",
       "title": "मुग्लिन-नारायणगढ खण्डको सिमलतालमा ७० मिटर सडक भासियो, सवारी आवागमन एकतर्फी",
       "summary": "काठमाडौं। मुग्लिन-नारायणगढ सडक खण्डको सिमलतालमा करिब ७० मिटर सडक भासिएको छ। छेउतर्फको सडक भासिएका कारण सवारी आवागमन एकतर्फी बनाइएको छ। सडक डिभिजन कार्यालय भरतपुरले सडक भासिएर आवागमन एकतर्फी बनाइएका कारण यात्रा गर्दा सावधानी अपनाउन र लेन अनुशासन पालना गर्न चालकहरुलाई आग्रह गरेको छ। The post मुग्लिन-नारायणगढ खण्डको सिमलतालमा ७० मिटर सडक भासियो, सवारी आवागमन एकतर्फी appeared first on BIZMANDU .",
@@ -4341,41 +4599,6 @@
             "https://bizmandu.com/wp-content/uploads/2026/09/Muglin-Narayangadh.jpg"
           ],
           "description": "काठमाडौं। मुग्लिन-नारायणगढ सडक खण्डको सिमलतालमा करिब ७० मिटर सडक भासिएको छ। छेउतर्फको सडक भासिएका कारण सवारी आवागमन एकतर्फी बनाइएको छ। सडक डिभिजन कार्यालय भरतपुरले सडक भासिएर आवागमन एकतर्फी बनाइएका कारण यात्रा गर्दा सावधानी अपनाउन र लेन अनुशासन पालना गर्न चालकहरुलाई आग्रह गरेको छ। The post मुग्लिन-नारायणगढ खण्डको सिमलतालमा ७० मिटर सडक भासियो, सवारी आवागमन एकतर्फी appeared first on BIZMANDU ."
-        }
-      ]
-    },
-    {
-      "id": "70b277ec514235bc",
-      "title": "धरानमा विद्यार्थीको फिनेल सेवन प्रकरण : पत्रकारले किनेर ल्याइदिएको दाबी",
-      "summary": "धरान । रिक्त शिक्षक बनन्दोलनका क्रममा विद्यार्थी रोजन शंकरले फिनेल सेवन गरेको घटनामा एक पत्रकार पनि संलग्न भएको आरोप लागेको छ । धरान उपमहानगरपालिकाका कार्यवाहक नगर प्रमुख अइन्द्र विक्रम बेघा र आन्दोलनरत विद्यार्थी सौगात विकबिच भएको",
-      "publishedAt": "2026-09-28T14:07:09+00:00",
-      "updatedAt": "2026-09-28T14:07:09+00:00",
-      "sourceCount": 1,
-      "languageCount": 1,
-      "sources": [
-        "Ratopati"
-      ],
-      "categories": [
-        "politics",
-        "sports"
-      ],
-      "items": [
-        {
-          "id": "d0fd7268ed50d003",
-          "title": "धरानमा विद्यार्थीको फिनेल सेवन प्रकरण : पत्रकारले किनेर ल्याइदिएको दाबी",
-          "link": "https://www.ratopati.com/story/595624/dharan-students-phenol-consumption-case-student-claims-journalist-bought-it-for-him",
-          "source": "Ratopati",
-          "sourceUrl": "https://ratopati.com/feed",
-          "pubDate": "2026-09-28T14:07:09+00:00",
-          "categories": [
-            "politics",
-            "sports"
-          ],
-          "image": "https://npcdn.ratopati.com/media/news/rojan-shankar_29EEQcIHoE.webp",
-          "images": [
-            "https://npcdn.ratopati.com/media/news/rojan-shankar_29EEQcIHoE.webp"
-          ],
-          "description": "धरान । रिक्त शिक्षक बनन्दोलनका क्रममा विद्यार्थी रोजन शंकरले फिनेल सेवन गरेको घटनामा एक पत्रकार पनि संलग्न भएको आरोप लागेको छ । धरान उपमहानगरपालिकाका कार्यवाहक नगर प्रमुख अइन्द्र विक्रम बेघा र आन्दोलनरत विद्यार्थी सौगात विकबिच भएको"
         }
       ]
     },
@@ -4458,76 +4681,6 @@
       ]
     },
     {
-      "id": "16a7a106454615ea",
-      "title": "एसियाडमा पूर्णलक्ष्मीकाे कीर्तिमानमा सुधार",
-      "summary": "काठमाडौँ। जापानको आइची–नागोयामा जारी २०औँ एसियाली खेलकुदअन्तर्गत महिला ५ हजार मिटर दौडमा नेपालकी पूर्णलक्ष्मी न्यौपानेले आफ्नो व्यक्तिगत कीर्तिमान सुधार गरेकी छन् । सोमबार बेलुकी भएको प्रतिस्पर्धामा पूर्णलक्ष्मीले ५ हजार मिटर दूरी १७ मिनेट ००.६० सेकेन्डमा पूरा",
-      "publishedAt": "2026-09-28T14:03:15+00:00",
-      "updatedAt": "2026-09-28T14:03:15+00:00",
-      "sourceCount": 1,
-      "languageCount": 1,
-      "sources": [
-        "Ratopati"
-      ],
-      "categories": [
-        "politics",
-        "sports"
-      ],
-      "items": [
-        {
-          "id": "1c140fc5b8bec7f3",
-          "title": "एसियाडमा पूर्णलक्ष्मीकाे कीर्तिमानमा सुधार",
-          "link": "https://www.ratopati.com/story/595623/poornalakshmis-record-improves-at-asian-games",
-          "source": "Ratopati",
-          "sourceUrl": "https://ratopati.com/feed",
-          "pubDate": "2026-09-28T14:03:15+00:00",
-          "categories": [
-            "politics",
-            "sports"
-          ],
-          "image": "https://npcdn.ratopati.com/media/news/purnalaxmi_2wLW5cGdGH.webp",
-          "images": [
-            "https://npcdn.ratopati.com/media/news/purnalaxmi_2wLW5cGdGH.webp"
-          ],
-          "description": "काठमाडौँ। जापानको आइची–नागोयामा जारी २०औँ एसियाली खेलकुदअन्तर्गत महिला ५ हजार मिटर दौडमा नेपालकी पूर्णलक्ष्मी न्यौपानेले आफ्नो व्यक्तिगत कीर्तिमान सुधार गरेकी छन् । सोमबार बेलुकी भएको प्रतिस्पर्धामा पूर्णलक्ष्मीले ५ हजार मिटर दूरी १७ मिनेट ००.६० सेकेन्डमा पूरा"
-        }
-      ]
-    },
-    {
-      "id": "35308f2bd3b3189f",
-      "title": "नेपालको साइबर सुरक्षा क्षेत्रमा नयाँ उपलब्धि, ओपनएआईको विशेष कार्यक्रममा सिनिकल टेक्नोलोजी छानियो",
-      "summary": "काठमाडौँ । नेपाली साइबर सुरक्षा कम्पनी सिनिकल टेक्नोलोजी ओपनएआईको ‘विश्वसनीय साइबर पहुँच कार्यक्रम’ मा छनोट भएको छ । उक्त कार्यक्रममा सहभागी हुने सिनिकल टेक्नोलोजी नेपालकै पहिलो संस्था बनेको कम्पनीले जनाएको छ । यो उपलब्धिले नेपालको साइबर",
-      "publishedAt": "2026-09-28T14:02:43+00:00",
-      "updatedAt": "2026-09-28T14:02:43+00:00",
-      "sourceCount": 1,
-      "languageCount": 1,
-      "sources": [
-        "Ratopati"
-      ],
-      "categories": [
-        "politics",
-        "sports"
-      ],
-      "items": [
-        {
-          "id": "6bcbc1adeabf8bac",
-          "title": "नेपालको साइबर सुरक्षा क्षेत्रमा नयाँ उपलब्धि, ओपनएआईको विशेष कार्यक्रममा सिनिकल टेक्नोलोजी छानियो",
-          "link": "https://www.ratopati.com/story/595622/new-achievement-in-nepals-cybersecurity-sector-cynical-technology-selected-in-openais-special-program",
-          "source": "Ratopati",
-          "sourceUrl": "https://ratopati.com/feed",
-          "pubDate": "2026-09-28T14:02:43+00:00",
-          "categories": [
-            "politics",
-            "sports"
-          ],
-          "image": "https://npcdn.ratopati.com/media/news/076ce8d6-65b4-41f1-9a37-1f33eb4ab94e_cPCoPQtIH8.webp",
-          "images": [
-            "https://npcdn.ratopati.com/media/news/076ce8d6-65b4-41f1-9a37-1f33eb4ab94e_cPCoPQtIH8.webp"
-          ],
-          "description": "काठमाडौँ । नेपाली साइबर सुरक्षा कम्पनी सिनिकल टेक्नोलोजी ओपनएआईको ‘विश्वसनीय साइबर पहुँच कार्यक्रम’ मा छनोट भएको छ । उक्त कार्यक्रममा सहभागी हुने सिनिकल टेक्नोलोजी नेपालकै पहिलो संस्था बनेको कम्पनीले जनाएको छ । यो उपलब्धिले नेपालको साइबर"
-        }
-      ]
-    },
-    {
       "id": "5037ec2e97e74301",
       "title": "म्यान्माको बजारमा सेनाको हवाई आक्रमण, ३३ जनाको मृत्यु",
       "summary": "पश्चिमी म्यान्माको एक बजारमा सेनाले सोमबार गरेको हवाई आक्रमणमा ३३ जनाको मृत्यु भएको छ।",
@@ -4563,41 +4716,6 @@
           "image": "",
           "images": [],
           "description": "पश्चिमी म्यान्माको एक बजारमा सेनाले सोमबार गरेको हवाई आक्रमणमा ३३ जनाको मृत्यु भएको छ।"
-        }
-      ]
-    },
-    {
-      "id": "7baf4a46d52e1619",
-      "title": "हनीट्र्यापमा पारेर लाभ उठाउने महिला पक्राउ",
-      "summary": "गजेन्द्र गुरुङखजुरा (बाँके), असोज १२ गते । प्रेम तथा शारीरिक सम्बन्धको जालमा पारेर धम्की दिँदै नगद तथा जिन्सी सामान असुल गर्ने कार्यमा सङ्लग्न आरोपमा बाँके प्रहरीले एक महिलालाई पक्...",
-      "publishedAt": "2026-09-28T13:57:57+00:00",
-      "updatedAt": "2026-09-28T13:57:57+00:00",
-      "sourceCount": 1,
-      "languageCount": 1,
-      "sources": [
-        "Gorkhapatra"
-      ],
-      "categories": [
-        "business",
-        "politics"
-      ],
-      "items": [
-        {
-          "id": "fa69dc212bcd3ba4",
-          "title": "हनीट्र्यापमा पारेर लाभ उठाउने महिला पक्राउ",
-          "link": "https://gorkhapatraonline.com/news/224691",
-          "source": "Gorkhapatra",
-          "sourceUrl": "https://gorkhapatraonline.com/rss",
-          "pubDate": "2026-09-28T13:57:57+00:00",
-          "categories": [
-            "politics",
-            "business"
-          ],
-          "image": "https://gorkhapatraonline.com/storage/media/385433/conversions/Pakrau1-original.jpg",
-          "images": [
-            "https://gorkhapatraonline.com/storage/media/385433/conversions/Pakrau1-original.jpg"
-          ],
-          "description": "गजेन्द्र गुरुङखजुरा (बाँके), असोज १२ गते । प्रेम तथा शारीरिक सम्बन्धको जालमा पारेर धम्की दिँदै नगद तथा जिन्सी सामान असुल गर्ने कार्यमा सङ्लग्न आरोपमा बाँके प्रहरीले एक महिलालाई पक्..."
         }
       ]
     },
@@ -4789,41 +4907,6 @@
           "image": "",
           "images": [],
           "description": "सर्वसाधारण सेयरधनीका तर्फबाट तेजबहादुर चन्द र महेश घिमिरे सञ्चालकमा निर्विरोध निर्वाचित भएका छन् ।"
-        }
-      ]
-    },
-    {
-      "id": "7401a331a646cdee",
-      "title": "लुम्बिनीमा ६ जनाको मृत्यु, हजार बढी विस्थापित",
-      "summary": "सन्तोष दहितदाङ, असोज १२ गते । लुम्बिनी प्रदेशमा असोज ८ देखि ११ गतेसम्म चार दिनको अवधिमा ७८ वटा विपद्का घटना भएको छ। प्रदेश आपतकालीन कार्यसञ्चालन केन्द्रका अनुसार विपद्का घटनामा परी...",
-      "publishedAt": "2026-09-28T13:50:37+00:00",
-      "updatedAt": "2026-09-28T13:50:37+00:00",
-      "sourceCount": 1,
-      "languageCount": 1,
-      "sources": [
-        "Gorkhapatra"
-      ],
-      "categories": [
-        "business",
-        "politics"
-      ],
-      "items": [
-        {
-          "id": "1c1e8689dbaaae5a",
-          "title": "लुम्बिनीमा ६ जनाको मृत्यु, हजार बढी विस्थापित",
-          "link": "https://gorkhapatraonline.com/news/224690",
-          "source": "Gorkhapatra",
-          "sourceUrl": "https://gorkhapatraonline.com/rss",
-          "pubDate": "2026-09-28T13:50:37+00:00",
-          "categories": [
-            "politics",
-            "business"
-          ],
-          "image": "https://gorkhapatraonline.com/storage/media/385432/conversions/Pahiro-2-original.jpg",
-          "images": [
-            "https://gorkhapatraonline.com/storage/media/385432/conversions/Pahiro-2-original.jpg"
-          ],
-          "description": "सन्तोष दहितदाङ, असोज १२ गते । लुम्बिनी प्रदेशमा असोज ८ देखि ११ गतेसम्म चार दिनको अवधिमा ७८ वटा विपद्का घटना भएको छ। प्रदेश आपतकालीन कार्यसञ्चालन केन्द्रका अनुसार विपद्का घटनामा परी..."
         }
       ]
     },
@@ -5463,46 +5546,6 @@
           "image": "",
           "images": [],
           "description": "१२ असोज, काठमाडौं । नेकपा एमालेका सांसद क्षितिज थेबेले पूर्वप्रधानन्यायाधीश चोलेन्द्र शमशेर जबराको नियन्त्रण शैलीप्रति आपत्ति जनाएका छन् । सोमबार संसद् भवन परिसरमा सञ्चारकर्मीसँग कुरा गर्दै उनले विधि र प्रक्रिया मिचेर गरिएको धरपकडले सुशासन कायम नहुने र यसले सरकारको अधिनायकवादी चरित्र देखाउने जिकिर गरे । सांसद थेबेले पूर्वप्रधानन्यायाधीशलाई प्रहरीले ससम्मान नियन्त्रणमा लिनुपर्नेमा राज्यले नै अपहरणको […]"
-        }
-      ]
-    },
-    {
-      "id": "810913a00e9c7c1f",
-      "title": "सर्वोच्चको बोझ बाँड्ने खाका",
-      "summary": "सर्वोच्च अदालतमा मुद्दाको चाप बढेर ३० हजार ८५३ पुगेको छ। २१ जना न्यायाधीश हुनुपर्नेमा चार पद रिक्त छन्। पाँच वर्ष नाघेका मात्रै एक हजार ५८६ मुद्दा छन् भने दुई वर्ष नाघेका ११ हजार २१८ मुद्दा छन्। यही चाप घटाउन सर्वोच्चको क्षेत्राधिकार संकुचित गर्दै जिल्ला र उच्च अदालतको अधिकार बढाउने खाका अघि सारिएको छ। ‘न्याय प्रशासन […]",
-      "publishedAt": "2026-09-28T13:15:29+00:00",
-      "updatedAt": "2026-09-28T13:15:29+00:00",
-      "sourceCount": 1,
-      "languageCount": 1,
-      "sources": [
-        "Nepal News"
-      ],
-      "categories": [
-        "business",
-        "politics",
-        "world"
-      ],
-      "items": [
-        {
-          "id": "52b42d457be8df44",
-          "title": "सर्वोच्चको बोझ बाँड्ने खाका",
-          "link": "https://nepalnews.com/2026/09/28/the-supreme-courts-burden-sharing-blueprint/",
-          "source": "Nepal News",
-          "sourceUrl": "https://nepalnews.com/feed",
-          "pubDate": "2026-09-28T13:15:29+00:00",
-          "categories": [
-            "politics",
-            "business",
-            "world"
-          ],
-          "image": "https://nepalnews.com/wp-content/uploads/2026/09/न्याय-परिषदको-अध्ययन-समितिको-प्रतिवेदन-बुझाउँदै-.png",
-          "images": [
-            "https://nepalnews.com/wp-content/uploads/2026/09/न्याय-परिषदको-अध्ययन-समितिको-प्रतिवेदन-बुझाउँदै-.png",
-            "https://nepalnews.com/wp-content/uploads/2026/09/सर्वोच्चले-गठन-गरेको-समितिले-प्रतिवेदन-बुझाउँदै.jpg",
-            "https://nepalnews.com/wp-content/uploads/2026/09/वैदेशिक-रोजगार-न्यायाधीकरण.png",
-            "https://nepalnews.com/wp-content/uploads/2026/09/shram-adalat.jpg"
-          ],
-          "description": "सर्वोच्च अदालतमा मुद्दाको चाप बढेर ३० हजार ८५३ पुगेको छ। २१ जना न्यायाधीश हुनुपर्नेमा चार पद रिक्त छन्। पाँच वर्ष नाघेका मात्रै एक हजार ५८६ मुद्दा छन् भने दुई वर्ष नाघेका ११ हजार २१८ मुद्दा छन्। यही चाप घटाउन सर्वोच्चको क्षेत्राधिकार संकुचित गर्दै जिल्ला र उच्च अदालतको अधिकार बढाउने खाका अघि सारिएको छ। ‘न्याय प्रशासन […]"
         }
       ]
     },
@@ -6441,39 +6484,6 @@
       ]
     },
     {
-      "id": "88ea10ba1c8f291a",
-      "title": "महालक्ष्मी विकास बैंक र रोटरी इन्टरनेसनल डिस्ट्रिक्ट ३२९२ बीच सम्झौता, शिक्षामा सहकार्य गर्ने",
-      "summary": "काठमाडौं। महालक्ष्मी विकास बैंक र रोटरी इन्टरनेसनल डिस्ट्रिक्ट ३२९२ बीच शिक्षा क्षेत्रमा सहकार्य गर्ने सम्झौता भएको छ। रोटरी क्लबमार्फत सञ्चालन गरिने शैक्षिक तथा पूर्वाधार विकास सम्बन्धी परियोजनाका लागि बैंकले संस्थागत सामाजिक उत्तरदायित्व अन्तर्गत वित्तीय सहयोग उपलब्ध गराउने सम्झौता भएको हो। सामुदायिक विद्यालयमा शौचालय निर्माण तथा सुधार, खानेपानी, सरसफाई तथा स्वच्छता सम्बन्धी परियोजना सञ्चालन तथा कम्प्युटर […] The post महालक्ष्मी विकास बैंक र रोटरी इन्टरनेसनल डिस्ट्रिक्ट ३२९२ बीच सम्झौता, शिक्ष",
-      "publishedAt": "2026-09-28T12:07:28+00:00",
-      "updatedAt": "2026-09-28T12:07:28+00:00",
-      "sourceCount": 1,
-      "languageCount": 1,
-      "sources": [
-        "Bizmandu"
-      ],
-      "categories": [
-        "business",
-        "technology"
-      ],
-      "items": [
-        {
-          "id": "e3add27aa1afbfdf",
-          "title": "महालक्ष्मी विकास बैंक र रोटरी इन्टरनेसनल डिस्ट्रिक्ट ३२९२ बीच सम्झौता, शिक्षामा सहकार्य गर्ने",
-          "link": "https://bizmandu.com/content/20260928175228.html",
-          "source": "Bizmandu",
-          "sourceUrl": "https://bizmandu.com/feed",
-          "pubDate": "2026-09-28T12:07:28+00:00",
-          "categories": [
-            "business",
-            "technology"
-          ],
-          "image": "",
-          "images": [],
-          "description": "काठमाडौं। महालक्ष्मी विकास बैंक र रोटरी इन्टरनेसनल डिस्ट्रिक्ट ३२९२ बीच शिक्षा क्षेत्रमा सहकार्य गर्ने सम्झौता भएको छ। रोटरी क्लबमार्फत सञ्चालन गरिने शैक्षिक तथा पूर्वाधार विकास सम्बन्धी परियोजनाका लागि बैंकले संस्थागत सामाजिक उत्तरदायित्व अन्तर्गत वित्तीय सहयोग उपलब्ध गराउने सम्झौता भएको हो। सामुदायिक विद्यालयमा शौचालय निर्माण तथा सुधार, खानेपानी, सरसफाई तथा स्वच्छता सम्बन्धी परियोजना सञ्चालन तथा कम्प्युटर […] The post महालक्ष्मी विकास बैंक र रोटरी इन्टरनेसनल डिस्ट्रिक्ट ३२९२ बीच सम्झौता, शिक्ष"
-        }
-      ]
-    },
-    {
       "id": "36f3a4463db5b1c5",
       "title": "जेनजी आन्दोलनका सहिद परिवार र घाइतेलाई निःशुल्क शिक्षा उपलब्ध गराउन स्थानीय तहलाई निर्देशन",
       "summary": "काठमाडौँ- शिक्षा तथा खेलकुद मन्त्रालयले गत भदौ २३ र २४ मा भएको जेनजी आन्दोलनका क्रममा सहिद भएका परिवारका सदस्य तथा घाइतेलाई निःशुल्क शिक्षा उपलब्ध गराउने मापदण्ड कार्यान्वयन गर्न सबै स्थानीय तहलाई निर्देशन दिएको छ। शिक्षा विभागको योजना तथा कार्यक्रम शाखाले बुधबार स्थानीय तहलाई पत्राचार गर्दै मन्त्रालयले असोज २ मा स्वीकृत गरेको ‘जेनजी आन्दोलनका सहिद परिवार […]",
@@ -6616,72 +6626,6 @@
             "https://nepalviews.cdnsolution.net/en/media/setting/banner_FHsSzcWYKk.jpg"
           ],
           "description": ""
-        }
-      ]
-    },
-    {
-      "id": "741953e228613c83",
-      "title": "विद्युत‍्मा भ्याट थपिँदा उद्योगको लागत बढ्यो, फिर्ता लिन महासंघको माग",
-      "summary": "",
-      "publishedAt": "2026-09-28T11:56:25+00:00",
-      "updatedAt": "2026-09-28T11:56:25+00:00",
-      "sourceCount": 1,
-      "languageCount": 1,
-      "sources": [
-        "Nepal Samaya"
-      ],
-      "categories": [
-        "entertainment",
-        "politics"
-      ],
-      "items": [
-        {
-          "id": "e467189027c4ef86",
-          "title": "विद्युत‍्मा भ्याट थपिँदा उद्योगको लागत बढ्यो, फिर्ता लिन महासंघको माग",
-          "link": "https://nepalsamaya.com/detail/146385",
-          "source": "Nepal Samaya",
-          "sourceUrl": "https://nepalsamaya.com/feed",
-          "pubDate": "2026-09-28T11:56:25+00:00",
-          "categories": [
-            "politics",
-            "entertainment"
-          ],
-          "image": "",
-          "images": [],
-          "description": ""
-        }
-      ]
-    },
-    {
-      "id": "6b587388f7109410",
-      "title": "एनआइसी एसिया बैंक र स्याकर ट्रेडिङबीच सम्झौता, होण्डाका गाडी किन्न ५.९९% ब्याजदरमा ऋण",
-      "summary": "काठमाडौं। एनआइसी एसिया बैंकले होण्डा ब्राण्डका सवारीसाधन किन्न चाहने ग्राहकलाई सस्तो ब्याजदरमा ऋण दिने भएको छ। बैंकले ऋण लिने ग्राहकलाई अन्य विशेष सुविधा पनि उपलब्ध गराउने बताएको छ। यस सम्बन्धमा बैंक र होण्डा बाइक बिक्रेता स्याकर ट्रेडिङ कम्पनीबीच सम्झौता भएको छ। समझदारी पत्रमा बैंकका चिफ बिजनेस अफिसर अमित केसी र स्याकर ट्रेडिङकी प्रमुख कार्यकारी अधिकृत […] The post एनआइसी एसिया बैंक र स्याकर ट्रेडिङबीच सम्झौता, होण्डाका गाडी किन्न ५.९९% ब्याजदरमा ऋण appeared first on BIZMANDU .",
-      "publishedAt": "2026-09-28T11:56:09+00:00",
-      "updatedAt": "2026-09-28T11:56:09+00:00",
-      "sourceCount": 1,
-      "languageCount": 1,
-      "sources": [
-        "Bizmandu"
-      ],
-      "categories": [
-        "business",
-        "technology"
-      ],
-      "items": [
-        {
-          "id": "da7591d6ca1d35e7",
-          "title": "एनआइसी एसिया बैंक र स्याकर ट्रेडिङबीच सम्झौता, होण्डाका गाडी किन्न ५.९९% ब्याजदरमा ऋण",
-          "link": "https://bizmandu.com/content/20260928174109.html",
-          "source": "Bizmandu",
-          "sourceUrl": "https://bizmandu.com/feed",
-          "pubDate": "2026-09-28T11:56:09+00:00",
-          "categories": [
-            "business",
-            "technology"
-          ],
-          "image": "",
-          "images": [],
-          "description": "काठमाडौं। एनआइसी एसिया बैंकले होण्डा ब्राण्डका सवारीसाधन किन्न चाहने ग्राहकलाई सस्तो ब्याजदरमा ऋण दिने भएको छ। बैंकले ऋण लिने ग्राहकलाई अन्य विशेष सुविधा पनि उपलब्ध गराउने बताएको छ। यस सम्बन्धमा बैंक र होण्डा बाइक बिक्रेता स्याकर ट्रेडिङ कम्पनीबीच सम्झौता भएको छ। समझदारी पत्रमा बैंकका चिफ बिजनेस अफिसर अमित केसी र स्याकर ट्रेडिङकी प्रमुख कार्यकारी अधिकृत […] The post एनआइसी एसिया बैंक र स्याकर ट्रेडिङबीच सम्झौता, होण्डाका गाडी किन्न ५.९९% ब्याजदरमा ऋण appeared first on BIZMANDU ."
         }
       ]
     },
@@ -11147,6 +11091,45 @@
             "https://media.nepalitimes.com/cover/4x5_offer_S26%20FE_05.jpg"
           ],
           "description": "Samsung Nepal has launched Galaxy S26 FE, the newest addition to the Galaxy S26 series. In a thin and light design, Galaxy S26 FE carries the…"
+        }
+      ]
+    },
+    {
+      "id": "5db8a5c6f8f4dae2",
+      "title": "Royal Enfield",
+      "summary": "Royal Enfield Nepal organised a rally in which 1,500 riders across Nepal participated and contributed towards a cause. The ride named as ‘One…",
+      "publishedAt": "2026-09-24T09:13:13+00:00",
+      "updatedAt": "2026-09-24T09:13:13+00:00",
+      "sourceCount": 1,
+      "languageCount": 1,
+      "sources": [
+        "Nepali Times"
+      ],
+      "categories": [
+        "business",
+        "politics",
+        "society",
+        "technology"
+      ],
+      "items": [
+        {
+          "id": "cedb541998f32520",
+          "title": "Royal Enfield",
+          "link": "https://nepalitimes.com/royal-enfield",
+          "source": "Nepali Times",
+          "sourceUrl": "https://www.nepalitimes.com/feed/",
+          "pubDate": "2026-09-24T09:13:13+00:00",
+          "categories": [
+            "politics",
+            "business",
+            "society",
+            "technology"
+          ],
+          "image": "https://media.nepalitimes.com/cover/Royal%20Enfield.jpeg",
+          "images": [
+            "https://media.nepalitimes.com/cover/Royal%20Enfield.jpeg"
+          ],
+          "description": "Royal Enfield Nepal organised a rally in which 1,500 riders across Nepal participated and contributed towards a cause. The ride named as ‘One…"
         }
       ]
     }
