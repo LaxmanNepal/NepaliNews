@@ -1,10 +1,44 @@
 {
-  "generatedAt": "2026-10-03T19:14:18.803626+00:00",
+  "generatedAt": "2026-10-03T22:08:23.226097+00:00",
   "feedCount": 41,
   "healthyFeeds": 24,
   "failedFeeds": 17,
-  "itemCount": 324,
+  "itemCount": 325,
   "items": [
+    {
+      "id": "7a8cbf453d1d59ed",
+      "title": "राहत कोषमा फिदिम नगरपालिकाद्वारा ४७ लाख जम्मा",
+      "link": "https://www.ratopati.com/story/596959/phidim-municipality-contributes-rs-47-million-to-relief-fund",
+      "source": "Ratopati",
+      "sourceUrl": "https://ratopati.com/feed",
+      "pubDate": "2026-10-03T20:11:38+00:00",
+      "categories": [
+        "politics",
+        "sports"
+      ],
+      "image": "https://npcdn.ratopati.com/media/news/pachtaar-_9tzrt0gkje_qgva0pbajj_XJ2GAoeG33.webp",
+      "images": [
+        "https://npcdn.ratopati.com/media/news/pachtaar-_9tzrt0gkje_qgva0pbajj_XJ2GAoeG33.webp"
+      ],
+      "description": "पाँचथर । पाँचथरको फिदिम नगरपालिकाले भोटेकोशी बाढी प्रभावितको सहयोगार्थ रु ४७ लाख ४९ हजार रकम सहयोग गरेको छ । फिदिम नगरपालिकाका जनप्रतिनिधि, शिक्षक तथा कर्मचारीबाट सङ्कलित उक्त रकम प्रधानमन्त्री राहत कोषमा जम्मा गरिएको फिदिम नगरपालिकाका प्रमुख"
+    },
+    {
+      "id": "7424fee6038636bf",
+      "title": "पोखराको पर्यटकीय गन्तव्य पुम्दीभुम्दीको प्रवर्द्धनका लागि पर्वतीय दौड",
+      "link": "https://www.ratopati.com/story/596957/mountain-race-to-promote-pokharas-tourist-destination-pumdibhumdi",
+      "source": "Ratopati",
+      "sourceUrl": "https://ratopati.com/feed",
+      "pubDate": "2026-10-03T19:15:00+00:00",
+      "categories": [
+        "politics",
+        "sports"
+      ],
+      "image": "https://rpcdn.ratopati.com/media/albums/kaski_zVE0A1gexY.jpg",
+      "images": [
+        "https://rpcdn.ratopati.com/media/albums/kaski_zVE0A1gexY.jpg"
+      ],
+      "description": "कास्की । पोखराको फेवातालपारी अवस्थित पोखरा–२२ पुम्दीभुम्दीको प्रवर्द्धन गर्ने उद्देश्यले यही असोज २४ गते पर्वतीय दौड हुने भएको छ । पुम्दी–भुम्दी क्षेत्रको प्राकृतिक, सांस्कृतिक तथा पर्यटकीय सम्भावनालाई राष्ट्रिय तथा अन्तर्राष्ट्रियस्तरमा चिनाउने लक्ष्य राखिएको छ । फेवातालसँग"
+    },
     {
       "id": "993e0c666ecd9b1e",
       "title": "सिँचाइ विभागले ल्यायो वैदेशिक रोजगारीबाट फर्केका युवा लक्षित कार्यक्रम",
@@ -1419,23 +1453,6 @@
         "https://nepalviews.cdnsolution.net/en/media/setting/banner_FHsSzcWYKk.jpg"
       ],
       "description": ""
-    },
-    {
-      "id": "7889a24ec0c64e5f",
-      "title": "सीप तथा रोजगार मेलाबाट ६६ जनाले पाए रोजगारी",
-      "link": "https://www.ratopati.com/story/596930/66-people-found-jobs-at-the-skills-and-employment-fair",
-      "source": "Ratopati",
-      "sourceUrl": "https://ratopati.com/feed",
-      "pubDate": "2026-10-03T14:48:58+00:00",
-      "categories": [
-        "politics",
-        "sports"
-      ],
-      "image": "https://npcdn.ratopati.com/media/news/itahari-rojgar-mela_npl-1_8NZPd1nLvg.webp",
-      "images": [
-        "https://npcdn.ratopati.com/media/news/itahari-rojgar-mela_npl-1_8NZPd1nLvg.webp"
-      ],
-      "description": "विराटनगर । ‘सीप र रोजगारीः साझा जिम्मेवारी’ भन्ने मूल नाराका साथ युवा, श्रम तथा रोजगार मन्त्रालयद्वारा सुनसरीको इटहरीमा आयोजित ‘सीप तथा रोजगार मेला, २०८३’ मा युवाहरूको उत्साहजनक सहभागिता देखिएको छ। असोज १४ गतेदेखि २० गतेसम्म सञ्चालन"
     },
     {
       "id": "51d66f7e082ebf2a",
