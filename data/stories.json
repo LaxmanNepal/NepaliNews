@@ -1,8 +1,989 @@
 {
-  "generatedAt": "2026-10-04T17:02:01.849441+00:00",
-  "sourceItemCount": 333,
+  "generatedAt": "2026-10-04T20:09:43.445463+00:00",
+  "sourceItemCount": 331,
   "storyCount": 321,
   "stories": [
+    {
+      "id": "571c368522772d11",
+      "title": "मोटरसाइकल दुर्घटनामा एकको मृत्यु",
+      "summary": "चितवन । चितवनको इच्छाकामना गाउँपालिका–७ सिमलढापमा मोटरसाइकल दुर्घटनामा परी भरतपुर महानगरपालिका–११ निवासी २९ वर्षीय देवेन्द्र थापाको मृत्यु भएको छ । सिमलढापबाट भरतपुरतर्फ आउँदै गरेको बुलेट मोटरसाइकल आइतबार साँझ अनियन्त्रित भई सडक छेउको रुखमा ठोक्किँदा देवेन्द्र थापा",
+      "publishedAt": "2026-10-04T19:35:07+00:00",
+      "updatedAt": "2026-10-04T19:35:07+00:00",
+      "sourceCount": 1,
+      "languageCount": 1,
+      "sources": [
+        "Ratopati"
+      ],
+      "categories": [
+        "politics",
+        "sports"
+      ],
+      "items": [
+        {
+          "id": "01377aa0ab1df986",
+          "title": "मोटरसाइकल दुर्घटनामा एकको मृत्यु",
+          "link": "https://www.ratopati.com/story/597184/one-dead-in-motorcycle-accident",
+          "source": "Ratopati",
+          "sourceUrl": "https://ratopati.com/feed",
+          "pubDate": "2026-10-04T19:35:07+00:00",
+          "categories": [
+            "politics",
+            "sports"
+          ],
+          "image": "https://npcdn.ratopati.com/media/news/accident-durghatana-acc-cartoon_nrzrx5tby7_4TzKnsDq9Y.jpg",
+          "images": [
+            "https://npcdn.ratopati.com/media/news/accident-durghatana-acc-cartoon_nrzrx5tby7_4TzKnsDq9Y.jpg"
+          ],
+          "description": "चितवन । चितवनको इच्छाकामना गाउँपालिका–७ सिमलढापमा मोटरसाइकल दुर्घटनामा परी भरतपुर महानगरपालिका–११ निवासी २९ वर्षीय देवेन्द्र थापाको मृत्यु भएको छ । सिमलढापबाट भरतपुरतर्फ आउँदै गरेको बुलेट मोटरसाइकल आइतबार साँझ अनियन्त्रित भई सडक छेउको रुखमा ठोक्किँदा देवेन्द्र थापा"
+        }
+      ]
+    },
+    {
+      "id": "b5f0f026650a6342",
+      "title": "पढाइसँगै सीप, अनुसन्धान र नवप्रवर्तनमा जोड दिनुपर्छ: मन्त्री पुन",
+      "summary": "सुनसरी । विज्ञान प्रविधि तथा नवप्रवर्तनमन्त्री महावीर पुनले औपचारिक शिक्षा प्राप्त गरेकै आधारमा रोजगारी सुनिश्चित नहुने भएकाले विद्यार्थीलाई सीप, अनुसन्धान तथा नवप्रवर्तनमा केन्द्रित गर्नुपर्ने बताएका छन् । युवा, श्रम तथा रोजगार मन्त्रालयको आयोजनामा यही असोज १४",
+      "publishedAt": "2026-10-04T19:32:02+00:00",
+      "updatedAt": "2026-10-04T19:32:02+00:00",
+      "sourceCount": 1,
+      "languageCount": 1,
+      "sources": [
+        "Ratopati"
+      ],
+      "categories": [
+        "politics",
+        "sports"
+      ],
+      "items": [
+        {
+          "id": "eca96297e0cf5299",
+          "title": "पढाइसँगै सीप, अनुसन्धान र नवप्रवर्तनमा जोड दिनुपर्छ: मन्त्री पुन",
+          "link": "https://www.ratopati.com/story/597183/emphasis-should-be-placed-on-skills-research-and-innovation-along-with-education-minister-pun",
+          "source": "Ratopati",
+          "sourceUrl": "https://ratopati.com/feed",
+          "pubDate": "2026-10-04T19:32:02+00:00",
+          "categories": [
+            "politics",
+            "sports"
+          ],
+          "image": "https://npcdn.ratopati.com/media/news/mahabir-pun_fhwwgIuM2M.jpg",
+          "images": [
+            "https://npcdn.ratopati.com/media/news/mahabir-pun_fhwwgIuM2M.jpg"
+          ],
+          "description": "सुनसरी । विज्ञान प्रविधि तथा नवप्रवर्तनमन्त्री महावीर पुनले औपचारिक शिक्षा प्राप्त गरेकै आधारमा रोजगारी सुनिश्चित नहुने भएकाले विद्यार्थीलाई सीप, अनुसन्धान तथा नवप्रवर्तनमा केन्द्रित गर्नुपर्ने बताएका छन् । युवा, श्रम तथा रोजगार मन्त्रालयको आयोजनामा यही असोज १४"
+        }
+      ]
+    },
+    {
+      "id": "9956906ae0d9f04b",
+      "title": "भोटेकोशी बाढी: रसुवाका ४५ विद्यार्थी अझै सम्पर्कविहीन",
+      "summary": "रसुवा । गत भदौ १० को विनासकारी बाढीका कारण रसुवाका तीन सरकारी र एक निजी विद्यालयका ४५ जना विद्यार्थी अझै सम्पर्कविहीन रहेका छन् । शिक्षा तथा समन्वय इकाई धुन्चेका प्रमुख दुर्गाप्रसाद सिलवालका अनुसार बाढीका कारण जिल्लाका",
+      "publishedAt": "2026-10-04T19:20:10+00:00",
+      "updatedAt": "2026-10-04T19:20:10+00:00",
+      "sourceCount": 1,
+      "languageCount": 1,
+      "sources": [
+        "Ratopati"
+      ],
+      "categories": [
+        "politics",
+        "sports"
+      ],
+      "items": [
+        {
+          "id": "b131e9520afa2a55",
+          "title": "भोटेकोशी बाढी: रसुवाका ४५ विद्यार्थी अझै सम्पर्कविहीन",
+          "link": "https://www.ratopati.com/story/597182/bhotekoshi-flood-45-students-from-rasuwa-still-without-contact",
+          "source": "Ratopati",
+          "sourceUrl": "https://ratopati.com/feed",
+          "pubDate": "2026-10-04T19:20:10+00:00",
+          "categories": [
+            "politics",
+            "sports"
+          ],
+          "image": "https://npcdn.ratopati.com/media/news/rasuwa-bhotekoshi-badhi_xJnNFwOg50.webp",
+          "images": [
+            "https://npcdn.ratopati.com/media/news/rasuwa-bhotekoshi-badhi_xJnNFwOg50.webp"
+          ],
+          "description": "रसुवा । गत भदौ १० को विनासकारी बाढीका कारण रसुवाका तीन सरकारी र एक निजी विद्यालयका ४५ जना विद्यार्थी अझै सम्पर्कविहीन रहेका छन् । शिक्षा तथा समन्वय इकाई धुन्चेका प्रमुख दुर्गाप्रसाद सिलवालका अनुसार बाढीका कारण जिल्लाका"
+        }
+      ]
+    },
+    {
+      "id": "8fd7ba6d49ee3392",
+      "title": "मुख्यमन्त्री थापाद्वारा स्काउट शिक्षाको उद्घाटन",
+      "summary": "भक्तपुर । बागमती प्रदेशका मुख्यमन्त्री किरण थापामगरले भक्तपुरमा आइतबार स्काउट शिक्षाको उद्घाटन गरेका छन् । चाँगुनारायण नगरपालिकास्थित श्री महेन्द्रग्राम माध्यमिक विद्यालयमा आयोजित कार्यक्रममा स्काउट शिक्षाको उद्घाटन गर्दै उनले विद्यार्थीमा देश प्रेमको भावना जागृत गराउन यस्तो शिक्षा",
+      "publishedAt": "2026-10-04T18:41:40+00:00",
+      "updatedAt": "2026-10-04T18:41:40+00:00",
+      "sourceCount": 1,
+      "languageCount": 1,
+      "sources": [
+        "Ratopati"
+      ],
+      "categories": [
+        "politics",
+        "sports"
+      ],
+      "items": [
+        {
+          "id": "54b9e56c80422235",
+          "title": "मुख्यमन्त्री थापाद्वारा स्काउट शिक्षाको उद्घाटन",
+          "link": "https://www.ratopati.com/story/597181/chief-minister-thapa-inaugurates-scout-education",
+          "source": "Ratopati",
+          "sourceUrl": "https://ratopati.com/feed",
+          "pubDate": "2026-10-04T18:41:40+00:00",
+          "categories": [
+            "politics",
+            "sports"
+          ],
+          "image": "https://npcdn.ratopati.com/media/news/yQPRTQ2qCt.jpg",
+          "images": [
+            "https://npcdn.ratopati.com/media/news/yQPRTQ2qCt.jpg"
+          ],
+          "description": "भक्तपुर । बागमती प्रदेशका मुख्यमन्त्री किरण थापामगरले भक्तपुरमा आइतबार स्काउट शिक्षाको उद्घाटन गरेका छन् । चाँगुनारायण नगरपालिकास्थित श्री महेन्द्रग्राम माध्यमिक विद्यालयमा आयोजित कार्यक्रममा स्काउट शिक्षाको उद्घाटन गर्दै उनले विद्यार्थीमा देश प्रेमको भावना जागृत गराउन यस्तो शिक्षा"
+        }
+      ]
+    },
+    {
+      "id": "daff6235c7e2bf3a",
+      "title": "वर्षाका कारण अवरुद्ध सडक दसैँअघि नै सञ्चालनमा आउने",
+      "summary": "बागमती । वर्षाका कारण गत असारदेखि सवारीसाधन आवतजावत रोकिएको बकैया गाउँपालिका–६ सुदादेखि ज्यामिरेसम्मको बाटो दसैँअघि नै सञ्चालनमा ल्याउने गरी मर्मत गर्न थालिएको छ । वर्षाको समयमा उक्त सडकखण्डमा पर्ने ज्यामिरे खोलामा पानीको बहाव बढ्नुका साथै ठाउँठाउँमा",
+      "publishedAt": "2026-10-04T18:36:27+00:00",
+      "updatedAt": "2026-10-04T18:36:27+00:00",
+      "sourceCount": 1,
+      "languageCount": 1,
+      "sources": [
+        "Ratopati"
+      ],
+      "categories": [
+        "politics",
+        "sports"
+      ],
+      "items": [
+        {
+          "id": "00dca8e6080cf7b2",
+          "title": "वर्षाका कारण अवरुद्ध सडक दसैँअघि नै सञ्चालनमा आउने",
+          "link": "https://www.ratopati.com/story/597179/road-blocked-due-to-rain-to-be-operational-before-dashain",
+          "source": "Ratopati",
+          "sourceUrl": "https://ratopati.com/feed",
+          "pubDate": "2026-10-04T18:36:27+00:00",
+          "categories": [
+            "politics",
+            "sports"
+          ],
+          "image": "https://rpcdn.ratopati.com/media/albums/makawanpur_u1HVdNoaEH.jpg",
+          "images": [
+            "https://rpcdn.ratopati.com/media/albums/makawanpur_u1HVdNoaEH.jpg"
+          ],
+          "description": "बागमती । वर्षाका कारण गत असारदेखि सवारीसाधन आवतजावत रोकिएको बकैया गाउँपालिका–६ सुदादेखि ज्यामिरेसम्मको बाटो दसैँअघि नै सञ्चालनमा ल्याउने गरी मर्मत गर्न थालिएको छ । वर्षाको समयमा उक्त सडकखण्डमा पर्ने ज्यामिरे खोलामा पानीको बहाव बढ्नुका साथै ठाउँठाउँमा"
+        }
+      ]
+    },
+    {
+      "id": "cf9e77355594856f",
+      "title": "कांग्रेस १५औँ महाधिवेशन : कार्यतालिका अनुसार आज के–के हुँदैछ ?",
+      "summary": "काठमाडौँ । नेपाली कांग्रेसको १५औँ महाधिवेशनअन्तर्गत दोस्रो दिन आज (सोमबार) बन्द सत्र सञ्चालन हुनुका साथै नयाँ केन्द्रीय कार्यसमिति चयनका लागि निर्वाचन प्रक्रिया पनि सुरु हुँदैछ । आइतबार काठमाडौँमा उद्घाटन सत्र सम्पन्न भएपछि आज बिहान ९ बजेदेखि",
+      "publishedAt": "2026-10-04T18:33:34+00:00",
+      "updatedAt": "2026-10-04T18:33:34+00:00",
+      "sourceCount": 1,
+      "languageCount": 1,
+      "sources": [
+        "Ratopati"
+      ],
+      "categories": [
+        "politics",
+        "sports"
+      ],
+      "items": [
+        {
+          "id": "6d0c63f4685fa1fa",
+          "title": "कांग्रेस १५औँ महाधिवेशन : कार्यतालिका अनुसार आज के–के हुँदैछ ?",
+          "link": "https://www.ratopati.com/story/597180/nepali-congress-15th-general-convention-whats-happening-today-according-to-the-schedule",
+          "source": "Ratopati",
+          "sourceUrl": "https://ratopati.com/feed",
+          "pubDate": "2026-10-04T18:33:34+00:00",
+          "categories": [
+            "politics",
+            "sports"
+          ],
+          "image": "https://npcdn.ratopati.com/media/news/nepali-congress-15-aau-mahadhibeshan--1442_WqYX8SewYb.webp",
+          "images": [
+            "https://npcdn.ratopati.com/media/news/nepali-congress-15-aau-mahadhibeshan--1442_WqYX8SewYb.webp"
+          ],
+          "description": "काठमाडौँ । नेपाली कांग्रेसको १५औँ महाधिवेशनअन्तर्गत दोस्रो दिन आज (सोमबार) बन्द सत्र सञ्चालन हुनुका साथै नयाँ केन्द्रीय कार्यसमिति चयनका लागि निर्वाचन प्रक्रिया पनि सुरु हुँदैछ । आइतबार काठमाडौँमा उद्घाटन सत्र सम्पन्न भएपछि आज बिहान ९ बजेदेखि"
+        }
+      ]
+    },
+    {
+      "id": "4f00e95c51a94853",
+      "title": "कांग्रेस महाधिवेशनको दोस्रो दिन : आज बन्द सत्र",
+      "summary": "नेपाली कांग्रेसको १५औँ महाधिवेशनअन्तर्गत दोस्रो दिन आज (सोमबार) देखि बन्द सत्र सुरु हुँदै छ । आइतबार काठमाडौँमा उद्घाटन सत्र सम्पन्न भएपछि आज बिहान ९ बजेदेखि बन्द सत्र सुरु हुन लागेको प्रवक्ता देवराज चालिसेले जानकारी दिएका छन्",
+      "publishedAt": "2026-10-04T18:17:00+00:00",
+      "updatedAt": "2026-10-04T18:17:00+00:00",
+      "sourceCount": 1,
+      "languageCount": 1,
+      "sources": [
+        "Ratopati"
+      ],
+      "categories": [
+        "politics",
+        "sports"
+      ],
+      "items": [
+        {
+          "id": "52a16eefffa997b7",
+          "title": "कांग्रेस महाधिवेशनको दोस्रो दिन : आज बन्द सत्र",
+          "link": "https://www.ratopati.com/story/597178/second-day-of-the-congress-general-convention-closed-session-today",
+          "source": "Ratopati",
+          "sourceUrl": "https://ratopati.com/feed",
+          "pubDate": "2026-10-04T18:17:00+00:00",
+          "categories": [
+            "politics",
+            "sports"
+          ],
+          "image": "https://npcdn.ratopati.com/media/news/congress1_Rv5woRnSwx.webp",
+          "images": [
+            "https://npcdn.ratopati.com/media/news/congress1_Rv5woRnSwx.webp"
+          ],
+          "description": "नेपाली कांग्रेसको १५औँ महाधिवेशनअन्तर्गत दोस्रो दिन आज (सोमबार) देखि बन्द सत्र सुरु हुँदै छ । आइतबार काठमाडौँमा उद्घाटन सत्र सम्पन्न भएपछि आज बिहान ९ बजेदेखि बन्द सत्र सुरु हुन लागेको प्रवक्ता देवराज चालिसेले जानकारी दिएका छन्"
+        }
+      ]
+    },
+    {
+      "id": "eb61642ccbbdaa26",
+      "title": "१२ बजे १२ समाचार : बालेनलाई काउन्टरदेखि दसैँपछि थप राजदूत नियुक्ति गर्दै सरकारसम्म",
+      "summary": "काठमाडौँ । आज दिनभरका मुख्य १२ घटनाक्रम रातोपाटी डटकमको नियमित प्रस्तुति ‘१२ बजे १२ समाचार’मा प्रस्तुत गरेका छौँ– १. बालेनलाई कांग्रेस, एमाले र नेकपा नेताको काउन्टर खुलामञ्चको प्रसङ्ग जोडेर नेपाली कांग्रेसमाथि व्यङ्ग्य प्रहार गरेका प्रधानमन्त्री बालेन्द्र (बालेन)",
+      "publishedAt": "2026-10-04T18:15:00+00:00",
+      "updatedAt": "2026-10-04T18:15:00+00:00",
+      "sourceCount": 1,
+      "languageCount": 1,
+      "sources": [
+        "Ratopati"
+      ],
+      "categories": [
+        "politics",
+        "sports"
+      ],
+      "items": [
+        {
+          "id": "718343de2e351a70",
+          "title": "१२ बजे १२ समाचार : बालेनलाई काउन्टरदेखि दसैँपछि थप राजदूत नियुक्ति गर्दै सरकारसम्म",
+          "link": "https://www.ratopati.com/story/597177/12-oclock-12-news-balen-from-the-counter-of-congress-uml-and-ncp-leaders-to-the-government-appointing-more-ambassadors-after-dashain",
+          "source": "Ratopati",
+          "sourceUrl": "https://ratopati.com/feed",
+          "pubDate": "2026-10-04T18:15:00+00:00",
+          "categories": [
+            "politics",
+            "sports"
+          ],
+          "image": "https://npcdn.ratopati.com/media/news/cover-12-news_JLAq8t0MiM.webp",
+          "images": [
+            "https://npcdn.ratopati.com/media/news/cover-12-news_JLAq8t0MiM.webp"
+          ],
+          "description": "काठमाडौँ । आज दिनभरका मुख्य १२ घटनाक्रम रातोपाटी डटकमको नियमित प्रस्तुति ‘१२ बजे १२ समाचार’मा प्रस्तुत गरेका छौँ– १. बालेनलाई कांग्रेस, एमाले र नेकपा नेताको काउन्टर खुलामञ्चको प्रसङ्ग जोडेर नेपाली कांग्रेसमाथि व्यङ्ग्य प्रहार गरेका प्रधानमन्त्री बालेन्द्र (बालेन)"
+        }
+      ]
+    },
+    {
+      "id": "b914342733f23958",
+      "title": "कांग्रेस १५औँ महाधिवेशनः निर्वाचन कार्यतालिका सार्वजनिक",
+      "summary": "काठमाडौँ, असोज १८ गते । नेपाली कांग्रेसको निर्वाचन समितिले केन्द्रीय कार्यसमितिको निर्वाचनका लागि कार्यतालिका सार्वजनिक गरेको छ ।कांग्रेस केन्द्रीय निर्वाचन समितिका सदस्यसचिव राजु...",
+      "publishedAt": "2026-10-04T18:14:41+00:00",
+      "updatedAt": "2026-10-04T18:14:41+00:00",
+      "sourceCount": 1,
+      "languageCount": 1,
+      "sources": [
+        "Gorkhapatra"
+      ],
+      "categories": [
+        "business",
+        "politics"
+      ],
+      "items": [
+        {
+          "id": "3332a2b663d2f9e0",
+          "title": "कांग्रेस १५औँ महाधिवेशनः निर्वाचन कार्यतालिका सार्वजनिक",
+          "link": "https://gorkhapatraonline.com/news/225434",
+          "source": "Gorkhapatra",
+          "sourceUrl": "https://gorkhapatraonline.com/rss",
+          "pubDate": "2026-10-04T18:14:41+00:00",
+          "categories": [
+            "politics",
+            "business"
+          ],
+          "image": "https://gorkhapatraonline.com/storage/media/386487/conversions/GD_KTM_0K0A9661-original.jpg",
+          "images": [
+            "https://gorkhapatraonline.com/storage/media/386487/conversions/GD_KTM_0K0A9661-original.jpg"
+          ],
+          "description": "काठमाडौँ, असोज १८ गते । नेपाली कांग्रेसको निर्वाचन समितिले केन्द्रीय कार्यसमितिको निर्वाचनका लागि कार्यतालिका सार्वजनिक गरेको छ ।कांग्रेस केन्द्रीय निर्वाचन समितिका सदस्यसचिव राजु..."
+        }
+      ]
+    },
+    {
+      "id": "712d6140184dd65e",
+      "title": "Speaker Aryal off to Tanzania for IPU Assembly",
+      "summary": "Kathmandu, Oct 4: Speaker Dol Prasad (DP) Aryal left here today for Tanzania, leading a parliamentary delegation to part...",
+      "publishedAt": "2026-10-04T18:06:55+00:00",
+      "updatedAt": "2026-10-04T18:06:55+00:00",
+      "sourceCount": 1,
+      "languageCount": 1,
+      "sources": [
+        "The Rising Nepal"
+      ],
+      "categories": [
+        "business",
+        "politics",
+        "sports",
+        "world"
+      ],
+      "items": [
+        {
+          "id": "e771c75e260536e1",
+          "title": "Speaker Aryal off to Tanzania for IPU Assembly",
+          "link": "https://risingnepaldaily.com/news/87394",
+          "source": "The Rising Nepal",
+          "sourceUrl": "https://risingnepaldaily.com/rss",
+          "pubDate": "2026-10-04T18:06:55+00:00",
+          "categories": [
+            "politics",
+            "business",
+            "world",
+            "sports"
+          ],
+          "image": "",
+          "images": [],
+          "description": "Kathmandu, Oct 4: Speaker Dol Prasad (DP) Aryal left here today for Tanzania, leading a parliamentary delegation to part..."
+        }
+      ]
+    },
+    {
+      "id": "f2aaf5961ee433f5",
+      "title": "‘समृद्धिका लागि तीन तहबिच समन्वय, सहकार्य र सहअस्तित्व आवश्यक छ’",
+      "summary": "ललितपुर, असोज १८ गते । बागमती प्रदेशका मुख्यमन्त्री किरण थापामगरले सङ्घीयताको कार्यान्वयनमा भएको कमजोर पक्षको सुधार गर्दै समृद्ध बागमती प्रदेश निर्माणका लागि सङ्घ, प्रदेश र स्थानीय...",
+      "publishedAt": "2026-10-04T18:05:11+00:00",
+      "updatedAt": "2026-10-04T18:05:11+00:00",
+      "sourceCount": 1,
+      "languageCount": 1,
+      "sources": [
+        "Gorkhapatra"
+      ],
+      "categories": [
+        "business",
+        "politics"
+      ],
+      "items": [
+        {
+          "id": "9dff5c26fac93f64",
+          "title": "‘समृद्धिका लागि तीन तहबिच समन्वय, सहकार्य र सहअस्तित्व आवश्यक छ’",
+          "link": "https://gorkhapatraonline.com/news/225433",
+          "source": "Gorkhapatra",
+          "sourceUrl": "https://gorkhapatraonline.com/rss",
+          "pubDate": "2026-10-04T18:05:11+00:00",
+          "categories": [
+            "politics",
+            "business"
+          ],
+          "image": "https://gorkhapatraonline.com/storage/media/386486/conversions/MG_LALITPUR_RSS_18_IMG_20261004_154044-(1)-original.jpg",
+          "images": [
+            "https://gorkhapatraonline.com/storage/media/386486/conversions/MG_LALITPUR_RSS_18_IMG_20261004_154044-(1)-original.jpg"
+          ],
+          "description": "ललितपुर, असोज १८ गते । बागमती प्रदेशका मुख्यमन्त्री किरण थापामगरले सङ्घीयताको कार्यान्वयनमा भएको कमजोर पक्षको सुधार गर्दै समृद्ध बागमती प्रदेश निर्माणका लागि सङ्घ, प्रदेश र स्थानीय..."
+        }
+      ]
+    },
+    {
+      "id": "db933d29d3d52477",
+      "title": "फिर्के खोलाका २६ संरचना हटाइयो",
+      "summary": "",
+      "publishedAt": "2026-10-04T17:52:56+00:00",
+      "updatedAt": "2026-10-04T17:52:56+00:00",
+      "sourceCount": 1,
+      "languageCount": 1,
+      "sources": [
+        "Baahrakhari"
+      ],
+      "categories": [
+        "business",
+        "politics",
+        "society"
+      ],
+      "items": [
+        {
+          "id": "58c5fd81054cf029",
+          "title": "फिर्के खोलाका २६ संरचना हटाइयो",
+          "link": "https://baahrakhari.com/detail/503765",
+          "source": "Baahrakhari",
+          "sourceUrl": "https://baahrakhari.com/feed",
+          "pubDate": "2026-10-04T17:52:56+00:00",
+          "categories": [
+            "politics",
+            "business",
+            "society"
+          ],
+          "image": "",
+          "images": [],
+          "description": ""
+        }
+      ]
+    },
+    {
+      "id": "e3c9ba7e64438890",
+      "title": "स्वास्थ्य शिविरबाट चार सय जना लाभान्वित",
+      "summary": "पर्सा । बाराको परवानीपुर गाउँपालिका–१, बुनियादमा आयोजित निःशुल्क आँखा तथा दन्त स्वास्थ्य शिविरबाट चार सय जना लाभान्वित भएका छन् । एलएस हस्पिटल एन्ड मेडिकल कलेजको सहयोगमा आयोजित शिविरमा स्थानीयवासीको आँखा तथा दाँतको स्वास्थ्य परीक्षण गर्नुका साथै",
+      "publishedAt": "2026-10-04T17:38:19+00:00",
+      "updatedAt": "2026-10-04T17:38:19+00:00",
+      "sourceCount": 1,
+      "languageCount": 1,
+      "sources": [
+        "Ratopati"
+      ],
+      "categories": [
+        "politics",
+        "sports"
+      ],
+      "items": [
+        {
+          "id": "a51d305800ecce1c",
+          "title": "स्वास्थ्य शिविरबाट चार सय जना लाभान्वित",
+          "link": "https://www.ratopati.com/story/597176/four-hundred-people-benefited-from-the-health-camp",
+          "source": "Ratopati",
+          "sourceUrl": "https://ratopati.com/feed",
+          "pubDate": "2026-10-04T17:38:19+00:00",
+          "categories": [
+            "politics",
+            "sports"
+          ],
+          "image": "https://npcdn.ratopati.com/media/news/parsa_2glcmyd7j0_2aMfxmuNuL.jpg",
+          "images": [
+            "https://npcdn.ratopati.com/media/news/parsa_2glcmyd7j0_2aMfxmuNuL.jpg"
+          ],
+          "description": "पर्सा । बाराको परवानीपुर गाउँपालिका–१, बुनियादमा आयोजित निःशुल्क आँखा तथा दन्त स्वास्थ्य शिविरबाट चार सय जना लाभान्वित भएका छन् । एलएस हस्पिटल एन्ड मेडिकल कलेजको सहयोगमा आयोजित शिविरमा स्थानीयवासीको आँखा तथा दाँतको स्वास्थ्य परीक्षण गर्नुका साथै"
+        }
+      ]
+    },
+    {
+      "id": "d98c0a1930faeb79",
+      "title": "विश्वकप लिग–२ खेल्ने नेपाली क्रिकेट टोलीको बिदाइ",
+      "summary": "काठमाडौँ, असोज १८ गते । आइसीसी विश्वकप क्रिकेट लिग–२ एकदिवसीय श्रृङ्खला खेल्ने नेपाली राष्ट्रिय पुरुष क्रिकेट टोलीको बिदाइ गरिएको छ ।यहाँ आज आयोजित कार्यक्रममा नेपाल क्रिकेट सङ्घ (...",
+      "publishedAt": "2026-10-04T17:35:57+00:00",
+      "updatedAt": "2026-10-04T17:35:57+00:00",
+      "sourceCount": 1,
+      "languageCount": 1,
+      "sources": [
+        "Gorkhapatra"
+      ],
+      "categories": [
+        "business",
+        "politics"
+      ],
+      "items": [
+        {
+          "id": "3f48d5c1cc9573b2",
+          "title": "विश्वकप लिग–२ खेल्ने नेपाली क्रिकेट टोलीको बिदाइ",
+          "link": "https://gorkhapatraonline.com/news/225430",
+          "source": "Gorkhapatra",
+          "sourceUrl": "https://gorkhapatraonline.com/rss",
+          "pubDate": "2026-10-04T17:35:57+00:00",
+          "categories": [
+            "politics",
+            "business"
+          ],
+          "image": "https://gorkhapatraonline.com/storage/media/386483/conversions/1000100342-original.jpg",
+          "images": [
+            "https://gorkhapatraonline.com/storage/media/386483/conversions/1000100342-original.jpg"
+          ],
+          "description": "काठमाडौँ, असोज १८ गते । आइसीसी विश्वकप क्रिकेट लिग–२ एकदिवसीय श्रृङ्खला खेल्ने नेपाली राष्ट्रिय पुरुष क्रिकेट टोलीको बिदाइ गरिएको छ ।यहाँ आज आयोजित कार्यक्रममा नेपाल क्रिकेट सङ्घ (..."
+        }
+      ]
+    },
+    {
+      "id": "c90986a57bb99769",
+      "title": "कांग्रेस महाधिवेशन आत्मसमीक्षा र पुनर्जागरणको थलो बन्नुपर्छ : पुष्पा भूसाल [भिडियो]",
+      "summary": "",
+      "publishedAt": "2026-10-04T17:34:42+00:00",
+      "updatedAt": "2026-10-04T17:34:42+00:00",
+      "sourceCount": 1,
+      "languageCount": 1,
+      "sources": [
+        "Nepal Samaya"
+      ],
+      "categories": [
+        "entertainment",
+        "politics"
+      ],
+      "items": [
+        {
+          "id": "269ac929d010e263",
+          "title": "कांग्रेस महाधिवेशन आत्मसमीक्षा र पुनर्जागरणको थलो बन्नुपर्छ : पुष्पा भूसाल [भिडियो]",
+          "link": "https://nepalsamaya.com/detail/146671",
+          "source": "Nepal Samaya",
+          "sourceUrl": "https://nepalsamaya.com/feed",
+          "pubDate": "2026-10-04T17:34:42+00:00",
+          "categories": [
+            "politics",
+            "entertainment"
+          ],
+          "image": "",
+          "images": [],
+          "description": ""
+        }
+      ]
+    },
+    {
+      "id": "87e4ba85e94dcda5",
+      "title": "संविधान निर्माणपछि सरकार बनाउने र गिराउने खेल धेरै भयो : पूर्वप्रधानमन्त्री भट्टराई [भिडियो]",
+      "summary": "",
+      "publishedAt": "2026-10-04T17:32:34+00:00",
+      "updatedAt": "2026-10-04T17:32:34+00:00",
+      "sourceCount": 2,
+      "languageCount": 2,
+      "sources": [
+        "Nepal Samaya",
+        "Nepal Views"
+      ],
+      "categories": [
+        "business",
+        "entertainment",
+        "politics",
+        "technology"
+      ],
+      "items": [
+        {
+          "id": "e457ddc1fc7827c1",
+          "title": "संविधान निर्माणपछि सरकार बनाउने र गिराउने खेल धेरै भयो : पूर्वप्रधानमन्त्री भट्टराई [भिडियो]",
+          "link": "https://nepalsamaya.com/detail/146670",
+          "source": "Nepal Samaya",
+          "sourceUrl": "https://nepalsamaya.com/feed",
+          "pubDate": "2026-10-04T17:32:34+00:00",
+          "categories": [
+            "politics",
+            "entertainment"
+          ],
+          "image": "",
+          "images": [],
+          "description": ""
+        },
+        {
+          "id": "b05ab27a0d118d74",
+          "title": "संविधान निर्माणपछि सरकार बनाउने र गिराउने खेल धेरै भयो - बाबुराम भट्टराई",
+          "link": "https://www.nepalviews.com/story/426302/after-the-constitution-was-drafted-there-have-been-many-games-of-forming-and-toppling-governments-baburam-bhattarai",
+          "source": "Nepal Views",
+          "sourceUrl": "https://www.nepalviews.com/feed/",
+          "pubDate": "2026-10-04T11:02:45+00:00",
+          "categories": [
+            "politics",
+            "business",
+            "technology"
+          ],
+          "image": "https://nepalviews.cdnsolution.net/en/media/setting/banner_FHsSzcWYKk.jpg",
+          "images": [
+            "https://nepalviews.cdnsolution.net/en/media/setting/banner_FHsSzcWYKk.jpg"
+          ],
+          "description": ""
+        }
+      ]
+    },
+    {
+      "id": "333888e5cb64923d",
+      "title": "खोरेत रोगविरुद्ध खोप लगाउन सुरु",
+      "summary": "चन्द्र पन्दाकताप्लेजुङ, असोज १८ गते । ताप्लेजुङको सिदिङ्वा गाउँपालिकामा खोरेत रोगविरुद्धको खोप अभियान सुरु भएको छ । गाउँपालिकाले किसानले पालेका पशुचौपायामा खोरेत रोगबिरुद्धको खोप ल...",
+      "publishedAt": "2026-10-04T17:31:36+00:00",
+      "updatedAt": "2026-10-04T17:31:36+00:00",
+      "sourceCount": 1,
+      "languageCount": 1,
+      "sources": [
+        "Gorkhapatra"
+      ],
+      "categories": [
+        "business",
+        "politics"
+      ],
+      "items": [
+        {
+          "id": "4e8cd8e7ebe3f407",
+          "title": "खोरेत रोगविरुद्ध खोप लगाउन सुरु",
+          "link": "https://gorkhapatraonline.com/news/225429",
+          "source": "Gorkhapatra",
+          "sourceUrl": "https://gorkhapatraonline.com/rss",
+          "pubDate": "2026-10-04T17:31:36+00:00",
+          "categories": [
+            "politics",
+            "business"
+          ],
+          "image": "https://gorkhapatraonline.com/storage/media/386482/conversions/Khoret-Vaccin-Taplejung-original.jpg",
+          "images": [
+            "https://gorkhapatraonline.com/storage/media/386482/conversions/Khoret-Vaccin-Taplejung-original.jpg"
+          ],
+          "description": "चन्द्र पन्दाकताप्लेजुङ, असोज १८ गते । ताप्लेजुङको सिदिङ्वा गाउँपालिकामा खोरेत रोगविरुद्धको खोप अभियान सुरु भएको छ । गाउँपालिकाले किसानले पालेका पशुचौपायामा खोरेत रोगबिरुद्धको खोप ल..."
+        }
+      ]
+    },
+    {
+      "id": "9019286a60cd2347",
+      "title": "संविधानमा अधिकार त लेखिए तर दिएनन् गगनजी : रेशमलाल चौधरी [भिडियो]",
+      "summary": "",
+      "publishedAt": "2026-10-04T17:30:56+00:00",
+      "updatedAt": "2026-10-04T17:30:56+00:00",
+      "sourceCount": 1,
+      "languageCount": 1,
+      "sources": [
+        "Nepal Samaya"
+      ],
+      "categories": [
+        "entertainment",
+        "politics"
+      ],
+      "items": [
+        {
+          "id": "608430ecf9676ae6",
+          "title": "संविधानमा अधिकार त लेखिए तर दिएनन् गगनजी : रेशमलाल चौधरी [भिडियो]",
+          "link": "https://nepalsamaya.com/detail/146669",
+          "source": "Nepal Samaya",
+          "sourceUrl": "https://nepalsamaya.com/feed",
+          "pubDate": "2026-10-04T17:30:56+00:00",
+          "categories": [
+            "politics",
+            "entertainment"
+          ],
+          "image": "",
+          "images": [],
+          "description": ""
+        }
+      ]
+    },
+    {
+      "id": "23dcc21d22e16d9a",
+      "title": "भन्सार छलीका सामान बरामद",
+      "summary": "रुपन्देही । रुपन्देही प्रहरीले जिल्लाका विभिन्न स्थानबाट भन्सार छली तथा चोरी पैठारी गरी ल्याइएका रु पाँच लाख एक हजार ३६८ बराबरका सामान बरामद गरेको छ । जिल्ला प्रहरी कार्यालय रुपन्देहीबाट खटिएको प्रहरी टोलीले जिल्लाका विभिन्न स्थानमा",
+      "publishedAt": "2026-10-04T17:30:26+00:00",
+      "updatedAt": "2026-10-04T17:30:26+00:00",
+      "sourceCount": 1,
+      "languageCount": 1,
+      "sources": [
+        "Ratopati"
+      ],
+      "categories": [
+        "politics",
+        "sports"
+      ],
+      "items": [
+        {
+          "id": "bd88f91a6f663451",
+          "title": "भन्सार छलीका सामान बरामद",
+          "link": "https://www.ratopati.com/story/597175/customs-evasion-goods-seized",
+          "source": "Ratopati",
+          "sourceUrl": "https://ratopati.com/feed",
+          "pubDate": "2026-10-04T17:30:26+00:00",
+          "categories": [
+            "politics",
+            "sports"
+          ],
+          "image": "https://rpcdn.ratopati.com/media/albums/rupandehi_3wohmj8N79.jpg",
+          "images": [
+            "https://rpcdn.ratopati.com/media/albums/rupandehi_3wohmj8N79.jpg"
+          ],
+          "description": "रुपन्देही । रुपन्देही प्रहरीले जिल्लाका विभिन्न स्थानबाट भन्सार छली तथा चोरी पैठारी गरी ल्याइएका रु पाँच लाख एक हजार ३६८ बराबरका सामान बरामद गरेको छ । जिल्ला प्रहरी कार्यालय रुपन्देहीबाट खटिएको प्रहरी टोलीले जिल्लाका विभिन्न स्थानमा"
+        }
+      ]
+    },
+    {
+      "id": "72972e6c5b67ef9d",
+      "title": "देश अँध्यारो सुरुङतर्फ प्रवेश गर्दैछ, मान्छे फेरेर मात्रै समस्या समाधान नहुने रहेछ : लिङ्देन [भिडियो]",
+      "summary": "",
+      "publishedAt": "2026-10-04T17:29:00+00:00",
+      "updatedAt": "2026-10-04T17:29:00+00:00",
+      "sourceCount": 1,
+      "languageCount": 1,
+      "sources": [
+        "Nepal Samaya"
+      ],
+      "categories": [
+        "entertainment",
+        "politics"
+      ],
+      "items": [
+        {
+          "id": "e5b8aa4f50e4df1b",
+          "title": "देश अँध्यारो सुरुङतर्फ प्रवेश गर्दैछ, मान्छे फेरेर मात्रै समस्या समाधान नहुने रहेछ : लिङ्देन [भिडियो]",
+          "link": "https://nepalsamaya.com/detail/146668",
+          "source": "Nepal Samaya",
+          "sourceUrl": "https://nepalsamaya.com/feed",
+          "pubDate": "2026-10-04T17:29:00+00:00",
+          "categories": [
+            "politics",
+            "entertainment"
+          ],
+          "image": "",
+          "images": [],
+          "description": ""
+        }
+      ]
+    },
+    {
+      "id": "e676ac614df75dfe",
+      "title": "आवश्यक विषयमा सरकारसँग हातेमालो गर्न कांग्रेस तयार छ : विश्वप्रकाश शर्मा [भिडियो]",
+      "summary": "",
+      "publishedAt": "2026-10-04T17:28:26+00:00",
+      "updatedAt": "2026-10-04T17:28:26+00:00",
+      "sourceCount": 1,
+      "languageCount": 1,
+      "sources": [
+        "Nepal Samaya"
+      ],
+      "categories": [
+        "entertainment",
+        "politics"
+      ],
+      "items": [
+        {
+          "id": "f84c963a5aad95dd",
+          "title": "आवश्यक विषयमा सरकारसँग हातेमालो गर्न कांग्रेस तयार छ : विश्वप्रकाश शर्मा [भिडियो]",
+          "link": "https://nepalsamaya.com/detail/146667",
+          "source": "Nepal Samaya",
+          "sourceUrl": "https://nepalsamaya.com/feed",
+          "pubDate": "2026-10-04T17:28:26+00:00",
+          "categories": [
+            "politics",
+            "entertainment"
+          ],
+          "image": "",
+          "images": [],
+          "description": ""
+        }
+      ]
+    },
+    {
+      "id": "7f10fa97be1b663e",
+      "title": "युक्रेनमा रुसको ड्रोन आक्रमण : दैनिक ५ लाख सवारी गुड्ने दुई प्रमुख पुल निशानामा",
+      "summary": "काठमाडौँ । युक्रेनको राजधानी किएभमा रुसले लगातार चौथो दिन पनि ड्रोन आक्रमण गरेको छ । यस क्रममा रुसी सेनाले लाखौँ सवारीसाधनका लागि महत्त्वपूर्ण मानिने सहरका दुई मुख्य पुलहरूलाई निशाना बनाएको छ । आइतबार बिहान पिवनिच्नी (उत्तरी)",
+      "publishedAt": "2026-10-04T17:27:26+00:00",
+      "updatedAt": "2026-10-04T17:27:26+00:00",
+      "sourceCount": 1,
+      "languageCount": 1,
+      "sources": [
+        "Ratopati"
+      ],
+      "categories": [
+        "politics",
+        "sports"
+      ],
+      "items": [
+        {
+          "id": "470bf3bd6a0576de",
+          "title": "युक्रेनमा रुसको ड्रोन आक्रमण : दैनिक ५ लाख सवारी गुड्ने दुई प्रमुख पुल निशानामा",
+          "link": "https://www.ratopati.com/story/597174/russian-drone-attack-in-ukraine-two-major-bridges-carrying-500000-vehicles-daily-targeted",
+          "source": "Ratopati",
+          "sourceUrl": "https://ratopati.com/feed",
+          "pubDate": "2026-10-04T17:27:26+00:00",
+          "categories": [
+            "politics",
+            "sports"
+          ],
+          "image": "https://npcdn.ratopati.com/media/news/ukrain-bridge_QpN2e4Yyyh.webp",
+          "images": [
+            "https://npcdn.ratopati.com/media/news/ukrain-bridge_QpN2e4Yyyh.webp"
+          ],
+          "description": "काठमाडौँ । युक्रेनको राजधानी किएभमा रुसले लगातार चौथो दिन पनि ड्रोन आक्रमण गरेको छ । यस क्रममा रुसी सेनाले लाखौँ सवारीसाधनका लागि महत्त्वपूर्ण मानिने सहरका दुई मुख्य पुलहरूलाई निशाना बनाएको छ । आइतबार बिहान पिवनिच्नी (उत्तरी)"
+        }
+      ]
+    },
+    {
+      "id": "fe1e6ffc3f35d84b",
+      "title": "पछिल्लो २४ घण्टामा देशभर विपद्का १९ घटना, १२ घाइते",
+      "summary": "काठमाडौँ, असोज १८ गते । पछिल्लो २४ घण्टामा देशभर १९ वटा विपद्का घटना भएका छन् । ती घटनामा परी १२ जना घाइते भएका छन् ।राष्ट्रिय विपद् जोखिम न्यूनीकरण तथा व्यवस्थापन प्राधिकरणका अनु...",
+      "publishedAt": "2026-10-04T17:26:07+00:00",
+      "updatedAt": "2026-10-04T17:26:07+00:00",
+      "sourceCount": 2,
+      "languageCount": 1,
+      "sources": [
+        "Gorkhapatra",
+        "Ratopati"
+      ],
+      "categories": [
+        "business",
+        "politics",
+        "sports"
+      ],
+      "items": [
+        {
+          "id": "a2f0ed822c7769d7",
+          "title": "पछिल्लो २४ घण्टामा देशभर विपद्का १९ घटना, १२ घाइते",
+          "link": "https://gorkhapatraonline.com/news/225428",
+          "source": "Gorkhapatra",
+          "sourceUrl": "https://gorkhapatraonline.com/rss",
+          "pubDate": "2026-10-04T17:26:07+00:00",
+          "categories": [
+            "politics",
+            "business"
+          ],
+          "image": "https://gorkhapatraonline.com/storage/media/386481/conversions/hawahure1-original.jpg",
+          "images": [
+            "https://gorkhapatraonline.com/storage/media/386481/conversions/hawahure1-original.jpg"
+          ],
+          "description": "काठमाडौँ, असोज १८ गते । पछिल्लो २४ घण्टामा देशभर १९ वटा विपद्का घटना भएका छन् । ती घटनामा परी १२ जना घाइते भएका छन् ।राष्ट्रिय विपद् जोखिम न्यूनीकरण तथा व्यवस्थापन प्राधिकरणका अनु..."
+        },
+        {
+          "id": "e69f27e94df7feed",
+          "title": "देशभर विपद्का १९ घटना, १२ घाइते",
+          "link": "https://www.ratopati.com/story/597173/19-disaster-incidents-across-the-country-12-injured",
+          "source": "Ratopati",
+          "sourceUrl": "https://ratopati.com/feed",
+          "pubDate": "2026-10-04T17:07:26+00:00",
+          "categories": [
+            "politics",
+            "sports"
+          ],
+          "image": "https://npcdn.ratopati.com/media/news/bipad_K1MTVLWec3.webp",
+          "images": [
+            "https://npcdn.ratopati.com/media/news/bipad_K1MTVLWec3.webp"
+          ],
+          "description": "काठमाडौँ । पछिल्लो २४ घण्टामा देशभर १९ वटा विपद्का घटना भएका छन् । ती घटनामा परी १२ जना घाइते भएका छन् । राष्ट्रिय विपद् जोखिम न्यूनीकरण तथा व्यवस्थापन प्राधिकरणका अनुसार असोज १७ गते बिहान १० बजेदेखि"
+        }
+      ]
+    },
+    {
+      "id": "d6aefc003192f62d",
+      "title": "पूर्वी नवलपरासीको त्रिवेणीमा वैदिक विश्वविद्यालय स्थापनार्थ अष्टाचल वैभव विराट महायज्ञ आयोजना हुने",
+      "summary": "नवलपरासी। पवित्र तीर्थ स्थल त्रिवेणी धाममा वैदिक विश्वविद्यालय स्थापनार्थ अष्टाचल धनधान्याचल श्रीगजेन्द्रमाेक्ष नारायण वैभव विराट महायज्ञ २०८३ आयोजना हुने भएको छ ।श्रीमुक्तिनाथबाबाकाे सत्संकल्पमा श्री मुक्तिनाथ पीठ वेदविद्याश्रमलाई विशिष्टतम महाविद्यालयमा अभिवृद्धि गर्दै श्रीगजेन्द्रमाेक्ष वैदिक विश्वविद्यालय स्थापना गर्ने लक्ष्यका साथ उक्त विराट धनधान्याचल महायज्ञ गर्न लागिएको हाे । गजेन्द्रमाेक्ष दिव्यधाम त्रिवेणीमा शनिवार आयोजित महायज्ञ सम्पादन सम्बन्धी विचार […]",
+      "publishedAt": "2026-10-04T17:23:28+00:00",
+      "updatedAt": "2026-10-04T17:23:28+00:00",
+      "sourceCount": 1,
+      "languageCount": 1,
+      "sources": [
+        "News of Nepal"
+      ],
+      "categories": [
+        "business",
+        "politics",
+        "sports"
+      ],
+      "items": [
+        {
+          "id": "77ab1a129f763780",
+          "title": "पूर्वी नवलपरासीको त्रिवेणीमा वैदिक विश्वविद्यालय स्थापनार्थ अष्टाचल वैभव विराट महायज्ञ आयोजना हुने",
+          "link": "https://newsofnepal.com/2026/10/04/790028/",
+          "source": "News of Nepal",
+          "sourceUrl": "https://newsofnepal.com/feed/",
+          "pubDate": "2026-10-04T17:23:28+00:00",
+          "categories": [
+            "politics",
+            "business",
+            "sports"
+          ],
+          "image": "https://newsofnepal.com/wp-content/uploads/2026/10/35707-150x150.jpg",
+          "images": [
+            "https://newsofnepal.com/wp-content/uploads/2026/10/35707-150x150.jpg"
+          ],
+          "description": "नवलपरासी। पवित्र तीर्थ स्थल त्रिवेणी धाममा वैदिक विश्वविद्यालय स्थापनार्थ अष्टाचल धनधान्याचल श्रीगजेन्द्रमाेक्ष नारायण वैभव विराट महायज्ञ २०८३ आयोजना हुने भएको छ ।श्रीमुक्तिनाथबाबाकाे सत्संकल्पमा श्री मुक्तिनाथ पीठ वेदविद्याश्रमलाई विशिष्टतम महाविद्यालयमा अभिवृद्धि गर्दै श्रीगजेन्द्रमाेक्ष वैदिक विश्वविद्यालय स्थापना गर्ने लक्ष्यका साथ उक्त विराट धनधान्याचल महायज्ञ गर्न लागिएको हाे । गजेन्द्रमाेक्ष दिव्यधाम त्रिवेणीमा शनिवार आयोजित महायज्ञ सम्पादन सम्बन्धी विचार […]"
+        }
+      ]
+    },
+    {
+      "id": "ba6239f3e5fa9994",
+      "title": "देवनागरीको जगदेखि जापानको साक्षरता दूतसम्म: अदिति पौडेलको लोभलाग्दो यात्रा",
+      "summary": "जीवनका सबैभन्दा सुन्दर र दूरगामी क्रान्तिहरू प्रायः साना र अव्यक्त अनुभवहरूबाटै सुरु हुन्छन् । जन्मले जापानको प्रविधिमय आधुनिकता र बाल्यकालको केही ऊर्जावान् समय नेपालको सांस्कृतिक आँगनमा बिताएकी १७ वर्षीया नेपाली किशोरी अदिति पौडेलको कथा पनि यस्तै एउटा अद्भुत र प्रेरणादायी यात्रा हो । अझै प्रिस्कुलकै कलिलो उमेरमा हुँदा, जब धेरैजसो बालबालिकाहरू खेलौनामै रमाउँथे, अदितिका हजुरबुवाले […]",
+      "publishedAt": "2026-10-04T17:06:06+00:00",
+      "updatedAt": "2026-10-04T17:06:06+00:00",
+      "sourceCount": 1,
+      "languageCount": 1,
+      "sources": [
+        "News of Nepal"
+      ],
+      "categories": [
+        "business",
+        "politics",
+        "sports"
+      ],
+      "items": [
+        {
+          "id": "e741cae1b86a9910",
+          "title": "देवनागरीको जगदेखि जापानको साक्षरता दूतसम्म: अदिति पौडेलको लोभलाग्दो यात्रा",
+          "link": "https://newsofnepal.com/2026/10/04/790025/",
+          "source": "News of Nepal",
+          "sourceUrl": "https://newsofnepal.com/feed/",
+          "pubDate": "2026-10-04T17:06:06+00:00",
+          "categories": [
+            "politics",
+            "business",
+            "sports"
+          ],
+          "image": "https://newsofnepal.com/wp-content/uploads/2026/10/Aditi-Poudel-150x150.jpg",
+          "images": [
+            "https://newsofnepal.com/wp-content/uploads/2026/10/Aditi-Poudel-150x150.jpg"
+          ],
+          "description": "जीवनका सबैभन्दा सुन्दर र दूरगामी क्रान्तिहरू प्रायः साना र अव्यक्त अनुभवहरूबाटै सुरु हुन्छन् । जन्मले जापानको प्रविधिमय आधुनिकता र बाल्यकालको केही ऊर्जावान् समय नेपालको सांस्कृतिक आँगनमा बिताएकी १७ वर्षीया नेपाली किशोरी अदिति पौडेलको कथा पनि यस्तै एउटा अद्भुत र प्रेरणादायी यात्रा हो । अझै प्रिस्कुलकै कलिलो उमेरमा हुँदा, जब धेरैजसो बालबालिकाहरू खेलौनामै रमाउँथे, अदितिका हजुरबुवाले […]"
+        }
+      ]
+    },
+    {
+      "id": "93d1560219979cba",
+      "title": "बालेन लक्षित रक्षा बमको जवाफ : जेनजी सहिद भइदिएर राजनीतिक संस्कार नभएकाहरू प्रधानमन्त्री भए",
+      "summary": "",
+      "publishedAt": "2026-10-04T17:04:37+00:00",
+      "updatedAt": "2026-10-04T17:04:37+00:00",
+      "sourceCount": 1,
+      "languageCount": 1,
+      "sources": [
+        "Baahrakhari"
+      ],
+      "categories": [
+        "business",
+        "politics",
+        "society"
+      ],
+      "items": [
+        {
+          "id": "cbc848a6d23e9e92",
+          "title": "बालेन लक्षित रक्षा बमको जवाफ : जेनजी सहिद भइदिएर राजनीतिक संस्कार नभएकाहरू प्रधानमन्त्री भए",
+          "link": "https://baahrakhari.com/detail/503764",
+          "source": "Baahrakhari",
+          "sourceUrl": "https://baahrakhari.com/feed",
+          "pubDate": "2026-10-04T17:04:37+00:00",
+          "categories": [
+            "politics",
+            "business",
+            "society"
+          ],
+          "image": "",
+          "images": [],
+          "description": ""
+        }
+      ]
+    },
+    {
+      "id": "74c60acb2aadacee",
+      "title": "बालेनलाई कांग्रेस, एमाले र नेकपा नेताको काउन्टर : खुलामञ्च तपाईँले होइन, पुराना दलले बनाएका हुन्",
+      "summary": "काठमाडौँ । खुलामञ्चको प्रसङ्ग जोडेर नेपाली कांग्रेसमाथि व्यङ्ग्य प्रहार गरेका प्रधानमन्त्री बालेन्द्र (बालेन) शाहलाई कांग्रेस, एमाले र नेकपाका नेताहरूले काउन्टर जवाफ फर्काएका छन् । प्रधानमन्त्री बालेन शाहले आइतबार साँझ सामाजिक सञ्जालमा ‘धन्न खुलामञ्च राम्रो बनाइएछ, नयाँ",
+      "publishedAt": "2026-10-04T17:02:49+00:00",
+      "updatedAt": "2026-10-04T17:02:49+00:00",
+      "sourceCount": 1,
+      "languageCount": 1,
+      "sources": [
+        "Ratopati"
+      ],
+      "categories": [
+        "politics",
+        "sports"
+      ],
+      "items": [
+        {
+          "id": "b3d67a5b1568f250",
+          "title": "बालेनलाई कांग्रेस, एमाले र नेकपा नेताको काउन्टर : खुलामञ्च तपाईँले होइन, पुराना दलले बनाएका हुन्",
+          "link": "https://www.ratopati.com/story/597172/congress-uml-and-cpn-leaders-counter-balen-open-forum-was-created-not-by-you-but-by-the-old-parties",
+          "source": "Ratopati",
+          "sourceUrl": "https://ratopati.com/feed",
+          "pubDate": "2026-10-04T17:02:49+00:00",
+          "categories": [
+            "politics",
+            "sports"
+          ],
+          "image": "https://npcdn.ratopati.com/media/news/balen-counter_XpyjyZMwiw.webp",
+          "images": [
+            "https://npcdn.ratopati.com/media/news/balen-counter_XpyjyZMwiw.webp"
+          ],
+          "description": "काठमाडौँ । खुलामञ्चको प्रसङ्ग जोडेर नेपाली कांग्रेसमाथि व्यङ्ग्य प्रहार गरेका प्रधानमन्त्री बालेन्द्र (बालेन) शाहलाई कांग्रेस, एमाले र नेकपाका नेताहरूले काउन्टर जवाफ फर्काएका छन् । प्रधानमन्त्री बालेन शाहले आइतबार साँझ सामाजिक सञ्जालमा ‘धन्न खुलामञ्च राम्रो बनाइएछ, नयाँ"
+        }
+      ]
+    },
     {
       "id": "1996ca15a0fb8984",
       "title": "जब भोको पेटले जीवनको नयाँ बाटो देखायो",
@@ -555,15 +1536,14 @@
       ]
     },
     {
-      "id": "8929d9f00c87f391",
+      "id": "f40c02f41fd6ae26",
       "title": "कांग्रेस केन्द्रीय कार्यसमिति बैठक भोलि बिहान बस्ने",
       "summary": "",
       "publishedAt": "2026-10-04T16:35:00+00:00",
       "updatedAt": "2026-10-04T16:35:00+00:00",
-      "sourceCount": 3,
+      "sourceCount": 2,
       "languageCount": 1,
       "sources": [
-        "Gorkhapatra",
         "Ratopati",
         "Thaha Khabar"
       ],
@@ -590,23 +1570,6 @@
             "https://www.thahakhabar.com/uploads/posts/Gagan-1791131724.jpg"
           ],
           "description": ""
-        },
-        {
-          "id": "88ad9497b09b66e1",
-          "title": "कांग्रेस केन्द्रीय कार्यसमितिको बैठक सोमबार बिहान बस्ने",
-          "link": "https://gorkhapatraonline.com/news/225424",
-          "source": "Gorkhapatra",
-          "sourceUrl": "https://gorkhapatraonline.com/rss",
-          "pubDate": "2026-10-04T16:32:05+00:00",
-          "categories": [
-            "politics",
-            "business"
-          ],
-          "image": "https://gorkhapatraonline.com/storage/media/386475/conversions/nc-original.jpg",
-          "images": [
-            "https://gorkhapatraonline.com/storage/media/386475/conversions/nc-original.jpg"
-          ],
-          "description": "काठमाडौँ, असोज १८ गते । नेपाली कांग्रेसको केन्द्रीय कार्यसमितिको बैठक सोमबार बिहान महाधिवेशन स्थल खुल्लामञ्चमा बस्ने भएको छ ।कांग्रेस प्रवक्ता देवराज चालिसेले पार्टीको १५औँ महाधिवे..."
         },
         {
           "id": "28ec9d4471472d21",
@@ -967,41 +1930,6 @@
           "image": "",
           "images": [],
           "description": "२ अक्टोबरदेखि विद्यार्थी भिसामा नयाँ मापदण्डहरू थपिएका छन्, परिवारलाई पछि बोलाउने बाटो बन्दप्रायः छन् भने कलेज फेर्ने प्रवृत्तिमा १२ महिनाको रोक लगाइएको छ । विवादित पाठ्यक्रम नै बन्द गर्ने अस्ट्रेलिया सरकारले तयारी गरिरहेको छ ।"
-        }
-      ]
-    },
-    {
-      "id": "221659aa31b5405e",
-      "title": "सभामुख अर्याल तान्जानिया प्रस्थान",
-      "summary": "काठमाडौं, असोज १८ गते। सभामुख डोलप्रसाद (डीपी) अर्याल अन्तरव्यवस्थापिका संघ (आईपीयू) को १५३औँ महासभामा सहभागी हुन एक संसदीय प्रतिनिधिमण्डलको नेतृत्व गर्दै आज तान्जानियातर्फ प्रस्था...",
-      "publishedAt": "2026-10-04T16:25:43+00:00",
-      "updatedAt": "2026-10-04T16:25:43+00:00",
-      "sourceCount": 1,
-      "languageCount": 1,
-      "sources": [
-        "Gorkhapatra"
-      ],
-      "categories": [
-        "business",
-        "politics"
-      ],
-      "items": [
-        {
-          "id": "4ed8007062325cb3",
-          "title": "सभामुख अर्याल तान्जानिया प्रस्थान",
-          "link": "https://gorkhapatraonline.com/news/225423",
-          "source": "Gorkhapatra",
-          "sourceUrl": "https://gorkhapatraonline.com/rss",
-          "pubDate": "2026-10-04T16:25:43+00:00",
-          "categories": [
-            "politics",
-            "business"
-          ],
-          "image": "https://gorkhapatraonline.com/storage/media/386474/conversions/dp-aryal-original.jpg",
-          "images": [
-            "https://gorkhapatraonline.com/storage/media/386474/conversions/dp-aryal-original.jpg"
-          ],
-          "description": "काठमाडौं, असोज १८ गते। सभामुख डोलप्रसाद (डीपी) अर्याल अन्तरव्यवस्थापिका संघ (आईपीयू) को १५३औँ महासभामा सहभागी हुन एक संसदीय प्रतिनिधिमण्डलको नेतृत्व गर्दै आज तान्जानियातर्फ प्रस्था..."
         }
       ]
     },
@@ -1559,8 +2487,8 @@
       ]
     },
     {
-      "id": "39fa868b91a6c544",
-      "title": "सभापति थापाका तीन ससुरा र सहमहामन्त्री उम्मेदवार भएको नुवाकोट– २ मा मतगणना रोकियो",
+      "id": "bf8d4b35610c06fc",
+      "title": "हेभिवेट नेताहरु रहेको नुवाकोट– २ मा मतगणना रोकियो",
       "summary": "काठमाडौँ । नेपाली कांग्रेसको केन्द्रीय निर्वाचन समितिले नुवाकोट जिल्ला निर्वाचन क्षेत्र नं. २ को मतगणना रोक्न निर्देशन दिएको छ। समितिले नुवाकोट जिल्ला निर्वाचन समितिलाई पत्र जारी गर्दै मतगणना कार्य यथास्थितिमा राख्न निर्देशन दिएको हो। केन्द्रीय निर्वाचन",
       "publishedAt": "2026-10-04T16:02:05+00:00",
       "updatedAt": "2026-10-04T16:02:05+00:00",
@@ -1576,7 +2504,7 @@
       "items": [
         {
           "id": "25b2a2695b0cbe1b",
-          "title": "सभापति थापाका तीन ससुरा र सहमहामन्त्री उम्मेदवार भएको नुवाकोट– २ मा मतगणना रोकियो",
+          "title": "हेभिवेट नेताहरु रहेको नुवाकोट– २ मा मतगणना रोकियो",
           "link": "https://www.ratopati.com/story/597165/counting-of-votes-halted-in-nuwakot-2-where-three-of-president-thapas-in-laws-and-joint-general-secretary-are-running",
           "source": "Ratopati",
           "sourceUrl": "https://ratopati.com/feed",
@@ -1625,41 +2553,6 @@
           "image": "",
           "images": [],
           "description": "काठमाडौं। प्रधानमन्त्री बालेन शाहले नेपाली कांग्रेसका सभापति गगन थापाको अभिव्यक्तिप्रति सामाजिक सञ्जालमार्फत व्यङ्ग्य गरेका छन्। कांग्रेसको १५औं महाधिवेशनको उद्घाटन सत्रमा सभापति थापाले प्रधानमन्त्री संसद्मा उपस्थित नहुने गरेको भन्दै आलोचना गरेका थिए। आइतबार खुलामञ्चमा आयोजित कार्यक्रमलाई सम्बोधन गर्दै थापाले संसद् खुला नभएको र त्यहाँ पनि खुलामञ्चको आवश्यकता रहेको भनी टिप्पणी गरेका थिए। थापाले कांग्रेसलाई नयाँ पार्टीको […]"
-        }
-      ]
-    },
-    {
-      "id": "3b851b3cff2d4d44",
-      "title": "कांग्रेस केन्द्रीय सदस्यमा विद्याभूषण कार्कीको उमेदवारी",
-      "summary": "",
-      "publishedAt": "2026-10-04T15:59:48+00:00",
-      "updatedAt": "2026-10-04T15:59:48+00:00",
-      "sourceCount": 1,
-      "languageCount": 1,
-      "sources": [
-        "Baahrakhari"
-      ],
-      "categories": [
-        "business",
-        "politics",
-        "society"
-      ],
-      "items": [
-        {
-          "id": "4f1760eb9e2aa73e",
-          "title": "कांग्रेस केन्द्रीय सदस्यमा विद्याभूषण कार्कीको उमेदवारी",
-          "link": "https://baahrakhari.com/detail/503760",
-          "source": "Baahrakhari",
-          "sourceUrl": "https://baahrakhari.com/feed",
-          "pubDate": "2026-10-04T15:59:48+00:00",
-          "categories": [
-            "politics",
-            "business",
-            "society"
-          ],
-          "image": "",
-          "images": [],
-          "description": ""
         }
       ]
     },
@@ -1924,41 +2817,6 @@
       ]
     },
     {
-      "id": "9364c6a3d83f50e0",
-      "title": "सलहेशलाई हराउँदै एनआरटी सेमिफाइनलमा",
-      "summary": "हरिप्रसाद कोइराला उर्लाबारी, असोज १८ गते । गत वर्षको विजेता सलहेश फुटबल क्लवलाई ३–० ले हराउँदै काठमाडौंको एनआरटी क्लब तेस्रो अन्तर्राष्ट्रिय आमन्त्रण पथरीशनिश्चरे गोल्डकपको सेमिफ...",
-      "publishedAt": "2026-10-04T15:53:20+00:00",
-      "updatedAt": "2026-10-04T15:53:20+00:00",
-      "sourceCount": 1,
-      "languageCount": 1,
-      "sources": [
-        "Gorkhapatra"
-      ],
-      "categories": [
-        "business",
-        "politics"
-      ],
-      "items": [
-        {
-          "id": "b22299a47bd814cb",
-          "title": "सलहेशलाई हराउँदै एनआरटी सेमिफाइनलमा",
-          "link": "https://gorkhapatraonline.com/news/225422",
-          "source": "Gorkhapatra",
-          "sourceUrl": "https://gorkhapatraonline.com/rss",
-          "pubDate": "2026-10-04T15:53:20+00:00",
-          "categories": [
-            "politics",
-            "business"
-          ],
-          "image": "https://gorkhapatraonline.com/storage/media/386472/conversions/%E0%A4%8F%E0%A4%A8%E0%A4%85%E0%A4%BE%E0%A4%B0%E0%A4%9F%E0%A5%80%E0%A4%95%E0%A4%BE-%E0%A4%96%E0%A5%87%E0%A4%B2%E0%A4%BE%E0%A4%A1%E0%A5%80-%E0%A4%AC%E0%A4%B2-%E0%A4%85%E0%A4%98%E0%A4%BF-%E0%A4%AC%E0%A4%A2%E0%A4%BE%E0%A4%89%E0%A4%81%E0%A4%A6%E0%A5%88-%281%29-original.jpg",
-          "images": [
-            "https://gorkhapatraonline.com/storage/media/386472/conversions/%E0%A4%8F%E0%A4%A8%E0%A4%85%E0%A4%BE%E0%A4%B0%E0%A4%9F%E0%A5%80%E0%A4%95%E0%A4%BE-%E0%A4%96%E0%A5%87%E0%A4%B2%E0%A4%BE%E0%A4%A1%E0%A5%80-%E0%A4%AC%E0%A4%B2-%E0%A4%85%E0%A4%98%E0%A4%BF-%E0%A4%AC%E0%A4%A2%E0%A4%BE%E0%A4%89%E0%A4%81%E0%A4%A6%E0%A5%88-%281%29-original.jpg"
-          ],
-          "description": "हरिप्रसाद कोइराला उर्लाबारी, असोज १८ गते । गत वर्षको विजेता सलहेश फुटबल क्लवलाई ३–० ले हराउँदै काठमाडौंको एनआरटी क्लब तेस्रो अन्तर्राष्ट्रिय आमन्त्रण पथरीशनिश्चरे गोल्डकपको सेमिफ..."
-        }
-      ]
-    },
-    {
       "id": "a3b02449202a28c9",
       "title": "कांग्रेस सभापतिमा उम्मेदवारी दर्ता गराउन १०/१० जना प्रस्तावक र समर्थक चाहिने",
       "summary": "काठमाडौँ । नेपाली कांग्रेसको १५औँ महाधिवेशनमा सभापति पदमा उम्मेदवारी दर्ता गराउन १० जना प्रस्तावक र १० जना समर्थकको नाम आवश्यक पर्ने भएको छ। निर्वाचन समितिका अनुसार सभापति पदका उम्मेदवारले महाधिवेशन प्रतिनिधिमध्येबाट १० जना प्रस्तावक र १०",
@@ -1990,6 +2848,41 @@
             "https://npcdn.ratopati.com/media/news/congress-party-office_LtuRIB9uMV.jpg"
           ],
           "description": "काठमाडौँ । नेपाली कांग्रेसको १५औँ महाधिवेशनमा सभापति पदमा उम्मेदवारी दर्ता गराउन १० जना प्रस्तावक र १० जना समर्थकको नाम आवश्यक पर्ने भएको छ। निर्वाचन समितिका अनुसार सभापति पदका उम्मेदवारले महाधिवेशन प्रतिनिधिमध्येबाट १० जना प्रस्तावक र १०"
+        }
+      ]
+    },
+    {
+      "id": "c08c287b060b8b34",
+      "title": "१६ बुँदे सार्वजनिक आह्वान गर्दै ‘काठमाडौँ क्लाइमेट विक २०२६’ सम्पन्न",
+      "summary": "काठमाडौँ । जलवायु न्यायलाई केन्द्रमा राख्दै १६ बुँदे सार्वजनिक आह्वान जारी गर्दै ‘काठमाडौँ क्लाइमेट विक २०२६’ सम्पन्न भएको छ। तीन दिनसम्म चलेको सम्मेलनले नेपालको जलवायु गतिविधिमा जलवायु न्यायलाई प्राथमिकतामा राख्नुपर्ने, न्यायोचित जलवायु कार्यका लागि बलियो कानुनी आधार तयार गर्न समर्पित ‘जलवायु न्याय ऐन’ तर्जुमा प्रक्रिया अघि बढाउनुपर्ने तथा प्रस्तावित ‘नेपाल जलवायु परिवर्तन नीति, २०८३’ मा […]",
+      "publishedAt": "2026-10-04T15:48:04+00:00",
+      "updatedAt": "2026-10-04T15:48:04+00:00",
+      "sourceCount": 1,
+      "languageCount": 1,
+      "sources": [
+        "Nepal News"
+      ],
+      "categories": [
+        "business",
+        "politics",
+        "world"
+      ],
+      "items": [
+        {
+          "id": "798f2c8f8058672a",
+          "title": "१६ बुँदे सार्वजनिक आह्वान गर्दै ‘काठमाडौँ क्लाइमेट विक २०२६’ सम्पन्न",
+          "link": "https://nepalnews.com/2026/10/04/kathmandu-climate-week-2026-concludes-with-16-point-public-call/",
+          "source": "Nepal News",
+          "sourceUrl": "https://nepalnews.com/feed",
+          "pubDate": "2026-10-04T15:48:04+00:00",
+          "categories": [
+            "politics",
+            "business",
+            "world"
+          ],
+          "image": "",
+          "images": [],
+          "description": "काठमाडौँ । जलवायु न्यायलाई केन्द्रमा राख्दै १६ बुँदे सार्वजनिक आह्वान जारी गर्दै ‘काठमाडौँ क्लाइमेट विक २०२६’ सम्पन्न भएको छ। तीन दिनसम्म चलेको सम्मेलनले नेपालको जलवायु गतिविधिमा जलवायु न्यायलाई प्राथमिकतामा राख्नुपर्ने, न्यायोचित जलवायु कार्यका लागि बलियो कानुनी आधार तयार गर्न समर्पित ‘जलवायु न्याय ऐन’ तर्जुमा प्रक्रिया अघि बढाउनुपर्ने तथा प्रस्तावित ‘नेपाल जलवायु परिवर्तन नीति, २०८३’ मा […]"
         }
       ]
     },
@@ -2060,41 +2953,6 @@
           "image": "",
           "images": [],
           "description": "RUPANDEHI: Minister for Agriculture, Forest and Environment, Gita Chaudhary, visited various parts of Rupandehi, Kapilvastu and Nawalparasi districts to take stock of agricultural problems and the challenges faced by local farmers. During the visits, the Minister held face-to-face discussions with officials from relevant agencies and local farmers about agricultural sub-centres, fertilizer distribution centres, agricultural production, […]"
-        }
-      ]
-    },
-    {
-      "id": "00d55d9ecb57df2d",
-      "title": "दशौं राष्ट्रिय खेलकुदका लागि कर्णालीमा ३२ खेलस्थल प्रस्ताव, सुर्खेतमा मात्रै २० खेल",
-      "summary": "",
-      "publishedAt": "2026-10-04T15:42:17+00:00",
-      "updatedAt": "2026-10-04T15:42:17+00:00",
-      "sourceCount": 1,
-      "languageCount": 1,
-      "sources": [
-        "Baahrakhari"
-      ],
-      "categories": [
-        "business",
-        "politics",
-        "society"
-      ],
-      "items": [
-        {
-          "id": "2dfceed18c8eea5c",
-          "title": "दशौं राष्ट्रिय खेलकुदका लागि कर्णालीमा ३२ खेलस्थल प्रस्ताव, सुर्खेतमा मात्रै २० खेल",
-          "link": "https://baahrakhari.com/detail/503759",
-          "source": "Baahrakhari",
-          "sourceUrl": "https://baahrakhari.com/feed",
-          "pubDate": "2026-10-04T15:42:17+00:00",
-          "categories": [
-            "politics",
-            "business",
-            "society"
-          ],
-          "image": "",
-          "images": [],
-          "description": ""
         }
       ]
     },
@@ -2427,21 +3285,19 @@
       ]
     },
     {
-      "id": "1679edb5cf9aa11e",
+      "id": "e58af5cd82be71ab",
       "title": "हरित क्रान्तिमार्फत समृद्धिको सङ्कल्प पूरा गर्नुपर्छः अध्यक्ष घिसिङ",
       "summary": "बनेपा।उज्यालो नेपाल पार्टीका अध्यक्ष कुलमान घिसिङले हरित क्रान्तिलाई प्राथमिकता दिँदै आर्थिक समृद्धिको यात्रा तय गर्नुपर्ने बताएका छन् । आइतबार बनेपामा पार्टीको जिल्ला समिति कार्यालयको उद्घाटन तथा शुभकामना आदानप्रदान कार्यक्रममा उहाँले जिल्लाका गाउँपालिका तथा नगरपालिकामा पार्टीको सङ्गठन विस्तार भइसकेको बताए । अध्यक्ष घिसिङले देश निर्माणका लागि सहकार्य र समन्वयमार्फ सबै निरन्तर खटिनुपर्नेमा जोड दिए । उनले […]",
       "publishedAt": "2026-10-04T15:19:45+00:00",
       "updatedAt": "2026-10-04T15:19:45+00:00",
-      "sourceCount": 2,
-      "languageCount": 2,
+      "sourceCount": 1,
+      "languageCount": 1,
       "sources": [
-        "Nepal News",
-        "Ratopati"
+        "Nepal News"
       ],
       "categories": [
         "business",
         "politics",
-        "sports",
         "world"
       ],
       "items": [
@@ -2460,23 +3316,6 @@
           "image": "",
           "images": [],
           "description": "बनेपा।उज्यालो नेपाल पार्टीका अध्यक्ष कुलमान घिसिङले हरित क्रान्तिलाई प्राथमिकता दिँदै आर्थिक समृद्धिको यात्रा तय गर्नुपर्ने बताएका छन् । आइतबार बनेपामा पार्टीको जिल्ला समिति कार्यालयको उद्घाटन तथा शुभकामना आदानप्रदान कार्यक्रममा उहाँले जिल्लाका गाउँपालिका तथा नगरपालिकामा पार्टीको सङ्गठन विस्तार भइसकेको बताए । अध्यक्ष घिसिङले देश निर्माणका लागि सहकार्य र समन्वयमार्फ सबै निरन्तर खटिनुपर्नेमा जोड दिए । उनले […]"
-        },
-        {
-          "id": "03d52b2c4d66140e",
-          "title": "हरित क्रान्तिमार्फत समृद्धिको सङ्कल्प पूरा गर्नुपर्छ : कुलमान घिसिङ",
-          "link": "https://www.ratopati.com/story/597147/we-must-fulfill-our-resolve-for-prosperity-through-the-green-revolution-ghising",
-          "source": "Ratopati",
-          "sourceUrl": "https://ratopati.com/feed",
-          "pubDate": "2026-10-04T13:54:57+00:00",
-          "categories": [
-            "politics",
-            "sports"
-          ],
-          "image": "https://npcdn.ratopati.com/media/news/kulman-ghising_ZdEHRWqi6B.webp",
-          "images": [
-            "https://npcdn.ratopati.com/media/news/kulman-ghising_ZdEHRWqi6B.webp"
-          ],
-          "description": "काभ्रे । उज्यालो नेपाल पार्टीका अध्यक्ष कुलमान घिसिङले हरित क्रान्तिलाई प्राथमिकता दिँदै आर्थिक समृद्धिको यात्रा तय गर्नुपर्ने बताएका छन्। आइतबार बनेपामा पार्टीको जिल्ला समिति कार्यालयको उद्घाटन तथा शुभकामना आदानप्रदान कार्यक्रममा उहाँले जिल्लाका गाउँपालिका तथा नगरपालिकामा"
         }
       ]
     },
@@ -2705,6 +3544,41 @@
       ]
     },
     {
+      "id": "906b7d9c8e308526",
+      "title": "सभामुख अर्याल तान्जानिया प्रस्थान",
+      "summary": "काठमाडौँ । सभामुख डोलप्रसाद (डीपी) अर्याल अन्तरव्यवस्थापिका संघ (आईपीयू) को १५३औँ महासभामा सहभागी हुन एक संसदीय प्रतिनिधिमण्डलको नेतृत्व गर्दै आज तान्जानियातर्फ प्रस्थान गरेका छन्। सभामुख अर्याल आइतबार साँझ कतार एयरवेजको उडानमार्फत त्रिभुवन अन्तर्राष्ट्रिय विमानस्थल, काठमाडौंबाट तान्जानियातर्फ",
+      "publishedAt": "2026-10-04T15:04:58+00:00",
+      "updatedAt": "2026-10-04T15:04:58+00:00",
+      "sourceCount": 1,
+      "languageCount": 1,
+      "sources": [
+        "Ratopati"
+      ],
+      "categories": [
+        "politics",
+        "sports"
+      ],
+      "items": [
+        {
+          "id": "95c53b3d2bb5030c",
+          "title": "सभामुख अर्याल तान्जानिया प्रस्थान",
+          "link": "https://www.ratopati.com/story/597153/speaker-aryal-departs-for-tanzania",
+          "source": "Ratopati",
+          "sourceUrl": "https://ratopati.com/feed",
+          "pubDate": "2026-10-04T15:04:58+00:00",
+          "categories": [
+            "politics",
+            "sports"
+          ],
+          "image": "https://npcdn.ratopati.com/media/news/dp_VMogugU9BW.webp",
+          "images": [
+            "https://npcdn.ratopati.com/media/news/dp_VMogugU9BW.webp"
+          ],
+          "description": "काठमाडौँ । सभामुख डोलप्रसाद (डीपी) अर्याल अन्तरव्यवस्थापिका संघ (आईपीयू) को १५३औँ महासभामा सहभागी हुन एक संसदीय प्रतिनिधिमण्डलको नेतृत्व गर्दै आज तान्जानियातर्फ प्रस्थान गरेका छन्। सभामुख अर्याल आइतबार साँझ कतार एयरवेजको उडानमार्फत त्रिभुवन अन्तर्राष्ट्रिय विमानस्थल, काठमाडौंबाट तान्जानियातर्फ"
+        }
+      ]
+    },
+    {
       "id": "1d6bbb6a8e31b412",
       "title": "लोकतान्त्रिक मूल्य र मान्यताबाट डगमगाउनेवाला छैनौँः सभापति लामिछाने",
       "summary": "काठमाडौँ।राष्ट्रिय स्वतन्त्र पार्टीका सभापति रवि लामिछानेले लोकतन्त्रका मूल्य र मान्यताबाट नडगमगाउने अडान व्यक्त गरेका छन् । नेपाली कांग्रेसको १५औँ महाधिवेशनको उद्घाटन समारोहमा शुभकामना मन्तव्य व्यक्त गर्दै सभापति लामिछानेले लोकतान्त्रिक मूल्य र मान्यतालाई अझ सुदृढ र संस्थागत बनाउने पक्षमा पार्टी रहेको स्पष्ट पारे । उनले भने, “तपाईंहरूमाझ पूर्ण विश्वाससहित भन्न चाहन्छु, हामी लोकतन्त्रका मूल्य र मान्यताबाट […]",
@@ -2810,41 +3684,6 @@
       ]
     },
     {
-      "id": "37e10a2105dcb5e4",
-      "title": "दसैँअघि यातायात सञ्चालनयोग्य सडक बनाउन निर्देशन",
-      "summary": "खोटाङ । जिल्ला विपद् व्यववस्थापन समिति खोटाङले दसैँअघि जिल्लाका सबै सडक मर्मत गरी यातायातका साधन सञ्चालनयोग्य बनाउन आग्रह गरेको छ । समितिले नजिकिँदै गरेको दसैँ, तिहार तथा छट पर्वमा यात्रुलाई आवागमनमा सहजता पुर्याउनका लागि सबै",
-      "publishedAt": "2026-10-04T14:56:59+00:00",
-      "updatedAt": "2026-10-04T14:56:59+00:00",
-      "sourceCount": 1,
-      "languageCount": 1,
-      "sources": [
-        "Ratopati"
-      ],
-      "categories": [
-        "politics",
-        "sports"
-      ],
-      "items": [
-        {
-          "id": "22835164ec4230f9",
-          "title": "दसैँअघि यातायात सञ्चालनयोग्य सडक बनाउन निर्देशन",
-          "link": "https://www.ratopati.com/story/597152/instructions-to-make-roads-operable-before-dashain",
-          "source": "Ratopati",
-          "sourceUrl": "https://ratopati.com/feed",
-          "pubDate": "2026-10-04T14:56:59+00:00",
-          "categories": [
-            "politics",
-            "sports"
-          ],
-          "image": "https://rpcdn.ratopati.com/media/albums/khotang_deMYPrhSWV.jpg",
-          "images": [
-            "https://rpcdn.ratopati.com/media/albums/khotang_deMYPrhSWV.jpg"
-          ],
-          "description": "खोटाङ । जिल्ला विपद् व्यववस्थापन समिति खोटाङले दसैँअघि जिल्लाका सबै सडक मर्मत गरी यातायातका साधन सञ्चालनयोग्य बनाउन आग्रह गरेको छ । समितिले नजिकिँदै गरेको दसैँ, तिहार तथा छट पर्वमा यात्रुलाई आवागमनमा सहजता पुर्याउनका लागि सबै"
-        }
-      ]
-    },
-    {
       "id": "a6ce948210b5a7bd",
       "title": "सिद्धबाबामा मोटरसाइकल दुर्घटना हुँदा एकको मृत्यु",
       "summary": "",
@@ -2878,39 +3717,6 @@
             "https://www.thahakhabar.com/uploads/posts/accident-1791125389.jpg"
           ],
           "description": ""
-        }
-      ]
-    },
-    {
-      "id": "1fd8cf9975a23388",
-      "title": "नविन्द्रराजको अधुरो सपना पूरा गर्ने संकल्पसहित नेतृत्व यात्रामा सपना राजभण्डारी",
-      "summary": "निष्ठा, समावेशिता र जनसेवाको आदर्शलाई आत्मसात् गर्दै नेपाली कांग्रेसको १५औँ महाधिवेशनमा आदिवासी जनजाति महिलातर्फबाट केन्द्रीय सदस्यको उम्मेदवार बनेकी सपना राजभण्डारी जोशीको राजनीतिक यात्रा।",
-      "publishedAt": "2026-10-04T14:42:15+00:00",
-      "updatedAt": "2026-10-04T14:42:15+00:00",
-      "sourceCount": 1,
-      "languageCount": 1,
-      "sources": [
-        "Nepal Samaya"
-      ],
-      "categories": [
-        "entertainment",
-        "politics"
-      ],
-      "items": [
-        {
-          "id": "6a4dfd2333655a39",
-          "title": "नविन्द्रराजको अधुरो सपना पूरा गर्ने संकल्पसहित नेतृत्व यात्रामा सपना राजभण्डारी",
-          "link": "https://nepalsamaya.com/detail/146663",
-          "source": "Nepal Samaya",
-          "sourceUrl": "https://nepalsamaya.com/feed",
-          "pubDate": "2026-10-04T14:42:15+00:00",
-          "categories": [
-            "politics",
-            "entertainment"
-          ],
-          "image": "",
-          "images": [],
-          "description": "निष्ठा, समावेशिता र जनसेवाको आदर्शलाई आत्मसात् गर्दै नेपाली कांग्रेसको १५औँ महाधिवेशनमा आदिवासी जनजाति महिलातर्फबाट केन्द्रीय सदस्यको उम्मेदवार बनेकी सपना राजभण्डारी जोशीको राजनीतिक यात्रा।"
         }
       ]
     },
@@ -2969,41 +3775,6 @@
       ]
     },
     {
-      "id": "15b50224f889fbab",
-      "title": "नेपाली क्रिकेटका ९ स्टार अब 'टिम एक्स्ट्रीम' को सदस्य",
-      "summary": "काठमाडौँ। नेपाली क्रिकेटको विकास, खेलाडीहरूको प्रोत्साहन तथा युवा पुस्तामा खेलकुदप्रतिको उत्साह बढाउने उद्देश्यले एक्स्ट्रीम इनर्जी ड्रिंकले राष्ट्रिय क्रिकेट टोलीका ९ जना चर्चित खेलाडीहरूलाई ‘टिम एक्स्ट्रीम’ मा आबद्ध गरेको छ। काठमाडौँमा आयोजित एक औपचारिक कार्यक्रमबिच एक्स्ट्रीम इनर्जी",
-      "publishedAt": "2026-10-04T14:39:21+00:00",
-      "updatedAt": "2026-10-04T14:39:21+00:00",
-      "sourceCount": 1,
-      "languageCount": 1,
-      "sources": [
-        "Ratopati"
-      ],
-      "categories": [
-        "politics",
-        "sports"
-      ],
-      "items": [
-        {
-          "id": "54fe9a89418e0336",
-          "title": "नेपाली क्रिकेटका ९ स्टार अब 'टिम एक्स्ट्रीम' को सदस्य",
-          "link": "https://www.ratopati.com/story/597151/9-nepali-cricket-stars-now-members-of-team-extreme",
-          "source": "Ratopati",
-          "sourceUrl": "https://ratopati.com/feed",
-          "pubDate": "2026-10-04T14:39:21+00:00",
-          "categories": [
-            "politics",
-            "sports"
-          ],
-          "image": "https://npcdn.ratopati.com/media/news/extream_WaNWignvMd.webp",
-          "images": [
-            "https://npcdn.ratopati.com/media/news/extream_WaNWignvMd.webp"
-          ],
-          "description": "काठमाडौँ। नेपाली क्रिकेटको विकास, खेलाडीहरूको प्रोत्साहन तथा युवा पुस्तामा खेलकुदप्रतिको उत्साह बढाउने उद्देश्यले एक्स्ट्रीम इनर्जी ड्रिंकले राष्ट्रिय क्रिकेट टोलीका ९ जना चर्चित खेलाडीहरूलाई ‘टिम एक्स्ट्रीम’ मा आबद्ध गरेको छ। काठमाडौँमा आयोजित एक औपचारिक कार्यक्रमबिच एक्स्ट्रीम इनर्जी"
-        }
-      ]
-    },
-    {
       "id": "355b7d65dc6878ab",
       "title": "बाढीपीडितलाई कोरियाली चिकित्सकको सहयोग",
       "summary": "",
@@ -3037,146 +3808,6 @@
             "https://www.thahakhabar.com/uploads/posts/1-1791124680.jpg"
           ],
           "description": ""
-        }
-      ]
-    },
-    {
-      "id": "00312ff13d5fc941",
-      "title": "सङ्घर्षको तयारीमा जुट्न अध्यक्ष ओलीको निर्देशन",
-      "summary": "काठमाडौँ, असोज १८ गते । नेकपा (एमाले) अध्यक्ष केपी शर्मा ओलीले लोकतन्त्र, संविधान र राष्ट्रियताको रक्षाका लागि सङ्घर्षको तयारीमा जुट्न निर्देशन दिनुभएको छ । च्यासलस्थित पार्टी केन...",
-      "publishedAt": "2026-10-04T14:36:06+00:00",
-      "updatedAt": "2026-10-04T14:36:06+00:00",
-      "sourceCount": 1,
-      "languageCount": 1,
-      "sources": [
-        "Gorkhapatra"
-      ],
-      "categories": [
-        "business",
-        "politics"
-      ],
-      "items": [
-        {
-          "id": "3531c64baa157c0e",
-          "title": "सङ्घर्षको तयारीमा जुट्न अध्यक्ष ओलीको निर्देशन",
-          "link": "https://gorkhapatraonline.com/news/225421",
-          "source": "Gorkhapatra",
-          "sourceUrl": "https://gorkhapatraonline.com/rss",
-          "pubDate": "2026-10-04T14:36:06+00:00",
-          "categories": [
-            "politics",
-            "business"
-          ],
-          "image": "https://gorkhapatraonline.com/storage/media/386470/conversions/uml-samsadiya-baithak-original.jpg",
-          "images": [
-            "https://gorkhapatraonline.com/storage/media/386470/conversions/uml-samsadiya-baithak-original.jpg"
-          ],
-          "description": "काठमाडौँ, असोज १८ गते । नेकपा (एमाले) अध्यक्ष केपी शर्मा ओलीले लोकतन्त्र, संविधान र राष्ट्रियताको रक्षाका लागि सङ्घर्षको तयारीमा जुट्न निर्देशन दिनुभएको छ । च्यासलस्थित पार्टी केन..."
-        }
-      ]
-    },
-    {
-      "id": "04cb1529a8f66afa",
-      "title": "कांग्रेस महाधिवेशनको बन्दसत्र सोमबार बिहानदेखि",
-      "summary": "काठमाडौँ। नेपाली कांग्रेसको १५औँ महाधिवेशन अन्तर्गत सोमबारबाट बन्द सत्र सुरु हुने भएको छ। आइतबार उद्घाटन सत्र भएको महाधिवेशनमा सोमबार बिहानदेखि बन्द सत्र सुरु हुन लागेको हो। कांग्रेस प्रवक्ता देवराज चालिसेले बन्द सत्र बिहान ९ बजेदेखि सुरु",
-      "publishedAt": "2026-10-04T14:34:56+00:00",
-      "updatedAt": "2026-10-04T14:34:56+00:00",
-      "sourceCount": 1,
-      "languageCount": 1,
-      "sources": [
-        "Ratopati"
-      ],
-      "categories": [
-        "politics",
-        "sports"
-      ],
-      "items": [
-        {
-          "id": "f1e526c515ae1782",
-          "title": "कांग्रेस महाधिवेशनको बन्दसत्र सोमबार बिहानदेखि",
-          "link": "https://www.ratopati.com/story/597150/the-closed-session-of-the-congress-general-convention-begins-on-monday-morning",
-          "source": "Ratopati",
-          "sourceUrl": "https://ratopati.com/feed",
-          "pubDate": "2026-10-04T14:34:56+00:00",
-          "categories": [
-            "politics",
-            "sports"
-          ],
-          "image": "https://npcdn.ratopati.com/media/news/congress-adhibeshan_i1R9ogmyhl.webp",
-          "images": [
-            "https://npcdn.ratopati.com/media/news/congress-adhibeshan_i1R9ogmyhl.webp"
-          ],
-          "description": "काठमाडौँ। नेपाली कांग्रेसको १५औँ महाधिवेशन अन्तर्गत सोमबारबाट बन्द सत्र सुरु हुने भएको छ। आइतबार उद्घाटन सत्र भएको महाधिवेशनमा सोमबार बिहानदेखि बन्द सत्र सुरु हुन लागेको हो। कांग्रेस प्रवक्ता देवराज चालिसेले बन्द सत्र बिहान ९ बजेदेखि सुरु"
-        }
-      ]
-    },
-    {
-      "id": "65f55cace59d68fe",
-      "title": "विश्वकप लिग–२ खेल्ने नेपाली क्रिकेट टोलीको बिदाइ",
-      "summary": "काठमाडौं।आईसीसी विश्वकप क्रिकेट लिग–२ एकदिवसीय शृंखला खेल्ने नेपाली राष्ट्रिय पुरुष क्रिकेट टोलीको बिदाइ गरिएको छ । आईतबार आयोजित कार्यक्रममा नेपाल क्रिकेट संघ (क्यान) का अध्यक्ष चतुरबहादुर चन्द, सचिव पारस खड्कालगायत पदाधिकारीले नेपाली टोलीको बिदाइ गरेका हुन्। बिदाइ समारोहमा क्यानका अध्यक्ष चन्दले खेलाडी उच्च लयमा रहेकाले शृंखलामा नेपालले उत्कृष्ट प्रदर्शन गर्ने विश्वास व्यक्त गरे । उनले […]",
-      "publishedAt": "2026-10-04T14:34:21+00:00",
-      "updatedAt": "2026-10-04T14:34:21+00:00",
-      "sourceCount": 1,
-      "languageCount": 1,
-      "sources": [
-        "Nepal News"
-      ],
-      "categories": [
-        "business",
-        "politics",
-        "world"
-      ],
-      "items": [
-        {
-          "id": "71715c726941ff5c",
-          "title": "विश्वकप लिग–२ खेल्ने नेपाली क्रिकेट टोलीको बिदाइ",
-          "link": "https://nepalnews.com/2026/10/04/farewell-to-the-nepali-cricket-team-playing-in-world-cup-league-2/",
-          "source": "Nepal News",
-          "sourceUrl": "https://nepalnews.com/feed",
-          "pubDate": "2026-10-04T14:34:21+00:00",
-          "categories": [
-            "politics",
-            "business",
-            "world"
-          ],
-          "image": "",
-          "images": [],
-          "description": "काठमाडौं।आईसीसी विश्वकप क्रिकेट लिग–२ एकदिवसीय शृंखला खेल्ने नेपाली राष्ट्रिय पुरुष क्रिकेट टोलीको बिदाइ गरिएको छ । आईतबार आयोजित कार्यक्रममा नेपाल क्रिकेट संघ (क्यान) का अध्यक्ष चतुरबहादुर चन्द, सचिव पारस खड्कालगायत पदाधिकारीले नेपाली टोलीको बिदाइ गरेका हुन्। बिदाइ समारोहमा क्यानका अध्यक्ष चन्दले खेलाडी उच्च लयमा रहेकाले शृंखलामा नेपालले उत्कृष्ट प्रदर्शन गर्ने विश्वास व्यक्त गरे । उनले […]"
-        }
-      ]
-    },
-    {
-      "id": "b82d94f03dff3029",
-      "title": "कांग्रेसको १५औँ महाधिवेशन : आज के-के भयो ?",
-      "summary": "काठमाडौँ । नेपाली कांग्रेसको १५औँ महाधिवेशन आइतबारदेखि काठमाडौँमा सुरु हुँदैछ । दिउँसो २ बजे खुलामञ्चमा उद्घाटन हुने कार्यक्रममा भोलिदेखि बन्दसत्र हुनेछ । महाधिवेशनमा कांग्रेसकै शेरबहादुर देउवा समूहको सहभागिता छैन ।",
-      "publishedAt": "2026-10-04T14:30:00+00:00",
-      "updatedAt": "2026-10-04T14:30:00+00:00",
-      "sourceCount": 1,
-      "languageCount": 1,
-      "sources": [
-        "Ratopati"
-      ],
-      "categories": [
-        "politics",
-        "sports"
-      ],
-      "items": [
-        {
-          "id": "b1f4918e4032b7d4",
-          "title": "कांग्रेसको १५औँ महाधिवेशन : आज के-के भयो ?",
-          "link": "https://www.ratopati.com/story/596997/nepali-congress-at-its-15th-general-convention-all-updates-in-one-place",
-          "source": "Ratopati",
-          "sourceUrl": "https://ratopati.com/feed",
-          "pubDate": "2026-10-04T14:30:00+00:00",
-          "categories": [
-            "politics",
-            "sports"
-          ],
-          "image": "https://npcdn.ratopati.com/media/news/congress-adhibeshan_i1R9ogmyhl.webp",
-          "images": [
-            "https://npcdn.ratopati.com/media/news/congress-adhibeshan_i1R9ogmyhl.webp"
-          ],
-          "description": "काठमाडौँ । नेपाली कांग्रेसको १५औँ महाधिवेशन आइतबारदेखि काठमाडौँमा सुरु हुँदैछ । दिउँसो २ बजे खुलामञ्चमा उद्घाटन हुने कार्यक्रममा भोलिदेखि बन्दसत्र हुनेछ । महाधिवेशनमा कांग्रेसकै शेरबहादुर देउवा समूहको सहभागिता छैन ।"
         }
       ]
     },
@@ -3282,76 +3913,6 @@
           "image": "",
           "images": [],
           "description": "KATHMANDU: Open markets in Kathmandu have begun seeing a surge in customer traffic as Dashain approaches, with people flocking to Bhrikutimandap and other shopping areas to purchase new clothes and essential items for the festival. Traders at Bhrikutimandap and other markets have been busy as customers shop for clothes for themselves and their family members, […]"
-        }
-      ]
-    },
-    {
-      "id": "0ae93596bc3f90f5",
-      "title": "नेपाली कांग्रेसका १४ वटा महाधिवेशन कहाँ–कहाँ भए ? को–को भए सभापति ?",
-      "summary": "काठमाडौँ । नेपाली कांग्रेसको १५औँ महाधिवेशन आज (आइतबार)देखि खुलामञ्चमा सुरु हुँदैछ । महाधिवेशनको उद्घाटनसत्र दिउँसो २ बजे सुरु हुने प्रवक्ता देवराज चालिसेले जानकारी दिए । २००३ सालमा स्थापित कांग्रेसका यसअघि १४ महाधिवशेन सम्पन्न भइसकेका छन् ।",
-      "publishedAt": "2026-10-04T14:15:00+00:00",
-      "updatedAt": "2026-10-04T14:15:00+00:00",
-      "sourceCount": 1,
-      "languageCount": 1,
-      "sources": [
-        "Ratopati"
-      ],
-      "categories": [
-        "politics",
-        "sports"
-      ],
-      "items": [
-        {
-          "id": "903c3d1a6fd3cc62",
-          "title": "नेपाली कांग्रेसका १४ वटा महाधिवेशन कहाँ–कहाँ भए ? को–को भए सभापति ?",
-          "link": "https://www.ratopati.com/story/597019/where-were-the-14-general-conventions-of-the-nepali-congress-held-who-was-the-president",
-          "source": "Ratopati",
-          "sourceUrl": "https://ratopati.com/feed",
-          "pubDate": "2026-10-04T14:15:00+00:00",
-          "categories": [
-            "politics",
-            "sports"
-          ],
-          "image": "https://npcdn.ratopati.com/media/news/congress-xa-savapati_HWVY9W2gbb.webp",
-          "images": [
-            "https://npcdn.ratopati.com/media/news/congress-xa-savapati_HWVY9W2gbb.webp"
-          ],
-          "description": "काठमाडौँ । नेपाली कांग्रेसको १५औँ महाधिवेशन आज (आइतबार)देखि खुलामञ्चमा सुरु हुँदैछ । महाधिवेशनको उद्घाटनसत्र दिउँसो २ बजे सुरु हुने प्रवक्ता देवराज चालिसेले जानकारी दिए । २००३ सालमा स्थापित कांग्रेसका यसअघि १४ महाधिवशेन सम्पन्न भइसकेका छन् ।"
-        }
-      ]
-    },
-    {
-      "id": "f5675f0e6914e1d2",
-      "title": "दसैँपछि थप ९ जना राजदूत नियुक्ति गर्दै सरकार",
-      "summary": "काठमाडौं । परराष्ट्र मन्त्रालयले बाँकी रहेका नौ देशका लागि दसैँपछि राजदूत नियुक्त गर्ने भएको छ । सरकारले यसअघि विज्ञतर्फबाट विभिन्न १३ वटा देशका लागि १३ जनाको नाम सिफारिस गरिसकेको छ । अब बाँकी रहेका नौ देशका",
-      "publishedAt": "2026-10-04T14:15:00+00:00",
-      "updatedAt": "2026-10-04T14:15:00+00:00",
-      "sourceCount": 1,
-      "languageCount": 1,
-      "sources": [
-        "Ratopati"
-      ],
-      "categories": [
-        "politics",
-        "sports"
-      ],
-      "items": [
-        {
-          "id": "3a3970eb135b8956",
-          "title": "दसैँपछि थप ९ जना राजदूत नियुक्ति गर्दै सरकार",
-          "link": "https://www.ratopati.com/story/597014/government-appointing-9-more-ambassadors-after-dashain",
-          "source": "Ratopati",
-          "sourceUrl": "https://ratopati.com/feed",
-          "pubDate": "2026-10-04T14:15:00+00:00",
-          "categories": [
-            "politics",
-            "sports"
-          ],
-          "image": "https://npcdn.ratopati.com/media/news/pararastra_Unbpw2xo7m.jpg",
-          "images": [
-            "https://npcdn.ratopati.com/media/news/pararastra_Unbpw2xo7m.jpg"
-          ],
-          "description": "काठमाडौं । परराष्ट्र मन्त्रालयले बाँकी रहेका नौ देशका लागि दसैँपछि राजदूत नियुक्त गर्ने भएको छ । सरकारले यसअघि विज्ञतर्फबाट विभिन्न १३ वटा देशका लागि १३ जनाको नाम सिफारिस गरिसकेको छ । अब बाँकी रहेका नौ देशका"
         }
       ]
     },
@@ -3471,76 +4032,6 @@
       ]
     },
     {
-      "id": "1833e7799a2ee051",
-      "title": "ब्राजिलमा लुला र बोल्सोनारोबिच प्रतिस्पर्धा हुने राष्ट्रपतीय चुनावका लागि मतदान",
-      "summary": "काठमाडाैँ । ब्राजिलका जनता आइतबार राष्ट्रपति चयनका लागि भएको चुनावमा मतदान गरेका छन् । यसमा हालका राष्ट्रपति लुइज इनासियो लुला दा सिल्भा र विपक्षी दलका नेता तथा सिनेटर फ्लाभियो बोल्सोनारो प्रतिस्पर्धाका लागि मुख्य उम्मेदवार रहनेछन्। चुनावअघिको",
-      "publishedAt": "2026-10-04T13:59:35+00:00",
-      "updatedAt": "2026-10-04T13:59:35+00:00",
-      "sourceCount": 1,
-      "languageCount": 1,
-      "sources": [
-        "Ratopati"
-      ],
-      "categories": [
-        "politics",
-        "sports"
-      ],
-      "items": [
-        {
-          "id": "4a5fb6d5b82d2f36",
-          "title": "ब्राजिलमा लुला र बोल्सोनारोबिच प्रतिस्पर्धा हुने राष्ट्रपतीय चुनावका लागि मतदान",
-          "link": "https://www.ratopati.com/story/597149/brazil-votes-in-presidential-election-between-lula-and-bolsonaro",
-          "source": "Ratopati",
-          "sourceUrl": "https://ratopati.com/feed",
-          "pubDate": "2026-10-04T13:59:35+00:00",
-          "categories": [
-            "politics",
-            "sports"
-          ],
-          "image": "https://rpcdn.ratopati.com/media/albums/brazil-flag_rbSmpilStW.JPG",
-          "images": [
-            "https://rpcdn.ratopati.com/media/albums/brazil-flag_rbSmpilStW.JPG"
-          ],
-          "description": "काठमाडाैँ । ब्राजिलका जनता आइतबार राष्ट्रपति चयनका लागि भएको चुनावमा मतदान गरेका छन् । यसमा हालका राष्ट्रपति लुइज इनासियो लुला दा सिल्भा र विपक्षी दलका नेता तथा सिनेटर फ्लाभियो बोल्सोनारो प्रतिस्पर्धाका लागि मुख्य उम्मेदवार रहनेछन्। चुनावअघिको"
-        }
-      ]
-    },
-    {
-      "id": "fb331100b8ce45bf",
-      "title": "धरान फिनेल प्रकरण : प्रहरीले थाल्यो अनुसन्धान",
-      "summary": "विराटनगर । धरान उपमहानगरपालिका परिसरमा आन्दोलनका क्रममा विद्यार्थी रोजन शंकरले फिनेल सेवन गरेको भनिएको घटनाबारे इलाका प्रहरी कार्यालय धरानले अनुसन्धान सुरु गरेको छ । इलाका प्रहरी कार्यालय धरानका प्रमुख तथा प्रहरी नायव उपरीक्षक ९डिएसपी० भिषण बहादुर",
-      "publishedAt": "2026-10-04T13:58:15+00:00",
-      "updatedAt": "2026-10-04T13:58:15+00:00",
-      "sourceCount": 1,
-      "languageCount": 1,
-      "sources": [
-        "Ratopati"
-      ],
-      "categories": [
-        "politics",
-        "sports"
-      ],
-      "items": [
-        {
-          "id": "3559f9d98c742467",
-          "title": "धरान फिनेल प्रकरण : प्रहरीले थाल्यो अनुसन्धान",
-          "link": "https://www.ratopati.com/story/597148/dharan-finel-case-where-has-the-investigation-into-the-incident-reached",
-          "source": "Ratopati",
-          "sourceUrl": "https://ratopati.com/feed",
-          "pubDate": "2026-10-04T13:58:15+00:00",
-          "categories": [
-            "politics",
-            "sports"
-          ],
-          "image": "https://npcdn.ratopati.com/media/news/finel-prakaran_0OHOzKyuKp.webp",
-          "images": [
-            "https://npcdn.ratopati.com/media/news/finel-prakaran_0OHOzKyuKp.webp"
-          ],
-          "description": "विराटनगर । धरान उपमहानगरपालिका परिसरमा आन्दोलनका क्रममा विद्यार्थी रोजन शंकरले फिनेल सेवन गरेको भनिएको घटनाबारे इलाका प्रहरी कार्यालय धरानले अनुसन्धान सुरु गरेको छ । इलाका प्रहरी कार्यालय धरानका प्रमुख तथा प्रहरी नायव उपरीक्षक ९डिएसपी० भिषण बहादुर"
-        }
-      ]
-    },
-    {
       "id": "d21c815421c856a5",
       "title": "राष्ट्रिय गौरवको आयोजनाकै ‘बेइज्जत’, विराटनगर क्रिकेट रंगशालाको भौतिक प्रगति ०.१%",
       "summary": "काठमाडौं। शिक्षा तथा खेलकुद मन्त्रालय अन्तर्गतका राष्ट्रिय गौरवकै दुई आयोजनाको प्रगति लाजमर्दो देखिएको छ। मन्त्रालयले नै तयार पारेको वार्षिक प्रतिवेदन अनुसार गत आर्थिक वर्ष काठमाडौंको मुलपानी क्रिकेट एकेडेमी र विराटनगरको वैजनाथपुरस्थित गिरिजाप्रसाद कोइराला क्रिकेट रंगशालाको भौतिक प्रगति लाजमर्दो देखिएको हो। आर्थिक वर्ष २०८/८१ मा सुरु भएको मुलपानी क्रिकेट एकेडेमी आगामी आर्थिक वर्ष सम्पन्न गर्ने भनिएकामा […] The post राष्ट्रिय गौरवको आयोजनाकै ‘बेइज्जत’, विराटनगर क्रिकेट रंगशालाको भौतिक प्रगति ०.१%",
@@ -3611,111 +4102,6 @@
           "image": "",
           "images": [],
           "description": "श्रीलङ्कामा भारी वर्षाका कारण चार जनाको मृत्यु भएको छ । बर्षाजन्य घटनाका कारण एक जना वेपत्ता भइरहेको र दर्जनौँ घाइते भएका छन् ।"
-        }
-      ]
-    },
-    {
-      "id": "b09a56fb01c4bd78",
-      "title": "बाढी प्रभावित गायक प्रचण्डबाबु राईको ‘खै कहाँ छ मेरो गाउँ’",
-      "summary": "खै कहाँ छ मेरो ठाउँ खै कहाँ छ मेरो ठाउँ एक फेर देख्न पाए पनि हुन्थ्यो खै कहाँ छन् बाबाआमा खै कहाँ छन् साथीसंगी एक फेर भेट्न पाए पनि हुन्थ्यो यो त एउटा नमिठो सपना भए हुन्थ्यो ब्युँझिँदा सबै उस्तै भए हुन्थ्यो गायक",
-      "publishedAt": "2026-10-04T13:54:20+00:00",
-      "updatedAt": "2026-10-04T13:54:20+00:00",
-      "sourceCount": 1,
-      "languageCount": 1,
-      "sources": [
-        "Ratopati"
-      ],
-      "categories": [
-        "politics",
-        "sports"
-      ],
-      "items": [
-        {
-          "id": "70111a784686fedb",
-          "title": "बाढी प्रभावित गायक प्रचण्डबाबु राईको ‘खै कहाँ छ मेरो गाउँ’",
-          "link": "https://www.ratopati.com/story/597144/flood-affected-singer-prachanda-babu-rais-where-is-my-village",
-          "source": "Ratopati",
-          "sourceUrl": "https://ratopati.com/feed",
-          "pubDate": "2026-10-04T13:54:20+00:00",
-          "categories": [
-            "politics",
-            "sports"
-          ],
-          "image": "https://npcdn.ratopati.com/media/news/prachanda-babu-rai-flood_kN1YxiO8Eu.webp",
-          "images": [
-            "https://npcdn.ratopati.com/media/news/prachanda-babu-rai-flood_kN1YxiO8Eu.webp"
-          ],
-          "description": "खै कहाँ छ मेरो ठाउँ खै कहाँ छ मेरो ठाउँ एक फेर देख्न पाए पनि हुन्थ्यो खै कहाँ छन् बाबाआमा खै कहाँ छन् साथीसंगी एक फेर भेट्न पाए पनि हुन्थ्यो यो त एउटा नमिठो सपना भए हुन्थ्यो ब्युँझिँदा सबै उस्तै भए हुन्थ्यो गायक"
-        }
-      ]
-    },
-    {
-      "id": "6bcadcc6b5fe7ea8",
-      "title": "चार प्रदेशको थोरै स्थानमा हल्का वर्षाको सम्भावना",
-      "summary": "काठमाडौँ, असोज १८ गते । नेपाल मौसम विज्ञान विभाग अन्तर्गत मौसम पूर्वानुमान महाशाखाका अनुसार आइतबार राति कोशी, बागमती, गण्डकी र लुम्बिनी प्रदेशको हिमाली र पहाडी भूभागका एक, दुई स्था...",
-      "publishedAt": "2026-10-04T13:53:42+00:00",
-      "updatedAt": "2026-10-04T13:53:42+00:00",
-      "sourceCount": 1,
-      "languageCount": 1,
-      "sources": [
-        "Gorkhapatra"
-      ],
-      "categories": [
-        "business",
-        "politics"
-      ],
-      "items": [
-        {
-          "id": "bbc5dc5789a9b5ad",
-          "title": "चार प्रदेशको थोरै स्थानमा हल्का वर्षाको सम्भावना",
-          "link": "https://gorkhapatraonline.com/news/225420",
-          "source": "Gorkhapatra",
-          "sourceUrl": "https://gorkhapatraonline.com/rss",
-          "pubDate": "2026-10-04T13:53:42+00:00",
-          "categories": [
-            "politics",
-            "business"
-          ],
-          "image": "https://gorkhapatraonline.com/storage/media/386469/conversions/renning-original.jpg",
-          "images": [
-            "https://gorkhapatraonline.com/storage/media/386469/conversions/renning-original.jpg"
-          ],
-          "description": "काठमाडौँ, असोज १८ गते । नेपाल मौसम विज्ञान विभाग अन्तर्गत मौसम पूर्वानुमान महाशाखाका अनुसार आइतबार राति कोशी, बागमती, गण्डकी र लुम्बिनी प्रदेशको हिमाली र पहाडी भूभागका एक, दुई स्था..."
-        }
-      ]
-    },
-    {
-      "id": "b2a5e0103f6d5d5f",
-      "title": "हरिवनमा स्ववियु कप हुने",
-      "summary": "जनार्जन खत्रीसर्लाही, असोज १८ गते । सर्लाहीको हरिवन नगरपालिका –१०, सुखेपोखरीमा मङ्गलबारदेखि प्रथम चतुर्भूजेश्वर जनता बहुमुखी क्याम्पस स्ववियु कप हुने भएको छ । आयोजक स्वतन्त्र विद्य...",
-      "publishedAt": "2026-10-04T13:53:24+00:00",
-      "updatedAt": "2026-10-04T13:53:24+00:00",
-      "sourceCount": 1,
-      "languageCount": 1,
-      "sources": [
-        "Gorkhapatra"
-      ],
-      "categories": [
-        "business",
-        "politics"
-      ],
-      "items": [
-        {
-          "id": "d389ec99abcef412",
-          "title": "हरिवनमा स्ववियु कप हुने",
-          "link": "https://gorkhapatraonline.com/news/225419",
-          "source": "Gorkhapatra",
-          "sourceUrl": "https://gorkhapatraonline.com/rss",
-          "pubDate": "2026-10-04T13:53:24+00:00",
-          "categories": [
-            "politics",
-            "business"
-          ],
-          "image": "https://gorkhapatraonline.com/storage/media/386468/conversions/Football-Press-Meet-photo-original.jpg",
-          "images": [
-            "https://gorkhapatraonline.com/storage/media/386468/conversions/Football-Press-Meet-photo-original.jpg"
-          ],
-          "description": "जनार्जन खत्रीसर्लाही, असोज १८ गते । सर्लाहीको हरिवन नगरपालिका –१०, सुखेपोखरीमा मङ्गलबारदेखि प्रथम चतुर्भूजेश्वर जनता बहुमुखी क्याम्पस स्ववियु कप हुने भएको छ । आयोजक स्वतन्त्र विद्य..."
         }
       ]
     },
@@ -3830,97 +4216,6 @@
       ]
     },
     {
-      "id": "1413fcb042d9bd25",
-      "title": "बाढी प्रभावितका लागि होन्डाको १ लाख अमेरिकी डलर सहयोग",
-      "summary": "काठमाडौँ । नेपालमा गत भदाै १० गते आएको विनाशकारी बाढीबाट प्रभावित समुदायको राहत तथा पुनर्स्थापना प्रयासमा सहयोग पुर्‍याउन होन्डाले प्रधानमन्त्री दैवी प्रकोप उद्धार कोषमा १ लाख अमेरिकी डलर सहयोग गरेको छ। होन्डाको एसिया तथा ओसियाना क्षेत्रीय",
-      "publishedAt": "2026-10-04T13:49:20+00:00",
-      "updatedAt": "2026-10-04T13:49:20+00:00",
-      "sourceCount": 2,
-      "languageCount": 2,
-      "sources": [
-        "Nepal Views",
-        "Ratopati"
-      ],
-      "categories": [
-        "business",
-        "politics",
-        "sports",
-        "technology"
-      ],
-      "items": [
-        {
-          "id": "4974cd5f48b06d57",
-          "title": "बाढी प्रभावितका लागि होन्डाको १ लाख अमेरिकी डलर सहयोग",
-          "link": "https://www.ratopati.com/story/597146/honda-donates-100000-to-flood-victims",
-          "source": "Ratopati",
-          "sourceUrl": "https://ratopati.com/feed",
-          "pubDate": "2026-10-04T13:49:20+00:00",
-          "categories": [
-            "politics",
-            "sports"
-          ],
-          "image": "https://npcdn.ratopati.com/media/news/honda_cVfr6l7tQL.webp",
-          "images": [
-            "https://npcdn.ratopati.com/media/news/honda_cVfr6l7tQL.webp"
-          ],
-          "description": "काठमाडौँ । नेपालमा गत भदाै १० गते आएको विनाशकारी बाढीबाट प्रभावित समुदायको राहत तथा पुनर्स्थापना प्रयासमा सहयोग पुर्‍याउन होन्डाले प्रधानमन्त्री दैवी प्रकोप उद्धार कोषमा १ लाख अमेरिकी डलर सहयोग गरेको छ। होन्डाको एसिया तथा ओसियाना क्षेत्रीय"
-        },
-        {
-          "id": "fa14841b094d6933",
-          "title": "बाढी प्रभावितलाई होन्डाको १ लाख डलर सहयोग",
-          "link": "https://www.nepalviews.com/story/426292/honda-donates-100000-to-flood-victims",
-          "source": "Nepal Views",
-          "sourceUrl": "https://www.nepalviews.com/feed/",
-          "pubDate": "2026-10-04T09:46:14+00:00",
-          "categories": [
-            "politics",
-            "business",
-            "technology"
-          ],
-          "image": "https://nepalviews.cdnsolution.net/en/media/setting/banner_FHsSzcWYKk.jpg",
-          "images": [
-            "https://nepalviews.cdnsolution.net/en/media/setting/banner_FHsSzcWYKk.jpg"
-          ],
-          "description": ""
-        }
-      ]
-    },
-    {
-      "id": "bf700496b3108508",
-      "title": "स्केटिङ संघ : कोषाध्यक्ष विवाददेखि आर्थिक कारोबारमाथि उठ्यो प्रश्न, राखेपले थाल्यो छानबिन",
-      "summary": "काठमाडौँ । नेपाल स्केटिङ तथा स्केट बोर्डिङ संघभित्र आर्थिक कारोबार, कोषाध्यक्षको जिम्मेवारी, बैंक खाता सञ्चालन, सदस्यता शुल्क तथा साधारणसभाको वैधानिकतालगायत विषयलाई लिएर विवाद चर्किएको छ । संघका सचिव दिनेश बजगाईंले निर्वाचित कोषाध्यक्षलाई पन्छाएर कार्यसमितिमै नरहेको व्यक्तिलाई",
-      "publishedAt": "2026-10-04T13:45:55+00:00",
-      "updatedAt": "2026-10-04T13:45:55+00:00",
-      "sourceCount": 1,
-      "languageCount": 1,
-      "sources": [
-        "Ratopati"
-      ],
-      "categories": [
-        "politics",
-        "sports"
-      ],
-      "items": [
-        {
-          "id": "d91611c50326efcb",
-          "title": "स्केटिङ संघ : कोषाध्यक्ष विवाददेखि आर्थिक कारोबारमाथि उठ्यो प्रश्न, राखेपले थाल्यो छानबिन",
-          "link": "https://www.ratopati.com/story/597057/skating-association-questions-raised-over-financial-transactions-from-treasurer-dispute-nsc-begins-investigation",
-          "source": "Ratopati",
-          "sourceUrl": "https://ratopati.com/feed",
-          "pubDate": "2026-10-04T13:45:55+00:00",
-          "categories": [
-            "politics",
-            "sports"
-          ],
-          "image": "https://npcdn.ratopati.com/media/news/sketing-bibad_YX0pM7EFIK.webp",
-          "images": [
-            "https://npcdn.ratopati.com/media/news/sketing-bibad_YX0pM7EFIK.webp"
-          ],
-          "description": "काठमाडौँ । नेपाल स्केटिङ तथा स्केट बोर्डिङ संघभित्र आर्थिक कारोबार, कोषाध्यक्षको जिम्मेवारी, बैंक खाता सञ्चालन, सदस्यता शुल्क तथा साधारणसभाको वैधानिकतालगायत विषयलाई लिएर विवाद चर्किएको छ । संघका सचिव दिनेश बजगाईंले निर्वाचित कोषाध्यक्षलाई पन्छाएर कार्यसमितिमै नरहेको व्यक्तिलाई"
-        }
-      ]
-    },
-    {
       "id": "03c8ec317fa369ab",
       "title": "Oli accuses government of failing to make lawmakers accountable, trying to turn them into puppets",
       "summary": "KATHMANDU: CPN-UML Chair KP Sharma Oli has instructed party lawmakers to prepare for a struggle to defend democracy, the Constitution and national interests. Speaking at a meeting of the UML Parliamentary Party held at the party office in Chyasal on Sunday, Oli said there were two fronts for peaceful struggle to defend democracy, the Constitution […]",
@@ -3952,41 +4247,6 @@
           "image": "",
           "images": [],
           "description": "KATHMANDU: CPN-UML Chair KP Sharma Oli has instructed party lawmakers to prepare for a struggle to defend democracy, the Constitution and national interests. Speaking at a meeting of the UML Parliamentary Party held at the party office in Chyasal on Sunday, Oli said there were two fronts for peaceful struggle to defend democracy, the Constitution […]"
-        }
-      ]
-    },
-    {
-      "id": "a93c9ecf822da4b7",
-      "title": "समृद्धिका लागि तीन तहबिच समन्वय, सहकार्य र सहअस्तित्व आवश्यक : मुख्यमन्त्री थापा",
-      "summary": "ललितपुर । बागमती प्रदेशका मुख्यमन्त्री किरण थापामगरले सङ्घीयताको कार्यान्वयनमा भएको कमजोर पक्षको सुधार गर्दै समृद्ध बागमती प्रदेश निर्माणका लागि सङ्घ, प्रदेश र स्थानीयका सरकारबीच समन्वय, सहकार्य र सहअस्तित्व आवश्यक रहेको बताएका छन्। बागमतीको प्रदेश सुशासन केन्द्रले",
-      "publishedAt": "2026-10-04T13:44:43+00:00",
-      "updatedAt": "2026-10-04T13:44:43+00:00",
-      "sourceCount": 1,
-      "languageCount": 1,
-      "sources": [
-        "Ratopati"
-      ],
-      "categories": [
-        "politics",
-        "sports"
-      ],
-      "items": [
-        {
-          "id": "f9a551564ad4b427",
-          "title": "समृद्धिका लागि तीन तहबिच समन्वय, सहकार्य र सहअस्तित्व आवश्यक : मुख्यमन्त्री थापा",
-          "link": "https://www.ratopati.com/story/597145/coordination-collaboration-and-coexistence-among-the-three-levels-are-necessary-for-prosperity",
-          "source": "Ratopati",
-          "sourceUrl": "https://ratopati.com/feed",
-          "pubDate": "2026-10-04T13:44:43+00:00",
-          "categories": [
-            "politics",
-            "sports"
-          ],
-          "image": "https://npcdn.ratopati.com/media/news/kiran-thapa_DHtWDcAGpx.webp",
-          "images": [
-            "https://npcdn.ratopati.com/media/news/kiran-thapa_DHtWDcAGpx.webp"
-          ],
-          "description": "ललितपुर । बागमती प्रदेशका मुख्यमन्त्री किरण थापामगरले सङ्घीयताको कार्यान्वयनमा भएको कमजोर पक्षको सुधार गर्दै समृद्ध बागमती प्रदेश निर्माणका लागि सङ्घ, प्रदेश र स्थानीयका सरकारबीच समन्वय, सहकार्य र सहअस्तित्व आवश्यक रहेको बताएका छन्। बागमतीको प्रदेश सुशासन केन्द्रले"
         }
       ]
     },
@@ -4213,41 +4473,6 @@
             "https://bizmandu.com/wp-content/uploads/2026/10/Gagan-Thapa-convention-3-1024x576.jpg"
           ],
           "description": "काठमाडौं। नेपाली कांग्रेसले आफू उद्यमीले कमाउन पाउनुपर्ने अर्थतन्त्रको पक्षमा रहेको बताएको छ। कांग्रेस सभापति गगन थापाले उद्यमीले कमाउन पाउनुपर्ने र समुन्नति पार्टीको मिसन भएको बताएका छन्। उनले आइतबार पार्टीको १५औं महाधिवेशन उद्‍घाटन समारोहमा विश्व अर्थतन्त्रमा देखिएका समस्या औंल्याउँदै देशभित्र उद्योग कलकारखाना खोद्य्नका लागि निजी क्षेत्रलाई प्रोत्साहित गर्नुपर्ने बताए। ‘हामी यस्तो अर्थतन्त्रको पक्षमा छौं जहाँ उद्यमीले […] The post ‘कांग्रेस उद्यमीले कमाउन पाउनुपर्ने अर्थतन्त्रको पक्षमा छ, तर ऋ"
-        }
-      ]
-    },
-    {
-      "id": "f5f8d30f3cfbd6a4",
-      "title": "‘कर तिरेकै भरमा सार्वजनिक जग्गामा निजी हक लाग्दैन’",
-      "summary": "काठमाडौँ, असोज १८ गते । सरकारी वा सार्वजनिक जग्गामा लामो समयदेखि बसोबास गर्दैआएको वा स्थानीय तहलाई ‘बिटौरी’ कर बुझाउँदै आएको आधारमा मात्र व्यक्तिको निजी स्वामित्व वा कानुनी भोगाधिक...",
-      "publishedAt": "2026-10-04T13:30:48+00:00",
-      "updatedAt": "2026-10-04T13:30:48+00:00",
-      "sourceCount": 1,
-      "languageCount": 1,
-      "sources": [
-        "Gorkhapatra"
-      ],
-      "categories": [
-        "business",
-        "politics"
-      ],
-      "items": [
-        {
-          "id": "72b9281a3cec7f0c",
-          "title": "‘कर तिरेकै भरमा सार्वजनिक जग्गामा निजी हक लाग्दैन’",
-          "link": "https://gorkhapatraonline.com/news/225418",
-          "source": "Gorkhapatra",
-          "sourceUrl": "https://gorkhapatraonline.com/rss",
-          "pubDate": "2026-10-04T13:30:48+00:00",
-          "categories": [
-            "politics",
-            "business"
-          ],
-          "image": "https://gorkhapatraonline.com/storage/media/386471/conversions/Sova-Sketch-original.jpg",
-          "images": [
-            "https://gorkhapatraonline.com/storage/media/386471/conversions/Sova-Sketch-original.jpg"
-          ],
-          "description": "काठमाडौँ, असोज १८ गते । सरकारी वा सार्वजनिक जग्गामा लामो समयदेखि बसोबास गर्दैआएको वा स्थानीय तहलाई ‘बिटौरी’ कर बुझाउँदै आएको आधारमा मात्र व्यक्तिको निजी स्वामित्व वा कानुनी भोगाधिक..."
         }
       ]
     },
@@ -4797,41 +5022,6 @@
       ]
     },
     {
-      "id": "19620fcef807eab6",
-      "title": "बदलिएको कांग्रेसले देश पनि बदल्छ भन्ने विश्वास लिएर महाधिवेशनबाट जानुपर्छ : गगन थापा",
-      "summary": "काठमाडौं। नेपाली कांग्रेसका सभापति गगनकुमार थापाले बदलिएको कांग्रेसले देश पनि बदल्न सक्छ भन्ने विश्वासका साथ १५औँ महाधिवेशनबाट नयाँ ऊर्जा र संकल्प लिएर बाहिरिनुपर्ने बताएका छन्। कांग्रेसको १५औँ महाधिवेशन उद्घाटन समारोहलाई सम्बोधन गर्दै थापाले महाधिवेशनलाई नेतृत्व चयनको प्रक्रियामा मात्रै सीमित नगरी पार्टीको विगत, वर्तमान र आगामी बाटोबारे गम्भीर समीक्षा गर्ने अवसरका रूपमा लिनुपर्ने बताए। कांग्रेसले आफूलाई […]",
-      "publishedAt": "2026-10-04T12:59:04+00:00",
-      "updatedAt": "2026-10-04T12:59:04+00:00",
-      "sourceCount": 1,
-      "languageCount": 1,
-      "sources": [
-        "Nepal News"
-      ],
-      "categories": [
-        "business",
-        "politics",
-        "world"
-      ],
-      "items": [
-        {
-          "id": "48bfebe764666040",
-          "title": "बदलिएको कांग्रेसले देश पनि बदल्छ भन्ने विश्वास लिएर महाधिवेशनबाट जानुपर्छ : गगन थापा",
-          "link": "https://nepalnews.com/2026/10/04/we-should-leave-the-general-convention-with-the-belief-that-a-changed-congress-will-also-change-the-country-gagan-thapa/",
-          "source": "Nepal News",
-          "sourceUrl": "https://nepalnews.com/feed",
-          "pubDate": "2026-10-04T12:59:04+00:00",
-          "categories": [
-            "politics",
-            "business",
-            "world"
-          ],
-          "image": "",
-          "images": [],
-          "description": "काठमाडौं। नेपाली कांग्रेसका सभापति गगनकुमार थापाले बदलिएको कांग्रेसले देश पनि बदल्न सक्छ भन्ने विश्वासका साथ १५औँ महाधिवेशनबाट नयाँ ऊर्जा र संकल्प लिएर बाहिरिनुपर्ने बताएका छन्। कांग्रेसको १५औँ महाधिवेशन उद्घाटन समारोहलाई सम्बोधन गर्दै थापाले महाधिवेशनलाई नेतृत्व चयनको प्रक्रियामा मात्रै सीमित नगरी पार्टीको विगत, वर्तमान र आगामी बाटोबारे गम्भीर समीक्षा गर्ने अवसरका रूपमा लिनुपर्ने बताए। कांग्रेसले आफूलाई […]"
-        }
-      ]
-    },
-    {
       "id": "1e06a3b82fd48a7a",
       "title": "कांग्रेसलाई नयाँ राजनीतिक यात्रामा लैजाने गगनको संकल्प",
       "summary": "",
@@ -4869,20 +5059,18 @@
       ]
     },
     {
-      "id": "461a4ce1919c7587",
+      "id": "ab16161c3517de14",
       "title": "दलप्रतिको असन्तुष्टि ‘भुसको आगो’ जस्तै सल्कियो र विद्रोह भयो - गगन थापा",
       "summary": "",
       "publishedAt": "2026-10-04T12:56:53+00:00",
       "updatedAt": "2026-10-04T12:56:53+00:00",
-      "sourceCount": 2,
-      "languageCount": 2,
+      "sourceCount": 1,
+      "languageCount": 1,
       "sources": [
-        "Nepal Samaya",
         "Nepal Views"
       ],
       "categories": [
         "business",
-        "entertainment",
         "politics",
         "technology"
       ],
@@ -4903,21 +5091,6 @@
           "images": [
             "https://nepalviews.cdnsolution.net/en/media/setting/banner_FHsSzcWYKk.jpg"
           ],
-          "description": ""
-        },
-        {
-          "id": "08e74c21aa739517",
-          "title": "राजनीतिक दल र नेतृत्वप्रतिको असन्तुष्टि ‘भुसको आगो’ जस्तै सल्कियो र बिद्रोह भयो : गगन थापा",
-          "link": "https://nepalsamaya.com/detail/146662",
-          "source": "Nepal Samaya",
-          "sourceUrl": "https://nepalsamaya.com/feed",
-          "pubDate": "2026-10-04T12:56:46+00:00",
-          "categories": [
-            "politics",
-            "entertainment"
-          ],
-          "image": "",
-          "images": [],
           "description": ""
         }
       ]
@@ -5478,43 +5651,6 @@
       ]
     },
     {
-      "id": "46775012786aaf1b",
-      "title": "सरकार ढल्ने हल्ला गर्नेहरू नै सरकार नढलेको देखेर ढल्छन् : सभापति लामिछाने",
-      "summary": "काठमाडौँ। सत्तारुढ राष्ट्रिय स्वतन्त्र पार्टी (रास्वपा) का सभापति रवि लामिछानेले प्रधानमन्त्री बालेन्द्र शाह नेतृत्वको वर्तमान सरकार नढल्ने दाबी गरेका छन्। नेपाली कांग्रेसको १५औँ महाधिवेशन उद्घाटन समारोहलाई सम्बोधन गर्दै लामिछानेले सरकार कमजोर भएको तथा जुनसुकै बेला ढल्न सक्ने भन्दै चर्चा गर्नेहरूमाथि व्यंग्य गरेका हुन्। ‘कहिलेकाहीँ सुनिन्छ, सरकार कमजोर भयो, सरकार ढल्छ, अहिल्यै ढल्छ, भोलि ढल्छ, दसैँमा […]",
-      "publishedAt": "2026-10-04T12:26:38+00:00",
-      "updatedAt": "2026-10-04T12:26:38+00:00",
-      "sourceCount": 1,
-      "languageCount": 1,
-      "sources": [
-        "News of Nepal"
-      ],
-      "categories": [
-        "business",
-        "politics",
-        "sports"
-      ],
-      "items": [
-        {
-          "id": "0fb66b73bb3fc987",
-          "title": "सरकार ढल्ने हल्ला गर्नेहरू नै सरकार नढलेको देखेर ढल्छन् : सभापति लामिछाने",
-          "link": "https://newsofnepal.com/2026/10/04/789990/",
-          "source": "News of Nepal",
-          "sourceUrl": "https://newsofnepal.com/feed/",
-          "pubDate": "2026-10-04T12:26:38+00:00",
-          "categories": [
-            "politics",
-            "business",
-            "sports"
-          ],
-          "image": "https://newsofnepal.com/wp-content/uploads/2026/10/rabi-lamichane--150x150.jpg",
-          "images": [
-            "https://newsofnepal.com/wp-content/uploads/2026/10/rabi-lamichane--150x150.jpg"
-          ],
-          "description": "काठमाडौँ। सत्तारुढ राष्ट्रिय स्वतन्त्र पार्टी (रास्वपा) का सभापति रवि लामिछानेले प्रधानमन्त्री बालेन्द्र शाह नेतृत्वको वर्तमान सरकार नढल्ने दाबी गरेका छन्। नेपाली कांग्रेसको १५औँ महाधिवेशन उद्घाटन समारोहलाई सम्बोधन गर्दै लामिछानेले सरकार कमजोर भएको तथा जुनसुकै बेला ढल्न सक्ने भन्दै चर्चा गर्नेहरूमाथि व्यंग्य गरेका हुन्। ‘कहिलेकाहीँ सुनिन्छ, सरकार कमजोर भयो, सरकार ढल्छ, अहिल्यै ढल्छ, भोलि ढल्छ, दसैँमा […]"
-        }
-      ]
-    },
-    {
       "id": "0d7a9b1041529c12",
       "title": "NC's role for democracy impt. say leaders",
       "summary": "Kathmandu, Oct 4: General Secretary of the Shram Sanskriti Party, Aren Rai, stated that the Nepali Congress was establis...",
@@ -5706,144 +5842,6 @@
       ]
     },
     {
-      "id": "d585334bdfa3b5e9",
-      "title": "कांग्रेसको शक्ति नै उसको लामो राजनीतिक इतिहास हो : रवि लामिछाने",
-      "summary": "काठमाडौं । सत्तारुढ राष्ट्रिय स्वतन्त्र पार्टी (रास्वपा) का सभापति रवि लामिछानेले नेपाली कांग्रेसको सबैभन्दा ठूलो शक्ति उसको लामो राजनीतिक इतिहास भएको बताएका छन्। कांग्रेसले नेपालको लोकतान्त्रिक आन्दोलनमा पुर्‍याएको योगदानको आफूले सधैँ सम्मान गर्ने भन्दै उनले कांग्रेसको इतिहासबाट पाठ सिकेर अघि बढ्नु पर्ने बताए। नेपाली कांग्रेसको १५औं महाधिवेशन उद्घाटन समारोहलाई सम्बोधन गर्दै लामिछानेले आफू अहिलेको मञ्चमा […]",
-      "publishedAt": "2026-10-04T12:17:18+00:00",
-      "updatedAt": "2026-10-04T12:17:18+00:00",
-      "sourceCount": 1,
-      "languageCount": 1,
-      "sources": [
-        "Nepal News"
-      ],
-      "categories": [
-        "business",
-        "politics",
-        "world"
-      ],
-      "items": [
-        {
-          "id": "c07856b9cf4bd5bb",
-          "title": "कांग्रेसको शक्ति नै उसको लामो राजनीतिक इतिहास हो : रवि लामिछाने",
-          "link": "https://nepalnews.com/2026/10/04/congresss-strength-lies-in-its-long-political-history-ravi-lamichhane/",
-          "source": "Nepal News",
-          "sourceUrl": "https://nepalnews.com/feed",
-          "pubDate": "2026-10-04T12:17:18+00:00",
-          "categories": [
-            "politics",
-            "business",
-            "world"
-          ],
-          "image": "",
-          "images": [],
-          "description": "काठमाडौं । सत्तारुढ राष्ट्रिय स्वतन्त्र पार्टी (रास्वपा) का सभापति रवि लामिछानेले नेपाली कांग्रेसको सबैभन्दा ठूलो शक्ति उसको लामो राजनीतिक इतिहास भएको बताएका छन्। कांग्रेसले नेपालको लोकतान्त्रिक आन्दोलनमा पुर्‍याएको योगदानको आफूले सधैँ सम्मान गर्ने भन्दै उनले कांग्रेसको इतिहासबाट पाठ सिकेर अघि बढ्नु पर्ने बताए। नेपाली कांग्रेसको १५औं महाधिवेशन उद्घाटन समारोहलाई सम्बोधन गर्दै लामिछानेले आफू अहिलेको मञ्चमा […]"
-        }
-      ]
-    },
-    {
-      "id": "a6da724f896c05ef",
-      "title": "मलद्वारमा ब्राउन सुगर लुकाएर ल्याएको आरोपमा एक जना पक्राउ",
-      "summary": "उदयपुर। उदयपुरमा मलद्वारमा प्रतिबन्धित लागुऔषधजस्तो देखिने पदार्थ लुकाएर ल्याएको आरोपमा एक जना पक्राउ परेका छन्। जिल्ला प्रहरी कार्यालय उदयपुरका अनुसार बेलका नगरपालिका–४ लालबजारस्थित यात्रुवाहक बसबाट बेलका नगरपालिका–५ घुम्ने निवासी ३० वर्षीय प्रदीप बस्नेतलाई प्रहरीले नियन्त्रणमा लिएको हो। बिहीबार साँझ करिब ६ः३० बजे बसमा सवार बस्नेतमाथि प्रतिबन्धित वस्तु लुकाएर ल्याएको आशंका भएपछि इलाका प्रहरी कार्यालय रामपुर […]",
-      "publishedAt": "2026-10-04T12:17:07+00:00",
-      "updatedAt": "2026-10-04T12:17:07+00:00",
-      "sourceCount": 1,
-      "languageCount": 1,
-      "sources": [
-        "News of Nepal"
-      ],
-      "categories": [
-        "business",
-        "politics",
-        "sports"
-      ],
-      "items": [
-        {
-          "id": "73be60b96df2fb5c",
-          "title": "मलद्वारमा ब्राउन सुगर लुकाएर ल्याएको आरोपमा एक जना पक्राउ",
-          "link": "https://newsofnepal.com/2026/10/04/789988/",
-          "source": "News of Nepal",
-          "sourceUrl": "https://newsofnepal.com/feed/",
-          "pubDate": "2026-10-04T12:17:07+00:00",
-          "categories": [
-            "politics",
-            "business",
-            "sports"
-          ],
-          "image": "https://newsofnepal.com/wp-content/uploads/2025/04/pakrau-150x150.webp",
-          "images": [
-            "https://newsofnepal.com/wp-content/uploads/2025/04/pakrau-150x150.webp"
-          ],
-          "description": "उदयपुर। उदयपुरमा मलद्वारमा प्रतिबन्धित लागुऔषधजस्तो देखिने पदार्थ लुकाएर ल्याएको आरोपमा एक जना पक्राउ परेका छन्। जिल्ला प्रहरी कार्यालय उदयपुरका अनुसार बेलका नगरपालिका–४ लालबजारस्थित यात्रुवाहक बसबाट बेलका नगरपालिका–५ घुम्ने निवासी ३० वर्षीय प्रदीप बस्नेतलाई प्रहरीले नियन्त्रणमा लिएको हो। बिहीबार साँझ करिब ६ः३० बजे बसमा सवार बस्नेतमाथि प्रतिबन्धित वस्तु लुकाएर ल्याएको आशंका भएपछि इलाका प्रहरी कार्यालय रामपुर […]"
-        }
-      ]
-    },
-    {
-      "id": "461147766dd3007f",
-      "title": "गगनजीले नेपाली कांग्रेसलाई नयाँ इतिहासतिर डोर्‍याउनुभयो : प्रचण्ड",
-      "summary": "",
-      "publishedAt": "2026-10-04T12:15:11+00:00",
-      "updatedAt": "2026-10-04T12:15:11+00:00",
-      "sourceCount": 1,
-      "languageCount": 1,
-      "sources": [
-        "Nepal Samaya"
-      ],
-      "categories": [
-        "entertainment",
-        "politics"
-      ],
-      "items": [
-        {
-          "id": "fc63f645933193a8",
-          "title": "गगनजीले नेपाली कांग्रेसलाई नयाँ इतिहासतिर डोर्‍याउनुभयो : प्रचण्ड",
-          "link": "https://nepalsamaya.com/detail/146661",
-          "source": "Nepal Samaya",
-          "sourceUrl": "https://nepalsamaya.com/feed",
-          "pubDate": "2026-10-04T12:15:11+00:00",
-          "categories": [
-            "politics",
-            "entertainment"
-          ],
-          "image": "",
-          "images": [],
-          "description": ""
-        }
-      ]
-    },
-    {
-      "id": "fee08a0ab1893844",
-      "title": "अब आन्दोलन गरेर सरकार ढाल्ने खेलमा नलागौं : रवि लामिछाने",
-      "summary": "",
-      "publishedAt": "2026-10-04T12:13:06+00:00",
-      "updatedAt": "2026-10-04T12:13:06+00:00",
-      "sourceCount": 1,
-      "languageCount": 1,
-      "sources": [
-        "Nepal Samaya"
-      ],
-      "categories": [
-        "entertainment",
-        "politics"
-      ],
-      "items": [
-        {
-          "id": "fb7a72f5fe07d523",
-          "title": "अब आन्दोलन गरेर सरकार ढाल्ने खेलमा नलागौं : रवि लामिछाने",
-          "link": "https://nepalsamaya.com/detail/146660",
-          "source": "Nepal Samaya",
-          "sourceUrl": "https://nepalsamaya.com/feed",
-          "pubDate": "2026-10-04T12:13:06+00:00",
-          "categories": [
-            "politics",
-            "entertainment"
-          ],
-          "image": "",
-          "images": [],
-          "description": ""
-        }
-      ]
-    },
-    {
       "id": "f00eed54dd05b1b1",
       "title": "बुटवलमा एआरई जीपी रेसिङ क्वालिफायर, १६० सीसीतर्फ तीन राइडर छनोट",
       "summary": "",
@@ -5990,6 +5988,45 @@
           "image": "",
           "images": [],
           "description": "'सबैभन्दा अवसर पाएका मान्छेलाई टिकट वितरणमा प्राथमिकता नदिएको भए म पनि कांग्रेस हुन्थेँ होला । आज ५० वर्षको सभापति पाउँदा गौरवको महसुस गर्नुभएको छ । ४० वर्षमा नै सभापति बन्ने प्रेरणा दिँदा लिएको भए म पनि कांग्रेस हुन्थेँ होला ।'"
+        }
+      ]
+    },
+    {
+      "id": "f39d46f12952ef60",
+      "title": "कांग्रेसको शक्ति नै उसको लामो राजनीतिक इतिहास हो : रवि लामिछाने",
+      "summary": "१८ असोज, काठमाडौं। सत्तारुढ राष्ट्रिय स्वतन्त्र पार्टीका सभापति रवि लामिछानेले नेपाली कांग्रेसको सबैभन्दा ठूलो शक्ति उसको लामो राजनीतिक इतिहास भएको बताएका छन्। कांग्रेसले नेपालको लोकतान्त्रिक आन्दोलनमा पुर्‍याएको योगदानको आफूले सधैँ सम्मान गर्ने भन्दै उनले कांग्रेसको इतिहासबाट पाठ सिकेर अघि बढ्नुपर्ने बताए। नेपाली कांग्रेसको १५औँ महाधिवेशनको उद्घाटन समारोहलाई सम्बोधन गर्दै लामिछानेले आफू अहिलेको मञ्चमा सत्तापक्षको भए […]",
+      "publishedAt": "2026-10-04T12:07:45+00:00",
+      "updatedAt": "2026-10-04T12:07:45+00:00",
+      "sourceCount": 1,
+      "languageCount": 1,
+      "sources": [
+        "Online Khabar"
+      ],
+      "categories": [
+        "business",
+        "entertainment",
+        "politics",
+        "sports",
+        "technology"
+      ],
+      "items": [
+        {
+          "id": "7c7428f61e2d4ae0",
+          "title": "कांग्रेसको शक्ति नै उसको लामो राजनीतिक इतिहास हो : रवि लामिछाने",
+          "link": "https://www.onlinekhabar.com/2026/10/2032180/congresss-strength-lies-in-its-long-political-history-ravi-lamichhane",
+          "source": "Online Khabar",
+          "sourceUrl": "https://www.onlinekhabar.com/feed",
+          "pubDate": "2026-10-04T12:07:45+00:00",
+          "categories": [
+            "politics",
+            "business",
+            "sports",
+            "technology",
+            "entertainment"
+          ],
+          "image": "",
+          "images": [],
+          "description": "१८ असोज, काठमाडौं। सत्तारुढ राष्ट्रिय स्वतन्त्र पार्टीका सभापति रवि लामिछानेले नेपाली कांग्रेसको सबैभन्दा ठूलो शक्ति उसको लामो राजनीतिक इतिहास भएको बताएका छन्। कांग्रेसले नेपालको लोकतान्त्रिक आन्दोलनमा पुर्‍याएको योगदानको आफूले सधैँ सम्मान गर्ने भन्दै उनले कांग्रेसको इतिहासबाट पाठ सिकेर अघि बढ्नुपर्ने बताए। नेपाली कांग्रेसको १५औँ महाधिवेशनको उद्घाटन समारोहलाई सम्बोधन गर्दै लामिछानेले आफू अहिलेको मञ्चमा सत्तापक्षको भए […]"
         }
       ]
     },
@@ -6326,39 +6363,6 @@
       ]
     },
     {
-      "id": "152e91f65d713c34",
-      "title": "आवश्यक विषयमा सरकारसँग हातेमालो गर्न कांग्रेस तयार छ : विश्वप्रकाश शर्मा",
-      "summary": "",
-      "publishedAt": "2026-10-04T11:54:53+00:00",
-      "updatedAt": "2026-10-04T11:54:53+00:00",
-      "sourceCount": 1,
-      "languageCount": 1,
-      "sources": [
-        "Nepal Samaya"
-      ],
-      "categories": [
-        "entertainment",
-        "politics"
-      ],
-      "items": [
-        {
-          "id": "93ac579dc7132f58",
-          "title": "आवश्यक विषयमा सरकारसँग हातेमालो गर्न कांग्रेस तयार छ : विश्वप्रकाश शर्मा",
-          "link": "https://nepalsamaya.com/detail/146659",
-          "source": "Nepal Samaya",
-          "sourceUrl": "https://nepalsamaya.com/feed",
-          "pubDate": "2026-10-04T11:54:53+00:00",
-          "categories": [
-            "politics",
-            "entertainment"
-          ],
-          "image": "",
-          "images": [],
-          "description": ""
-        }
-      ]
-    },
-    {
       "id": "f85092d03ec31acd",
       "title": "गगनलाई प्रचण्डले भने- कांग्रेसमा निरन्तरताको क्रमभंग गर्नुभयो, अब देशको नेतृत्व गर्ने बाटोमा हिँड्नुस्",
       "summary": "",
@@ -6495,43 +6499,6 @@
           "image": "",
           "images": [],
           "description": "काठमाडौं। मनकामना केबलकार सेवा एक दिन बन्द हुने भएको छ। टावर मर्मतका लागि असोज २० गते मंगलबार केबलकार सेवा बन्द रहने कम्पनीले जनाएको छ। उक्त दिन यात्रुका लागि केबलकार सञ्चालन नहुने मनकामना केबलकारले जनाएको छ। कम्पनीका अनुसार मर्मत कार्य सकिएपछि सेवा असोज २१ गते बुधबारदेखि नियमित रूपमा संचालनमा आउनेछ। मर्मतपछि यात्रुले साविककै रूपमा केबलकार सेवा […] The post टावर मर्मत कार्यका लागि असोज २० गते मनकामना केबलकार सेवा बन्द रहने appeared first on BIZMANDU ."
-        }
-      ]
-    },
-    {
-      "id": "cdbb80b76cb352c2",
-      "title": "General convention is forum for dialogue on party's present, future: Leader Bhusal",
-      "summary": "Kathmandu, Oct 4: Nepali Congress Vice-President Pushpa Bhusal has said that the 15th General Convention of the Nepali C...",
-      "publishedAt": "2026-10-04T11:46:14+00:00",
-      "updatedAt": "2026-10-04T11:46:14+00:00",
-      "sourceCount": 1,
-      "languageCount": 1,
-      "sources": [
-        "The Rising Nepal"
-      ],
-      "categories": [
-        "business",
-        "politics",
-        "sports",
-        "world"
-      ],
-      "items": [
-        {
-          "id": "7caa04e09b700d0e",
-          "title": "General convention is forum for dialogue on party's present, future: Leader Bhusal",
-          "link": "https://risingnepaldaily.com/news/87383",
-          "source": "The Rising Nepal",
-          "sourceUrl": "https://risingnepaldaily.com/rss",
-          "pubDate": "2026-10-04T11:46:14+00:00",
-          "categories": [
-            "politics",
-            "business",
-            "world",
-            "sports"
-          ],
-          "image": "",
-          "images": [],
-          "description": "Kathmandu, Oct 4: Nepali Congress Vice-President Pushpa Bhusal has said that the 15th General Convention of the Nepali C..."
         }
       ]
     },
@@ -6904,43 +6871,6 @@
           "source": "Nepal Views",
           "sourceUrl": "https://www.nepalviews.com/feed/",
           "pubDate": "2026-10-04T11:14:35+00:00",
-          "categories": [
-            "politics",
-            "business",
-            "technology"
-          ],
-          "image": "https://nepalviews.cdnsolution.net/en/media/setting/banner_FHsSzcWYKk.jpg",
-          "images": [
-            "https://nepalviews.cdnsolution.net/en/media/setting/banner_FHsSzcWYKk.jpg"
-          ],
-          "description": ""
-        }
-      ]
-    },
-    {
-      "id": "2e96b12ed9e2d156",
-      "title": "संविधान निर्माणपछि सरकार बनाउने र गिराउने खेल धेरै भयो - बाबुराम भट्टराई",
-      "summary": "",
-      "publishedAt": "2026-10-04T11:02:45+00:00",
-      "updatedAt": "2026-10-04T11:02:45+00:00",
-      "sourceCount": 1,
-      "languageCount": 1,
-      "sources": [
-        "Nepal Views"
-      ],
-      "categories": [
-        "business",
-        "politics",
-        "technology"
-      ],
-      "items": [
-        {
-          "id": "b05ab27a0d118d74",
-          "title": "संविधान निर्माणपछि सरकार बनाउने र गिराउने खेल धेरै भयो - बाबुराम भट्टराई",
-          "link": "https://www.nepalviews.com/story/426302/after-the-constitution-was-drafted-there-have-been-many-games-of-forming-and-toppling-governments-baburam-bhattarai",
-          "source": "Nepal Views",
-          "sourceUrl": "https://www.nepalviews.com/feed/",
-          "pubDate": "2026-10-04T11:02:45+00:00",
           "categories": [
             "politics",
             "business",
@@ -7561,6 +7491,43 @@
           "source": "Nepal Views",
           "sourceUrl": "https://www.nepalviews.com/feed/",
           "pubDate": "2026-10-04T09:50:49+00:00",
+          "categories": [
+            "politics",
+            "business",
+            "technology"
+          ],
+          "image": "https://nepalviews.cdnsolution.net/en/media/setting/banner_FHsSzcWYKk.jpg",
+          "images": [
+            "https://nepalviews.cdnsolution.net/en/media/setting/banner_FHsSzcWYKk.jpg"
+          ],
+          "description": ""
+        }
+      ]
+    },
+    {
+      "id": "141bfd95e1abd61e",
+      "title": "बाढी प्रभावितलाई होन्डाको १ लाख डलर सहयोग",
+      "summary": "",
+      "publishedAt": "2026-10-04T09:46:14+00:00",
+      "updatedAt": "2026-10-04T09:46:14+00:00",
+      "sourceCount": 1,
+      "languageCount": 1,
+      "sources": [
+        "Nepal Views"
+      ],
+      "categories": [
+        "business",
+        "politics",
+        "technology"
+      ],
+      "items": [
+        {
+          "id": "fa14841b094d6933",
+          "title": "बाढी प्रभावितलाई होन्डाको १ लाख डलर सहयोग",
+          "link": "https://www.nepalviews.com/story/426292/honda-donates-100000-to-flood-victims",
+          "source": "Nepal Views",
+          "sourceUrl": "https://www.nepalviews.com/feed/",
+          "pubDate": "2026-10-04T09:46:14+00:00",
           "categories": [
             "politics",
             "business",
