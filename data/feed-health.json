@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-07T23:49:22.284138+00:00",
+  "generatedAt": "2026-10-08T03:31:14.738300+00:00",
   "feedCount": 41,
   "healthyFeeds": 24,
   "failedFeeds": 17,
@@ -9,8 +9,8 @@
       "url": "https://www.onlinekhabar.com/feed",
       "status": "healthy",
       "items": 40,
-      "responseMs": 105,
-      "lastSuccess": "2026-10-07T23:48:34.795720+00:00",
+      "responseMs": 98,
+      "lastSuccess": "2026-10-08T03:30:23.145756+00:00",
       "error": ""
     },
     {
@@ -27,8 +27,8 @@
       "url": "https://ratopati.com/feed",
       "status": "healthy",
       "items": 30,
-      "responseMs": 183,
-      "lastSuccess": "2026-10-07T23:48:35.693995+00:00",
+      "responseMs": 228,
+      "lastSuccess": "2026-10-08T03:30:24.050424+00:00",
       "error": ""
     },
     {
@@ -45,8 +45,8 @@
       "url": "https://gorkhapatraonline.com/rss",
       "status": "healthy",
       "items": 10,
-      "responseMs": 1066,
-      "lastSuccess": "2026-10-07T23:48:36.363133+00:00",
+      "responseMs": 1215,
+      "lastSuccess": "2026-10-08T03:30:24.491866+00:00",
       "error": ""
     },
     {
@@ -72,8 +72,8 @@
       "url": "http://feeds.bbci.co.uk/nepali/rss.xml",
       "status": "healthy",
       "items": 20,
-      "responseMs": 381,
-      "lastSuccess": "2026-10-07T23:48:38.284806+00:00",
+      "responseMs": 639,
+      "lastSuccess": "2026-10-08T03:30:26.904180+00:00",
       "error": ""
     },
     {
@@ -90,8 +90,8 @@
       "url": "https://www.annapurnapost.com/rss",
       "status": "healthy",
       "items": 0,
-      "responseMs": 175,
-      "lastSuccess": "2026-10-07T23:48:40.226043+00:00",
+      "responseMs": 365,
+      "lastSuccess": "2026-10-08T03:30:29.298520+00:00",
       "error": ""
     },
     {
@@ -99,8 +99,8 @@
       "url": "https://rajdhanidaily.com/feed/",
       "status": "healthy",
       "items": 10,
-      "responseMs": 138,
-      "lastSuccess": "2026-10-07T23:48:40.400810+00:00",
+      "responseMs": 492,
+      "lastSuccess": "2026-10-08T03:30:29.663839+00:00",
       "error": ""
     },
     {
@@ -126,8 +126,8 @@
       "url": "https://nepallive.com/feed",
       "status": "healthy",
       "items": 5,
-      "responseMs": 409,
-      "lastSuccess": "2026-10-07T23:48:41.791051+00:00",
+      "responseMs": 457,
+      "lastSuccess": "2026-10-08T03:30:32.066428+00:00",
       "error": ""
     },
     {
@@ -153,8 +153,8 @@
       "url": "https://www.lokaantar.com/feed",
       "status": "healthy",
       "items": 0,
-      "responseMs": 720,
-      "lastSuccess": "2026-10-07T23:48:42.901887+00:00",
+      "responseMs": 605,
+      "lastSuccess": "2026-10-08T03:30:33.056207+00:00",
       "error": ""
     },
     {
@@ -162,8 +162,8 @@
       "url": "https://dainiknepal.com/feed",
       "status": "healthy",
       "items": 1,
-      "responseMs": 2136,
-      "lastSuccess": "2026-10-07T23:48:43.622131+00:00",
+      "responseMs": 2677,
+      "lastSuccess": "2026-10-08T03:30:33.660875+00:00",
       "error": ""
     },
     {
@@ -180,8 +180,8 @@
       "url": "https://nepalsamaya.com/feed",
       "status": "healthy",
       "items": 5,
-      "responseMs": 799,
-      "lastSuccess": "2026-10-07T23:48:47.315263+00:00",
+      "responseMs": 971,
+      "lastSuccess": "2026-10-08T03:30:37.673260+00:00",
       "error": ""
     },
     {
@@ -216,8 +216,8 @@
       "url": "https://himalKhabar.com/feed",
       "status": "healthy",
       "items": 5,
-      "responseMs": 1017,
-      "lastSuccess": "2026-10-07T23:49:07.717523+00:00",
+      "responseMs": 1253,
+      "lastSuccess": "2026-10-08T03:30:58.113017+00:00",
       "error": ""
     },
     {
@@ -225,8 +225,8 @@
       "url": "https://nepaltimes.com/feed",
       "status": "healthy",
       "items": 0,
-      "responseMs": 116,
-      "lastSuccess": "2026-10-07T23:49:08.734330+00:00",
+      "responseMs": 146,
+      "lastSuccess": "2026-10-08T03:30:59.365705+00:00",
       "error": ""
     },
     {
@@ -234,8 +234,8 @@
       "url": "https://bizmandu.com/feed",
       "status": "healthy",
       "items": 15,
-      "responseMs": 1555,
-      "lastSuccess": "2026-10-07T23:49:08.850389+00:00",
+      "responseMs": 1684,
+      "lastSuccess": "2026-10-08T03:30:59.512191+00:00",
       "error": ""
     },
     {
@@ -243,8 +243,8 @@
       "url": "https://arthasarokar.com/feed",
       "status": "healthy",
       "items": 20,
-      "responseMs": 1204,
-      "lastSuccess": "2026-10-07T23:49:10.405832+00:00",
+      "responseMs": 1206,
+      "lastSuccess": "2026-10-08T03:31:01.196126+00:00",
       "error": ""
     },
     {
@@ -252,8 +252,8 @@
       "url": "https://himalpress.com/feed/",
       "status": "healthy",
       "items": 40,
-      "responseMs": 3439,
-      "lastSuccess": "2026-10-07T23:49:11.609910+00:00",
+      "responseMs": 4018,
+      "lastSuccess": "2026-10-08T03:31:02.401756+00:00",
       "error": ""
     },
     {
@@ -261,8 +261,8 @@
       "url": "https://www.thahakhabar.com/feed",
       "status": "healthy",
       "items": 5,
-      "responseMs": 399,
-      "lastSuccess": "2026-10-07T23:49:15.048956+00:00",
+      "responseMs": 407,
+      "lastSuccess": "2026-10-08T03:31:06.420156+00:00",
       "error": ""
     },
     {
@@ -270,8 +270,8 @@
       "url": "https://baahrakhari.com/feed",
       "status": "healthy",
       "items": 5,
-      "responseMs": 913,
-      "lastSuccess": "2026-10-07T23:49:15.447616+00:00",
+      "responseMs": 682,
+      "lastSuccess": "2026-10-08T03:31:06.827298+00:00",
       "error": ""
     },
     {
@@ -279,8 +279,8 @@
       "url": "https://newsofnepal.com/feed/",
       "status": "healthy",
       "items": 12,
-      "responseMs": 655,
-      "lastSuccess": "2026-10-07T23:49:16.360572+00:00",
+      "responseMs": 1276,
+      "lastSuccess": "2026-10-08T03:31:07.509004+00:00",
       "error": ""
     },
     {
@@ -288,8 +288,8 @@
       "url": "https://nepalnews.com/feed",
       "status": "healthy",
       "items": 12,
-      "responseMs": 793,
-      "lastSuccess": "2026-10-07T23:49:17.015370+00:00",
+      "responseMs": 1691,
+      "lastSuccess": "2026-10-08T03:31:08.784568+00:00",
       "error": ""
     },
     {
@@ -297,8 +297,8 @@
       "url": "https://www.nepalviews.com/feed/",
       "status": "healthy",
       "items": 30,
-      "responseMs": 366,
-      "lastSuccess": "2026-10-07T23:49:17.808137+00:00",
+      "responseMs": 452,
+      "lastSuccess": "2026-10-08T03:31:10.476006+00:00",
       "error": ""
     },
     {
@@ -306,8 +306,8 @@
       "url": "https://english.khabarhub.com/feed/",
       "status": "healthy",
       "items": 12,
-      "responseMs": 303,
-      "lastSuccess": "2026-10-07T23:49:18.174585+00:00",
+      "responseMs": 250,
+      "lastSuccess": "2026-10-08T03:31:10.927767+00:00",
       "error": ""
     },
     {
@@ -324,8 +324,8 @@
       "url": "https://risingnepaldaily.com/rss",
       "status": "healthy",
       "items": 10,
-      "responseMs": 1107,
-      "lastSuccess": "2026-10-07T23:49:18.842774+00:00",
+      "responseMs": 1192,
+      "lastSuccess": "2026-10-08T03:31:11.469347+00:00",
       "error": ""
     },
     {
@@ -333,8 +333,8 @@
       "url": "https://english.onlinekhabar.com/feed",
       "status": "healthy",
       "items": 20,
-      "responseMs": 753,
-      "lastSuccess": "2026-10-07T23:49:19.949621+00:00",
+      "responseMs": 420,
+      "lastSuccess": "2026-10-08T03:31:12.661122+00:00",
       "error": ""
     },
     {
@@ -369,8 +369,8 @@
       "url": "https://www.nepalitimes.com/feed/",
       "status": "healthy",
       "items": 30,
-      "responseMs": 264,
-      "lastSuccess": "2026-10-07T23:49:22.017857+00:00",
+      "responseMs": 169,
+      "lastSuccess": "2026-10-08T03:31:14.567960+00:00",
       "error": ""
     }
   ]
