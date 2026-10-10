@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-10-10T20:52:10.218431+00:00",
+  "generatedAt": "2026-10-10T23:58:11.452288+00:00",
   "feedCount": 41,
   "healthyFeeds": 23,
   "failedFeeds": 18,
   "itemCount": 323,
   "items": [
     {
-      "id": "51bc7fc5db7a3706",
-      "title": "उपसभापति र महामन्त्रीमा कसको मत कति ?",
-      "link": "https://baahrakhari.com/detail/504526",
+      "id": "d68d033fdac8e288",
+      "title": "ऊर्जा बचत नगर्ने उद्योगलाई जरिबाना, बचत प्रमाणपत्र किनबेच गर्न पाइने",
+      "link": "https://baahrakhari.com/detail/504531",
       "source": "Baahrakhari",
       "sourceUrl": "https://baahrakhari.com/feed",
-      "pubDate": "2026-10-10T19:03:00+00:00",
+      "pubDate": "2026-10-10T23:57:21+00:00",
       "categories": [
         "politics",
         "business",
@@ -20,6 +20,121 @@
       "image": "",
       "images": [],
       "description": ""
+    },
+    {
+      "id": "0fa1fe6f0ee9e3af",
+      "title": "कस्तो रहनेछ आज दिनभरको मौसम ?",
+      "link": "https://baahrakhari.com/detail/504530",
+      "source": "Baahrakhari",
+      "sourceUrl": "https://baahrakhari.com/feed",
+      "pubDate": "2026-10-10T23:55:33+00:00",
+      "categories": [
+        "politics",
+        "business",
+        "society"
+      ],
+      "image": "",
+      "images": [],
+      "description": ""
+    },
+    {
+      "id": "d87b851aaa970837",
+      "title": "बडादसैँ सुरु, आज घटस्थापना गरिँदै",
+      "link": "https://baahrakhari.com/detail/504529",
+      "source": "Baahrakhari",
+      "sourceUrl": "https://baahrakhari.com/feed",
+      "pubDate": "2026-10-10T23:49:55+00:00",
+      "categories": [
+        "politics",
+        "business",
+        "society"
+      ],
+      "image": "",
+      "images": [],
+      "description": ""
+    },
+    {
+      "id": "e9f9bc4e2f0102d8",
+      "title": "कांग्रेस महामन्त्रीमा प्रदीप र अमरसिंहलाई अग्रता, अरूले कति पाए मत ?",
+      "link": "https://baahrakhari.com/detail/504528",
+      "source": "Baahrakhari",
+      "sourceUrl": "https://baahrakhari.com/feed",
+      "pubDate": "2026-10-10T23:30:29+00:00",
+      "categories": [
+        "politics",
+        "business",
+        "society"
+      ],
+      "image": "",
+      "images": [],
+      "description": ""
+    },
+    {
+      "id": "2fd0e6314337f00a",
+      "title": "कांग्रेस महाधिवेशन : उपसभापतिमा भण्डारीलाई अग्रता",
+      "link": "https://baahrakhari.com/detail/504527",
+      "source": "Baahrakhari",
+      "sourceUrl": "https://baahrakhari.com/feed",
+      "pubDate": "2026-10-10T23:19:00+00:00",
+      "categories": [
+        "politics",
+        "business",
+        "society"
+      ],
+      "image": "",
+      "images": [],
+      "description": ""
+    },
+    {
+      "id": "33e4f4034a595334",
+      "title": "नेपालीको महान् पर्व बडादसैँ सुरु, आज घटस्थापना गरिँदै",
+      "link": "https://rajdhanidaily.com/id/149912/",
+      "source": "Rajdhani Daily",
+      "sourceUrl": "https://rajdhanidaily.com/feed/",
+      "pubDate": "2026-10-10T22:36:13+00:00",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "image": "https://rajdhanidaily.com/wp-content/uploads/2022/09/Ghatasthapana.png",
+      "images": [
+        "https://rajdhanidaily.com/wp-content/uploads/2022/09/Ghatasthapana.png"
+      ],
+      "description": "काठमाडौं । प्रत्येक वर्ष आश्विन शुक्ल प्रतिपदादेखि विधिवत् आरम्भ गरिने नेपालीको महान् पर्व बडादसैँ आज आइतबारदेखि सुरु भएको छ । यो पर्व आश्विन शुक्ल पूर्णिमासम्म १५ दिन धुमधामका साथ मनाउने गरिन्छ । बडादसैँको पहिलो दिन आज घरघरमा विधिपूर्वक दियो, कलश र गणेश स्थापनासहित घटस्थापना गरिन्छ । पूजा कोठा वा दसैँ घरमा वैदिक विधिपूर्वक शक्तिकी अधिष्ठात्री […] The post नेपालीको महान् पर्व बडादसैँ सुरु, आज घटस्थापना गरिँदै appeared first on राजधानी राष्ट्रिय दैनिक (लोकप्रिय राष्ट्रिय दैनिक)-RajdhaniDaily.com "
+    },
+    {
+      "id": "422f8697042e8f7b",
+      "title": "झिलिमिली बत्तीले सिंगारिए काठमाडौंका मठमन्दिर तथा शक्तिपीठ",
+      "link": "https://rajdhanidaily.com/id/149910/",
+      "source": "Rajdhani Daily",
+      "sourceUrl": "https://rajdhanidaily.com/feed/",
+      "pubDate": "2026-10-10T22:16:20+00:00",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "image": "https://rajdhanidaily.com/wp-content/uploads/2026/10/maitidevi-dashain-scaled.jpeg",
+      "images": [
+        "https://rajdhanidaily.com/wp-content/uploads/2026/10/maitidevi-dashain-scaled.jpeg"
+      ],
+      "description": "काठमाडौं । दसैँ, तिहारलगायतका चाडपर्वको रौनक बढेसँगै काठमाडौं उपत्यकाका विभिन्न मठमन्दिर तथा शक्तिपीठ झिलिमिली बत्तीले सिंगारिएका छन् । चाडपर्वलाई उल्लासमय बनाउने उद्देश्यले मन्दिर परिसरदेखि आसपासका सडकसम्म विभिन्न रङका बत्तीले सजावट गरिएपछि धार्मिकस्थलको सौन्दर्य थपिएको छ । साँझ परेसँगै झिलिमिली बत्तीले उज्यालिएका मन्दिरमा दर्शन तथा पूजाआजाका लागि आउने भक्तजनको चहलपहल पनि बढ्न थालेको छ । काठमाडौंका […] The post झिलिमिली बत्तीले सिंगारिए काठमाडौंका मठमन्दिर तथा शक्तिपीठ appeared first on राजधानी"
+    },
+    {
+      "id": "f46358c66414b169",
+      "title": "यस्तो छ आजका लागि विदेशी मुद्राको विनिमयदर",
+      "link": "https://rajdhanidaily.com/id/149909/",
+      "source": "Rajdhani Daily",
+      "sourceUrl": "https://rajdhanidaily.com/feed/",
+      "pubDate": "2026-10-10T21:41:53+00:00",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "image": "https://rajdhanidaily.com/wp-content/uploads/2026/09/bideshi-mudra.jpg",
+      "images": [
+        "https://rajdhanidaily.com/wp-content/uploads/2026/09/bideshi-mudra.jpg"
+      ],
+      "description": "काठमाडौं । नेपाल राष्ट्र बैंकले आजका लागि विदेशी मुद्राको विनिमयदर निर्धारण गरेको छ । राष्ट्र बैंकका अनुसार अमेरिकी डलर एकको खरिददर १५४ रुपैयाँ ४८ पैसा र बिक्रीदर १५५ रुपैयाँ ०८ पैसा निर्धारण गरिएको छ । युरोपियन युरो एकको खरिददर १७३ रुपैयाँ ३२ पैसा र बिक्रीदर १७३ रुपैयाँ ९९ पैसा, युके पाउन्ड स्ट्रलिङ एकको खरिददर २०४ […] The post यस्तो छ आजका लागि विदेशी मुद्राको विनिमयदर appeared first on राजधानी राष्ट्रिय दैनिक (लोकप्रिय राष्ट्रिय दैनिक)-RajdhaniDaily.com - Online Nepali News Portal-Latest Nepa"
     },
     {
       "id": "76ba741b194f81f0",
@@ -37,22 +152,6 @@
         "https://gorkhapatraonline.com/storage/media/387514/conversions/1000518038-original.jpg"
       ],
       "description": "भक्तपुर, असोज २४ गते । क्रियाशील पत्रकार मञ्चको अध्यक्षमा राससकर्मी रमेश गिरी सर्वसम्मत चयन हुनुभएको छ ।मञ्चको आज सम्पन्न १६औँ वार्षिक साधारणसभाले छैठौ केन्द्रीय अधिवेशनले पत्रकार..."
-    },
-    {
-      "id": "d49ebd02219fef13",
-      "title": "कांग्रेस पदाधिकारीको प्रारम्भिक मतपरिणाम सार्वजनिक",
-      "link": "https://baahrakhari.com/detail/504525",
-      "source": "Baahrakhari",
-      "sourceUrl": "https://baahrakhari.com/feed",
-      "pubDate": "2026-10-10T17:53:00+00:00",
-      "categories": [
-        "politics",
-        "business",
-        "society"
-      ],
-      "image": "",
-      "images": [],
-      "description": ""
     },
     {
       "id": "7579d3a3f73097f8",
@@ -87,22 +186,6 @@
         "https://npcdn.ratopati.com/media/news/pradip-paudel_IKkRlNi1t2.jpg"
       ],
       "description": "काठमाडौँ । नेपाली कांग्रेसको १५औँ महाधिवेशनअन्तर्गत पदाधिकारीको मतगणनाको प्रारम्भिक नतिजामा महामन्त्री पदमा प्रदीप पौडेल र उपसभापति पदमा डा. चन्द्रकान्त भण्डारीले अग्रता लिएका छन् । सुरुका ५० मत गणना गर्दा खुला महामन्त्रीतर्फ प्रदीप पौडेलले ३३ मत प्राप्त"
-    },
-    {
-      "id": "e6c543fd9875eccf",
-      "title": "साउदीको अन्तर्राष्ट्रिय विमानस्थलमा हुथीको हमला, धेरै घाइते भएको आशंका",
-      "link": "https://baahrakhari.com/detail/504524",
-      "source": "Baahrakhari",
-      "sourceUrl": "https://baahrakhari.com/feed",
-      "pubDate": "2026-10-10T17:14:17+00:00",
-      "categories": [
-        "politics",
-        "business",
-        "society"
-      ],
-      "image": "",
-      "images": [],
-      "description": ""
     },
     {
       "id": "48e6f11ef1f05ee8",
@@ -171,22 +254,6 @@
       "image": "",
       "images": [],
       "description": "Kathmandu, Oct 10: A meeting of the Standing Committee of the CPN-UML held today decided to nominate 10 leaders from var..."
-    },
-    {
-      "id": "ab47282de7e01061",
-      "title": "होप्स टेबलटेनिस प्रतियोगितामा गनन्जय र शेखरको जोडी च्याम्पियन",
-      "link": "https://baahrakhari.com/detail/504523",
-      "source": "Baahrakhari",
-      "sourceUrl": "https://baahrakhari.com/feed",
-      "pubDate": "2026-10-10T16:50:02+00:00",
-      "categories": [
-        "politics",
-        "business",
-        "society"
-      ],
-      "image": "",
-      "images": [],
-      "description": ""
     },
     {
       "id": "9bf061c7a73fa5c3",
@@ -288,22 +355,6 @@
         "https://gorkhapatraonline.com/storage/media/387509/conversions/khadya2022-04-20-08-05-11-original.jpg"
       ],
       "description": "तुलसीपुर (दाङ), असोज २४ गते । खाद्य प्रविधि तथा गुण नियन्त्रण डिभिजन कार्यालय, तुलसीपुर दाङले एक वर्षमा १६१ पटक विभिन्न खाद्य व्यवसायको निरीक्षण तथा अनुगमन गरेको छ । आर्थिक वर्ष २०..."
-    },
-    {
-      "id": "adcf2c3425e98710",
-      "title": "सरकारी सफट्ंवेयर तथा हार्डवेयर खरिदबारे अध्ययनका लागि समिति गठन",
-      "link": "https://baahrakhari.com/detail/504522",
-      "source": "Baahrakhari",
-      "sourceUrl": "https://baahrakhari.com/feed",
-      "pubDate": "2026-10-10T16:32:48+00:00",
-      "categories": [
-        "politics",
-        "business",
-        "society"
-      ],
-      "image": "",
-      "images": [],
-      "description": ""
     },
     {
       "id": "675ffa41bba7c707",
@@ -2647,40 +2698,6 @@
       "description": "काठमाडौँ- नेपाली कांग्रेसका नवनिर्वाचित सभापति गगनकुमार थापाले नागरिकको विश्वास जित्ने गरी पार्टीलाई रूपान्तरण गर्ने प्रतिवद्धता जनाएका छन्। सभापतिमा निर्वाचित भएपछि शनिबार पार्टी कार्यालय सानेपामा उपस्थित नेता, कार्यकर्ता तथा समर्थकलाई सम्बोधन गर्दै सभापति थापाले आफूले प्राप्त गरेको जिम्मेवारीलाई अधिकार नभई जवाफदेहिताका रूपमा लिएको भन्दै नागरिकको विश्वास जित्ने गरी पार्टीलाई रूपान्तरण गर्ने प्रतिवद्धता जनाए। महाधिवेशनबाट नयाँ नेतृत्व […]"
     },
     {
-      "id": "6f95dcef1c80ea47",
-      "title": "दसैँमा १० लाख यात्रु घर फर्किंदै",
-      "link": "https://rajdhanidaily.com/id/149891/",
-      "source": "Rajdhani Daily",
-      "sourceUrl": "https://rajdhanidaily.com/feed/",
-      "pubDate": "2026-10-10T10:04:38+00:00",
-      "categories": [
-        "politics",
-        "business"
-      ],
-      "image": "https://rajdhanidaily.com/wp-content/uploads/2020/03/buspark-1.jpg",
-      "images": [
-        "https://rajdhanidaily.com/wp-content/uploads/2020/03/buspark-1.jpg"
-      ],
-      "description": "काठमाडौं । दसैँ मनाउन काठमाडौं उपत्यकाबाट नागरिक बाहिरिने क्रम सुरु भएको छ । गत वर्षको तुलनामा यस वर्ष उल्लेख्य घटेर करिब १० लाखमा झर्ने सुरक्षा निकायको अनुमान छ । असुरक्षित सडक र महँगो भाडाले मारमा यात्रु बाढीपहिरोले सडक तथा पुलमा पु¥याएको क्षति, दुर्घटनाको जोखिम र महँगिएको हवाई भाडाका कारण घर फर्किने यात्रुमा अन्योल बढेको छ […] The post दसैँमा १० लाख यात्रु घर फर्किंदै appeared first on राजधानी राष्ट्रिय दैनिक (लोकप्रिय राष्ट्रिय दैनिक)-RajdhaniDaily.com - Online Nepali News Portal-Latest Nepa"
-    },
-    {
-      "id": "25aa45b79f66821e",
-      "title": "सुन तस्करीको ‘ट्रान्जिट हब’ काठमाडौं",
-      "link": "https://rajdhanidaily.com/id/149890/",
-      "source": "Rajdhani Daily",
-      "sourceUrl": "https://rajdhanidaily.com/feed/",
-      "pubDate": "2026-10-10T10:02:01+00:00",
-      "categories": [
-        "politics",
-        "business"
-      ],
-      "image": "https://rajdhanidaily.com/wp-content/uploads/2024/07/gold.jpg",
-      "images": [
-        "https://rajdhanidaily.com/wp-content/uploads/2024/07/gold.jpg"
-      ],
-      "description": "काठमाडौं । बूढानीलकण्ठ नगरपालिका–२ माथिल्लो भंगालस्थित भाडाको घरबाट २१ किलो ७५० ग्राम सुन बरामद भएपछि काठमाडौं सुन तस्करीको बलिो ट्रान्जिट बन्दै गएको देखिएको छ । पाँच वर्षमा करिब २ सय करोड बढीको १६१ किलो सुन बरामद विदेशबाट तस्करी गरेर ल्याइएको सुन काठमाडौंमा भण्डारण र प्रशोधन गरी बजारसम्म पु¥याउने सञ्जाल सक्रिय रहेको पछिल्लो घटनाले देखाएको छ […] The post सुन तस्करीको ‘ट्रान्जिट हब’ काठमाडौं appeared first on राजधानी राष्ट्रिय दैनिक (लोकप्रिय राष्ट्रिय दैनिक)-RajdhaniDaily.com - Online Nepali New"
-    },
-    {
       "id": "456c5c7a6fe48a4a",
       "title": "एमाले केन्द्रीय कमिटीमा १३ जना मनोनीत",
       "link": "https://himalpress.com/2026/10/in-the-uml-central-committee/",
@@ -2712,23 +2729,6 @@
       "image": "",
       "images": [],
       "description": "Kathmandu, Oct 10: Minister for Foreign Affairs Shisir Khanal returned home today following his participation in the hig..."
-    },
-    {
-      "id": "0d39331fc7993bb3",
-      "title": "चाडपर्वमा स्वच्छ र सुन्दर मौलापुर बनाउने अभियानमा जुटिन् मेयर रीना साह",
-      "link": "https://rajdhanidaily.com/id/149888/",
-      "source": "Rajdhani Daily",
-      "sourceUrl": "https://rajdhanidaily.com/feed/",
-      "pubDate": "2026-10-10T09:54:50+00:00",
-      "categories": [
-        "politics",
-        "business"
-      ],
-      "image": "https://rajdhanidaily.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-10-at-11.30.27-AM.jpeg",
-      "images": [
-        "https://rajdhanidaily.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-10-at-11.30.27-AM.jpeg"
-      ],
-      "description": "रौतहट । दुर्गा पूजाको अवसर पारेर रौतहटको मौलापुर नगरपालिकामा नगर सरसफाइ अभियान सुरु गरिएको छ। नगरप्रमुख रीना कुमारी साहको आह्वानमा चाडपर्वको समयमा नगरलाई स्वच्छ, सफा र सुन्दर बनाउने उद्देश्यले अभियान सञ्चालन गरिएको हो। दुर्गा पूजाको विशेष अवसरमा सुरु गरिएको अभियानले नगरको सरसफाइ व्यवस्थापनलाई प्रभावकारी बनाउनुका साथै स्वच्छ वातावरणमा चाडपर्व मनाउने वातावरण तयार गर्ने अपेक्षा गरिएको […] The post चाडपर्वमा स्वच्छ र सुन्दर मौलापुर बनाउने अभियानमा जुटिन् मेयर रीना साह appeared first on राजधानी राष्ट"
     },
     {
       "id": "6cda45a01ff4c965",
