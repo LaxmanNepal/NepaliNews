@@ -1,8 +1,113 @@
 {
-  "generatedAt": "2026-10-10T17:50:42.185511+00:00",
-  "sourceItemCount": 322,
-  "storyCount": 314,
+  "generatedAt": "2026-10-10T20:52:10.900970+00:00",
+  "sourceItemCount": 323,
+  "storyCount": 315,
   "stories": [
+    {
+      "id": "7931c23fd6a954a8",
+      "title": "उपसभापति र महामन्त्रीमा कसको मत कति ?",
+      "summary": "",
+      "publishedAt": "2026-10-10T19:03:00+00:00",
+      "updatedAt": "2026-10-10T19:03:00+00:00",
+      "sourceCount": 1,
+      "languageCount": 1,
+      "sources": [
+        "Baahrakhari"
+      ],
+      "categories": [
+        "business",
+        "politics",
+        "society"
+      ],
+      "items": [
+        {
+          "id": "51bc7fc5db7a3706",
+          "title": "उपसभापति र महामन्त्रीमा कसको मत कति ?",
+          "link": "https://baahrakhari.com/detail/504526",
+          "source": "Baahrakhari",
+          "sourceUrl": "https://baahrakhari.com/feed",
+          "pubDate": "2026-10-10T19:03:00+00:00",
+          "categories": [
+            "politics",
+            "business",
+            "society"
+          ],
+          "image": "",
+          "images": [],
+          "description": ""
+        }
+      ]
+    },
+    {
+      "id": "274e5a58d93db62f",
+      "title": "क्रियाशील पत्रकार मञ्चकोे अध्यक्षतामा रमेश गिरी",
+      "summary": "भक्तपुर, असोज २४ गते । क्रियाशील पत्रकार मञ्चको अध्यक्षमा राससकर्मी रमेश गिरी सर्वसम्मत चयन हुनुभएको छ ।मञ्चको आज सम्पन्न १६औँ वार्षिक साधारणसभाले छैठौ केन्द्रीय अधिवेशनले पत्रकार...",
+      "publishedAt": "2026-10-10T17:53:37+00:00",
+      "updatedAt": "2026-10-10T17:53:37+00:00",
+      "sourceCount": 1,
+      "languageCount": 1,
+      "sources": [
+        "Gorkhapatra"
+      ],
+      "categories": [
+        "business",
+        "politics"
+      ],
+      "items": [
+        {
+          "id": "76ba741b194f81f0",
+          "title": "क्रियाशील पत्रकार मञ्चकोे अध्यक्षतामा रमेश गिरी",
+          "link": "https://gorkhapatraonline.com/news/226223",
+          "source": "Gorkhapatra",
+          "sourceUrl": "https://gorkhapatraonline.com/rss",
+          "pubDate": "2026-10-10T17:53:37+00:00",
+          "categories": [
+            "politics",
+            "business"
+          ],
+          "image": "https://gorkhapatraonline.com/storage/media/387514/conversions/1000518038-original.jpg",
+          "images": [
+            "https://gorkhapatraonline.com/storage/media/387514/conversions/1000518038-original.jpg"
+          ],
+          "description": "भक्तपुर, असोज २४ गते । क्रियाशील पत्रकार मञ्चको अध्यक्षमा राससकर्मी रमेश गिरी सर्वसम्मत चयन हुनुभएको छ ।मञ्चको आज सम्पन्न १६औँ वार्षिक साधारणसभाले छैठौ केन्द्रीय अधिवेशनले पत्रकार..."
+        }
+      ]
+    },
+    {
+      "id": "0a77c5bacc34464b",
+      "title": "कांग्रेस पदाधिकारीको प्रारम्भिक मतपरिणाम सार्वजनिक",
+      "summary": "",
+      "publishedAt": "2026-10-10T17:53:00+00:00",
+      "updatedAt": "2026-10-10T17:53:00+00:00",
+      "sourceCount": 1,
+      "languageCount": 1,
+      "sources": [
+        "Baahrakhari"
+      ],
+      "categories": [
+        "business",
+        "politics",
+        "society"
+      ],
+      "items": [
+        {
+          "id": "d49ebd02219fef13",
+          "title": "कांग्रेस पदाधिकारीको प्रारम्भिक मतपरिणाम सार्वजनिक",
+          "link": "https://baahrakhari.com/detail/504525",
+          "source": "Baahrakhari",
+          "sourceUrl": "https://baahrakhari.com/feed",
+          "pubDate": "2026-10-10T17:53:00+00:00",
+          "categories": [
+            "politics",
+            "business",
+            "society"
+          ],
+          "image": "",
+          "images": [],
+          "description": ""
+        }
+      ]
+    },
     {
       "id": "7c0a3e530a490936",
       "title": "धिमेबाजा प्रतियोगिताको सिरुटारका दुई खल बने विजेता र उपविजेता",
@@ -1162,41 +1267,6 @@
       ]
     },
     {
-      "id": "d33a1590c7a43baf",
-      "title": "गौरीशंकर महिला क्रिकेटको उपाधि काठमाडौं जिल्लालाई",
-      "summary": "",
-      "publishedAt": "2026-10-10T16:03:09+00:00",
-      "updatedAt": "2026-10-10T16:03:09+00:00",
-      "sourceCount": 1,
-      "languageCount": 1,
-      "sources": [
-        "Baahrakhari"
-      ],
-      "categories": [
-        "business",
-        "politics",
-        "society"
-      ],
-      "items": [
-        {
-          "id": "4b27614b5d4855b5",
-          "title": "गौरीशंकर महिला क्रिकेटको उपाधि काठमाडौं जिल्लालाई",
-          "link": "https://baahrakhari.com/detail/504521",
-          "source": "Baahrakhari",
-          "sourceUrl": "https://baahrakhari.com/feed",
-          "pubDate": "2026-10-10T16:03:09+00:00",
-          "categories": [
-            "politics",
-            "business",
-            "society"
-          ],
-          "image": "",
-          "images": [],
-          "description": ""
-        }
-      ]
-    },
-    {
       "id": "a5a7ffbc13f08026",
       "title": "पहिलो अन्तर्राष्ट्रिय भलिबल खेलेको नेपाली टिमका खेलाडी सम्मानित",
       "summary": "२४ असोज, काठमाडौं । नेपालको पहिलो अन्तर्राष्ट्रिय भलिबल प्रतियोगिता खेलेको राष्ट्रिय टिमका खेलाडी सम्मानित भएका छन् । नेपालले पहिलो अन्तर्राष्ट्रिय भलिबल प्रतियोगिता खेलेको ५० वर्ष पुगेको अवसरमा नेपाल भलिबल संघ (एनभीए) ले शनिबार गोल्डेन जुबली कार्यक्रम आयोजना गरी खेलाडीलाई सम्मान गरेको हो । संघले पहिलो अन्तर्राष्ट्रिय प्रतियोगिता खेलेका खेलाडीलाई सम्मानपत्र र खादा प्रदान गरेको थियो […]",
@@ -1526,41 +1596,6 @@
           "image": "",
           "images": [],
           "description": "पर्सा।नेपालीको महान पर्व वडा दसैँको सार्वजनिक बिदामा उच्च अदालत जनकपुरको अस्थायी इजलास वीरगञ्ज खुला रहने भएको छ। इजलासका अनुसार बिदाका कारण सेवाग्राही अत्यावश्यक न्यायिक सेवाबाट वञ्चित हुन नपरोस् भन्ने उद्देश्यले अदालतले दसैँ बिदाको अवधिमा बन्दीप्रत्यक्षीकरण, वाणिज्यसम्बन्धी पक्राउ पुर्जीको अनुमतिलगायत अत्यावश्यक प्रकृतिका निवेदनमाथि सुनुवाइ हुनेछ । घटस्थापनाको दिन असोज २५ गतेदेखि कात्तिक ८ गतेसम्म अदालत खुला […]"
-        }
-      ]
-    },
-    {
-      "id": "85e60e591519f757",
-      "title": "चितवनमा घटे तीन हजार बढी मतदाता",
-      "summary": "",
-      "publishedAt": "2026-10-10T15:48:13+00:00",
-      "updatedAt": "2026-10-10T15:48:13+00:00",
-      "sourceCount": 1,
-      "languageCount": 1,
-      "sources": [
-        "Baahrakhari"
-      ],
-      "categories": [
-        "business",
-        "politics",
-        "society"
-      ],
-      "items": [
-        {
-          "id": "03909eb37975dd91",
-          "title": "चितवनमा घटे तीन हजार बढी मतदाता",
-          "link": "https://baahrakhari.com/detail/504520",
-          "source": "Baahrakhari",
-          "sourceUrl": "https://baahrakhari.com/feed",
-          "pubDate": "2026-10-10T15:48:13+00:00",
-          "categories": [
-            "politics",
-            "business",
-            "society"
-          ],
-          "image": "",
-          "images": [],
-          "description": ""
         }
       ]
     },
@@ -2690,63 +2725,6 @@
       ]
     },
     {
-      "id": "f7d20d58992a761c",
-      "title": "कांग्रेस महाधिवेशन : उपसभापति र महामन्त्रीको मतगणना सुरु",
-      "summary": "गोरखापत्र समाचारदाताकाठमाडौँ, असोज २४ गते । नेपाली कांग्रेसको १५औँ महाधिवेशनअन्तर्गत उपसभापति र महामन्त्री पदका उम्मेदवारको मतगणना शनिबार साँझदेखि सुरु भएको छ ।निर्वाचन समिति संयोज...",
-      "publishedAt": "2026-10-10T14:16:48+00:00",
-      "updatedAt": "2026-10-10T14:16:48+00:00",
-      "sourceCount": 2,
-      "languageCount": 1,
-      "sources": [
-        "Gorkhapatra",
-        "Online Khabar"
-      ],
-      "categories": [
-        "business",
-        "entertainment",
-        "politics",
-        "sports",
-        "technology"
-      ],
-      "items": [
-        {
-          "id": "4b927ef35d2c12e1",
-          "title": "कांग्रेस महाधिवेशन : उपसभापति र महामन्त्रीको मतगणना सुरु",
-          "link": "https://gorkhapatraonline.com/news/226212",
-          "source": "Gorkhapatra",
-          "sourceUrl": "https://gorkhapatraonline.com/rss",
-          "pubDate": "2026-10-10T14:16:48+00:00",
-          "categories": [
-            "politics",
-            "business"
-          ],
-          "image": "https://gorkhapatraonline.com/storage/media/387503/conversions/congress_matgadana-original.jpg",
-          "images": [
-            "https://gorkhapatraonline.com/storage/media/387503/conversions/congress_matgadana-original.jpg"
-          ],
-          "description": "गोरखापत्र समाचारदाताकाठमाडौँ, असोज २४ गते । नेपाली कांग्रेसको १५औँ महाधिवेशनअन्तर्गत उपसभापति र महामन्त्री पदका उम्मेदवारको मतगणना शनिबार साँझदेखि सुरु भएको छ ।निर्वाचन समिति संयोज..."
-        },
-        {
-          "id": "2283a67202f0800e",
-          "title": "विवाद साम्य भएपछि कांग्रेस उपसभापति र महामन्त्रीको मतगणना सुरु",
-          "link": "https://www.onlinekhabar.com/2026/10/2036496/counting-of-votes-for-congress-vice-president-and-general-secretary-begins-after-dispute-is-resolved",
-          "source": "Online Khabar",
-          "sourceUrl": "https://www.onlinekhabar.com/feed",
-          "pubDate": "2026-10-10T14:04:30+00:00",
-          "categories": [
-            "politics",
-            "business",
-            "sports",
-            "technology",
-            "entertainment"
-          ],
-          "image": "",
-          "images": [],
-          "description": "यसअघि उम्मेदवार र प्रतिनिधिले एक मतपेटिका कम भेटिएको र दुई मतपेटिकाको सिलबन्दी खोलिएको अवस्थामा भेटिएको भन्दै मतगणना अघि बढ्न सकेको थिएन ।"
-        }
-      ]
-    },
-    {
       "id": "bdfc231017ebd27a",
       "title": "Session of Koshi Provincial Assembly prorogued",
       "summary": "BIRATNAGAR: The Office of the Koshi Province Chief has announced that the current 9th session of the Koshi Provincial Assembly has concluded, effective from this midnight. Province Chief Parshuram Khapung prorogued the session based on the recommendation of the provincial government, in accordance with Article 183 (2) of the Constitution, according to a statement issued […]",
@@ -2885,6 +2863,63 @@
             "https://npcdn.ratopati.com/media/news/congress-mat-gadana_wwsL0wmA9E.webp"
           ],
           "description": "काठमाडौँ । नेपाली कांग्रेसको १५ औँ महाधिवेशन अन्तर्गत आजदेखि उपसभापति र महामन्त्रीको मतगणना सुरू भएको छ । निर्वाचन समिति संयोजक वरिष्ठ अधिवक्ता प्रेमबहादुर खड्काका अनुसार खुला उपभापति र महामन्त्रीका उम्मेदवारको मतगणना शनिबार बेलुकी साढे ७ बजेदेखि"
+        }
+      ]
+    },
+    {
+      "id": "8ba130e0168b8922",
+      "title": "विवाद साम्य भएपछि कांग्रेस उपसभापति र महामन्त्रीको मतगणना सुरु",
+      "summary": "यसअघि उम्मेदवार र प्रतिनिधिले एक मतपेटिका कम भेटिएको र दुई मतपेटिकाको सिलबन्दी खोलिएको अवस्थामा भेटिएको भन्दै मतगणना अघि बढ्न सकेको थिएन ।",
+      "publishedAt": "2026-10-10T14:04:30+00:00",
+      "updatedAt": "2026-10-10T14:04:30+00:00",
+      "sourceCount": 2,
+      "languageCount": 1,
+      "sources": [
+        "Himal Press",
+        "Online Khabar"
+      ],
+      "categories": [
+        "business",
+        "entertainment",
+        "politics",
+        "society",
+        "sports",
+        "technology"
+      ],
+      "items": [
+        {
+          "id": "2283a67202f0800e",
+          "title": "विवाद साम्य भएपछि कांग्रेस उपसभापति र महामन्त्रीको मतगणना सुरु",
+          "link": "https://www.onlinekhabar.com/2026/10/2036496/counting-of-votes-for-congress-vice-president-and-general-secretary-begins-after-dispute-is-resolved",
+          "source": "Online Khabar",
+          "sourceUrl": "https://www.onlinekhabar.com/feed",
+          "pubDate": "2026-10-10T14:04:30+00:00",
+          "categories": [
+            "politics",
+            "business",
+            "sports",
+            "technology",
+            "entertainment"
+          ],
+          "image": "",
+          "images": [],
+          "description": "यसअघि उम्मेदवार र प्रतिनिधिले एक मतपेटिका कम भेटिएको र दुई मतपेटिकाको सिलबन्दी खोलिएको अवस्थामा भेटिएको भन्दै मतगणना अघि बढ्न सकेको थिएन ।"
+        },
+        {
+          "id": "fe747ae40ca128ee",
+          "title": "कांग्रेस महाधिवेशन : उपसभापति र महामन्त्रीको मतगणना सुरु",
+          "link": "https://himalpress.com/2026/10/congress-general-convention-vice-chairperson-2/",
+          "source": "Himal Press",
+          "sourceUrl": "https://himalpress.com/feed/",
+          "pubDate": "2026-10-10T13:56:36+00:00",
+          "categories": [
+            "politics",
+            "business",
+            "society"
+          ],
+          "image": "",
+          "images": [],
+          "description": "काठमाडौँ- नेपाली कांग्रेसको १५ औँ महाधिवेशनअन्तर्गत शुक्रबारदेखि उपसभापति र महामन्त्रीको मतगणना सुरू भएको छ। निर्वाचन समिति संयोजक वरिष्ठ अधिवक्ता प्रेमबहादुर खड्काका अनुसार खुला उपभापति र महामन्त्रीका उम्मेदवारको मतगणना शनिबार बेलुकी साढे ७ बजेदेखि सुरू भएको हो। यसअघि निर्वाचन समितिले उपसभापति र महामन्त्रीका उम्मेदवारहरूसँग छलफल गरेको थियो। त्यसलगत्तै मतगणनाका लागि उम्मेदवारहरूकै रोहवरमा मतपेटिका खोलिएको थियो। निर्वाचन समिति […]"
         }
       ]
     },
@@ -11045,45 +11080,6 @@
             "https://media.nepalitimes.com/cover/building%20bill.jpg"
           ],
           "description": "The government has registered a Bill in Parliament to provide what it says will be 'safe and planned housing plans' to Nepalis, including those…"
-        }
-      ]
-    },
-    {
-      "id": "d83411abf9a1da5a",
-      "title": "Turkish IATA",
-      "summary": "Turkish Airlines hosted the International Air Transport Association’s (IATA) World Safety and Operations Conference 'Performance Through People'…",
-      "publishedAt": "2026-10-08T08:31:39+00:00",
-      "updatedAt": "2026-10-08T08:31:39+00:00",
-      "sourceCount": 1,
-      "languageCount": 1,
-      "sources": [
-        "Nepali Times"
-      ],
-      "categories": [
-        "business",
-        "politics",
-        "society",
-        "technology"
-      ],
-      "items": [
-        {
-          "id": "dce9b2e567be4d1e",
-          "title": "Turkish IATA",
-          "link": "https://nepalitimes.com/turkish-iata",
-          "source": "Nepali Times",
-          "sourceUrl": "https://www.nepalitimes.com/feed/",
-          "pubDate": "2026-10-08T08:31:39+00:00",
-          "categories": [
-            "politics",
-            "business",
-            "society",
-            "technology"
-          ],
-          "image": "https://media.nepalitimes.com/cover/Turkish-2.jpg",
-          "images": [
-            "https://media.nepalitimes.com/cover/Turkish-2.jpg"
-          ],
-          "description": "Turkish Airlines hosted the International Air Transport Association’s (IATA) World Safety and Operations Conference 'Performance Through People'…"
         }
       ]
     }
