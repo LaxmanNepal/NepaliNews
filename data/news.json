@@ -1,10 +1,232 @@
 {
-  "generatedAt": "2026-10-11T20:26:44.419236+00:00",
+  "generatedAt": "2026-10-11T23:48:49.203267+00:00",
   "feedCount": 41,
   "healthyFeeds": 23,
   "failedFeeds": 18,
-  "itemCount": 324,
+  "itemCount": 325,
   "items": [
+    {
+      "id": "ebfc8146ffb6bad9",
+      "title": "दुर्गा पक्षको दोस्रो दिन : ब्रह्मचारिणी देवीको पूजा आराधना गरिँदै",
+      "link": "https://baahrakhari.com/detail/504648",
+      "source": "Baahrakhari",
+      "sourceUrl": "https://baahrakhari.com/feed",
+      "pubDate": "2026-10-11T23:48:23+00:00",
+      "categories": [
+        "politics",
+        "business",
+        "society"
+      ],
+      "image": "",
+      "images": [],
+      "description": ""
+    },
+    {
+      "id": "724df91e3bd46381",
+      "title": "सोमबार यस्तो छ विदेशी मुद्राको विनिमय दर",
+      "link": "https://www.ratopati.com/story/598957/this-is-the-foreign-exchange-rate-on-monday",
+      "source": "Ratopati",
+      "sourceUrl": "https://ratopati.com/feed",
+      "pubDate": "2026-10-11T23:44:27+00:00",
+      "categories": [
+        "politics",
+        "sports"
+      ],
+      "image": "https://rpcdn.ratopati.com/media/albums/forex_3HNlavACP4.jpg",
+      "images": [
+        "https://rpcdn.ratopati.com/media/albums/forex_3HNlavACP4.jpg"
+      ],
+      "description": "काठमाडौँ । नेपाल राष्ट्र बैंकले आजका लागि विदेशी मुद्राको विनिमय दर निर्धारण गरेको छ । राष्ट्र बैंकका अनुसार अमेरिकी डलर एकको खरिददर १५४ रुपैयाँ ४८ पैसा र बिक्रीदर १५५ रुपैयाँ ०८ पैसा निर्धारण गरिएको छ"
+    },
+    {
+      "id": "066c9d187b88ad2b",
+      "title": "यात्रुको पावर बैंकमा आगो लागेपछि इन्डिगो एयरलाइन्सको विमान आकस्मिक अवतरण",
+      "link": "https://www.onlinekhabar.com/2026/10/2037248/indigo-airlines-flight-makes-emergency-landing-after-passengers-power-bank-catches-fire",
+      "source": "Online Khabar",
+      "sourceUrl": "https://www.onlinekhabar.com/feed",
+      "pubDate": "2026-10-11T23:39:36+00:00",
+      "categories": [
+        "politics",
+        "business",
+        "sports",
+        "technology",
+        "entertainment"
+      ],
+      "image": "",
+      "images": [],
+      "description": "२६ असोज, काठमाडौं । दिल्लीबाट चेन्नईतर्फ गइरहेको इन्डिगो एयरलाइन्सको विमानमा सवार एक यात्रुको पावर बैंकमा आगलागी भएपछि विमानलाई हैदराबाद डाइभर्ट गरी आकस्मिक अवतरण गराइएको छ । आइतबार उडानका क्रममा पावर बैंकबाट आगलागी सुरु भएपछि विमानलाई हैदराबादस्थित राजीव गान्धी अन्तर्राष्ट्रिय विमानस्थलमा सुरक्षित अवतरण गराइएको हो । इन्डिगोका अनुसार उडान नम्बर 6E 6115 का चालक दलका सदस्यले विमानभित्र लागेको आगो निभाएका […]"
+    },
+    {
+      "id": "9524c29f6315a279",
+      "title": "धनुषाको छ स्थानमा यात्रु सहायता कक्ष स्थापना",
+      "link": "https://www.ratopati.com/story/598956/passenger-help-desks-established-at-six-locations-in-dhanusha",
+      "source": "Ratopati",
+      "sourceUrl": "https://ratopati.com/feed",
+      "pubDate": "2026-10-11T23:25:42+00:00",
+      "categories": [
+        "politics",
+        "sports"
+      ],
+      "image": "https://rpcdn.ratopati.com/media/albums/Help-desk_ZsExlK7IhA.jpg",
+      "images": [
+        "https://rpcdn.ratopati.com/media/albums/Help-desk_ZsExlK7IhA.jpg"
+      ],
+      "description": "जनकपुरधाम । बडादसैँ, दीपावली तथा छठ पर्वलाई लक्षित गर्दै धनुषाका विभिन्न छ स्थानमा यात्रु सहायता कक्ष र दुई स्थानमा विश्रामस्थल स्थापना गरिएको छ । चाडपर्वका समयमा सार्वजनिक यातायातमा यात्रुको चाप बढ्ने भएकाले यात्रुहरूको सुरक्षा, सहज आवागमन"
+    },
+    {
+      "id": "a3c873fb10bf43cf",
+      "title": "आज कुन विदेशी मुद्राको विनिमयदर कति ?",
+      "link": "https://www.onlinekhabar.com/2026/10/2037245/foreign-currency-exchange-rates-set-for-today-6",
+      "source": "Online Khabar",
+      "sourceUrl": "https://www.onlinekhabar.com/feed",
+      "pubDate": "2026-10-11T23:23:40+00:00",
+      "categories": [
+        "politics",
+        "business",
+        "sports",
+        "technology",
+        "entertainment"
+      ],
+      "image": "",
+      "images": [],
+      "description": "२६ असोज, काठमाडौं । नेपाल राष्ट्र बैंकले आजका लागि विदेशी मुद्राको विनिमयदर निर्धारण गरेको छ । राष्ट्र बैंकका अनुसार अमेरिकी डलर एकको खरिददर १५४ रुपैयाँ ४८ पैसा र बिक्रीदर १५५ रुपैयाँ ०८ पैसा निर्धारण गरिएको छ । युरोपियन युरो एकको खरिददर १७३ रुपैयाँ ०५ पैसा र बिक्रीदर १७३ रुपैयाँ ७२ पैसा, युके पाउन्ड स्ट्रलिङ एकको खरिददर २०४ […]"
+    },
+    {
+      "id": "b1ac15e1845db3c3",
+      "title": "नवरात्रको दोस्रो दिन आज ब्रह्मचारिणी देवीको पूजा आराधना गरिँदै",
+      "link": "https://www.ratopati.com/story/598955/goddess-brahmacharini-is-being-worshipped-today-the-second-day-of-navratri",
+      "source": "Ratopati",
+      "sourceUrl": "https://ratopati.com/feed",
+      "pubDate": "2026-10-11T23:20:06+00:00",
+      "categories": [
+        "politics",
+        "sports"
+      ],
+      "image": "https://npcdn.ratopati.com/media/news/capture_8RdKNbrGAL.png",
+      "images": [
+        "https://npcdn.ratopati.com/media/news/capture_8RdKNbrGAL.png"
+      ],
+      "description": "काठमाडौँ । बडादसैँअन्तर्गत शारदीय नवरात्रको दोस्रो दिन (आश्विन शुक्ल द्वितीया) आज नवदुर्गा भवानीको दोस्रो स्वरूप ब्रह्मचारिणी देवीको विधिपूर्वक पूजा तथा आराधना गरिँदै छ । शास्त्रमा ‘ब्रह्म’को अर्थ तपस्या मानिएकाले ब्रह्मचारिणीलाई तप, त्याग, संयम र ब्रह्मचर्यकी"
+    },
+    {
+      "id": "1c1e2ef034504ea5",
+      "title": "कस्तो रहला तपाईँको दिन ? हेर्नुहोस् आजकाे राशिफल",
+      "link": "https://www.ratopati.com/story/598950/how-was-your-day-check-out-todays-horoscope",
+      "source": "Ratopati",
+      "sourceUrl": "https://ratopati.com/feed",
+      "pubDate": "2026-10-11T23:15:00+00:00",
+      "categories": [
+        "politics",
+        "sports"
+      ],
+      "image": "https://npcdn.ratopati.com/media/news/horoscope_wraKHnbZ5T.jpg",
+      "images": [
+        "https://npcdn.ratopati.com/media/news/horoscope_wraKHnbZ5T.jpg"
+      ],
+      "description": "आजको पञ्चाङ्ग वि.सं.२०८३ साल असोज २६ गते । सोमबार । इस्वी सन् २०२६ अक्टोबर १२ तारिख । नेपाल संवत् ११४६ । रौद्र संवत्सर । दक्षिणायन । शरद ऋतु । श्रीशाके १९४८ । आश्विन शुक्लपक्ष । तिथि–द्वितीया,"
+    },
+    {
+      "id": "da22c9f015b38f54",
+      "title": "बेरुजु घटाउन मुख्यमन्त्रीको निर्देशन",
+      "link": "https://www.ratopati.com/story/598954/chief-ministers-instructions-to-reduce-red-tape",
+      "source": "Ratopati",
+      "sourceUrl": "https://ratopati.com/feed",
+      "pubDate": "2026-10-11T23:06:34+00:00",
+      "categories": [
+        "politics",
+        "sports"
+      ],
+      "image": "https://npcdn.ratopati.com/media/news/mangalbahadur-shai-karnali3_e9ksvSnmv8.jpg",
+      "images": [
+        "https://npcdn.ratopati.com/media/news/mangalbahadur-shai-karnali3_e9ksvSnmv8.jpg"
+      ],
+      "description": "कर्णाली । कर्णाली प्रदेशका मुख्यमन्त्री मङ्गलबहादुर शाहीले प्रदेशको बेरुजु घटाउन निर्देशन दिएका छन् । मुख्यमन्त्री तथा मन्त्रिपरिषद्को कार्यालयद्वारा आइतबार आयोजित आर्थिक वर्ष २०८२/८३ को वार्षिक प्रगति समीक्षा गोष्ठीलाई सम्बोधन गर्दै मुख्यमन्त्री शाहीले प्रदेश सरकारमातहतका निकाय तथा"
+    },
+    {
+      "id": "efc9a2fdfa1ebed5",
+      "title": "नेपालगन्जमा ऐतिहासिक रामलीला सुरु",
+      "link": "https://www.ratopati.com/story/598953/historic-ramlila-begins-in-nepalgunj",
+      "source": "Ratopati",
+      "sourceUrl": "https://ratopati.com/feed",
+      "pubDate": "2026-10-11T23:00:34+00:00",
+      "categories": [
+        "politics",
+        "sports"
+      ],
+      "image": "https://npcdn.ratopati.com/media/news/banke-district-map_buY1dHpxrb.jpg",
+      "images": [
+        "https://npcdn.ratopati.com/media/news/banke-district-map_buY1dHpxrb.jpg"
+      ],
+      "description": "बाँके । नेपालगन्जमा लामो समयदेखि सञ्चालन हुँदै आएको ऐतिहासिक रामलीलाको १५९ औँ संस्करण आइतबारदेखि सुरु भएको छ । रामलीला शुभारम्भ समारोहलाई सम्बोधन गर्नुहुँदै नेपालगन्ज उपमहानगरपालिकाका प्रमुख प्रशान्त विष्टले सामाजिक सद्भाव र आपसी एकता कायम गर्न रामलीला"
+    },
+    {
+      "id": "66d63b2a8d2de9ce",
+      "title": "सेती प्रादेशिक अस्पताललाई २५ करोड ५० लाख बजेट",
+      "link": "https://www.ratopati.com/story/598952/budget-of-255-million-rupees-for-seti-provincial-hospital",
+      "source": "Ratopati",
+      "sourceUrl": "https://ratopati.com/feed",
+      "pubDate": "2026-10-11T22:58:31+00:00",
+      "categories": [
+        "politics",
+        "sports"
+      ],
+      "image": "https://npcdn.ratopati.com/media/news/seti-hospital_e3ruQRdAne.webp",
+      "images": [
+        "https://npcdn.ratopati.com/media/news/seti-hospital_e3ruQRdAne.webp"
+      ],
+      "description": "धनगढी । सुदूरपश्चिम प्रदेश सरकारले सेती प्रादेशिक अस्पतालका लागि रु २५ करोड ५० लाख बजेट विनियोजन गरेको छ । प्रदेश सरकारको चालु आर्थिक वर्षका लागि आइतबार प्रदेशसभामा पेस भएको बजेटमा सुदूरपश्चिम प्रदेशको ‘रिफरल अस्पताल’का रूपमा रहेको"
+    },
+    {
+      "id": "b5cb76dc1fc1533a",
+      "title": "आँबुखैरेनीमा ४५ रोपनीमा सयपत्री फूलखेती",
+      "link": "https://www.ratopati.com/story/598951/a-45-hectare-flower-farm-in-ambukhaireni",
+      "source": "Ratopati",
+      "sourceUrl": "https://ratopati.com/feed",
+      "pubDate": "2026-10-11T22:56:10+00:00",
+      "categories": [
+        "politics",
+        "sports"
+      ],
+      "image": "https://npcdn.ratopati.com/media/news/DPOrb48KTN.jpg",
+      "images": [
+        "https://npcdn.ratopati.com/media/news/DPOrb48KTN.jpg"
+      ],
+      "description": "तनहुँ । दसैँको रौनकसँगै तनहुँको आँबुखैरेनी गाउँपालिका–१ स्थित आँधीमूल यानचोकका बारी सयपत्री फूलले पहेँलपुर बनेका छन् । तीन वर्षअघि सुरु भएको व्यावसायिक फूलखेती अहिले ४५ रोपनी क्षेत्रफलमा विस्तार भएको छ । फूलखेतीले स्थानीय ४५ महिलालाई"
+    },
+    {
+      "id": "2afdaa5df2eee1e1",
+      "title": "श्रमिकको मृत्युको अनुसन्धान सुरु",
+      "link": "https://www.ratopati.com/story/598949/investigation-into-workers-death-begins",
+      "source": "Ratopati",
+      "sourceUrl": "https://ratopati.com/feed",
+      "pubDate": "2026-10-11T22:42:47+00:00",
+      "categories": [
+        "politics",
+        "sports"
+      ],
+      "image": "https://npcdn.ratopati.com/media/news/mahottari-map_OMBlEkusHy.jpg",
+      "images": [
+        "https://npcdn.ratopati.com/media/news/mahottari-map_OMBlEkusHy.jpg"
+      ],
+      "description": "महोत्तरी । कार्यरत कम्पनीमा काम गर्दागर्दै अचानक ढलेर मृत्यु भएका एक श्रमिकबारे प्रहरीले अनुसन्धान थालेको छ । बर्दिबास–१४ बर्दिबास–औरही–जलेश्वर सडकस्थित कमल लाङ्घाली इन्जिनियरिङ वर्कसपमा कार्यरत श्रमिकको मृत्युका सम्बन्धमा अनुसन्धान थालिएको इलाका प्रहरी कार्यालय बर्दिबासले जनाएको छ"
+    },
+    {
+      "id": "c0f1c6035871f9f0",
+      "title": "बेगमा वडा र स्वास्थ्यचौकीको भवन निर्माण",
+      "link": "https://www.ratopati.com/story/598948/construction-of-a-ward-and-health-post-building-in-beg",
+      "source": "Ratopati",
+      "sourceUrl": "https://ratopati.com/feed",
+      "pubDate": "2026-10-11T22:40:24+00:00",
+      "categories": [
+        "politics",
+        "sports"
+      ],
+      "image": "https://rpcdn.ratopati.com/media/albums/myagdi_Yxx1IewRfU.jpg",
+      "images": [
+        "https://rpcdn.ratopati.com/media/albums/myagdi_Yxx1IewRfU.jpg"
+      ],
+      "description": "म्याग्दी । म्याग्दीको रघुगङ्गा गाउँपालिका–१ बेगमा रु एक करोड ५० लाखको लागतमा स्वास्थ्य चौकी र वडा कार्यालय भवन निर्माण भएको छ । तीन तले सभाहलसहित नौकोठे भूकम्पप्रतिरोधी क्षमताको भवन आइतबार गाउँपालिकाका अध्यक्ष भवबहादुर भण्डारीले उद्घाटन गरे"
+    },
     {
       "id": "6bcd6040205a0b78",
       "title": "रुस र युक्रेनले ‘ऊर्जा युद्धविराम’ मा सहमति जनाएको ट्रम्पको दाबी",
@@ -221,22 +443,6 @@
         "https://npcdn.ratopati.com/media/news/udaya-rana_D5il9qVVyJ.webp"
       ],
       "description": "काठमाडौँ। नेपाली कांग्रेसको महामन्त्रीमा उदय शमशेर राणा निर्वाचित भएका छन् । खुलातर्फको महामन्त्रीमा राणा निर्वाचित भएका हुन् । राणा गत पुसमा सम्पन्न विशेष महाधिवेशनबाट सहमहामन्त्री बनेका थिए । अहिले १५ औँ महाधिवेशनमा एक खुट्किलो माथि उक्लिँदै"
-    },
-    {
-      "id": "a045f6e84432ab5f",
-      "title": "इलाममा भरूवा बन्दुकसहित एकजना पक्राउ",
-      "link": "https://baahrakhari.com/detail/504643",
-      "source": "Baahrakhari",
-      "sourceUrl": "https://baahrakhari.com/feed",
-      "pubDate": "2026-10-11T17:31:09+00:00",
-      "categories": [
-        "politics",
-        "business",
-        "society"
-      ],
-      "image": "",
-      "images": [],
-      "description": ""
     },
     {
       "id": "145bf8be6a888804",
@@ -1200,23 +1406,6 @@
       "description": ""
     },
     {
-      "id": "3145888ed11a8431",
-      "title": "गन्यापधुराद्वारा आफ्नै प्रशासकीय भवनबाट सेवा सञ्चालन",
-      "link": "https://www.ratopati.com/story/598926/ganyapadhura-operates-services-from-its-own-administrative-building",
-      "source": "Ratopati",
-      "sourceUrl": "https://ratopati.com/feed",
-      "pubDate": "2026-10-11T15:25:18+00:00",
-      "categories": [
-        "politics",
-        "sports"
-      ],
-      "image": "https://npcdn.ratopati.com/media/news/ganyapdhura_93peWPfd4Y.webp",
-      "images": [
-        "https://npcdn.ratopati.com/media/news/ganyapdhura_93peWPfd4Y.webp"
-      ],
-      "description": "डडेल्धुरा। डडेल्धुराको गन्यापधुरा गाउँपालिकाले आफ्नै नवनिर्मित प्रशासकीय भवनबाट सेवा प्रवाह सुरु भएको छ। रु ६ करोड ५३ लाखभन्दा बढी लागतमा निर्माण भएको तीन सभाहल र ३६ कोठासहितको आधुनिक भवनको आज गाउँपालिका अध्यक्ष इन्द्रबहादुर कार्कीले उद्घाटन"
-    },
-    {
       "id": "942ffb219563623f",
       "title": "सुदूरपश्चिम प्रदेशसभामा बजेट टेबल",
       "link": "https://himalpress.com/2026/10/in-the-sudurpashchim-provincial-assembly/",
@@ -1250,40 +1439,6 @@
         "https://nepalnews.com/wp-content/uploads/2026/10/Pul-betrawati-768x346.jpg"
       ],
       "description": "रसुवा।गत भदौ १० गतेको भोटेकोशी–त्रिशूली बाढीले बेत्रावतीस्थित फलाकु खोलाको पक्की पुल बगाएपछि राष्ट्रिय सडक सञ्जालबाट विच्छेद भएको रसुवा जिल्ला नेपाली सेनाले ‘एक्रो ब्रिज’ जडान गरेसँगै पुनः सडक सञ्जालमा जोडिएको छ। बेत्रावतीमा पुल सञ्चालनमा आएसँगै रसुवा–नुवाकोट आवतजावत गर्ने सवारीसाधनले अप्ठ्यारा र लामा वैकल्पिक सडक प्रयोग गर्नुपर्ने बाध्यता हटेको छ। सेनाले निर्माण गरेको उक्त पुल आज एक […]"
-    },
-    {
-      "id": "9222b1f0f92504b6",
-      "title": "५ हजार ५ सय मत गन्दा कसले कति मत ल्याए ? (सूची)",
-      "link": "https://www.ratopati.com/story/598925/who-got-how-many-votes-out-of-5500-votes-list",
-      "source": "Ratopati",
-      "sourceUrl": "https://ratopati.com/feed",
-      "pubDate": "2026-10-11T15:18:31+00:00",
-      "categories": [
-        "politics",
-        "sports"
-      ],
-      "image": "https://npcdn.ratopati.com/media/news/matganana_oykDOWwmQx.webp",
-      "images": [
-        "https://npcdn.ratopati.com/media/news/matganana_oykDOWwmQx.webp"
-      ],
-      "description": "काठमाडौँ। नेपाली कांग्रेसको १५औँ महाधिवेशनअन्तर्गत उपसभापतिमा चन्द्रकान्त भण्डारी र महामन्त्रीमा प्रदीप पौडेलले आफ्नो अग्रता कायमै राखेका छन्। ५ हजार ५ सय मत गणना हुँदा केन्द्रीय उपसभापति (खुला) तर्फ डा. चन्द्रकान्त भण्डारीले सर्वाधिक १ हजार ४३५ मत"
-    },
-    {
-      "id": "7d7c0e810018fa11",
-      "title": "कांग्रेस मतगणनाको LIVE UPDATES",
-      "link": "https://www.ratopati.com/story/598532/counting-of-votes-for-the-post-of-congress-president-continues",
-      "source": "Ratopati",
-      "sourceUrl": "https://ratopati.com/feed",
-      "pubDate": "2026-10-11T15:15:00+00:00",
-      "categories": [
-        "politics",
-        "sports"
-      ],
-      "image": "https://npcdn.ratopati.com/media/news/congress-vote-count_9k4E1JjDy3.webp",
-      "images": [
-        "https://npcdn.ratopati.com/media/news/congress-vote-count_9k4E1JjDy3.webp"
-      ],
-      "description": "नेपाली कांग्रेसको १५औँ महाधिवेशनअन्तर्गत नयाँ कार्यसमिति चयनका लागि सम्पन्न मतदानको मतगणना जारी छ । शुक्रबारको मतदानपश्चात् शनिबार बिहानैदेखि मतपेटिका सुरक्षित रूपमा राष्ट्रिय सभा गृहमा ल्याइपुर्‍याइएको छ । वर्षा रोकिएसँगै निर्वाचन समितिले मतपेटिका संकलन गरेर शनिबार बिहान"
     },
     {
       "id": "e2d94c40ce05d3a9",
@@ -1399,23 +1554,6 @@
       "description": ""
     },
     {
-      "id": "7dcef0dd64a5b839",
-      "title": "बुढीगण्डकी बाढी : उद्धारदेखि पूर्वाधार पुनर्निर्माणसम्मका काम अघि बढाइँदै",
-      "link": "https://www.ratopati.com/story/598924/budhi-gandaki-flood-work-underway-from-rescue-to-infrastructure-reconstruction",
-      "source": "Ratopati",
-      "sourceUrl": "https://ratopati.com/feed",
-      "pubDate": "2026-10-11T14:55:17+00:00",
-      "categories": [
-        "politics",
-        "sports"
-      ],
-      "image": "https://npcdn.ratopati.com/media/news/budhigandaki_vWyJW2MGih.webp",
-      "images": [
-        "https://npcdn.ratopati.com/media/news/budhigandaki_vWyJW2MGih.webp"
-      ],
-      "description": "गोरखा । गोरखाको चुमनुब्री गाउँपालिका–६ स्थित लोक्पा र चुम्लिङबिच आज बिहान गएको पहिरोका कारण बुढीगण्डकी नदीमा लेदोसहितको बाढी आउँदा तल्लो तटीय क्षेत्रमा ठुलो क्षति पुगेको छ। बाढीमा परी पाँच जना बेपत्ता भएको सूचना प्राप्त भएको"
-    },
-    {
       "id": "c75aa46741a7f9ff",
       "title": "निफ्राको आठौँ साधारण सभा सम्पन्न, ५.२६३२ प्रतिशत नगद लाभांश पारित",
       "link": "https://newsofnepal.com/2026/10/11/790979/",
@@ -1448,23 +1586,6 @@
       "image": "",
       "images": [],
       "description": "काठमाडौं। साउदी अरबको राजधानी रियादस्थित एक विमानस्थलमा भएको आक्रमणमा कम्तीमा १२ जनाको मृत्यु भएको छ । ३०९ जना घाइते भएका छन्। अमेरिकाको सैन्य सहयोग र अत्याधुनिक हतियारको ठूलो भण्डार रहेको साउदी अरबको राजधानीमै भएको यस घटनाले देशको हवाई सुरक्षा क्षमतामाथि प्रश्न उठाएको छ। साउदी अरबको नेतृत्वमा रहेको सैन्य गठबन्धनले पूर्वी साउदी अरबको दम्मामस्थित किङ फहद […]"
-    },
-    {
-      "id": "2c2d0f2e26cf5192",
-      "title": "नारायणगढमा साल्ट ट्रेडिङको सुपथ पसल",
-      "link": "https://www.ratopati.com/story/598923/a-well-run-salt-trading-shop-in-narayangadh",
-      "source": "Ratopati",
-      "sourceUrl": "https://ratopati.com/feed",
-      "pubDate": "2026-10-11T14:49:17+00:00",
-      "categories": [
-        "politics",
-        "sports"
-      ],
-      "image": "https://npcdn.ratopati.com/media/news/supath-pasal_cEO6lTdDOu.jpg",
-      "images": [
-        "https://npcdn.ratopati.com/media/news/supath-pasal_cEO6lTdDOu.jpg"
-      ],
-      "description": "चितवन । चाडपर्व नजिकिँदै गर्दा साल्ट ट्रेडिङ कर्पोरेशन लिमिटेडले सुपथ मूल्यको पसल सञ्चालनमा ल्याएको छ। असोज १ गतेदेखि नारायणगढमा सञ्चालनमा ल्याइएको सुपथ मूल्यको पसलमा बाहिर बजारको तुलनामा चाडपर्वका लागि आवश्यक खाद्यान्न सस्तो मूल्यमा बिक्री गरिएको"
     },
     {
       "id": "b0be99f9478bf48a",
@@ -1536,23 +1657,6 @@
       "description": "चितवन।चाडपर्वका अवसरमा यात्रुको सहजता, सडक सुरक्षा र शान्ति सुरक्षालाई ध्यानमा राखी चितवनका आठ स्थानमा यात्रु सहायता कक्ष सञ्चालनमा ल्याइएको छ। जिल्ला प्रशासन कार्यालय, जिल्ला प्रहरी कार्यालय र जिल्ला ट्राफिक प्रहरी कार्यालय चितवनको संयुक्त पहलमा यात्रु सहायता कक्ष सञ्चालन ल्याइएको हो। प्रमुख जिल्ला अधिकारी गणेश अर्यालले चाडपर्वका समयमा यात्रुलाई आवश्यक सूचना उपलब्ध गराउने, यात्रा सहजीकरण गर्ने […]"
     },
     {
-      "id": "aa490f9efea28199",
-      "title": "सूर्यविनायक अन्तर वडास्तरीय फुटबल प्रतियोगिता सुरु",
-      "link": "https://www.ratopati.com/story/598922/suryabinayak-inter-ward-level-football-competition-begins",
-      "source": "Ratopati",
-      "sourceUrl": "https://ratopati.com/feed",
-      "pubDate": "2026-10-11T14:44:13+00:00",
-      "categories": [
-        "politics",
-        "sports"
-      ],
-      "image": "https://npcdn.ratopati.com/media/news/football_maa7Bb6qrE.jpg",
-      "images": [
-        "https://npcdn.ratopati.com/media/news/football_maa7Bb6qrE.jpg"
-      ],
-      "description": "भक्तपुर। सूर्यविनायक नगरपालिकाले आयोजना गरेको रु एक लाख राशिको अन्तर वडास्तरीय फुटबल प्रतियोगिता आइतबारदेखि सुरु भएको छ । सूर्यविनायक नगरपालिका–१० चित्तपोलस्थित खेल मैदानमा आजदेखि सुरु भएको प्रतियोगिताको नगर प्रमुख वासुदेव थापाले उद्घाटन गरे। प्रतियोगिताको विजेताले रू"
-    },
-    {
       "id": "b7bb947646206995",
       "title": "३८औं झरना रनिङ शिल्ड फुटबल प्रतियोगिताको उपाधी चरङे युथ क्लवको पोल्टामा ,जित संगै ४लाख पुरस्कार प्राप्त",
       "link": "https://newsofnepal.com/2026/10/11/790971/",
@@ -1570,23 +1674,6 @@
         "https://newsofnepal.com/wp-content/uploads/2026/10/839094982_2104850953735083_5345130202606974696_n-768x512.jpg"
       ],
       "description": "बुटवल । रुपन्देहीको तिलोत्तको कुन्जलापुरमा ३८औं झरना रनिङ शिल्ड नकआउट फुटबल प्रतियोगिताको उपाधी चरङे युथ क्लवले चुमेको छ । आइतवार भएको फाइनल खेलमा गोर्खा ब्वाईज क्लवलाई ३ एक गोलले पछाडी पादै चरङे युथ क्लवले उपाधी जितेको हो । उपाधी जितेसंगै चरङे युथ क्लवले ४ लाख नगद शिल्ड प्रमाणपत्र र मेडल पुरस्कार प्राप्त गरेको छ । […]"
-    },
-    {
-      "id": "c3e08f1dfc0e3e83",
-      "title": "विविध कार्यक्रम आयोजना गरी २३औँ गैरआवासीय नेपाली दिवस मनाइयो",
-      "link": "https://www.ratopati.com/story/598921/23rd-non-resident-nepali-day-celebrated-with-various-programs",
-      "source": "Ratopati",
-      "sourceUrl": "https://ratopati.com/feed",
-      "pubDate": "2026-10-11T14:41:38+00:00",
-      "categories": [
-        "politics",
-        "sports"
-      ],
-      "image": "https://rpcdn.ratopati.com/media/albums/nrna-1_YxERjDZirc.jpg",
-      "images": [
-        "https://rpcdn.ratopati.com/media/albums/nrna-1_YxERjDZirc.jpg"
-      ],
-      "description": "काठमाडौँ। गैरआवासीय नेपाली सङ्घ (एनआरएनए) को २३औँ स्थापना दिवस तथा गैरआवासीय नेपाली दिवस विभिन्न कार्यक्रम आयोजना गरी मनाइएको छ । दिवसका अवसरमा आइतबार बिहान काठमाडौँस्थित स्वयम्भूनाथ र पशुपतिनाथ मन्दिरमा विशेष पूजाआजा तथा सङ्घको सचिवालयमा झण्डोत्तोलन कार्यक्रम"
     },
     {
       "id": "5e0e27bf95a3bea3",
@@ -1644,23 +1731,6 @@
       "description": "आकस्मिक रसुवा बाढीले निम्त्याएको विध्वंसको पीडा मत्थर हुन नपाउँदै आइतबार बिहान बुढीगण्डकी नदीमा आएको लेदो र गेग्रानसहितको बाढीले हिमाली तथा मध्यपहाडी क्षेत्रमा बढ्दो विपद् जोखिमको गम्भीर चेतावनीलाई उजागर गरेको छ। सरकारको प्रारम्भिक अध्ययनअनुसार २५ असोजको बिहान गोरखाको चुमनुब्री गाउँपालिकाको माथिल्लो भेगमा पहिरो गएर बुढीगण्डकीमा बाढी आएको थियो। सुरुमा चुमनुब्री-६ को उङ्गिलुङ खोलाबाट आएको बहावले स्यारखोला […]"
     },
     {
-      "id": "dcfa2bc2ff62d9cb",
-      "title": "प्रदेशस्तरीय ब्याडमिन्टनको उपाधि बम र निर्वाचन क्षेत्रको उपाधि सिंहको जोडीलाई",
-      "link": "https://www.ratopati.com/story/598920/singhs-duo-wins-provincial-badminton-title-constituency-title",
-      "source": "Ratopati",
-      "sourceUrl": "https://ratopati.com/feed",
-      "pubDate": "2026-10-11T14:37:54+00:00",
-      "categories": [
-        "politics",
-        "sports"
-      ],
-      "image": "https://npcdn.ratopati.com/media/news/sss_NEFWn6djuq.webp",
-      "images": [
-        "https://npcdn.ratopati.com/media/news/sss_NEFWn6djuq.webp"
-      ],
-      "description": "कञ्चनपुर। कञ्चनपुरको शुक्लाफाँटा नगरपालिकाको झलारीमा आज सम्पन्न सुदूरपश्चिम प्रदेशस्तरीय खुला ब्याडमिन्टन प्रतियोगिताको उपाधि धनगढीका राजेन्द्र बमको जोडीले जितेको छ। फाइनल खेलमा झलारीका विवेक ऐर र परमानन्द जोशीको जोडीलाई दुई सोझो सेटले पराजित गर्दै राजेन्द्र बम र"
-    },
-    {
       "id": "e165af5b55e15aeb",
       "title": "बूढीगण्डकी बाढी : गाउँ जाने पुल बगायो, सय बढी घरहरू बगे",
       "link": "https://himalpress.com/2026/10/flooding-in-budhi-gandaki-villagers-go/",
@@ -1711,23 +1781,6 @@
       "image": "",
       "images": [],
       "description": "संयुक्त राष्ट्रसङ्घको अन्तरराष्ट्रिय आप्रवासन सङ्गठन (आईओएम) ले आइतबार उक्त जानकारी दिएको हो।"
-    },
-    {
-      "id": "a604ae6311d92da5",
-      "title": "शक्तिशाली भूकम्पका परकम्पपछि पानामामा सङ्कटकाल घोषणा",
-      "link": "https://www.ratopati.com/story/598919/panama-declares-state-of-emergency-after-powerful-earthquake-aftershocks",
-      "source": "Ratopati",
-      "sourceUrl": "https://ratopati.com/feed",
-      "pubDate": "2026-10-11T14:32:38+00:00",
-      "categories": [
-        "politics",
-        "sports"
-      ],
-      "image": "https://npcdn.ratopati.com/media/news/earthquake-seismograph-line-960x480_6ronbcdy6t_sjxvey9of8_zCJEuzWauk.jpg",
-      "images": [
-        "https://npcdn.ratopati.com/media/news/earthquake-seismograph-line-960x480_6ronbcdy6t_sjxvey9of8_zCJEuzWauk.jpg"
-      ],
-      "description": "काठमाडाैँ। शक्तिशाली भूकम्पपछि लगातार आएका परकम्पले बस्ती हल्लाएसँगै पानामा सरकारले शनिबार सङ्कटकाल घोषणा गरेको छ। अधिकारीका अनुसार भूकम्पबाट देशका सबै १० प्रान्त र दुई आदिवासी क्षेत्रमा भौतिक क्षति पुगेको छ। मानवीय क्षति नभएको बताइए पनि"
     },
     {
       "id": "c8ab9b62c1a07263",
@@ -3194,42 +3247,6 @@
       "image": "",
       "images": [],
       "description": ""
-    },
-    {
-      "id": "6007558a7a6df435",
-      "title": "यात्रा गर्दा बान्ता रोक्ने औषधि : कसरी खाने, कस्तो सावधानी अपनाउने ?",
-      "link": "https://www.onlinekhabar.com/2026/10/2036813/medicine-to-prevent-vomiting-while-traveling-how-to-take-it-what-precautions-to-take",
-      "source": "Online Khabar",
-      "sourceUrl": "https://www.onlinekhabar.com/feed",
-      "pubDate": "2026-10-11T11:37:24+00:00",
-      "categories": [
-        "politics",
-        "business",
-        "sports",
-        "technology",
-        "entertainment"
-      ],
-      "image": "",
-      "images": [],
-      "description": "यात्राका क्रममा धेरै मानिसलाई वाकवाकी लाग्ने, चक्कर आउने र बान्ता हुने समस्या हुन्छ । लामो दूरीको यात्रा, घुम्ती सडक, गर्मी, धुवाँ, सवारीसाधनको गति र गन्धले यस्तो समस्या बढाउन सक्छ । यसलाई सामान्यतया मोशन सिकनेस अर्थात् यात्राका कारण हुने वाकवाकी वा बान्ता भनिन्छ । केही सावधानी अपनाएर र आवश्यक परे उपयुक्त औषधि प्रयोग गरेर यसलाई धेरै […]"
-    },
-    {
-      "id": "08608f849c2ad582",
-      "title": "हिसानको प्रश्न- शिक्षाको ४१ प्रतिशत भार बोक्ने निजी क्षेत्रको लगानी सुरक्षा खै ?",
-      "link": "https://www.onlinekhabar.com/2026/10/2037052/hisans-question-is-the-investment-of-the-private-sector-which-bears-41-percent-of-the-burden-of-education-safe",
-      "source": "Online Khabar",
-      "sourceUrl": "https://www.onlinekhabar.com/feed",
-      "pubDate": "2026-10-11T11:36:54+00:00",
-      "categories": [
-        "politics",
-        "business",
-        "sports",
-        "technology",
-        "entertainment"
-      ],
-      "image": "",
-      "images": [],
-      "description": "हिसानले मुलुकको समग्र शिक्षा क्षेत्रको ४१ प्रतिशत भार निजी क्षेत्रले बोकेको भए पनि सरकारले लगानीको सुरक्षा गर्न नसकेको भन्दै गुनासो गरेको छ।"
     },
     {
       "id": "107c354ec3adbcaf",
