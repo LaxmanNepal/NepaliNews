@@ -1,8 +1,183 @@
 {
-  "generatedAt": "2026-10-16T17:24:10.444878+00:00",
-  "sourceItemCount": 311,
-  "storyCount": 297,
+  "generatedAt": "2026-10-16T20:00:40.954326+00:00",
+  "sourceItemCount": 316,
+  "storyCount": 302,
   "stories": [
+    {
+      "id": "ebae4dd9d704b487",
+      "title": "१२ बजे १२ समाचार : टुंगो लाग्यो गगन टीमदेखि अध्यादेशको विरोधसम्म",
+      "summary": "काठमाडौँ। रातोपाटीको नियमित प्रस्तुति १२ बजे १२ समाचारमा पाठकवृन्दलाई स्वागत छ । विद्युत् व्यापारमा निजी क्षेत्रलाई बाटो खुला विद्युत् व्यापारका निम्ति पहिलोपटक निजी क्षेत्रलाई समेत बाटो खुलेको छ । ऊर्जा, जलस्रोत तथा सिँचाइमन्त्री विराजभक्त श्रेष्ठले शुक्रबार अन्तरदेशीय",
+      "publishedAt": "2026-10-16T18:15:00+00:00",
+      "updatedAt": "2026-10-16T18:15:00+00:00",
+      "sourceCount": 1,
+      "languageCount": 1,
+      "sources": [
+        "Ratopati"
+      ],
+      "categories": [
+        "politics",
+        "sports"
+      ],
+      "items": [
+        {
+          "id": "ca791e6b35ad83cb",
+          "title": "१२ बजे १२ समाचार : टुंगो लाग्यो गगन टीमदेखि अध्यादेशको विरोधसम्म",
+          "link": "https://www.ratopati.com/story/600162/12-oclock-12-news-from-gagan-team-to-protest-against-ordinance-it-has-been-decided",
+          "source": "Ratopati",
+          "sourceUrl": "https://ratopati.com/feed",
+          "pubDate": "2026-10-16T18:15:00+00:00",
+          "categories": [
+            "politics",
+            "sports"
+          ],
+          "image": "https://npcdn.ratopati.com/media/news/12-baje-template--final_pU1qQsnrxU.jpg",
+          "images": [
+            "https://npcdn.ratopati.com/media/news/12-baje-template--final_pU1qQsnrxU.jpg"
+          ],
+          "description": "काठमाडौँ। रातोपाटीको नियमित प्रस्तुति १२ बजे १२ समाचारमा पाठकवृन्दलाई स्वागत छ । विद्युत् व्यापारमा निजी क्षेत्रलाई बाटो खुला विद्युत् व्यापारका निम्ति पहिलोपटक निजी क्षेत्रलाई समेत बाटो खुलेको छ । ऊर्जा, जलस्रोत तथा सिँचाइमन्त्री विराजभक्त श्रेष्ठले शुक्रबार अन्तरदेशीय"
+        }
+      ]
+    },
+    {
+      "id": "cd3cf11b2919922c",
+      "title": "आरुघाटमा बेलीब्रिज जडान गरिँदै",
+      "summary": "गोरखा । नेपाली सेना र गोरखा सडक योजनाले संयुक्त रूपमा आरुघाटमा बेलीब्रिज जडान गर्ने काम सुरु गरेका छन् । गत आइतबार बूढीगण्डकीको बाढीले गोरखा र धादिङ जोड्ने आरुघाटको पुलको केही भाग बगाएको थियो । दसैँका बेला",
+      "publishedAt": "2026-10-16T17:51:28+00:00",
+      "updatedAt": "2026-10-16T17:51:28+00:00",
+      "sourceCount": 1,
+      "languageCount": 1,
+      "sources": [
+        "Ratopati"
+      ],
+      "categories": [
+        "politics",
+        "sports"
+      ],
+      "items": [
+        {
+          "id": "cb1317d2d6a225e2",
+          "title": "आरुघाटमा बेलीब्रिज जडान गरिँदै",
+          "link": "https://www.ratopati.com/story/600164/bailey-bridge-being-installed-at-arughat",
+          "source": "Ratopati",
+          "sourceUrl": "https://ratopati.com/feed",
+          "pubDate": "2026-10-16T17:51:28+00:00",
+          "categories": [
+            "politics",
+            "sports"
+          ],
+          "image": "https://npcdn.ratopati.com/media/news/01-gorkha-aarughat-bridge-after-flood_npl-10_fN8UgDkBjf.webp",
+          "images": [
+            "https://npcdn.ratopati.com/media/news/01-gorkha-aarughat-bridge-after-flood_npl-10_fN8UgDkBjf.webp"
+          ],
+          "description": "गोरखा । नेपाली सेना र गोरखा सडक योजनाले संयुक्त रूपमा आरुघाटमा बेलीब्रिज जडान गर्ने काम सुरु गरेका छन् । गत आइतबार बूढीगण्डकीको बाढीले गोरखा र धादिङ जोड्ने आरुघाटको पुलको केही भाग बगाएको थियो । दसैँका बेला"
+        }
+      ]
+    },
+    {
+      "id": "68416e8765a98d4d",
+      "title": "भन्सार छलीका ९ लाखभन्दा बढीका मोबाइल पार्टपुर्जा बरामद",
+      "summary": "रुपन्देही । रुपन्देहीको लुम्बिनी सांस्कृतिक नगरपालिका–७ बनरहवाबाट प्रहरीले भन्सार छली गरी लुकाइछिपाइ राखिएका रु नौ लाख १८ हजार मूल्य बराबरका मोबाइलका डिस्प्ले तथा बडी प्यानल बरामद गरेको छ । इलाका प्रहरी कार्यालय लुम्बिनीबाट खटिएको प्रहरी टोलीले",
+      "publishedAt": "2026-10-16T17:46:57+00:00",
+      "updatedAt": "2026-10-16T17:46:57+00:00",
+      "sourceCount": 1,
+      "languageCount": 1,
+      "sources": [
+        "Ratopati"
+      ],
+      "categories": [
+        "politics",
+        "sports"
+      ],
+      "items": [
+        {
+          "id": "82ad86bf5b9b5337",
+          "title": "भन्सार छलीका ९ लाखभन्दा बढीका मोबाइल पार्टपुर्जा बरामद",
+          "link": "https://www.ratopati.com/story/600163/mobile-parts-worth-over-900000-seized-for-customs-fraud",
+          "source": "Ratopati",
+          "sourceUrl": "https://ratopati.com/feed",
+          "pubDate": "2026-10-16T17:46:57+00:00",
+          "categories": [
+            "politics",
+            "sports"
+          ],
+          "image": "https://rpcdn.ratopati.com/media/albums/Police_Rupandehi_9eMkVgg2Ak.jpg",
+          "images": [
+            "https://rpcdn.ratopati.com/media/albums/Police_Rupandehi_9eMkVgg2Ak.jpg"
+          ],
+          "description": "रुपन्देही । रुपन्देहीको लुम्बिनी सांस्कृतिक नगरपालिका–७ बनरहवाबाट प्रहरीले भन्सार छली गरी लुकाइछिपाइ राखिएका रु नौ लाख १८ हजार मूल्य बराबरका मोबाइलका डिस्प्ले तथा बडी प्यानल बरामद गरेको छ । इलाका प्रहरी कार्यालय लुम्बिनीबाट खटिएको प्रहरी टोलीले"
+        }
+      ]
+    },
+    {
+      "id": "bd8dd545878c6ec6",
+      "title": "सहिद दशरथ चन्द स्वास्थ्य विज्ञान विश्वविद्यालयका लागि सिट निर्धारण, यसै शैक्षिकसत्रदेखि पठनपान हुने",
+      "summary": "धनगढी । कैलालीको गेटास्थित सहिद दशरथ चन्द स्वास्थ्य विज्ञान विश्वविद्यालयमा यसै शैक्षिकसत्र २०८३/८४ देखि पठनपाठन सुरु हुने भएको छ । चिकित्सा शिक्षा आयोगले पठनपाठनका लागि स्वीकृति दिँदै विभिन्न शैक्षिक कार्यक्रमका लागि सिट सङ्ख्या निर्धारण गरेसँगै",
+      "publishedAt": "2026-10-16T17:30:43+00:00",
+      "updatedAt": "2026-10-16T17:30:43+00:00",
+      "sourceCount": 1,
+      "languageCount": 1,
+      "sources": [
+        "Ratopati"
+      ],
+      "categories": [
+        "politics",
+        "sports"
+      ],
+      "items": [
+        {
+          "id": "cda4157a63359419",
+          "title": "सहिद दशरथ चन्द स्वास्थ्य विज्ञान विश्वविद्यालयका लागि सिट निर्धारण, यसै शैक्षिकसत्रदेखि पठनपान हुने",
+          "link": "https://www.ratopati.com/story/600161/seat-allocation-for-shaheed-dashrath-chand-university-of-health-sciences-admissions-to-begin-from-this-academic-session",
+          "source": "Ratopati",
+          "sourceUrl": "https://ratopati.com/feed",
+          "pubDate": "2026-10-16T17:30:43+00:00",
+          "categories": [
+            "politics",
+            "sports"
+          ],
+          "image": "https://npcdn.ratopati.com/media/news/geta-mediacla-college1_obrldr87ao_iltU4Yrnbq.png",
+          "images": [
+            "https://npcdn.ratopati.com/media/news/geta-mediacla-college1_obrldr87ao_iltU4Yrnbq.png"
+          ],
+          "description": "धनगढी । कैलालीको गेटास्थित सहिद दशरथ चन्द स्वास्थ्य विज्ञान विश्वविद्यालयमा यसै शैक्षिकसत्र २०८३/८४ देखि पठनपाठन सुरु हुने भएको छ । चिकित्सा शिक्षा आयोगले पठनपाठनका लागि स्वीकृति दिँदै विभिन्न शैक्षिक कार्यक्रमका लागि सिट सङ्ख्या निर्धारण गरेसँगै"
+        }
+      ]
+    },
+    {
+      "id": "928ed61e589bb031",
+      "title": "बाढीले सडक र पुल बगाएपछि स्थानीय जनश्रमदानबाट काठेपुल निर्माण गरिँदै",
+      "summary": "रसुवा । बाढीले स्याफ्रुबेँसीको पुल र सडक बगाएपछि यातायात अवरुद्ध हुँदा रसुवाको उत्तरी भेगका स्थानीयवासी जनश्रमदानबाट अस्थायी काठेपुल निर्माणमा जुटेका छन् । आमाछोदिङ्मो गाउँपालिकाका स्थानीयवासी र सुरक्षा निकायको संयुक्त सहभागितामा असोज २५ गतेदेखि पुल निर्माण भइरहेको",
+      "publishedAt": "2026-10-16T17:25:12+00:00",
+      "updatedAt": "2026-10-16T17:25:12+00:00",
+      "sourceCount": 1,
+      "languageCount": 1,
+      "sources": [
+        "Ratopati"
+      ],
+      "categories": [
+        "politics",
+        "sports"
+      ],
+      "items": [
+        {
+          "id": "985e0fa318088ef6",
+          "title": "बाढीले सडक र पुल बगाएपछि स्थानीय जनश्रमदानबाट काठेपुल निर्माण गरिँदै",
+          "link": "https://www.ratopati.com/story/600160/after-floods-washed-away-roads-and-bridges-a-wooden-bridge-is-being-built-using-local-labor",
+          "source": "Ratopati",
+          "sourceUrl": "https://ratopati.com/feed",
+          "pubDate": "2026-10-16T17:25:12+00:00",
+          "categories": [
+            "politics",
+            "sports"
+          ],
+          "image": "https://npcdn.ratopati.com/media/news/rasuwa-map_5ptxmJBUA0.jpg",
+          "images": [
+            "https://npcdn.ratopati.com/media/news/rasuwa-map_5ptxmJBUA0.jpg"
+          ],
+          "description": "रसुवा । बाढीले स्याफ्रुबेँसीको पुल र सडक बगाएपछि यातायात अवरुद्ध हुँदा रसुवाको उत्तरी भेगका स्थानीयवासी जनश्रमदानबाट अस्थायी काठेपुल निर्माणमा जुटेका छन् । आमाछोदिङ्मो गाउँपालिकाका स्थानीयवासी र सुरक्षा निकायको संयुक्त सहभागितामा असोज २५ गतेदेखि पुल निर्माण भइरहेको"
+        }
+      ]
+    },
     {
       "id": "876ef18ed34e9ee3",
       "title": "झापामा चाडपर्व सुरक्षा रणनीति: भीडभाडमा ड्रोनबाट निगरानी गरिने",
@@ -2917,41 +3092,6 @@
       ]
     },
     {
-      "id": "005a5216a0355006",
-      "title": "पाकिस्तानका उसामा मिरले चितवन राइनाेजबाट एनपीएल खेल्ने",
-      "summary": "काठमाडौँ । पाकिस्तानका बलर उसामा मिरले तेस्रो संस्करणको नेपाल प्रिमियर लिग (एनपीएल) चितवन राइनोजबाट खेल्ने भएका छन् । चितवनले सामाजिक सञ्जालमार्फत मिरलाई टोलीमा अनुबन्ध गरेको जनाएको हो। उनको आगमनले टोली थप बलियो बनेको समेत चितवनले जनाएको",
-      "publishedAt": "2026-10-16T14:17:05+00:00",
-      "updatedAt": "2026-10-16T14:17:05+00:00",
-      "sourceCount": 1,
-      "languageCount": 1,
-      "sources": [
-        "Ratopati"
-      ],
-      "categories": [
-        "politics",
-        "sports"
-      ],
-      "items": [
-        {
-          "id": "1575c6d012b616ef",
-          "title": "पाकिस्तानका उसामा मिरले चितवन राइनाेजबाट एनपीएल खेल्ने",
-          "link": "https://www.ratopati.com/story/600135/pakistans-usama-mir-to-play-npl-from-chitwan",
-          "source": "Ratopati",
-          "sourceUrl": "https://ratopati.com/feed",
-          "pubDate": "2026-10-16T14:17:05+00:00",
-          "categories": [
-            "politics",
-            "sports"
-          ],
-          "image": "https://npcdn.ratopati.com/media/news/chitwan-rhinos-new-logo_ziAfA0Dn9K.jpg",
-          "images": [
-            "https://npcdn.ratopati.com/media/news/chitwan-rhinos-new-logo_ziAfA0Dn9K.jpg"
-          ],
-          "description": "काठमाडौँ । पाकिस्तानका बलर उसामा मिरले तेस्रो संस्करणको नेपाल प्रिमियर लिग (एनपीएल) चितवन राइनोजबाट खेल्ने भएका छन् । चितवनले सामाजिक सञ्जालमार्फत मिरलाई टोलीमा अनुबन्ध गरेको जनाएको हो। उनको आगमनले टोली थप बलियो बनेको समेत चितवनले जनाएको"
-        }
-      ]
-    },
-    {
       "id": "9d22c6a8d9567968",
       "title": "कांग्रेस सभापतिमा निर्वाचित गगन थापाको शपथ तथा पदबहाली फूलपातीको दिन गरिँदै",
       "summary": "शनिबार बडादशैंको सातौँ दिन (फूलपाती) का अवसर पारेर अपराह्न २ बजे नेपाली कांग्रेस केन्द्रीय कार्यालय, बी.पी. स्मृति भवन, बी.पी. नगर ललितपुर (सानेपा) मा शपथ ग्रहण तथा पदबहाली कार्यक्रम आयोजना गरिएको छ ।",
@@ -3001,111 +3141,6 @@
             "https://nepalviews.cdnsolution.net/en/media/setting/banner_FHsSzcWYKk.jpg"
           ],
           "description": ""
-        }
-      ]
-    },
-    {
-      "id": "7bdf5abd8f6efc54",
-      "title": "४ अर्ब ६१ करोड लागतको कर्णाली सिंहदरबार : ७ वर्षपछि निर्माण कार्य सुरु",
-      "summary": "सुर्खेत । ‘कर्णाली सिंहदरबार’लाई कर्णाली प्रदेश सरकारले आफ्नो गौरवको आयोजना मानेको छ । छरिएर रहेका प्रदेशका मन्त्रालयहरूलाई एउटै भवनमा समाहित गर्ने र एकै भवनबाट व्यवस्थित, प्रभावकारी र गुणस्तरीय सेवा प्रवाह सुनिश्चित गर्ने उद्देश्यसहित यो आयोजनाको अवधारणा",
-      "publishedAt": "2026-10-16T14:15:00+00:00",
-      "updatedAt": "2026-10-16T14:15:00+00:00",
-      "sourceCount": 1,
-      "languageCount": 1,
-      "sources": [
-        "Ratopati"
-      ],
-      "categories": [
-        "politics",
-        "sports"
-      ],
-      "items": [
-        {
-          "id": "87c5d6c1e96bebb4",
-          "title": "४ अर्ब ६१ करोड लागतको कर्णाली सिंहदरबार : ७ वर्षपछि निर्माण कार्य सुरु",
-          "link": "https://www.ratopati.com/story/600104/karnali-singha-durbar-worth-461-billion-construction-work-begins-after-7-years",
-          "source": "Ratopati",
-          "sourceUrl": "https://ratopati.com/feed",
-          "pubDate": "2026-10-16T14:15:00+00:00",
-          "categories": [
-            "politics",
-            "sports"
-          ],
-          "image": "https://npcdn.ratopati.com/media/news/karnali-singh-durbar_K2a9tA371D.webp",
-          "images": [
-            "https://npcdn.ratopati.com/media/news/karnali-singh-durbar_K2a9tA371D.webp"
-          ],
-          "description": "सुर्खेत । ‘कर्णाली सिंहदरबार’लाई कर्णाली प्रदेश सरकारले आफ्नो गौरवको आयोजना मानेको छ । छरिएर रहेका प्रदेशका मन्त्रालयहरूलाई एउटै भवनमा समाहित गर्ने र एकै भवनबाट व्यवस्थित, प्रभावकारी र गुणस्तरीय सेवा प्रवाह सुनिश्चित गर्ने उद्देश्यसहित यो आयोजनाको अवधारणा"
-        }
-      ]
-    },
-    {
-      "id": "a750c68c2e172c26",
-      "title": "नवरात्र : कात्यायनीको पूजा सम्पन्न",
-      "summary": "काठमाडौँ। नवरात्रको छैटौँ दिन शुक्रबार कात्यायनी देवीको पूजार्चना गरिएको छ । दसैँघरमा दुर्गा सप्तशती, देवीभागवतलगायत पाठ गरिन्छ । नवरात्रमा अवसरमा देवीको आराधना गरेमा शक्ति, ऐश्वर्य र विद्या प्राप्त हुने धार्मिक विश्वास छ। दुर्गा पक्षसमेत भनिने दशैँको पहिलो",
-      "publishedAt": "2026-10-16T14:12:28+00:00",
-      "updatedAt": "2026-10-16T14:12:28+00:00",
-      "sourceCount": 1,
-      "languageCount": 1,
-      "sources": [
-        "Ratopati"
-      ],
-      "categories": [
-        "politics",
-        "sports"
-      ],
-      "items": [
-        {
-          "id": "a24e101b3206fae3",
-          "title": "नवरात्र : कात्यायनीको पूजा सम्पन्न",
-          "link": "https://www.ratopati.com/story/600134/navratri-worship-of-katyayani-completed",
-          "source": "Ratopati",
-          "sourceUrl": "https://ratopati.com/feed",
-          "pubDate": "2026-10-16T14:12:28+00:00",
-          "categories": [
-            "politics",
-            "sports"
-          ],
-          "image": "https://rpcdn.ratopati.com/media/albums/kaatyaayani_V0zyMa8EAE.jpg",
-          "images": [
-            "https://rpcdn.ratopati.com/media/albums/kaatyaayani_V0zyMa8EAE.jpg"
-          ],
-          "description": "काठमाडौँ। नवरात्रको छैटौँ दिन शुक्रबार कात्यायनी देवीको पूजार्चना गरिएको छ । दसैँघरमा दुर्गा सप्तशती, देवीभागवतलगायत पाठ गरिन्छ । नवरात्रमा अवसरमा देवीको आराधना गरेमा शक्ति, ऐश्वर्य र विद्या प्राप्त हुने धार्मिक विश्वास छ। दुर्गा पक्षसमेत भनिने दशैँको पहिलो"
-        }
-      ]
-    },
-    {
-      "id": "af6f50d3568c20e0",
-      "title": "पिकअप भ्यानको ठक्करबाट बालकको मृत्यु",
-      "summary": "बागलुङ। ढोरपाटन नगरपालिका–८ सुनारथोकमा पिकअप भ्यानको ठक्करबाट चार वर्षीय बालकको शुक्रबार मृत्यु भएको छ। बाटो काटिरहेका बालकलाई द्रुत गतिमा रहेको भ्यानले ठक्कर दिएको थियो। जिल्ला प्रहरी कार्यालयका प्रमुख फडिन्द्रप्रसाद प्रसाईंका अनुसार गम्भीर घाइते बालकलाई बुर्तिबाङ प्रादेशिक",
-      "publishedAt": "2026-10-16T14:10:40+00:00",
-      "updatedAt": "2026-10-16T14:10:40+00:00",
-      "sourceCount": 1,
-      "languageCount": 1,
-      "sources": [
-        "Ratopati"
-      ],
-      "categories": [
-        "politics",
-        "sports"
-      ],
-      "items": [
-        {
-          "id": "90807d844c3b3069",
-          "title": "पिकअप भ्यानको ठक्करबाट बालकको मृत्यु",
-          "link": "https://www.ratopati.com/story/600132/child-dies-after-being-hit-by-pickup-van",
-          "source": "Ratopati",
-          "sourceUrl": "https://ratopati.com/feed",
-          "pubDate": "2026-10-16T14:10:40+00:00",
-          "categories": [
-            "politics",
-            "sports"
-          ],
-          "image": "https://npcdn.ratopati.com/media/news/accident1_0HVVwEUEAJ.jpg",
-          "images": [
-            "https://npcdn.ratopati.com/media/news/accident1_0HVVwEUEAJ.jpg"
-          ],
-          "description": "बागलुङ। ढोरपाटन नगरपालिका–८ सुनारथोकमा पिकअप भ्यानको ठक्करबाट चार वर्षीय बालकको शुक्रबार मृत्यु भएको छ। बाटो काटिरहेका बालकलाई द्रुत गतिमा रहेको भ्यानले ठक्कर दिएको थियो। जिल्ला प्रहरी कार्यालयका प्रमुख फडिन्द्रप्रसाद प्रसाईंका अनुसार गम्भीर घाइते बालकलाई बुर्तिबाङ प्रादेशिक"
         }
       ]
     },
@@ -3248,41 +3283,6 @@
             "https://nepalviews.cdnsolution.net/en/media/setting/banner_FHsSzcWYKk.jpg"
           ],
           "description": ""
-        }
-      ]
-    },
-    {
-      "id": "6ea6d2a3b8eb1ce8",
-      "title": "विपद् जोखिम थाहा छ, तयारी कहाँ छ ?",
-      "summary": "कैलाली । २०७० असार २ गते महाकाली नदीमा आएको गेग्रानसहितको बाढीले दार्चुला सदरमुकाम खलङ्गा तहसनहस भयो । त्यहाँका १५६ घरमा पूर्ण भयो भने सरकारी कार्यालयका ३२ भवन र ३५३ परिवारका सरसामान बगायो । सरकारी आँकडाअनुसार",
-      "publishedAt": "2026-10-16T14:07:23+00:00",
-      "updatedAt": "2026-10-16T14:07:23+00:00",
-      "sourceCount": 1,
-      "languageCount": 1,
-      "sources": [
-        "Ratopati"
-      ],
-      "categories": [
-        "politics",
-        "sports"
-      ],
-      "items": [
-        {
-          "id": "1fcde7021f29d5d7",
-          "title": "विपद् जोखिम थाहा छ, तयारी कहाँ छ ?",
-          "link": "https://www.ratopati.com/story/600131/we-know-the-disaster-risk-but-where-is-the-preparation",
-          "source": "Ratopati",
-          "sourceUrl": "https://ratopati.com/feed",
-          "pubDate": "2026-10-16T14:07:23+00:00",
-          "categories": [
-            "politics",
-            "sports"
-          ],
-          "image": "https://npcdn.ratopati.com/media/news/bipad_Q7PTBECudT.webp",
-          "images": [
-            "https://npcdn.ratopati.com/media/news/bipad_Q7PTBECudT.webp"
-          ],
-          "description": "कैलाली । २०७० असार २ गते महाकाली नदीमा आएको गेग्रानसहितको बाढीले दार्चुला सदरमुकाम खलङ्गा तहसनहस भयो । त्यहाँका १५६ घरमा पूर्ण भयो भने सरकारी कार्यालयका ३२ भवन र ३५३ परिवारका सरसामान बगायो । सरकारी आँकडाअनुसार"
         }
       ]
     },
@@ -6853,6 +6853,41 @@
       ]
     },
     {
+      "id": "12b8ea0efefb4d70",
+      "title": "माथि बदलिंदो हिमाल, तल जोखिममा जलविद्युत् र स्थानीय आम्दानी",
+      "summary": "हिमाली क्षेत्रको हलचलले जलविद्युत् आयोजनाको सुरक्षा र बिजुलीबाट समृद्धि हासिल गर्ने सपनालाई अनिश्चित बनाएको छ। एकपछि अर्को बाढीको असर विद्युत् उत्पादन र लगानीमा मात्र सीमित छैन, त्यसको प्रभाव रोयल्टीमा निर्भर स्थानीय तहको बजेटसम्म फैलिएको छ।",
+      "publishedAt": "2026-10-16T10:49:00+00:00",
+      "updatedAt": "2026-10-16T10:49:00+00:00",
+      "sourceCount": 1,
+      "languageCount": 1,
+      "sources": [
+        "Himal Khabar"
+      ],
+      "categories": [
+        "business",
+        "politics"
+      ],
+      "items": [
+        {
+          "id": "859639e92cca8af1",
+          "title": "माथि बदलिंदो हिमाल, तल जोखिममा जलविद्युत् र स्थानीय आम्दानी",
+          "link": "https://www.himalkhabar.com/145004",
+          "source": "Himal Khabar",
+          "sourceUrl": "https://himalKhabar.com/feed",
+          "pubDate": "2026-10-16T10:49:00+00:00",
+          "categories": [
+            "politics",
+            "business"
+          ],
+          "image": "https://www.himalkhabar.com/uploads/posts/taal-juxta-under-1.95MB-1792142841.gif",
+          "images": [
+            "https://www.himalkhabar.com/uploads/posts/taal-juxta-under-1.95MB-1792142841.gif"
+          ],
+          "description": "हिमाली क्षेत्रको हलचलले जलविद्युत् आयोजनाको सुरक्षा र बिजुलीबाट समृद्धि हासिल गर्ने सपनालाई अनिश्चित बनाएको छ। एकपछि अर्को बाढीको असर विद्युत् उत्पादन र लगानीमा मात्र सीमित छैन, त्यसको प्रभाव रोयल्टीमा निर्भर स्थानीय तहको बजेटसम्म फैलिएको छ।"
+        }
+      ]
+    },
+    {
       "id": "bfe338f968c46677",
       "title": "Misbah-ul-Haq named Sudurpaschim Royals head coach",
       "summary": "Kathmandu, October 16 Sudurpaschim Royals have appointed former Pakistan captain Misbah-ul-Haq as head coach for the third season of the Nepal Premier League (NPL). He replaces Jagat Tamata, who coached the team in the first two seasons. Misbah played 75 Tests, 162 ODIs and 39 T20Is for Pakistan. He scored 5,222 runs in Tests, including […] The post Misbah-ul-Haq named Sudurpaschim Royals head coach appeared first on OnlineKhabar English News .",
@@ -9185,6 +9220,41 @@
       ]
     },
     {
+      "id": "d2da5ab20fc39405",
+      "title": "आमाहरू बिते, प्रश्न बाँकी छ",
+      "summary": "नेपालमा सशस्त्र विद्रोह सकिएको दुई दशक पुग्न लाग्यो। यसबीच १६ प्रधानमन्त्री चुनिए, १५ सरकार फेरिए, तीन जना राष्ट्रपति बने, सत्ता फेरियो, संविधान फेरियो। तर केही परिवारका लागि युद्ध अझै सकिएको छैन। उनीहरूको उही प्रश्न छ—खोई हाम्रो मान्छे?",
+      "publishedAt": "2026-10-15T13:56:13+00:00",
+      "updatedAt": "2026-10-15T13:56:13+00:00",
+      "sourceCount": 1,
+      "languageCount": 1,
+      "sources": [
+        "Himal Khabar"
+      ],
+      "categories": [
+        "business",
+        "politics"
+      ],
+      "items": [
+        {
+          "id": "e47840e0b7235201",
+          "title": "आमाहरू बिते, प्रश्न बाँकी छ",
+          "link": "https://www.himalkhabar.com/145003",
+          "source": "Himal Khabar",
+          "sourceUrl": "https://himalKhabar.com/feed",
+          "pubDate": "2026-10-15T13:56:13+00:00",
+          "categories": [
+            "politics",
+            "business"
+          ],
+          "image": "https://www.himalkhabar.com/uploads/posts/ratna-kumari-mali-1792071367.jpg",
+          "images": [
+            "https://www.himalkhabar.com/uploads/posts/ratna-kumari-mali-1792071367.jpg"
+          ],
+          "description": "नेपालमा सशस्त्र विद्रोह सकिएको दुई दशक पुग्न लाग्यो। यसबीच १६ प्रधानमन्त्री चुनिए, १५ सरकार फेरिए, तीन जना राष्ट्रपति बने, सत्ता फेरियो, संविधान फेरियो। तर केही परिवारका लागि युद्ध अझै सकिएको छैन। उनीहरूको उही प्रश्न छ—खोई हाम्रो मान्छे?"
+        }
+      ]
+    },
+    {
       "id": "25977f3148704400",
       "title": "१२ वर्षपछि खुल्यो चीन-उत्तर कोरिया जोड्ने पुल",
       "summary": "काठमाडौँ- चीन र उत्तर कोरियालाई जोड्ने तीन किलोमिटर लामो नयाँ यालु नदी पुल १२ वर्षको ढिलाइपछि बिहीबार सञ्चालनमा आएको छ। यसबाट दुई देशबीच व्यापार, यातायात र आर्थिक सहकार्य विस्तार हुने अपेक्षा गरिएको छ। चीनको डान्दोङ सहरलाई उत्तर कोरियाको सिनुइजुसँग जोड्ने चार लेनको पुलको उद्घाटन समारोहमा दुवै देशका प्रधानमन्त्रीले भिडियो सन्देश दिएका थिए। चिनियाँ प्रधानमन्त्री ली छ्याङले […]",
@@ -10597,6 +10667,41 @@
       ]
     },
     {
+      "id": "d00220e08c61973f",
+      "title": "स्थानीय तहलाई संविधानले अधिकार दियो, सरकारले नियन्त्रण गर्न खोज्यो",
+      "summary": "",
+      "publishedAt": "2026-10-14T02:12:00+00:00",
+      "updatedAt": "2026-10-14T02:12:00+00:00",
+      "sourceCount": 1,
+      "languageCount": 1,
+      "sources": [
+        "Himal Khabar"
+      ],
+      "categories": [
+        "business",
+        "politics"
+      ],
+      "items": [
+        {
+          "id": "6185f17413128083",
+          "title": "स्थानीय तहलाई संविधानले अधिकार दियो, सरकारले नियन्त्रण गर्न खोज्यो",
+          "link": "https://www.himalkhabar.com/144994",
+          "source": "Himal Khabar",
+          "sourceUrl": "https://himalKhabar.com/feed",
+          "pubDate": "2026-10-14T02:12:00+00:00",
+          "categories": [
+            "politics",
+            "business"
+          ],
+          "image": "https://www.himalkhabar.com/uploads/posts/dipesh-ghimire-1791550432.jpg",
+          "images": [
+            "https://www.himalkhabar.com/uploads/posts/dipesh-ghimire-1791550432.jpg"
+          ],
+          "description": ""
+        }
+      ]
+    },
+    {
       "id": "c7daa406f6daaf4f",
       "title": "चाडपर्व खर्च पाउनुभयो? नपाएको भए उजुरी गर्ने व्यवस्था यस्तो छ",
       "summary": "खास गरी अनौपचारिक क्षेत्रमा काम गर्ने धेरैजसोले भने उजुरी गर्दा जागिर गुम्ने, वा उजुरीको प्रक्रिया झन्झटिलो, लामो र खर्चिलो हुन सक्ने कारणले उजुरी दिन गाह्रो मान्ने गरेको कानुन व्यवसायी बताउँछन्।",
@@ -10667,6 +10772,76 @@
             "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/9462/live/4c4f9190-c6fb-11f1-bc2e-018d645d8d21.jpg"
           ],
           "description": "ठूलो विपद् र अकल्पनीय शोकपछिको सामान्य प्रतिक्रियास्वरूप मानिसमा निराशा उत्पन्न हुने भए पनि त्यो अवस्थाबाट बिस्तारै बाहिर निस्किन नसके गम्भीर मानसिक समस्या निम्तिन सक्ने मनोचिकित्सकहरू बताउँछन्।"
+        }
+      ]
+    },
+    {
+      "id": "5c6bf3e892be9753",
+      "title": "रसुवासँग मिल्दोजुल्दो बूढीगण्डकी बाढी: हिमालदेखि तल्लो तटसम्म विपत्",
+      "summary": "रसुवा, बूढीगण्डकी, थामे, सेती र मेलम्ची बाढीको शुरूआती कारण फरक भए पनि यसले हिमाल अस्थिर भइरहेको र तल्लो नदी तटमा जोखिम बढाइरहेको देखाउँछ ।",
+      "publishedAt": "2026-10-13T11:15:00+00:00",
+      "updatedAt": "2026-10-13T11:15:00+00:00",
+      "sourceCount": 1,
+      "languageCount": 1,
+      "sources": [
+        "Himal Khabar"
+      ],
+      "categories": [
+        "business",
+        "politics"
+      ],
+      "items": [
+        {
+          "id": "68cf463773d38254",
+          "title": "रसुवासँग मिल्दोजुल्दो बूढीगण्डकी बाढी: हिमालदेखि तल्लो तटसम्म विपत्",
+          "link": "https://www.himalkhabar.com/144998",
+          "source": "Himal Khabar",
+          "sourceUrl": "https://himalKhabar.com/feed",
+          "pubDate": "2026-10-13T11:15:00+00:00",
+          "categories": [
+            "politics",
+            "business"
+          ],
+          "image": "https://www.himalkhabar.com/uploads/posts/budhi-banner-bigger-1791877033.gif",
+          "images": [
+            "https://www.himalkhabar.com/uploads/posts/budhi-banner-bigger-1791877033.gif"
+          ],
+          "description": "रसुवा, बूढीगण्डकी, थामे, सेती र मेलम्ची बाढीको शुरूआती कारण फरक भए पनि यसले हिमाल अस्थिर भइरहेको र तल्लो नदी तटमा जोखिम बढाइरहेको देखाउँछ ।"
+        }
+      ]
+    },
+    {
+      "id": "fa53c9264f845630",
+      "title": "सरकारी आयोजनाले रूख काटे, अर्थ मन्त्रालयले क्षतिपूर्ति तिरेन",
+      "summary": "पूर्वाधार विकासका नाममा हरेक वर्ष हजारौं रूख काटिन्छन्। काटिएका रूखको सट्टा वन विकास गर्ने उद्देश्यले स्थापना गरिएको कोषमा अर्थ मन्त्रालयबाटै आठ अर्ब ५४ करोड रुपैयाँभन्दा बढी रकम आउन बाँकी छ। कोषमा रकम नआउँदा वन संरक्षण, वृक्षरोपणदेखि जैविक विविधता जोगाउने कामसम्म प्रभावित हुँदैछ।",
+      "publishedAt": "2026-10-13T06:35:00+00:00",
+      "updatedAt": "2026-10-13T06:35:00+00:00",
+      "sourceCount": 1,
+      "languageCount": 1,
+      "sources": [
+        "Himal Khabar"
+      ],
+      "categories": [
+        "business",
+        "politics"
+      ],
+      "items": [
+        {
+          "id": "82cf263f4449c0d9",
+          "title": "सरकारी आयोजनाले रूख काटे, अर्थ मन्त्रालयले क्षतिपूर्ति तिरेन",
+          "link": "https://www.himalkhabar.com/144996",
+          "source": "Himal Khabar",
+          "sourceUrl": "https://himalKhabar.com/feed",
+          "pubDate": "2026-10-13T06:35:00+00:00",
+          "categories": [
+            "politics",
+            "business"
+          ],
+          "image": "https://www.himalkhabar.com/uploads/posts/fast-track-1791870333.jpg",
+          "images": [
+            "https://www.himalkhabar.com/uploads/posts/fast-track-1791870333.jpg"
+          ],
+          "description": "पूर्वाधार विकासका नाममा हरेक वर्ष हजारौं रूख काटिन्छन्। काटिएका रूखको सट्टा वन विकास गर्ने उद्देश्यले स्थापना गरिएको कोषमा अर्थ मन्त्रालयबाटै आठ अर्ब ५४ करोड रुपैयाँभन्दा बढी रकम आउन बाँकी छ। कोषमा रकम नआउँदा वन संरक्षण, वृक्षरोपणदेखि जैविक विविधता जोगाउने कामसम्म प्रभावित हुँदैछ।"
         }
       ]
     },
@@ -11057,84 +11232,6 @@
             "https://media.nepalitimes.com/cover/jica-2.png"
           ],
           "description": "Japan International Cooperation Agency (JICA) and the Government of Nepal (GoN) have signed the Grant Agreement valued at 2.853 billion Japanese…"
-        }
-      ]
-    },
-    {
-      "id": "4c5ffc326b722453",
-      "title": "Politics of opposition",
-      "summary": "Gagan Thapa's test will be whether or not he is able to translate his aspiration for party reform into action",
-      "publishedAt": "2026-10-08T10:00:54+00:00",
-      "updatedAt": "2026-10-08T10:00:54+00:00",
-      "sourceCount": 1,
-      "languageCount": 1,
-      "sources": [
-        "Nepali Times"
-      ],
-      "categories": [
-        "business",
-        "politics",
-        "society",
-        "technology"
-      ],
-      "items": [
-        {
-          "id": "362551c954d1119b",
-          "title": "Politics of opposition",
-          "link": "https://nepalitimes.com/politics-of-opposition",
-          "source": "Nepali Times",
-          "sourceUrl": "https://www.nepalitimes.com/feed/",
-          "pubDate": "2026-10-08T10:00:54+00:00",
-          "categories": [
-            "politics",
-            "business",
-            "society",
-            "technology"
-          ],
-          "image": "https://media.nepalitimes.com/cover/836118381_1644454523969957_625272556029338239_n.jpg",
-          "images": [
-            "https://media.nepalitimes.com/cover/836118381_1644454523969957_625272556029338239_n.jpg"
-          ],
-          "description": "Gagan Thapa's test will be whether or not he is able to translate his aspiration for party reform into action"
-        }
-      ]
-    },
-    {
-      "id": "8ef456faadf4d4ac",
-      "title": "Shinta Mani",
-      "summary": "Shinta Mani Mustang has been recognised in the 2026 Condé Nast Traveller Readers’ Choice Awards. The recognition comes alongside The Dwarika’s…",
-      "publishedAt": "2026-10-08T09:20:37+00:00",
-      "updatedAt": "2026-10-08T09:20:37+00:00",
-      "sourceCount": 1,
-      "languageCount": 1,
-      "sources": [
-        "Nepali Times"
-      ],
-      "categories": [
-        "business",
-        "politics",
-        "society",
-        "technology"
-      ],
-      "items": [
-        {
-          "id": "88b4ad479a852166",
-          "title": "Shinta Mani",
-          "link": "https://nepalitimes.com/shinta-mani-1",
-          "source": "Nepali Times",
-          "sourceUrl": "https://www.nepalitimes.com/feed/",
-          "pubDate": "2026-10-08T09:20:37+00:00",
-          "categories": [
-            "politics",
-            "business",
-            "society",
-            "technology"
-          ],
-          "image": "https://media.nepalitimes.com/cover/Shintamani.jpg",
-          "images": [
-            "https://media.nepalitimes.com/cover/Shintamani.jpg"
-          ],
-          "description": "Shinta Mani Mustang has been recognised in the 2026 Condé Nast Traveller Readers’ Choice Awards. The recognition comes alongside The Dwarika’s…"
         }
       ]
     }
