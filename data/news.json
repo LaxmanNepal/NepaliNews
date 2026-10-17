@@ -1,10 +1,44 @@
 {
-  "generatedAt": "2026-10-17T18:39:05.523326+00:00",
+  "generatedAt": "2026-10-17T20:57:52.190181+00:00",
   "feedCount": 41,
   "healthyFeeds": 22,
   "failedFeeds": 19,
   "itemCount": 311,
   "items": [
+    {
+      "id": "850772e53ed08ade",
+      "title": "न्युक्यासलमाथि एस्टन भिल्लाको साँघुरो जित",
+      "link": "https://www.ratopati.com/story/600307/aston-villa-narrowly-beat-newcastle",
+      "source": "Ratopati",
+      "sourceUrl": "https://ratopati.com/feed",
+      "pubDate": "2026-10-17T18:47:54+00:00",
+      "categories": [
+        "politics",
+        "sports"
+      ],
+      "image": "https://npcdn.ratopati.com/media/news/villa_j6cN2YJjGv.webp",
+      "images": [
+        "https://npcdn.ratopati.com/media/news/villa_j6cN2YJjGv.webp"
+      ],
+      "description": "काठमाडौँ । इङ्लिस प्रिमियर लिग अन्तर्गत शनिबार सम्पन्न खेलमा एस्टन भिल्लाले न्युक्यासल युनाइटेडमाथि १–० गोलको साँघुरो जित दर्ता गरेको छ । एस्टन भिल्लालाई जित दिलाउन जोहान मान्जाम्बीले गरेको एकमात्र गोल नै निर्णायक बन्यो । उनले खेलको"
+    },
+    {
+      "id": "28611f80bc0d720b",
+      "title": "१० खेलाडीमा समेटिएको बेटिसमाथि बार्सिलोनाको फराकिलो जित",
+      "link": "https://www.ratopati.com/story/600306/barcelonas-comprehensive-victory-over-10-man-betis",
+      "source": "Ratopati",
+      "sourceUrl": "https://ratopati.com/feed",
+      "pubDate": "2026-10-17T18:44:25+00:00",
+      "categories": [
+        "politics",
+        "sports"
+      ],
+      "image": "https://npcdn.ratopati.com/media/news/barca_xsXZeznNKZ.webp",
+      "images": [
+        "https://npcdn.ratopati.com/media/news/barca_xsXZeznNKZ.webp"
+      ],
+      "description": "काठमाडौँ। स्पेनिस ला लिगा अन्तर्गत सम्पन्न खेलमा शीर्ष स्थानमा रहेको बार्सिलोनाले रियल बेटिसमाथि ५-२ गोल अन्तरको फराकिलो जित हात पारेको छ । खेलमा सुरुवाती अग्रता बार्सिलोनाले लिएको थियो । १० औँ मिनेटमा लामिन यामालले गोल गर्दै"
+    },
     {
       "id": "9d4e484ac1faceb1",
       "title": "प्रवासी नेपालीको अर्थपूर्ण प्रतिनिधित्व सुनिश्चित गर्न कांग्रेसको नयाँ नेतृत्वलाई आरके शर्माको आग्रह",
@@ -1247,23 +1281,6 @@
       "description": "काठमाडौँ । आश्विन शुक्ल सप्तमीका दिन आज अपराह्न पूजाकोठा एवं दसैँ घरमा स्थापना गरिएको नवदुर्गा स्थलमा फूलपाती भित्र्याइएको छ । प्रत्येक वर्ष दुर्गा पक्षअन्तर्गत आश्विन शुक्ल सप्तमीका दिनमा मनाइने फूलपाती पर्व आज घरघरमा शास्त्रीय विधिअनुसार शुभ"
     },
     {
-      "id": "7729f8a2524673cb",
-      "title": "बङ्गलादेशको रिसोर्टमा भीषण आगलागी, छ जनाको मृत्यु",
-      "link": "https://www.ratopati.com/story/600281/massive-fire-at-bangladesh-resort-six-dead",
-      "source": "Ratopati",
-      "sourceUrl": "https://ratopati.com/feed",
-      "pubDate": "2026-10-17T13:21:48+00:00",
-      "categories": [
-        "politics",
-        "sports"
-      ],
-      "image": "https://npcdn.ratopati.com/media/news/bangladesh-flag_BVZAtKSmxP.jpg",
-      "images": [
-        "https://npcdn.ratopati.com/media/news/bangladesh-flag_BVZAtKSmxP.jpg"
-      ],
-      "description": "ढाका । बङ्गलादेशको दक्षिणपूर्वी क्षेत्रमा पर्ने कक्स बजार जिल्लास्थित एक रिसोर्टमा शनिबार बिहान भीषण आगलागी हुँदा छ जनाको मृत्यु भएको छ । ढाकास्थित अग्नि सेवा तथा नागरिक सुरक्षा विभागको मुख्यालयका अधिकारी तल्हा बिन जसिमका अनुसार आगो"
-    },
-    {
       "id": "44e599f25ad7b25f",
       "title": "पत्रकार किशोर श्रेष्ठलाई लिन घरमै किन पुग्यो प्रहरी टोली ?",
       "link": "https://www.onlinekhabar.com/2026/10/2040742/why-did-the-police-team-arrive-at-the-home-of-journalist-kishor-shrestha-to-pick-him-up",
@@ -1298,23 +1315,6 @@
       "image": "",
       "images": [],
       "description": "पहिले दशैंका बेला गाउँबस्तीमा चहलपहल हुन्थ्यो । विदेश गएकाहरू घर फर्किन्थे । काठमाडौंमा बस्नेहरू गाउँघर पुग्थे । पिङ हालिन्थे । तर, यसपालि बाढी प्रभावित क्षेत्रको अवस्था फरक छ । अहिले सन्नाटा छ । उत्सव छैन ।"
-    },
-    {
-      "id": "27843ebdecc3328b",
-      "title": "विपद् प्रभावित क्षेत्रमा हेलिकप्टरबाट ट्रान्सफर्मर ढुवानी",
-      "link": "https://www.ratopati.com/story/600280/transporting-transformers-by-helicopter-to-disaster-affected-areas",
-      "source": "Ratopati",
-      "sourceUrl": "https://ratopati.com/feed",
-      "pubDate": "2026-10-17T13:18:18+00:00",
-      "categories": [
-        "politics",
-        "sports"
-      ],
-      "image": "https://rpcdn.ratopati.com/media/albums/transformar_sShYkLLjnw.jpg",
-      "images": [
-        "https://rpcdn.ratopati.com/media/albums/transformar_sShYkLLjnw.jpg"
-      ],
-      "description": "म्याग्दी । पछिल्लो मनसुनजन्य विपद्बाट प्रभावित म्याग्दीको अन्नपूर्ण गाउँपालिका–५ पाउद्वारमा विद्युत् आपूर्ति सञ्चालन गराउन आज हेलिकप्टरबाट ट्रान्सफर्मर ढुवानी भएको छ । असोज ११ गतेदेखि सडक, विद्युत् र घोरेटो बाटोबाट सम्पर्कबिच्छेद भएको पाउद्वारमा बेनीदेखि नेपाली सेनाको हेलिकप्टरले"
     },
     {
       "id": "30bc69cee407b9bc",
