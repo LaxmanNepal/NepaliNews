@@ -1,10 +1,44 @@
 {
-  "generatedAt": "2026-10-17T20:57:52.190181+00:00",
+  "generatedAt": "2026-10-17T22:50:21.893716+00:00",
   "feedCount": 41,
   "healthyFeeds": 22,
   "failedFeeds": 19,
-  "itemCount": 311,
+  "itemCount": 312,
   "items": [
+    {
+      "id": "b9a900ec1c6f2e31",
+      "title": "कस्तो रहला यो साताको तपाईंको भाग्य ?",
+      "link": "https://www.ratopati.com/story/600309/how-was-your-luck-this-week",
+      "source": "Ratopati",
+      "sourceUrl": "https://ratopati.com/feed",
+      "pubDate": "2026-10-17T22:47:12+00:00",
+      "categories": [
+        "politics",
+        "sports"
+      ],
+      "image": "https://npcdn.ratopati.com/media/news/horoscope_jI7SXu6xgn.jpg",
+      "images": [
+        "https://npcdn.ratopati.com/media/news/horoscope_jI7SXu6xgn.jpg"
+      ],
+      "description": "कार्तिक १ गते आइतबारदेखी ७ गते शनिबारसम्मको साप्ताहिक राशिफल मेष (चू, चे, चो, ला, लि, लू, ले, लो, अ) दसैँको समयमा परिवार तथा आफन्तसँग भेटघाट गर्ने अवसर मिल्नेछ । मान्यजनको हातबाट टीका तथा जमरा ग्रहण गरी"
+    },
+    {
+      "id": "a1bd263927447e2a",
+      "title": "कार्तिकमा यी राशिहरू हुनेछन् मालामाल, हेर्नुहोस् मासिक राशिफल",
+      "link": "https://www.ratopati.com/story/600308/these-zodiac-signs-will-be-prosperous-in-kartik-see-monthly-horoscope",
+      "source": "Ratopati",
+      "sourceUrl": "https://ratopati.com/feed",
+      "pubDate": "2026-10-17T21:15:00+00:00",
+      "categories": [
+        "politics",
+        "sports"
+      ],
+      "image": "https://npcdn.ratopati.com/media/news/horoscope_vLkWHGsooW.webp",
+      "images": [
+        "https://npcdn.ratopati.com/media/news/horoscope_vLkWHGsooW.webp"
+      ],
+      "description": "२०८३ कार्तिक महिनाको राशिफल । मेष (चू,चे,चो,ला,लि,लू,ले,लो,अ) महिना भरिनै शनिको आध्य साढेशातीको प्रभाव पर्नेछ । जन्म कुण्डलीमा शनि कमजोर हुनेहरूले खानपान तथा बाहिरी वातावरणको ध्यान दिनुहोला । शरीरमा आलस्य तथा अल्छीपना बढेर जानेछ । नशा, प्यारालाइसिस,"
+    },
     {
       "id": "850772e53ed08ade",
       "title": "न्युक्यासलमाथि एस्टन भिल्लाको साँघुरो जित",
@@ -1262,23 +1296,6 @@
       "image": "",
       "images": [],
       "description": "काठमाडौँ- आईसीसी विश्वकप लिग-२ शृंखलाअन्तर्गत क्यानडाविरुद्ध नेपाल २४ रनले पराजित भएको छ। शनिबार भएको खेलमा क्यानडाले दिएको २५७ रनको लक्ष्य पछ्याएको नेपाली टोली ४६ ओभरमा २३२ रनमै अलआउट भयो। नेपालका लागि ओपनर अर्जुन कुमालले उत्कृष्ट पारी खेले पनि टोलीलाई जित दिलाउन सकेनन्। उनले ११२ बलमा चार चौकासहित ८७ रनको पारी खेले। यस्तै, दीपेन्द्रसिंह ऐरीले २७, […]"
-    },
-    {
-      "id": "252edbe093aa8efc",
-      "title": "पूजा कोठा एवं दसैँ घरमा भित्र्याइयो फूलपाती",
-      "link": "https://www.ratopati.com/story/600282/flower-arrangements-brought-into-the-puja-room-and-dashain-house",
-      "source": "Ratopati",
-      "sourceUrl": "https://ratopati.com/feed",
-      "pubDate": "2026-10-17T13:26:35+00:00",
-      "categories": [
-        "politics",
-        "sports"
-      ],
-      "image": "https://npcdn.ratopati.com/media/news/fulpati-dashain-ghar-(24)_pzbKqlmHVO.jpg",
-      "images": [
-        "https://npcdn.ratopati.com/media/news/fulpati-dashain-ghar-(24)_pzbKqlmHVO.jpg"
-      ],
-      "description": "काठमाडौँ । आश्विन शुक्ल सप्तमीका दिन आज अपराह्न पूजाकोठा एवं दसैँ घरमा स्थापना गरिएको नवदुर्गा स्थलमा फूलपाती भित्र्याइएको छ । प्रत्येक वर्ष दुर्गा पक्षअन्तर्गत आश्विन शुक्ल सप्तमीका दिनमा मनाइने फूलपाती पर्व आज घरघरमा शास्त्रीय विधिअनुसार शुभ"
     },
     {
       "id": "44e599f25ad7b25f",
