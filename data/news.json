@@ -1,10 +1,27 @@
 {
-  "generatedAt": "2026-10-20T16:58:20.030722+00:00",
+  "generatedAt": "2026-10-20T20:17:03.505724+00:00",
   "feedCount": 41,
   "healthyFeeds": 24,
   "failedFeeds": 17,
   "itemCount": 327,
   "items": [
+    {
+      "id": "ab1187d79b2e1821",
+      "title": "अफगानिस्तानमा हिउँदसँगै भोकमरीको जोखिम बढ्दै, एक करोड ९२ लाख प्रभावित हुने अनुमान",
+      "link": "https://www.ratopati.com/story/600696/afghanistan-faces-increasing-risk-of-famine-as-winter-approaches-with-192-million-people-estimated-to-be-affected",
+      "source": "Ratopati",
+      "sourceUrl": "https://ratopati.com/feed",
+      "pubDate": "2026-10-20T17:26:24+00:00",
+      "categories": [
+        "politics",
+        "sports"
+      ],
+      "image": "https://rpcdn.ratopati.com/media/albums/Afaganisthan_BFd13nKHNh.png",
+      "images": [
+        "https://rpcdn.ratopati.com/media/albums/Afaganisthan_BFd13nKHNh.png"
+      ],
+      "description": "काठमाडौँ । संयुक्त राष्ट्रसङ्घले आगामी हिउँदमा अफगानिस्तानमा एक करोड ९२ लाख मानिसले चरम खाद्य असुरक्षाको सामना गर्नुपर्ने चेतावनी दिएको छ । तीमध्ये करिब ५० लाख मानिस भोकमरीको आपत्कालीन अवस्थामा पुग्न सक्ने अनुमान गरिएको छ । संयुक्त"
+    },
     {
       "id": "5abc5d0f463e3cb9",
       "title": "विजया दशमीमा देशभरको मौसम मुख्यतया सफा रहने",
@@ -1732,23 +1749,6 @@
       "image": "",
       "images": [],
       "description": "निःशुल्क बस सेवाबाट दसैंका बेला सार्वजनिक यातायातको अभावमा यात्रा गर्न कठिनाइ भोग्ने यात्रुलाई सहज हुने अपेक्षा गरिएको छ ।"
-    },
-    {
-      "id": "9ac635fb0cf108c5",
-      "title": "ब्याक्टेरियाले भाइरसकै हतियारबाट गर्छन् प्रतिरक्षा",
-      "link": "https://www.ratopati.com/story/600666/bacteria-defend-themselves-against-viruses-weapons",
-      "source": "Ratopati",
-      "sourceUrl": "https://ratopati.com/feed",
-      "pubDate": "2026-10-20T12:10:55+00:00",
-      "categories": [
-        "politics",
-        "sports"
-      ],
-      "image": "https://npcdn.ratopati.com/media/news/bickteriya_d7VUWYjrvT.jpg",
-      "images": [
-        "https://npcdn.ratopati.com/media/news/bickteriya_d7VUWYjrvT.jpg"
-      ],
-      "description": "काठमाडाैँ। ब्याक्टेरियाले आफूलाई सङ्क्रमण गर्ने भाइरसकै हतियारलाई सङ्केतका रूपमा प्रयोग गरी प्रतिरक्षा प्रणाली सक्रिय पार्ने गरेको वैज्ञानिकहरूले पत्ता लगाएका छन्। भाइरसले उत्पादन गर्ने विशेष इन्जाइमले ब्याक्टेरियाको सेन्सर प्रोटिन काट्दा प्रतिरक्षा प्रतिक्रिया सुरु हुने र सङ्क्रमित"
     },
     {
       "id": "090e1ecc0ea696a4",
