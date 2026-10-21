@@ -1,10 +1,921 @@
 {
-  "generatedAt": "2026-10-20T23:16:04.791370+00:00",
+  "generatedAt": "2026-10-21T01:37:40.824980+00:00",
   "feedCount": 41,
   "healthyFeeds": 24,
   "failedFeeds": 17,
   "itemCount": 327,
   "items": [
+    {
+      "id": "c7e112a28a6f3960",
+      "title": "सिटीको जितमा फोडेनको ह्याट्रिक",
+      "link": "https://baahrakhari.com/detail/505399",
+      "source": "Baahrakhari",
+      "sourceUrl": "https://baahrakhari.com/feed",
+      "pubDate": "2026-10-21T01:34:03+00:00",
+      "categories": [
+        "politics",
+        "business",
+        "society"
+      ],
+      "image": "",
+      "images": [],
+      "description": ""
+    },
+    {
+      "id": "141f8e8bf13bb1d0",
+      "title": "एआईले खोल्दैछ इतिहासका पुराना रहस्य",
+      "link": "https://www.ratopati.com/story/600714/ai-is-unlocking-the-ancient-secrets-of-history",
+      "source": "Ratopati",
+      "sourceUrl": "https://ratopati.com/feed",
+      "pubDate": "2026-10-21T01:33:45+00:00",
+      "categories": [
+        "politics",
+        "sports"
+      ],
+      "image": "https://npcdn.ratopati.com/media/news/aipot_laGY50deU9.webp",
+      "images": [
+        "https://npcdn.ratopati.com/media/news/aipot_laGY50deU9.webp"
+      ],
+      "description": "दुई सय वर्षभन्दा बढी समयदेखि रहस्य बनेको नेपोलियन बोनापार्टको युद्धकालीन गोप्य सन्देश कृत्रिम बौद्धिकता (एआई) को सहायताले केही घण्टामै पढ्न सकिएको छ । यसले ऐतिहासिक अभिलेखमा लुकेका रहस्य पत्ता लगाउने काम अब विद्वान् र अनुभवी"
+    },
+    {
+      "id": "362a29ea97bd307f",
+      "title": "राष्ट्रपति पौडेलले गुरू पुरोहितबाट टीका ग्रहण गर्ने",
+      "link": "https://www.dainiknepal.com/2026/10/846145.html",
+      "source": "Dainik Nepal",
+      "sourceUrl": "https://dainiknepal.com/feed",
+      "pubDate": "2026-10-21T01:32:59+00:00",
+      "categories": [
+        "politics",
+        "sports"
+      ],
+      "image": "",
+      "images": [],
+      "description": "काठमाडौं । राष्ट्रपति रामचन्द्र पौडेलले विजया दशमीमा शुभसाइतमा गुरु पुरोहितबाट टीका जमरा ग्रहण गर्ने भएका छन् । शीतल निवासस्थित राष्ट्रपति कार्यालयमा राष्ट्रपति पौडेलले विजया दशमीको बुधबार बिहान १० बजेर २६ मिनेटको शुभसाइतमा गुरू पुरोहितबाट टीका, जमरा र आशीर्वाद ग्रहण गर्ने राष्ट्रपतिका प्रेस सल्लाहकार किरण पोखरेलले जानकारी दिए । विगतका वर्षहरूमा राष्ट्रपतिले सर्वसाधारणलाई टीका लगाइदिने गरेको […]"
+    },
+    {
+      "id": "2f92cbd3afe003c1",
+      "title": "आज पाउण्डको बिक्री दर २०३.१८ रुपैयाँ, कतारी र ओमानी रियालसँगै मलेसियन रिंगिट स्थिर",
+      "link": "https://bizmandu.com/content/20261021071548.html",
+      "source": "Bizmandu",
+      "sourceUrl": "https://bizmandu.com/feed",
+      "pubDate": "2026-10-21T01:30:48+00:00",
+      "categories": [
+        "business",
+        "technology"
+      ],
+      "image": "",
+      "images": [],
+      "description": "काठमाडौं । आज अमेरिकी डलरको विनिमय दर स्थिर छ। कतारी रियाल, ओमानी रियाल र मलेसियन रिंगिटको मूल्य पनि आज स्थिर रहेको छ। युरोको मूल्यमा गिरावट आउँदा पाउण्डको विनिमय दर आज वृद्धि भएको छ। पाउण्डको बिक्री दर बढेर २०३.१८ रुपैयाँ पुगेको छ। आज कुन विदेशी मुद्राको विनिमय दर कति ? मुद्रा इकाइ खरिद दर (आज) खरिद […] The post आज पाउण्डको बिक्री दर २०३.१८ रुपैयाँ, कतारी र ओमानी रियालसँगै मलेसियन रिंगिट स्थिर appeared first on BIZMANDU ."
+    },
+    {
+      "id": "fc8443990cfbc26a",
+      "title": "कस्तो रहला आजको मौसम ?",
+      "link": "https://www.nepalviews.com/story/426986/how-was-the-weather-today",
+      "source": "Nepal Views",
+      "sourceUrl": "https://www.nepalviews.com/feed/",
+      "pubDate": "2026-10-21T01:29:46+00:00",
+      "categories": [
+        "politics",
+        "business",
+        "technology"
+      ],
+      "image": "https://nepalviews.cdnsolution.net/en/media/setting/banner_FHsSzcWYKk.jpg",
+      "images": [
+        "https://nepalviews.cdnsolution.net/en/media/setting/banner_FHsSzcWYKk.jpg"
+      ],
+      "description": ""
+    },
+    {
+      "id": "7cfd05811247981a",
+      "title": "फोडेनको ह्याट्रिकमा म्यान्चेस्टर सिटीको फराकिलो जित",
+      "link": "https://www.onlinekhabar.com/2026/10/2042107/foden-hat-trick-leads-manchester-city-to-a-comprehensive-victory",
+      "source": "Online Khabar",
+      "sourceUrl": "https://www.onlinekhabar.com/feed",
+      "pubDate": "2026-10-21T01:29:44+00:00",
+      "categories": [
+        "politics",
+        "business",
+        "sports",
+        "technology",
+        "entertainment"
+      ],
+      "image": "",
+      "images": [],
+      "description": "४ कात्तिक, काठमाडौं । फिल फोडेनको ह्याट्रिकमा म्यानचेस्टर सिटीले युईएफए च्याम्पियन्स लिग अन्तर्गत गएराति भएको लिग चरणको खेलमा एईके एथेन्सलाई ५–१ गोलले पराजित गरेको छ। मंगलबार राति घरेलु मैदानमा भएको खेलमा सिटीले पहिलो हाफमै दुई गोलको अग्रता बनाएको थियो। १२औं मिनेटमा इलियट एन्डरसनले गोल गर्दै सिटीलाई अग्रता दिलाए। ३४औं मिनेटमा फोडेनले रिको लुइसको पासमा गोल […]"
+    },
+    {
+      "id": "41cee8abb2f04152",
+      "title": "आज बडादशैंको मुख्य दिन, टीकाको उत्तम साइत बिहान १०:२६ बजे",
+      "link": "https://newsofnepal.com/2026/10/21/791934/",
+      "source": "News of Nepal",
+      "sourceUrl": "https://newsofnepal.com/feed/",
+      "pubDate": "2026-10-21T01:29:40+00:00",
+      "categories": [
+        "politics",
+        "business",
+        "sports"
+      ],
+      "image": "https://newsofnepal.com/wp-content/uploads/2026/10/Dashain-Tika-Jamara-150x150.jpg",
+      "images": [
+        "https://newsofnepal.com/wp-content/uploads/2026/10/Dashain-Tika-Jamara-150x150.jpg"
+      ],
+      "description": "काठमाडौं । नेपालीहरूको महान् पर्व बडादशैंअन्तर्गत आज विजया दशमी मनाइँदै छ। आज देशभरका नेपालीले मान्यजनबाट टीका, जमरा र आशीर्वाद ग्रहण गरी दशैं मनाउँदैछन्। नेपाल पञ्चांग निर्णायक विकास समितिका अनुसार यस वर्ष टीकाको उत्तम साइत बिहान १० बजेर २६ मिनेटमा रहेको छ। त्यस्तै, देवी विसर्जनको साइत बिहान ८ बजेर ४९ मिनेटमा निर्धारण गरिएको छ। समितिका अध्यक्ष […]"
+    },
+    {
+      "id": "bf75b8afe0503d40",
+      "title": "अभिनेता महेश त्रिपाठीको दशैँ अनुभव- एक पटक पिङबाट लडेर बेहोस भएको थिएँ",
+      "link": "https://nepallive.com/story/330356",
+      "source": "Nepal Live",
+      "sourceUrl": "https://nepallive.com/feed",
+      "pubDate": "2026-10-21T01:26:00+00:00",
+      "categories": [
+        "politics",
+        "technology"
+      ],
+      "image": "",
+      "images": [],
+      "description": "विस्तारै उमेर बढ्दै गयो। ठूलो हुँदै गएपछि दशैँमा हुने रौनकता घट्दै गयो। पहिले जस्तो दशैँ रहेन जस्तो लाग्थ्यो। पछि सोचेँ, दशैँ सधैं उस्तै रहने रहेछ। हामी चाहिँ पहिला जस्तो हुने रहेछौँ। हामीले चाहिँ पहिलेजस्तो रमाइलो गर्न नसक्ने रहेछौँ। जिम्मेवारी बढ्दै गएपछि त्यो अनुभूति हामीमा कम हुने रहेछ।"
+    },
+    {
+      "id": "9d0695cfb37c5fe4",
+      "title": "रूपकी रानी रूपौली !",
+      "link": "https://www.himalkhabar.com/145005",
+      "source": "Himal Khabar",
+      "sourceUrl": "https://himalKhabar.com/feed",
+      "pubDate": "2026-10-21T01:24:36+00:00",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "image": "https://www.himalkhabar.com/uploads/posts/2-1792139105.jpg",
+      "images": [
+        "https://www.himalkhabar.com/uploads/posts/2-1792139105.jpg"
+      ],
+      "description": "रुकुमपूर्वको रूपौली भेगमा अग्ला हिमाल, नीलाम्मे हिमताल, बुकीपाटन र अनौठो भूगोलको बेग्लै आकर्षण छ। प्रकृतिको यही सुन्दरता नजिकबाट नियाल्दै लेखक सुरवीन्द्र के. पुनले गरेको यात्राको अनुभूति, जहाँ हरेक मोडमा नयाँ दृश्य र नयाँ रहस्य भेटिन्छन्।"
+    },
+    {
+      "id": "085c1b10d66e15cc",
+      "title": "बार्सिलोनामाथि पीएसजीको जित",
+      "link": "https://www.onlinekhabar.com/2026/10/2042099/psgs-victory-over-barcelona",
+      "source": "Online Khabar",
+      "sourceUrl": "https://www.onlinekhabar.com/feed",
+      "pubDate": "2026-10-21T01:21:29+00:00",
+      "categories": [
+        "politics",
+        "business",
+        "sports",
+        "technology",
+        "entertainment"
+      ],
+      "image": "",
+      "images": [],
+      "description": "४ कात्तिक, काठमाडौं । युईएफए च्याम्पियन्स लिग फुटबल अन्तर्गत गएराति भएको लिग चरणको खेलमा पेरिस सेन्ट जर्मेन (पीएसजी) ले बार्सिलोनामाथि जित हासिल गरेको छ । मंगलबार राति घरेलु मैदानमा भएको खेलमा फ्रेन्च क्लब पीएसजीले स्पेनिस च्याम्पियनमाथि ४-२ को जित हासिल गरेको हो । पीएसजीले पहिलो हाफमा एक गोल गरेको थियो। ३८औं मिनेटमा डिजायर डुएले जोआओ […]"
+    },
+    {
+      "id": "05f3703852352d8e",
+      "title": "जटिल प्रसूति समस्यामा परेकी १७ वर्षीया महिलाको हवाई उद्धार",
+      "link": "https://nepallive.com/story/352197",
+      "source": "Nepal Live",
+      "sourceUrl": "https://nepallive.com/feed",
+      "pubDate": "2026-10-21T01:20:32+00:00",
+      "categories": [
+        "politics",
+        "technology"
+      ],
+      "image": "",
+      "images": [],
+      "description": ""
+    },
+    {
+      "id": "793dd9d5d22830fd",
+      "title": "मुक्तिनाथ मन्दिरमा दशैंको टीका",
+      "link": "https://www.onlinekhabar.com/2026/10/2042100/dashain-tika-at-muktinath-temple",
+      "source": "Online Khabar",
+      "sourceUrl": "https://www.onlinekhabar.com/feed",
+      "pubDate": "2026-10-21T01:16:25+00:00",
+      "categories": [
+        "politics",
+        "business",
+        "sports",
+        "technology",
+        "entertainment"
+      ],
+      "image": "",
+      "images": [],
+      "description": "४ कात्तिक, मुस्ताङ । हिन्दु तथा बौद्ध धर्मालम्बीहरुको साझा धार्मिक तीर्थस्थलका रुपमा परिचित मुक्तिनाथ मन्दिरमा सर्वसाधारणलाई दशैंको टीका लगाइने भएको छ । मन्दिरका पुजारी कृष्णप्रसाद सुवेदीले दशैंको अवसरमा सर्वसाधारणलाई टीका, जमरा र आर्शीवाद दिने कार्यक्रम रहेको जानकारी दिएका हुन् । विजया दशमीको शुभ साइतको दिन अक्षता रुपी टीका, जमरा लगाएर सर्वसाधारणलाई आशीर्वाद दिइने पुजारी सुवेदीको […]"
+    },
+    {
+      "id": "cc2ad4755bf215c8",
+      "title": "दशैं दक्षिणाबाटै सुरु गर्न सकिन्छ लगानी, यी हुन् उपयुक्त विकल्प",
+      "link": "https://www.onlinekhabar.com/2026/10/2041885/investment-can-be-started-from-dashain-dakshina-these-are-the-suitable-options",
+      "source": "Online Khabar",
+      "sourceUrl": "https://www.onlinekhabar.com/feed",
+      "pubDate": "2026-10-21T01:15:56+00:00",
+      "categories": [
+        "politics",
+        "business",
+        "sports",
+        "technology",
+        "entertainment"
+      ],
+      "image": "",
+      "images": [],
+      "description": "आजको लगानीले नै भविष्यमा ठूलो सम्पत्ति बनाउँछ । तसर्थ, लगानीको बानी विकासका लागि पनि म्युचुअल फन्ड उपयुक्त छन् । लगानीबाट आउने प्रतिफल, त्यो सम्पत्तिको मूल्य वृद्धिजस्ता पक्षबारे बुझ्न म्युचुअल फन्डबाटै सघाउ पुग्छ ।"
+    },
+    {
+      "id": "49ca78f4f2c88170",
+      "title": "“Zelenskyy has to want to settle this war,” says Trump",
+      "link": "https://english.khabarhub.com/2026/21/572737/",
+      "source": "Khabarhub",
+      "sourceUrl": "https://english.khabarhub.com/feed/",
+      "pubDate": "2026-10-21T01:15:54+00:00",
+      "categories": [
+        "politics",
+        "business",
+        "world"
+      ],
+      "image": "",
+      "images": [],
+      "description": "WASHINGTON DC: US President Donald Trump has once again warned that Ukrainian President Volodymyr Zelenskyy must commit to negotiating an end to the war with Moscow, cautioning that a failure to do so will lead to severe consequences. Speaking to reporters in the Oval Office, Trump placed the onus directly on Kyiv to seek a […]"
+    },
+    {
+      "id": "efd59f9622afc9a7",
+      "title": "टीकाको राजनीति",
+      "link": "https://nepalnews.com/2026/10/21/the-politics-of-criticism/",
+      "source": "Nepal News",
+      "sourceUrl": "https://nepalnews.com/feed",
+      "pubDate": "2026-10-21T01:15:06+00:00",
+      "categories": [
+        "politics",
+        "business",
+        "world"
+      ],
+      "image": "https://nepalnews.com/wp-content/uploads/2026/10/SA_Narayanghad-NIMG_5711d-1-768x512-1.jpg",
+      "images": [
+        "https://nepalnews.com/wp-content/uploads/2026/10/SA_Narayanghad-NIMG_5711d-1-768x512-1.jpg",
+        "https://nepalnews.com/wp-content/uploads/2026/10/Gyan-768x512-1.jpg",
+        "https://nepalnews.com/wp-content/uploads/2026/10/President-Bidya-Devi-Bhandari-offers-Dashain-Tika-to-her-kin.jpg",
+        "https://nepalnews.com/wp-content/uploads/2026/10/IMG_5725-1536x1024-1.jpeg",
+        "https://nepalnews.com/wp-content/uploads/2026/10/Ramchandra-3-1.jpg"
+      ],
+      "description": "बर्दियाको राजापुर नगरपालिका-९, तिनघरवामा यस वर्ष दसैँको रौनक छैन। घरघरमा जमरा राखिएको छ, कुलदेवताको पूजा भइरहेको छ। तर गाउँका पाँच परिवार बाढीमा परी सम्पर्कविहीन भएका आफन्तको प्रतीक्षामा छन्। रोजगारीका लागि रसुवा पुगेका उनीहरू गत १० भदौमा आएको भोटेकोशी बाढीमा परेका थिए। प्रदीप थारूकी पत्नी सिर्जना थारू र सुरेश थारूकी पत्नी रमिता थारूका लागि यो दसैँ […]"
+    },
+    {
+      "id": "06ac87c298fbca6b",
+      "title": "गाजा युद्धपछिको पहिलो निर्वाचन : इजरायलको सत्ता कसको हातमा जाला?",
+      "link": "https://www.ratopati.com/story/600660/first-election-after-the-gaza-war-who-will-control-israel",
+      "source": "Ratopati",
+      "sourceUrl": "https://ratopati.com/feed",
+      "pubDate": "2026-10-21T01:15:00+00:00",
+      "categories": [
+        "politics",
+        "sports"
+      ],
+      "image": "https://npcdn.ratopati.com/media/news/israel-election_xxb4Q8Ks6v.webp",
+      "images": [
+        "https://npcdn.ratopati.com/media/news/israel-election_xxb4Q8Ks6v.webp"
+      ],
+      "description": "तेल अभिभ । गाजामा प्यालेस्टिनीहरूमाथिको नरसंहार र लेबनान तथा इरानमाथिको युद्धपछिको पहिलो आम निर्वाचनमा २६औँ नेसेट (संसद्) चुन्न इजरायलीहरू अक्टोबर २७ मा मतदान गर्दैछन्। इजरायलको इतिहासमा सबैभन्दा लामो समय (१९ वर्ष) प्रधानमन्त्री बनेका बेन्जामिन नेतन्याहु भ्रष्टाचारको"
+    },
+    {
+      "id": "d2e253dcab207571",
+      "title": "कुन देशमा कति बजे छ टीकाको साइत ?",
+      "link": "https://nepallive.com/story/352196",
+      "source": "Nepal Live",
+      "sourceUrl": "https://nepallive.com/feed",
+      "pubDate": "2026-10-21T01:14:55+00:00",
+      "categories": [
+        "politics",
+        "technology"
+      ],
+      "image": "",
+      "images": [],
+      "description": ""
+    },
+    {
+      "id": "6fbd6087f17f7dac",
+      "title": "कोसी र गण्डकी प्रदेशका केही स्थानमा हल्का वर्षा र हिमपातको सम्भावना",
+      "link": "https://www.thahakhabar.com/detail/310660",
+      "source": "Thaha Khabar",
+      "sourceUrl": "https://www.thahakhabar.com/feed",
+      "pubDate": "2026-10-21T01:09:50+00:00",
+      "categories": [
+        "politics",
+        "business",
+        "sports"
+      ],
+      "image": "https://www.thahakhabar.com/uploads/posts/badal-1777172733.jpg",
+      "images": [
+        "https://www.thahakhabar.com/uploads/posts/badal-1777172733.jpg"
+      ],
+      "description": ""
+    },
+    {
+      "id": "75106f297d354007",
+      "title": "सन् २०२६ कै शक्तिशाली बन्यो सुपर टाइफुन चम्पी",
+      "link": "https://www.onlinekhabar.com/2026/10/2042093/super-typhoon-champi-becomes-the-most-powerful-of-2026",
+      "source": "Online Khabar",
+      "sourceUrl": "https://www.onlinekhabar.com/feed",
+      "pubDate": "2026-10-21T01:07:07+00:00",
+      "categories": [
+        "politics",
+        "business",
+        "sports",
+        "technology",
+        "entertainment"
+      ],
+      "image": "",
+      "images": [],
+      "description": "चम्पीजस्तो शक्तिशाली आँधीको प्रभावले विश्वका विभिन्न क्षेत्रको मौसम प्रणालीमा पर्न असर पर्न सक्ने अनुमान छ ।"
+    },
+    {
+      "id": "9d47889888941b75",
+      "title": "आज विजया दशमी : नवदुर्गाको प्रसाद मान्यजनको हातबाट ग्रहण गरिँदै",
+      "link": "https://www.thahakhabar.com/detail/310659",
+      "source": "Thaha Khabar",
+      "sourceUrl": "https://www.thahakhabar.com/feed",
+      "pubDate": "2026-10-21T01:04:46+00:00",
+      "categories": [
+        "politics",
+        "business",
+        "sports"
+      ],
+      "image": "https://www.thahakhabar.com/uploads/posts/Jamara-Tika-1792506639.jpg",
+      "images": [
+        "https://www.thahakhabar.com/uploads/posts/Jamara-Tika-1792506639.jpg"
+      ],
+      "description": ""
+    },
+    {
+      "id": "7c6895e6339dae6e",
+      "title": "दलहरू १.० बाट २.० र समाज रूपान्तरणका लागि ३.० को यात्रा",
+      "link": "https://www.nepalviews.com/story/426649/the-journey-from-parties-10-to-20-and-30-for-social-transformation",
+      "source": "Nepal Views",
+      "sourceUrl": "https://www.nepalviews.com/feed/",
+      "pubDate": "2026-10-21T01:00:12+00:00",
+      "categories": [
+        "politics",
+        "business",
+        "technology"
+      ],
+      "image": "https://nepalviews.cdnsolution.net/en/media/setting/banner_FHsSzcWYKk.jpg",
+      "images": [
+        "https://nepalviews.cdnsolution.net/en/media/setting/banner_FHsSzcWYKk.jpg"
+      ],
+      "description": "पार्टीहरूले संविधानको 'समाजवाद' भन्नासाथ केवल उत्पादनका साधनको राज्य स्वामित्व वा पुरानो वर्गीय भाष्य दोहोराएर पुग्दैन । आजको समाजमा प्रश्नहरू बदलिएका छन् । युवाहरूका सोंच फरक छन् ।"
+    },
+    {
+      "id": "6fbe2c50d63da0cf",
+      "title": "बार्सिलानाविरुद्व पीएसजीको रोमाञ्चक जित",
+      "link": "https://baahrakhari.com/detail/505398",
+      "source": "Baahrakhari",
+      "sourceUrl": "https://baahrakhari.com/feed",
+      "pubDate": "2026-10-21T00:58:18+00:00",
+      "categories": [
+        "politics",
+        "business",
+        "society"
+      ],
+      "image": "",
+      "images": [],
+      "description": "लगातार तेस्रो जितसँगै तीन खेलबाट ९ अंक जोडेको पीएसजी शीर्षस्थानमा छ । पहिलो हार व्यहोरेको बार्सिलोना समान खेलबाट ६ अंकका साथ पाँचौँ स्थानमा छ ।"
+    },
+    {
+      "id": "5b5048ea02b2e799",
+      "title": "प्रहरीले आजपनि निःशुल्क बस चलाउने",
+      "link": "https://www.thahakhabar.com/detail/310658",
+      "source": "Thaha Khabar",
+      "sourceUrl": "https://www.thahakhabar.com/feed",
+      "pubDate": "2026-10-21T00:56:54+00:00",
+      "categories": [
+        "politics",
+        "business",
+        "sports"
+      ],
+      "image": "https://www.thahakhabar.com/uploads/posts/rut-1792498552.jpg",
+      "images": [
+        "https://www.thahakhabar.com/uploads/posts/rut-1792498552.jpg"
+      ],
+      "description": ""
+    },
+    {
+      "id": "a1a972890b605c7a",
+      "title": "रसुवा र नुवाकोटका धार्मिक तथा पर्यटकीय क्षेत्र भ्रमणका लागि सुरक्षित",
+      "link": "https://nepalnews.com/2026/10/21/religious-and-tourist-areas-of-rasuwa-and-nuwakot-safe-for-visiting/",
+      "source": "Nepal News",
+      "sourceUrl": "https://nepalnews.com/feed",
+      "pubDate": "2026-10-21T00:56:29+00:00",
+      "categories": [
+        "politics",
+        "business",
+        "world"
+      ],
+      "image": "",
+      "images": [],
+      "description": "रसुवा। भोटेकोशी र त्रिशूली नदीमा भदौमा गएको बाढीका कारण बगे–भत्केका सडक मर्मतसम्भार भएसँगै नदी तटीय क्षेत्रबाहेक अन्यत्रको जनजीवन लयमा फर्केको छ । रसुवा नागरिक समाजका अध्यक्ष बाबुलाल तामाङका अनुसार बाढीले सखाप पारेका रसुवा र नुवाकोट जिल्लाका नदी तटीय क्षेत्रबाहेक अन्यत्रको जनजीवन सामान्यतर्फ फर्केको छ । अहिले त्रिशूली–वेत्रावतीसम्मको सडक यातायात सञ्चालन भएको छ भने शाखा सडकहरू […]"
+    },
+    {
+      "id": "224b57b3d9964441",
+      "title": "अमेरिकी गुप्तचर सूचना आदानप्रदान पुनः सुरु भएको जेलेन्स्कीको भनाइ",
+      "link": "https://baahrakhari.com/detail/505397",
+      "source": "Baahrakhari",
+      "sourceUrl": "https://baahrakhari.com/feed",
+      "pubDate": "2026-10-21T00:49:52+00:00",
+      "categories": [
+        "politics",
+        "business",
+        "society"
+      ],
+      "image": "",
+      "images": [],
+      "description": ""
+    },
+    {
+      "id": "c930e1654315169a",
+      "title": "पहाडी क्षेत्रमा बदली, केही स्थानमा वर्षा र हिमपातको सम्भावना",
+      "link": "https://newsofnepal.com/2026/10/21/791932/",
+      "source": "News of Nepal",
+      "sourceUrl": "https://newsofnepal.com/feed/",
+      "pubDate": "2026-10-21T00:47:52+00:00",
+      "categories": [
+        "politics",
+        "business",
+        "sports"
+      ],
+      "image": "https://newsofnepal.com/wp-content/uploads/2026/02/mausam-150x150.jpg",
+      "images": [
+        "https://newsofnepal.com/wp-content/uploads/2026/02/mausam-150x150.jpg"
+      ],
+      "description": "काठमाडौँ। देशमा पश्चिमी वायुको आंशिक प्रभावका कारण हिमाली र पहाडी भू-भागमा आंशिक बदली रहेको छ भने तराईमा मौसम मुख्यतया सफा रहेको छ। मौसम पूर्वानुमान महाशाखाका अनुसार बुधबार हिमाली तथा पहाडी क्षेत्रमा आंशिक बदली रहनेछ। कोशी र गण्डकी प्रदेशका पहाडी भू-भागसहित हिमाली क्षेत्रका एक-दुई स्थानमा हल्का वर्षा र हिमपात हुन सक्ने सम्भावना रहेको छ।"
+    },
+    {
+      "id": "33521059e772d959",
+      "title": "कति छ डलरको भाउ?",
+      "link": "https://himalpress.com/2026/10/how-much-is-the-dollar-worth-42/",
+      "source": "Himal Press",
+      "sourceUrl": "https://himalpress.com/feed/",
+      "pubDate": "2026-10-21T00:46:48+00:00",
+      "categories": [
+        "politics",
+        "business",
+        "society"
+      ],
+      "image": "",
+      "images": [],
+      "description": "काठमाडौँ– नेपाल राष्ट्र बैंकले आज कात्तिक ४ गते (अक्टोबर २१) का लागि विदेशी मुद्राहरूको विनिमयदर तोकेको छ। राष्ट्र बैंकले आजका लागि पनि अमेरिकी डलर १ को खरिददर १५१ रुपैयाँ ५९ पैसा कायम गरेको छ भने बिक्रीदर १५२ रुपैयाँ १९ पैसा तोकेको छ। यस्तै आज साउदी अरेबियन रियालको मूल्य पनि मंगलबारजस्तै १ को खरिददर ४० रुपैयाँ […]"
+    },
+    {
+      "id": "28b5b4526352b160",
+      "title": "आज विजया दशमी, बिहान १०:२६ बजे टीकाको उत्तम साइत",
+      "link": "https://www.nepalviews.com/story/426985/today-is-vijaya-dashami-1026-am-is-the-best-time-for-tika",
+      "source": "Nepal Views",
+      "sourceUrl": "https://www.nepalviews.com/feed/",
+      "pubDate": "2026-10-21T00:41:56+00:00",
+      "categories": [
+        "politics",
+        "business",
+        "technology"
+      ],
+      "image": "https://nepalviews.cdnsolution.net/en/media/setting/banner_FHsSzcWYKk.jpg",
+      "images": [
+        "https://nepalviews.cdnsolution.net/en/media/setting/banner_FHsSzcWYKk.jpg"
+      ],
+      "description": ""
+    },
+    {
+      "id": "d5648f18454a917d",
+      "title": "अमेरिकी डलरको भाउ स्थिर, युरो र पाउन्डको मूल्य बढ्यो",
+      "link": "https://nepalnews.com/2026/10/21/us-dollar-stable-euro-and-pound-rise/",
+      "source": "Nepal News",
+      "sourceUrl": "https://nepalnews.com/feed",
+      "pubDate": "2026-10-21T00:41:52+00:00",
+      "categories": [
+        "politics",
+        "business",
+        "world"
+      ],
+      "image": "",
+      "images": [],
+      "description": "काठमाडौं। नेपाल राष्ट्र बैंकले आज कात्तिक ४ गतेका लागि विदेशी मुद्राको विनिमय दर सार्वजनिक गरेको छ। आज अमेरिकी डलर, चिनियाँ युआन र साउदी अरेबियन रियालको मूल्य स्थिर रहेको छ भने युरो, पाउन्ड र अस्ट्रेलियन डलरको भाउमा सामान्य वृद्धि भएको छ। राष्ट्र बैंकका अनुसार आज अमेरिकी डलरको खरिददर १५१ रुपैयाँ ५९ पैसा र बिक्रीदर १५२ रुपैयाँ […]"
+    },
+    {
+      "id": "fa6394595a46a249",
+      "title": "Nepal’s Next Growth Story Could Be Built on Finance",
+      "link": "https://english.khabarhub.com/2026/21/572598/",
+      "source": "Khabarhub",
+      "sourceUrl": "https://english.khabarhub.com/feed/",
+      "pubDate": "2026-10-21T00:40:28+00:00",
+      "categories": [
+        "politics",
+        "business",
+        "world"
+      ],
+      "image": "",
+      "images": [],
+      "description": "Nepal’s economic future is often discussed in terms of hydropower, tourism, agriculture, infrastructure and technology. Yet there is another sector that could determine whether these opportunities become engines of prosperity: finance. Nepal’s challenge is not simply a shortage of money. It is also a shortage of effective ways to turn available financial resources into productive […]"
+    },
+    {
+      "id": "3522e37f97f82773",
+      "title": "दसैँले सामाजिक एकता र मेलमिलाप बढाउँछ : सभामुख अर्याल",
+      "link": "https://nepalnews.com/2026/10/21/dashain-promotes-social-unity-and-harmony-speaker-aryal/",
+      "source": "Nepal News",
+      "sourceUrl": "https://nepalnews.com/feed",
+      "pubDate": "2026-10-21T00:40:26+00:00",
+      "categories": [
+        "politics",
+        "business",
+        "world"
+      ],
+      "image": "",
+      "images": [],
+      "description": "काठमाडौं। प्रतिनिधिसभाका सभामुख डोलप्रसाद (डीपी) अर्यालले दसैँ जस्ता चाडपर्वले नेपालीहरूबीच पारस्परिक मेलमिलाप, भातृत्व र सामाजिक एकतालाई थप मजबुत बनाउने बताएका छन्। बडा दसैँका अवसरमा शुभकामना सन्देश दिँदै उनले विविधताबीचको सौहार्द एकतालाई मूर्त रूप प्रदान गर्न यस्ता पर्वको भूमिका महत्त्वपूर्ण हुने उल्लेख गरेका छन्। सभामुख अर्यालले विश्वभर रहेका सम्पूर्ण नेपालीमा सुख, शान्ति, समृद्धि, सुस्वास्थ्य र दीर्घायुको […]"
+    },
+    {
+      "id": "02040c042d2ac788",
+      "title": "आज विजयादशमी : मान्यजनबाट टीका, जमरा लाइँदै, आशीर्वाद लिइँदै",
+      "link": "https://himalpress.com/2026/10/today-is-vijayadashami-offering-tika-jamara-blessings-from-relatives/",
+      "source": "Himal Press",
+      "sourceUrl": "https://himalpress.com/feed/",
+      "pubDate": "2026-10-21T00:39:04+00:00",
+      "categories": [
+        "politics",
+        "business",
+        "society"
+      ],
+      "image": "",
+      "images": [],
+      "description": "काठमाडौँ- बडादसैँ अर्थात् दुर्गापक्षको मुख्य दिन आज मान्यजनको हातबाट नवदुर्गाको प्रसादका रुपमा शुभसाइतको प्रतीक रातो टीका एवं समृद्धिको प्रतीक जमरा लगाइँदै छ । दसैँ घर वा पूजा कोठामा नौ दिनसम्म पूजा आराधना गरिएको प्रसाद आज मान्यजनबाट लगाइन्छ । टीका प्रसाद ग्रहण गर्न साइत खोज्नेका लागि नेपाल पञ्चांग निर्णायक विकास समितिले आज बिहान १०ः२६ बजेको साइत […]"
+    },
+    {
+      "id": "c998493d76d63cb8",
+      "title": "नवदुर्गाको प्रसादस्वरुप टीका र जमरा लगाएर आज विजयादशमी मनाइँदै, शुभ साइत बिहान १०:३६ बजे",
+      "link": "https://bizmandu.com/content/20261021062257.html",
+      "source": "Bizmandu",
+      "sourceUrl": "https://bizmandu.com/feed",
+      "pubDate": "2026-10-21T00:37:57+00:00",
+      "categories": [
+        "business",
+        "technology"
+      ],
+      "image": "",
+      "images": [],
+      "description": "काठमाडौं। आज विजया दशमी। नवदुर्गाको प्रसादका रूपमा आज मान्यजनको हातबाट शुभ साइतको प्रतीक रातो टीका एवं समृद्धिको प्रतीक जमरा लगाइँदैछ। दसैं घर वा पूजा कोठामा नौ दिनसम्म पूजा आराधना गरिएको प्रसाद आज मान्यजनबाट लगाइन्छ। टीका प्रसाद ग्रहण गर्न साइत खोज्नेका लागि नेपाल पञ्चाङ्ग निर्णायक विकास समितिले आज बिहान १०:२६ बजेको साइत उत्तम रहेको जनाएको छ। […] The post नवदुर्गाको प्रसादस्वरुप टीका र जमरा लगाएर आज विजयादशमी मनाइँदै, शुभ साइत बिहान १०:३६ बजे appeared first on BIZMANDU ."
+    },
+    {
+      "id": "38a1b30c22d7fae1",
+      "title": "के फ्रान्सको आर्थिक संकट अमेरिकामा पनि दोहोरिन सक्छ ?",
+      "link": "https://www.ratopati.com/story/600713/could-frances-economic-crisis-be-repeated-in-the-us",
+      "source": "Ratopati",
+      "sourceUrl": "https://ratopati.com/feed",
+      "pubDate": "2026-10-21T00:36:59+00:00",
+      "categories": [
+        "politics",
+        "sports"
+      ],
+      "image": "https://npcdn.ratopati.com/media/news/france-aarthik_09YHzi8WaH.webp",
+      "images": [
+        "https://npcdn.ratopati.com/media/news/france-aarthik_09YHzi8WaH.webp"
+      ],
+      "description": "अमेरिकामा तत्काल फ्रान्सकै जस्तो संकट आउने सम्भावना कम भए पनि ऋणको बढ्दो भार, ब्याज खर्च र ऋण सीमा बढाउने विषयमा हुने राजनीतिक संघर्षले भविष्यमा गम्भीर चुनौती सिर्जना गर्न सक्छ । युरोपका धेरै देशमा सामाजिक सुरक्षा, पेन्सन"
+    },
+    {
+      "id": "665b8e1ca96f8e6f",
+      "title": "विजया दशमीमा शिरमा सिउरिने जमरामा पाइन्छ शरीरलाई आवश्यक पोषक तत्त्व",
+      "link": "https://www.thahakhabar.com/detail/310648",
+      "source": "Thaha Khabar",
+      "sourceUrl": "https://www.thahakhabar.com/feed",
+      "pubDate": "2026-10-21T00:35:27+00:00",
+      "categories": [
+        "politics",
+        "business",
+        "sports"
+      ],
+      "image": "https://www.thahakhabar.com/uploads/posts/jamaras-1792505605.jpg",
+      "images": [
+        "https://www.thahakhabar.com/uploads/posts/jamaras-1792505605.jpg"
+      ],
+      "description": ""
+    },
+    {
+      "id": "34caca34318ad479",
+      "title": "कामको ज्याला रोकिँदा मजदुरको धादिङबेसीमा बिचल्ली, स्थानीयको सहारामा काट्दै छन् दसैं",
+      "link": "https://www.nepalviews.com/story/426984/workers-in-dhadingbesi-face-hardship-as-wages-are-stopped-spending-dashain-with-the-support-of-locals",
+      "source": "Nepal Views",
+      "sourceUrl": "https://www.nepalviews.com/feed/",
+      "pubDate": "2026-10-21T00:31:52+00:00",
+      "categories": [
+        "politics",
+        "business",
+        "technology"
+      ],
+      "image": "https://nepalviews.cdnsolution.net/en/media/setting/banner_FHsSzcWYKk.jpg",
+      "images": [
+        "https://nepalviews.cdnsolution.net/en/media/setting/banner_FHsSzcWYKk.jpg"
+      ],
+      "description": ""
+    },
+    {
+      "id": "c72b152c50409d3d",
+      "title": "दसैँको टीकाका दिन आज : कस्तो रहला मौसम?",
+      "link": "https://himalpress.com/2026/10/today-is-dashain-tika-day-how-was-the-weather/",
+      "source": "Himal Press",
+      "sourceUrl": "https://himalpress.com/feed/",
+      "pubDate": "2026-10-21T00:31:09+00:00",
+      "categories": [
+        "politics",
+        "business",
+        "society"
+      ],
+      "image": "",
+      "images": [],
+      "description": "काठमाडौँ– हाल देशमा पश्चिमी वायुको आंशिक प्रभाव रहेको जल तथा मौसम विज्ञान विभाग, मौसम पूर्वानुमान महाशाखाले जनाएको छ। अहिले देशका हिमाली र पहाडी भू-भागमा आंशिक बादल लागेको छ। तराई भू-भागमा भने मौसम मुख्यतया सफा रहेको महाशाखाले जनाएको छ। बुधबार देशको हिमाली र पहाडी भू-भागमा आंशिक बादल लाग्नेछ भने तराई भू-भागमा मौसम मुख्यतया सफा रहनेछ। यसैगरी […]"
+    },
+    {
+      "id": "6d97f0064681cb9c",
+      "title": "आज दशैंको टीका, उत्तम साइत १०:२६ बजे",
+      "link": "https://nepallive.com/story/352195",
+      "source": "Nepal Live",
+      "sourceUrl": "https://nepallive.com/feed",
+      "pubDate": "2026-10-21T00:31:00+00:00",
+      "categories": [
+        "politics",
+        "technology"
+      ],
+      "image": "",
+      "images": [],
+      "description": ""
+    },
+    {
+      "id": "00daf7ceb0c27e87",
+      "title": "काठमाडौंमा आज प्रहरीले यी रुटमा चलाउँदै छ निःशुल्क बस",
+      "link": "https://baahrakhari.com/detail/505396",
+      "source": "Baahrakhari",
+      "sourceUrl": "https://baahrakhari.com/feed",
+      "pubDate": "2026-10-21T00:28:09+00:00",
+      "categories": [
+        "politics",
+        "business",
+        "society"
+      ],
+      "image": "",
+      "images": [],
+      "description": ""
+    },
+    {
+      "id": "2fe0b289fad93309",
+      "title": "दार्चुलाको हुति गाउँको अनौठो हरिण जात्रा",
+      "link": "https://www.ratopati.com/story/600712/the-unique-deer-festival-of-huti-village-in-darchula",
+      "source": "Ratopati",
+      "sourceUrl": "https://ratopati.com/feed",
+      "pubDate": "2026-10-21T00:25:00+00:00",
+      "categories": [
+        "politics",
+        "sports"
+      ],
+      "image": "https://npcdn.ratopati.com/media/news/harin-jatra-2_TF5YxjUtyd.webp",
+      "images": [
+        "https://npcdn.ratopati.com/media/news/harin-jatra-2_TF5YxjUtyd.webp"
+      ],
+      "description": "दार्चुला । हिमालको काख, महाकालीको तट र पुस्तौँदेखि हस्तान्तरण हुँदै आएको धार्मिक आस्थाको जगमा उभिएको अद्भुत सांस्कृतिक परम्परा ‘हरिण जात्रा’ सुदूरपश्चिमको एक विशिष्ट पहिचान हो। सुदूरपश्चिमको दार्चुलास्थित ब्यास गाउँपालिका–६, हुति गाउँमा हरेक वर्ष विजयादशमी अर्थात् टीकाको दिन"
+    },
+    {
+      "id": "f8b314c2dd402268",
+      "title": "कार्तिक ४ गते बुधबार ,यस्तो छ तपाईंको राशिफल",
+      "link": "https://newsofnepal.com/2026/10/21/791930/",
+      "source": "News of Nepal",
+      "sourceUrl": "https://newsofnepal.com/feed/",
+      "pubDate": "2026-10-21T00:24:59+00:00",
+      "categories": [
+        "politics",
+        "business",
+        "sports"
+      ],
+      "image": "https://newsofnepal.com/wp-content/uploads/2021/12/Rashifal-150x150.jpg",
+      "images": [
+        "https://newsofnepal.com/wp-content/uploads/2021/12/Rashifal-150x150.jpg"
+      ],
+      "description": "मेष : समय अनुकूल छ । द्रव्य लाभ, परिवार–सुख, उत्तम भोजनको अवसर मिल्नेछ । वृष : तपाईंका लागि दिन शुभ छ । कार्य सिद्धि, स्वस्थता, सुखानुभूति हुने देखिन्छ । मिथुन : समय अनुकूल भएकाले राज्य सुख, यश–कीर्ति, मांगलिक यात्राको सम्भावना छ । कर्कट : सजग रहनुहोला । रोगको सम्भावना, धन हानि, बाधा–व्यवधान आउन सक्छ । […]"
+    },
+    {
+      "id": "8a92a714ea5527f6",
+      "title": "टीका लगाउँदा कता फर्किने ? टीका लगाउनुअघि केके गर्ने ?",
+      "link": "https://www.onlinekhabar.com/2026/10/2042037/where-should-i-go-after-getting-vaccinated-what-should-i-do-before-getting-vaccinated",
+      "source": "Online Khabar",
+      "sourceUrl": "https://www.onlinekhabar.com/feed",
+      "pubDate": "2026-10-21T00:17:38+00:00",
+      "categories": [
+        "politics",
+        "business",
+        "sports",
+        "technology",
+        "entertainment"
+      ],
+      "image": "",
+      "images": [],
+      "description": "नेपाल पञ्चांग निर्णायक विकास समितिका अनुसार आज बिहान ८ बजेर ४९ मिनेटमा देवी विसर्जन गरेपछि टीका लगाउन सकिन्छ । तर उत्तम साइत खोज्नेहरुका लागि समितिले १० बजेर २६ मिनेट तोकिदिएको छ ।"
+    },
+    {
+      "id": "d55950a9eba51dc9",
+      "title": "टेस्ला र स्पेसएक्स गाभ्ने मस्कको तयारी, दुवै कम्पनीमा विशेष समिति गठन",
+      "link": "https://www.onlinekhabar.com/2026/10/2042090/musk-prepares-to-merge-tesla-and-spacex-forms-special-committees-in-both-companies",
+      "source": "Online Khabar",
+      "sourceUrl": "https://www.onlinekhabar.com/feed",
+      "pubDate": "2026-10-21T00:15:52+00:00",
+      "categories": [
+        "politics",
+        "business",
+        "sports",
+        "technology",
+        "entertainment"
+      ],
+      "image": "",
+      "images": [],
+      "description": "मंगलबार स्पेसएक्सको त्रैमासिक व्यावसायिक नतिजाबारे वित्तीय विश्लेषकहरूसँग भएको छलफलका क्रममा मस्कले टेस्ला र स्पेसएक्सबीचको सम्भावित एकीकरणबारे आफ्नो धारणा सार्वजनिक गरेका हुन् ।"
+    },
+    {
+      "id": "2219fcc52278c877",
+      "title": "Bijaya Dashami being celebrated today",
+      "link": "https://english.khabarhub.com/2026/21/572719/",
+      "source": "Khabarhub",
+      "sourceUrl": "https://english.khabarhub.com/feed/",
+      "pubDate": "2026-10-21T00:15:36+00:00",
+      "categories": [
+        "politics",
+        "business",
+        "world"
+      ],
+      "image": "",
+      "images": [],
+      "description": "KATHMANDU: The 10th day of the Bada Dashain festival, Bijaya Dashami, is being celebrated across the country today with great enthusiasm as people receive tika, jamara and blessings from their elders. Red tika symbolizes good fortune and victory, while jamara represents prosperity. Both are regarded as auspicious offerings and blessings of Goddess Nawadurga. According to […]"
+    },
+    {
+      "id": "174bfb80a7f1d2f4",
+      "title": "सत्यको विजयको प्रतीक पाटनको ऐतिहासिक मानमानेश्वरी पायः जात्रा",
+      "link": "https://www.ratopati.com/story/600709/patans-historic-manmaneshwari-paya-jatra-a-symbol-of-the-victory-of-truth",
+      "source": "Ratopati",
+      "sourceUrl": "https://ratopati.com/feed",
+      "pubDate": "2026-10-20T23:59:59+00:00",
+      "categories": [
+        "politics",
+        "sports"
+      ],
+      "image": "https://npcdn.ratopati.com/media/news/VIyA4vYaJ9.jpg",
+      "images": [
+        "https://npcdn.ratopati.com/media/news/VIyA4vYaJ9.jpg"
+      ],
+      "description": "ललितपुर। महानवमीको अवसरमा ललितपुरको पाटनमा परम्परागत ‘पायः जात्रा’ अर्थात् खड्ग जात्रा हर्षोल्लासका साथ मनाइएको छ। आसुरी प्रवृत्तिको प्रतीकमाथि सत्यको विजय भएको सम्झनामा प्रत्येक वर्ष महानवमीको दिन यो जात्रा मनाउने परम्परा रहिआएको छ। मानमानेश्वरी पायो जात्रा व्यवस्थापन"
+    },
+    {
+      "id": "505cfe9995faf3af",
+      "title": "कस्तो रहनेछ आजको मौसम ?",
+      "link": "https://www.ratopati.com/story/600707/what-will-the-weather-be-like-today",
+      "source": "Ratopati",
+      "sourceUrl": "https://ratopati.com/feed",
+      "pubDate": "2026-10-20T23:52:52+00:00",
+      "categories": [
+        "politics",
+        "sports"
+      ],
+      "image": "https://npcdn.ratopati.com/media/news/kathmandu-weather_npl-(4)_bwmLIOJRof.jpg",
+      "images": [
+        "https://npcdn.ratopati.com/media/news/kathmandu-weather_npl-(4)_bwmLIOJRof.jpg"
+      ],
+      "description": "काठमाडौँ। हाल देशमा पश्चिमी वायुको आंशिक प्रभाव रहेको जल तथा मौसम विज्ञान विभाग, मौसम पूर्वानुमान महाशाखाले जनाएको छ। अहिले देशका हिमाली र पहाडी भू-भागमा आंशिक बादल लागेको छ। तराई भू-भागमा भने मौसम मुख्यतया सफा रहेको महाशाखाले"
+    },
+    {
+      "id": "59cac0a6303332f4",
+      "title": "Dashain Tika to be offered to devotees at Muktinath Temple",
+      "link": "https://english.khabarhub.com/2026/21/572723/",
+      "source": "Khabarhub",
+      "sourceUrl": "https://english.khabarhub.com/feed/",
+      "pubDate": "2026-10-20T23:45:53+00:00",
+      "categories": [
+        "politics",
+        "business",
+        "world"
+      ],
+      "image": "",
+      "images": [],
+      "description": "MUSTANG: Devotees will be offered Dashain tika, jamara and blessings at Muktinath Temple, a sacred pilgrimage site for both Hindus and Buddhists, on the occasion of Bijaya Dashami today. Temple priest Krishna Prasad Subedi said arrangements have been made to offer tika, jamara and blessings to the general public as part of the Dashain celebrations. […]"
+    },
+    {
+      "id": "3655f0c6975d1fa8",
+      "title": "बडा दशैंको मुख्य दिन आज, उत्तम साइत बिहान १०ः२६ बजे",
+      "link": "https://nepalnews.com/2026/10/21/the-main-day-of-bada-dashain-is-today-at-1026-am-at-uttam-sait/",
+      "source": "Nepal News",
+      "sourceUrl": "https://nepalnews.com/feed",
+      "pubDate": "2026-10-20T23:43:12+00:00",
+      "categories": [
+        "politics",
+        "business",
+        "world"
+      ],
+      "image": "",
+      "images": [],
+      "description": "काठमाडौँ। बडादशैं अर्थात् दुर्गापक्षको मुख्य दिन आज मान्यजनको हातबाट नवदुर्गाको प्रसादका रुपमा शुभ साइतको प्रतीक रातो टीका एवं समृद्धिको प्रतीक जमरा लगाइँदै छ । दशैं घर वा पूजा कोठामा नौ दिनसम्म पूजा आराधना गरिएको देवीको प्रसाद आज मान्यजनबाट लगाइन्छ । टीका प्रसाद ग्रहण गर्न साइत खोज्नेका लागि नेपाल पञ्चाङ्ग निर्णायक विकास समितिले आज बिहान १०ः२६ […]"
+    },
+    {
+      "id": "dee0beaf386f626d",
+      "title": "तराईदेखि हिमालसम्म: यी हुन् दशैं बिदामा घुम्न सकिने ८ गन्तव्य",
+      "link": "https://nepallive.com/story/330409",
+      "source": "Nepal Live",
+      "sourceUrl": "https://nepallive.com/feed",
+      "pubDate": "2026-10-20T23:34:00+00:00",
+      "categories": [
+        "politics",
+        "technology"
+      ],
+      "image": "",
+      "images": [],
+      "description": "करिब एक साताको दशैं बिदामा दूधकुण्ड ताल, कन्चनजंगा बेस क्याम्प, लाङटाङ, अन्नपूर्ण, लगायतका ठाउँ उपयुक्त गन्तव्य हुन सक्छन्। दशैं बिदामा यीमध्ये कुनै एक गन्तव्यमा सजिलै घुमघाम गर्न सकिन्छ।"
+    },
+    {
+      "id": "b6e16e243125b5a9",
+      "title": "फ्रान्समा फेरि प्रदर्शनको तयारी, सुरक्षाका लागि सेनासमेत परिचालन गरिने",
+      "link": "https://www.ratopati.com/story/600704/preparations-for-another-demonstration-in-france-including-the-mobilization-of-the-army-for-security",
+      "source": "Ratopati",
+      "sourceUrl": "https://ratopati.com/feed",
+      "pubDate": "2026-10-20T23:29:47+00:00",
+      "categories": [
+        "politics",
+        "sports"
+      ],
+      "image": "https://npcdn.ratopati.com/media/news/france-protest_4ZexUZUE08.webp",
+      "images": [
+        "https://npcdn.ratopati.com/media/news/france-protest_4ZexUZUE08.webp"
+      ],
+      "description": "पेरिस। फ्रान्स सरकारले अक्टोबर १७ मा भएको हिंसा र लुटपाट नियन्त्रण गर्न नसकेको स्वीकार गर्दै आगामी शनिबार हुने प्रदर्शनका लागि प्रहरीसँगै सेना पनि परिचालन गर्ने भएको छ। प्रधानमन्त्री सेबास्टियन लेकोर्नुले मङ्गलबार आगामी शनिबार व्यापक सुरक्षा"
+    },
+    {
+      "id": "c01e0ed355ab5acb",
+      "title": "यस वर्ष दसैँकाे उत्तम साइत १०:२६ बजे",
+      "link": "https://www.ratopati.com/story/600703/the-best-time-for-dashain-this-year-is-1026-am",
+      "source": "Ratopati",
+      "sourceUrl": "https://ratopati.com/feed",
+      "pubDate": "2026-10-20T23:18:19+00:00",
+      "categories": [
+        "politics",
+        "sports"
+      ],
+      "image": "https://rpcdn.ratopati.com/media/albums/dashain_tika_17_5tJRBNgxJD.jpg",
+      "images": [
+        "https://rpcdn.ratopati.com/media/albums/dashain_tika_17_5tJRBNgxJD.jpg"
+      ],
+      "description": "काठमाडौँ । यस वर्ष विजया दशमीको साइत कात्तिक ४ गते बुधबार बिहान १०ः२६ बजे उत्तम रहेको नेपाल पञ्चाङ्ग निर्णायक विकास समितिले जनाएको छ । त्यस दिन बिहान ०८ः४९ बजे देवी विसर्जन गरी १०ः२६ बजेको शुभ साइतमा"
+    },
+    {
+      "id": "dd91f0189fa1b8d9",
+      "title": "जनमतसंग्रह : अल्बर्टा क्यानडामै रहने पक्षमा दुईतिहाइभन्दा बढी मत",
+      "link": "https://www.onlinekhabar.com/2026/10/2042086/referendum-more-than-two-thirds-of-alberta-votes-to-remain-in-canada",
+      "source": "Online Khabar",
+      "sourceUrl": "https://www.onlinekhabar.com/feed",
+      "pubDate": "2026-10-20T23:15:49+00:00",
+      "categories": [
+        "politics",
+        "business",
+        "sports",
+        "technology",
+        "entertainment"
+      ],
+      "image": "",
+      "images": [],
+      "description": "अल्बर्टा प्रान्तलाई देशबाट अलग गर्ने प्रस्तावको विपक्षमा दुईतिहाइभन्दा बढी मतदाता उभिएपछि क्यानडाका प्रधानमन्त्री मार्क कार्नीलाई राष्ट्रिय एकता कायम राख्ने अभियानमा राजनीतिक बल मिलेको छ ।"
+    },
+    {
+      "id": "3b29c9ba72c166a8",
+      "title": "कुन राशिलाई शुभ, कुनलाई मध्यम ? हेर्नुहाेस आजको राशिफल",
+      "link": "https://www.ratopati.com/story/600701/which-zodiac-sign-is-auspicious-which-is-average-check-out-todays-horoscope",
+      "source": "Ratopati",
+      "sourceUrl": "https://ratopati.com/feed",
+      "pubDate": "2026-10-20T23:15:00+00:00",
+      "categories": [
+        "politics",
+        "sports"
+      ],
+      "image": "https://npcdn.ratopati.com/media/news/horoscope_XkWmpVM1yU.jpg",
+      "images": [
+        "https://npcdn.ratopati.com/media/news/horoscope_XkWmpVM1yU.jpg"
+      ],
+      "description": "आजको पञ्चाङ्ग वि.सं.२०८३ साल कार्तिक ४ गते । बुधबार । इस्वी सन् २०२६ अक्टोबर २१ तारिख । नेपाल संवत् ११४६ । रौद्र संवत्सर । दक्षिणायन । शरद ऋतु । श्रीशाके १९४८ । आश्विन शुक्लपक्ष । तिथि–दशमी,"
+    },
+    {
+      "id": "124a3ac8659cd904",
+      "title": "आज विजयादशमी : कुन दिशा फर्केर लगाउने टीका ? यस्तो छ शुभ साइत र धार्मिक विधि",
+      "link": "https://www.ratopati.com/story/600700/today-is-vijayadashami-which-direction-should-the-tika-be-placed-facing-here-are-the-auspicious-dates-and-religious-rituals",
+      "source": "Ratopati",
+      "sourceUrl": "https://ratopati.com/feed",
+      "pubDate": "2026-10-20T23:15:00+00:00",
+      "categories": [
+        "politics",
+        "sports"
+      ],
+      "image": "https://rpcdn.ratopati.com/media/albums/dashain_tika_4_8MP2OPFJBW.jpg",
+      "images": [
+        "https://rpcdn.ratopati.com/media/albums/dashain_tika_4_8MP2OPFJBW.jpg"
+      ],
+      "description": "काठमाडौँ । नेपालीहरूको महान् चाड बडादसैँको मुख्य दिन आज विजयादशमी, मान्यजनको हातबाट नवदुर्गा भवानीको प्रसाद स्वरूप रातो टीका र समृद्धिको प्रतीक पहेँलो जमरा ग्रहण गरी हर्षोल्लासका साथ मनाइँदै छ । नेपाल पञ्चाङ्ग निर्णायक विकास समितिका अनुसार"
+    },
     {
       "id": "301484efde6995a1",
       "title": "दसैँले पारस्परिक मेलमिलाप, भातृत्व र सामाजिक एकतालाई थप मजबुत बनाउँछ : सभामुख अर्याल",
@@ -244,22 +1155,6 @@
       "description": "काठमाडौँ । इजरायली सेनाले पछिल्ला साताहरूमा दक्षिण लेबनानमा गरेको सैन्य कारबाहीका क्रममा हिजबुल्लाहका ५४० भन्दा बढी पूर्वाधार स्थल ध्वस्त पारेको जनाएको छ । त्यस्तै, गाजा पट्टीमा हमासका तीन हतियार भण्डारण केन्द्रमा आक्रमण गरी नष्ट गरिएको सेनाले"
     },
     {
-      "id": "988d31fae1dd7732",
-      "title": "पाकिस्तानका पूर्वप्रधानमन्त्री इमरान खानले देश छाड्दै छन् ?",
-      "link": "https://baahrakhari.com/detail/505393",
-      "source": "Baahrakhari",
-      "sourceUrl": "https://baahrakhari.com/feed",
-      "pubDate": "2026-10-20T16:19:15+00:00",
-      "categories": [
-        "politics",
-        "business",
-        "society"
-      ],
-      "image": "",
-      "images": [],
-      "description": ""
-    },
-    {
       "id": "9aa06b84ac7e1ec8",
       "title": "१० बजे १० समाचार : कांग्रेसको विभाजन यात्रा, किन फस्टाउन सकेन नेपालमा ‘ओटीटी’ प्लेटफर्म ?",
       "link": "https://www.ratopati.com/story/600688/10-news-at-10-congresss-journey-of-division-why-couldnt-the-ott-platform-flourish-in-nepal",
@@ -291,40 +1186,6 @@
       "image": "",
       "images": [],
       "description": "KATHMANDU: Khabarhub brings you a glimpse of major developments of the day in Nepal, including politics, business/economy, sports, entertainment, and more. Khandbari-Kimathanka road reopens after landslide clearance The Khandbari-Kimathanka road has resumed operation after the Nepali Army helped clear a major landslide that had blocked the route for three months. The road, which connects Nepal’s […]"
-    },
-    {
-      "id": "afbb9550b1a2aaaf",
-      "title": "सम्पर्कविहीन दुई जापानी पर्वतारोहीको खोजी जारी",
-      "link": "https://www.thahakhabar.com/detail/310656",
-      "source": "Thaha Khabar",
-      "sourceUrl": "https://www.thahakhabar.com/feed",
-      "pubDate": "2026-10-20T16:11:19+00:00",
-      "categories": [
-        "politics",
-        "business",
-        "sports"
-      ],
-      "image": "https://www.thahakhabar.com/uploads/posts/bepatta-1768658262.jpg",
-      "images": [
-        "https://www.thahakhabar.com/uploads/posts/bepatta-1768658262.jpg"
-      ],
-      "description": ""
-    },
-    {
-      "id": "fc501ffefde0cc30",
-      "title": "क्रिकेट टोली",
-      "link": "https://baahrakhari.com/detail/505389",
-      "source": "Baahrakhari",
-      "sourceUrl": "https://baahrakhari.com/feed",
-      "pubDate": "2026-10-20T16:10:04+00:00",
-      "categories": [
-        "politics",
-        "business",
-        "society"
-      ],
-      "image": "",
-      "images": [],
-      "description": ""
     },
     {
       "id": "72acbe6697dd9a0f",
@@ -361,6 +1222,23 @@
       "description": "काठमाडौं।दशैंको मुखमा चितवनको इच्छाकामना गाउँपालिका–७ का भूमिहीनले आफ्नै नाममा जग्गाधनी प्रमाणपुर्जा पाएपछि उनीहरूको खुसीको सीमा रहेन । वर्षौंदेखि आफू बसोबास गर्दै आएको जमिनबाट कतै हट्नुपर्ने हो कि भन्ने चिन्ता बोकेर जीवन बिताएका उनीहरूका लागि यसपटकको दशैं खुसीसँगै सुरक्षित भविष्यको आशा लिएर आएको छ । रातो खोलभित्र राखिएको प्रमाणपुर्जामा आफ्नो नाम र तस्बिर देख्दा उनीहरूका लागि […]"
     },
     {
+      "id": "12ad9a7fd10764ec",
+      "title": "सम्पर्कविहीन दुई जापानी पर्वतारोहीको खोजी जारी",
+      "link": "https://www.ratopati.com/story/600687/search-continues-for-two-missing-japanese-climbers",
+      "source": "Ratopati",
+      "sourceUrl": "https://ratopati.com/feed",
+      "pubDate": "2026-10-20T16:00:07+00:00",
+      "categories": [
+        "politics",
+        "sports"
+      ],
+      "image": "https://npcdn.ratopati.com/media/news/mustang_map_LeezRi6vcZ.jpg",
+      "images": [
+        "https://npcdn.ratopati.com/media/news/mustang_map_LeezRi6vcZ.jpg"
+      ],
+      "description": "मनाङ । गङ्गापूर्ण हिमाल आरोहणका क्रममा दुई जापानी पर्वतारोही सम्पर्कविहीन भएका छन् । उनीहरू गत अक्टोबर १५ तारिखदेखि सम्पर्कविहीन भएका प्रमुख जिल्ला अधिकारी मुक्तिप्रसाद खनालले जानकारी दिए । उनले भने, “सम्पर्कविहीन भएका पर्वतारोहीहरूको खोजी तथा उद्धारका"
+    },
+    {
       "id": "a2a33de4e08c8ade",
       "title": "छ महिनामा सर्पदंशबाट ११० जनाको मृत्यु",
       "link": "https://nepalnews.com/2026/10/20/110-people-die-from-snakebites-in-six-months/",
@@ -375,40 +1253,6 @@
       "image": "",
       "images": [],
       "description": "काठमाडौं। चालु आर्थिक वर्षको वैशाख १ गतेदेखि कार्तिक ३ गतेसम्मको अवधिमा देशभर भएका विपद्का घटनामा ठूलो मानवीय क्षति भएको छ। राष्ट्रिय विपद् जोखिम न्यूनीकरण तथा व्यवस्थापन प्राधिकरणका अनुसार यस अवधिमा ७ हजार ४ सय ३९ वटा विपद्का घटनामा ३ सय ८६ जनाको मृत्यु भएको छ। भोटेकोसी बाढीको घटना भने यो तथ्यांकमा समावेश छैन। प्राकृतिक तथा […]"
-    },
-    {
-      "id": "a8547a7c7836c8df",
-      "title": "झापामा हात्तीको आक्रमणबाट दुईजनाको मृत्यु",
-      "link": "https://baahrakhari.com/detail/505392",
-      "source": "Baahrakhari",
-      "sourceUrl": "https://baahrakhari.com/feed",
-      "pubDate": "2026-10-20T15:51:14+00:00",
-      "categories": [
-        "politics",
-        "business",
-        "society"
-      ],
-      "image": "",
-      "images": [],
-      "description": ""
-    },
-    {
-      "id": "4615f5bb03a1fb92",
-      "title": "हात्तीको आक्रमणबाट दुई जनाको मृत्यु",
-      "link": "https://www.thahakhabar.com/detail/310655",
-      "source": "Thaha Khabar",
-      "sourceUrl": "https://www.thahakhabar.com/feed",
-      "pubDate": "2026-10-20T15:45:02+00:00",
-      "categories": [
-        "politics",
-        "business",
-        "sports"
-      ],
-      "image": "https://www.thahakhabar.com/uploads/posts/death-1779520981.jpg",
-      "images": [
-        "https://www.thahakhabar.com/uploads/posts/death-1779520981.jpg"
-      ],
-      "description": ""
     },
     {
       "id": "5215126a75b67c6d",
@@ -443,45 +1287,12 @@
       "description": "KATHMANDU: The Nepali national men’s cricket team returned to Kathmandu this evening after completing its participation in the ICC Cricket World Cup League 2 series in Oman. Officials from the Cricket Association of Nepal (CAN) welcomed the players upon their arrival at Tribhuvan International Airport. Nepal concluded the one-day international series on a strong note, […]"
     },
     {
-      "id": "bc08e00b3d91eced",
-      "title": "कुन देशमा कति बजे छ टीकाको साइत ?",
-      "link": "https://www.onlinekhabar.com/2026/10/2042072/what-time-is-the-tika-clock-in-which-country",
-      "source": "Online Khabar",
-      "sourceUrl": "https://www.onlinekhabar.com/feed",
-      "pubDate": "2026-10-20T15:37:25+00:00",
-      "categories": [
-        "politics",
-        "business",
-        "sports",
-        "technology",
-        "entertainment"
-      ],
-      "image": "",
-      "images": [],
-      "description": "३ कात्तिक, काठमाडौं । बडादशैं अन्तर्गत बुधबार विजयादशमीको दिन छ । नेपालमा टीकाको साइत बिहान १० बजेर २६ मिनेटमा छ । नेपालबाहिर भने फरक मिति र समयमा टीकाको साइत पर्ने गरेको छ । अन्तर्राष्ट्रिय पञ्चाङ्ग निर्णायक समितिले विभिन्न देशका लागि फरक फरक साइतहरू निकालेको हुन्छ । यस वर्षको बडादशैंका लागि विभिन्न देशहरूमा उत्तम साइतको मिति […]"
-    },
-    {
-      "id": "eb35ffa85031782e",
-      "title": "दसैँमा सशस्त्र प्रहरीको बस सेवा, प्रधानमन्त्री कार्यालयको प्रचार !",
-      "link": "https://nepallive.com/story/352194",
-      "source": "Nepal Live",
-      "sourceUrl": "https://nepallive.com/feed",
-      "pubDate": "2026-10-20T15:32:35+00:00",
-      "categories": [
-        "politics",
-        "technology"
-      ],
-      "image": "",
-      "images": [],
-      "description": "सोमबारदेखि लगातार तीन दिनसम्म बिहान ८ बजेदेखि बेलुकी ६ बजेसम्म दुईवटा बस निःशुल्क सञ्चालन गर्ने व्यवस्था सशस्त्र प्रहरीले मिलाएको छ।"
-    },
-    {
-      "id": "badc280dfba5317c",
-      "title": "ट्रम्पको लोकप्रियता घट्दा मध्यावधि निर्वाचनमा कस्तो असर पर्छ ?",
-      "link": "https://baahrakhari.com/detail/505391",
-      "source": "Baahrakhari",
-      "sourceUrl": "https://baahrakhari.com/feed",
-      "pubDate": "2026-10-20T15:32:06+00:00",
+      "id": "4685e6b02bff395d",
+      "title": "हात्तीको आक्रमणबाट दुई जनाको मृत्यु",
+      "link": "https://himalpress.com/2026/10/elephant-attack/",
+      "source": "Himal Press",
+      "sourceUrl": "https://himalpress.com/feed/",
+      "pubDate": "2026-10-20T15:34:12+00:00",
       "categories": [
         "politics",
         "business",
@@ -489,7 +1300,7 @@
       ],
       "image": "",
       "images": [],
-      "description": ""
+      "description": "झापा- जंगली हात्तीको आक्रमणबाट मंगलबार एउटै गाउँका दुई व्यक्तिको मृत्यु भएको छ। बाह्रदशी गाउँपालिका- २ जनता चोक निवासी ७० वर्षीया लजुमा खातुन र ७३ वर्षीय झक्कु राजबंशीको मृत्यु भएको हो। प्रातकालीन पदयात्रामा रहेको अवस्थामा उनीहरुलाई बिरिङ खोला नजिक दुईवटा जंगली हात्तीले बिहान ५ः३० बजेतिर अचानक आक्रमण गरेको जिल्ला प्रहरी कार्यालय झापाका सूचना अधिकारी रञ्जन अवाले जानकारी […]"
     },
     {
       "id": "329fc1d8d0e62261",
@@ -574,21 +1385,6 @@
       "description": "काठमाडौँ- रुसी राष्ट्रपति भ्लादिमिर पुटिनले अमेरिका र चीनका राष्ट्रपतिसँग त्रिपक्षीय वार्ता गर्ने प्रस्ताव राखेका छन्। युक्रेन युद्धको भविष्यबारे निर्णय लिन पुटिनले अमेरिकी राष्ट्रपति डोनाल्ड ट्रम्प र चीनका राष्ट्रपति सी जिनफिङसँग संयुक्त वार्ता गर्ने प्रस्ताव राखेको अमेरिकी सञ्चारमाध्यमहरुले जनाएका छन्। अमेरिकी सञ्चारमाध्यमहरुका अनुसार पुटिनले युद्ध अन्त्य र भावी रणनीतिका लागि तीन शक्तिशाली राष्ट्रहरुबीच संवादको आवश्यकता औँल्याएका […]"
     },
     {
-      "id": "c3398e92d5fd83b1",
-      "title": "चार दिनमै फेरि कारागारमा",
-      "link": "https://nepallive.com/story/352193",
-      "source": "Nepal Live",
-      "sourceUrl": "https://nepallive.com/feed",
-      "pubDate": "2026-10-20T15:10:40+00:00",
-      "categories": [
-        "politics",
-        "technology"
-      ],
-      "image": "",
-      "images": [],
-      "description": "उनी कारागारबाट भागेको चार दिनमै फेरि कारागारमै पुगेका छन् ।"
-    },
-    {
       "id": "48ce6dcc4135bb85",
       "title": "नेपाली क्रिकेट टोली स्वदेश फर्कियो",
       "link": "https://nepalnews.com/2026/10/20/nepali-cricket-team-returns-home/",
@@ -621,40 +1417,6 @@
       "image": "",
       "images": [],
       "description": "३ कात्तिक, काठमाडौं । नेपाली राष्ट्रिय क्रिकेट टोलीका कप्तान सन्दीप लामिछानेले एकदिवसीय अन्तर्राष्ट्रिय (ओडीआई) मान्यता जोगाउन सफल हुँदा खुसी लागेको बताएका छन् । मंगलबार साँझ स्वदेश फर्किएका उनले विमानस्थलमा सञ्चारकर्मीसँग कुरा गर्दै आगामी लिग २ चक्रमा अझ राम्रो प्रदर्शन गर्ने बताए । आईसीसीको आधिकारिक धारणा आउन बाँकी रहेपनि सन्दीपको भनाइअनुसार नेपालको ओडीआई मान्यता जोगिएको छ […]"
-    },
-    {
-      "id": "c99ed799ec9dcfa4",
-      "title": "राष्ट्रपति पौडेलले गुरू पुरोहितबाट टीका ग्रहण गर्ने",
-      "link": "https://baahrakhari.com/detail/505390",
-      "source": "Baahrakhari",
-      "sourceUrl": "https://baahrakhari.com/feed",
-      "pubDate": "2026-10-20T15:03:45+00:00",
-      "categories": [
-        "politics",
-        "business",
-        "society"
-      ],
-      "image": "",
-      "images": [],
-      "description": ""
-    },
-    {
-      "id": "34d68f85e1e7ee2b",
-      "title": "मैतीदेवीमा झिलिमिली",
-      "link": "https://www.thahakhabar.com/detail/310651",
-      "source": "Thaha Khabar",
-      "sourceUrl": "https://www.thahakhabar.com/feed",
-      "pubDate": "2026-10-20T14:52:42+00:00",
-      "categories": [
-        "politics",
-        "business",
-        "sports"
-      ],
-      "image": "https://www.thahakhabar.com/uploads/posts/maitidebhi-1792506837.jpg",
-      "images": [
-        "https://www.thahakhabar.com/uploads/posts/maitidebhi-1792506837.jpg"
-      ],
-      "description": ""
     },
     {
       "id": "f6f242d00540a7a0",
@@ -723,7 +1485,7 @@
     },
     {
       "id": "8b803e5a9930fdcf",
-      "title": "दसैंको खुसी बोकेर घर फिर्ती (तस्वीरहरू)",
+      "title": "दशैंको खुसी बोकेर घर फिर्ती (तस्वीरहरू)",
       "link": "https://www.onlinekhabar.com/2026/10/2041993/returning-home-with-the-joy-of-dashain-photos",
       "source": "Online Khabar",
       "sourceUrl": "https://www.onlinekhabar.com/feed",
@@ -758,7 +1520,7 @@
     },
     {
       "id": "b88087718f2ff731",
-      "title": "होल्डिङ सेन्टरका सुकुमवासीको नीरस दसैं : फर्सी खाएर मनाउँदैछन्",
+      "title": "होल्डिङ सेन्टरका सुकुमवासीको नीरस दशैं : फर्सी खाएर मनाउँदैछन्",
       "link": "https://www.onlinekhabar.com/2026/10/2041910/boring-dashain-for-sukum-residents-of-holding-center-they-celebrate-by-eating-farsi",
       "source": "Online Khabar",
       "sourceUrl": "https://www.onlinekhabar.com/feed",
@@ -772,7 +1534,7 @@
       ],
       "image": "",
       "images": [],
-      "description": "'शान्ति सेवा संस्थाले खुवाएको छ,’ उनले भनिन्, ‘दसैंमा दुई छाक कुखुराको मासु र एक छाक खसीको मासु खुवाएको थियो। आज फर्सी खायौँ ।’"
+      "description": "'शान्ति सेवा संस्थाले खुवाएको छ,’ उनले भनिन्, ‘दशैंमा दुई छाक कुखुराको मासु र एक छाक खसीको मासु खुवाएको थियो। आज फर्सी खायौँ ।’"
     },
     {
       "id": "1b2781992b68be48",
@@ -791,22 +1553,6 @@
       "description": "KATHMANDU: The Decision Review System (DRS) will be used in all matches of the third edition of the Nepal Premier League (NPL) 2026. The Cricket Association of Nepal (CAN) announced the decision in a press statement today, confirming that the technology will be implemented throughout the tournament. According to CAN, the use of DRS will […]"
     },
     {
-      "id": "37e298685ce5771e",
-      "title": "दसैँमा उपत्यकाका तीन रुटमा प्रहरीको निःशुल्क बस",
-      "link": "https://nepalnews.com/2026/10/20/free-police-buses-on-three-routes-in-kathmandu-valley-during-dashain/",
-      "source": "Nepal News",
-      "sourceUrl": "https://nepalnews.com/feed",
-      "pubDate": "2026-10-20T14:05:11+00:00",
-      "categories": [
-        "politics",
-        "business",
-        "world"
-      ],
-      "image": "",
-      "images": [],
-      "description": "काठमाडौँ। नेपाल प्रहरीले बडादसैँका अवसरमा सर्वसाधारणको आवागमन सहज बनाउन काठमाडौँ उपत्यकाका तीन रुटमा निःशुल्क बस सेवा सञ्चालन गर्ने भएको छ। प्रहरीका अनुसार कात्तिक ३ र ४ गते निःशुल्क बस सेवा सञ्चालन हुनेछ। आज दिउँसो ४ बजेदेखि तीनवटै रुटमा बस चल्नेछन्। कात्तिक ४ गते भने बिहान ८ बजे र दिउँसो ३:३० बजे गरी दुई सिफ्टमा बस […]"
-    },
-    {
       "id": "9484ace76fb5207e",
       "title": "एनपीएलका सबै खेलमा ‘डीआरएस’ लागू हुने, खेल समय हेरफेर",
       "link": "https://himalpress.com/2026/10/drs-in-all-npl-matches/",
@@ -821,21 +1567,6 @@
       "image": "",
       "images": [],
       "description": "काठमाडौँ- नेपाल प्रिमियर लिग (एनपीएल) को तेस्रो संस्करणमा डिसिजन रिभ्यू सिस्टम (डीआरएस) प्रयोग गरिने भएको छ। नेपाल क्रिकेट संघ (क्यान) ले एनपीएलमा डीआरएस प्रविधि लागू गर्ने जनाएको हो। क्यानका अनुसार एनपीएल २०२६ को सबै खेलमा डीआरएस प्रविधिको प्रयोग गरिनेछ। डीआरएसको प्रयोगले खेल प्रतियोगिताका क्रममा मैदानमा खटिने अम्पायरबाट हुने निर्णयलाई चुनौती दिन टोलीलाई अवसर दिनेछ। अम्पायरको निर्णयप्रति […]"
-    },
-    {
-      "id": "4a0c8c77e4ef9e18",
-      "title": "दशैं त आफन्तसँग रमाइलो गर्ने पर्व हो, मानिसहरु आइसोलेट भएर किताब पढ्छन् भन्ने लाग्दैन: प्रकाश तिवारी [अन्तर्वार्ता]",
-      "link": "https://nepallive.com/story/292165",
-      "source": "Nepal Live",
-      "sourceUrl": "https://nepallive.com/feed",
-      "pubDate": "2026-10-20T14:01:00+00:00",
-      "categories": [
-        "politics",
-        "technology"
-      ],
-      "image": "",
-      "images": [],
-      "description": "पर्वमा आइसोलेट भएर, एउटा कुनामा बसेर किताब पढ्छन् जस्तो मलाई लाग्दैन। कुनै मान्छेसँग सम्बन्धै नराखी, सम्पर्क नै नगरी जंगलमा बसे जस्तो गरेर, गुफामा बसे जस्तो गरेर पढ्ने हो भने त छुट्टै कुरा, होइन भने मान्छे चाडबाडको बेलामा कसरी किताब पढ्ने हो? म बुझ्दिनँ।"
     },
     {
       "id": "30e0726f3880da7a",
@@ -944,21 +1675,6 @@
       "description": "पारा तेक्वान्दो खेलाडी पलेशा गाेवर्धन आइची-नागाेया पाँचाैं एसियाली पारा खेलकुदमा पदक जित्न असफल !हाङचाउ संस्करणमा कांस्य जितेकी पलेशाकाे यसपालि जापानमा ठूलाे पदक जित्ने सपना टुटेकाे छ!महिला के-४४ विधाकाे ५७ केजीमुनि ताैल समूहकी प्रतिस्पर्धी पलेशाकाे पदक सपनामा इरानी खेलाडी बाधक !! पहिलाे हारपछि उनले रिपिचेजमा माैका पाएकी थिइन् । रिपिचेजमा उनले काजखस्तानकी कामिल्या दाेस्मालाेभामाथि १४-१० अंककाे […]"
     },
     {
-      "id": "7d9ad044e8987ddb",
-      "title": "दशैंमा घर जाँदा छुटाउनै नहुने यी औषधि",
-      "link": "https://nepallive.com/story/330353",
-      "source": "Nepal Live",
-      "sourceUrl": "https://nepallive.com/feed",
-      "pubDate": "2026-10-20T13:37:00+00:00",
-      "categories": [
-        "politics",
-        "technology"
-      ],
-      "image": "",
-      "images": [],
-      "description": "बसको यात्रा गर्दा बान्ता हुने व्यक्तिले जहिले पनि बस चढ्नु एक/डेढ घण्टाअघि बान्ता रोक्ने औषधि सेवन गर्नुपर्छ। यस्तो औषधि एक दुई पत्ता बोक्न जरुरी हुन्छ किनभने आफूलाई बान्ता नआए पनि छेउमा बसेको व्यक्तिलाई आउन सक्छ।"
-    },
-    {
       "id": "96914d41295dfb04",
       "title": "गत वर्षको तुलनामा यसवर्ष दशैंमा काठमाडौं छाड्नेको संख्या कम",
       "link": "https://www.nepalviews.com/story/426982/fewer-people-leave-kathmandu-for-dashain-this-year-compared-to-last-year",
@@ -975,22 +1691,6 @@
         "https://nepalviews.cdnsolution.net/en/media/setting/banner_FHsSzcWYKk.jpg"
       ],
       "description": ""
-    },
-    {
-      "id": "96a13319832343c0",
-      "title": "अमेजनले सन् २०२७ मा जर्मनीमा १६ अर्ब युरोभन्दा बढी लगानी गर्ने",
-      "link": "https://nepalnews.com/2026/10/20/amazon-to-invest-more-than-16-billion-euros-in-germany-by-2027/",
-      "source": "Nepal News",
-      "sourceUrl": "https://nepalnews.com/feed",
-      "pubDate": "2026-10-20T13:32:21+00:00",
-      "categories": [
-        "politics",
-        "business",
-        "world"
-      ],
-      "image": "",
-      "images": [],
-      "description": "बर्लिन।अमेरिकी प्रविधि कम्पनी अमेजनले सन् २०२७ मा जर्मनीमा १६ अर्ब युरोभन्दा बढी (करिब १८ अर्ब अमेरिकी डलर) लगानी गर्ने घोषणा गरेको छ । कम्पनीको यो लगानी डाटा सेन्टर, कृत्रिम बुद्धिमत्ता (एआई) पूर्वाधार, क्लाउड कम्प्युटिङलगायतका क्षेत्रमा केन्द्रित हुनेछ । बर्लिनमा मङ्गलबार आयोजित सरकारी व्यावसायिक शिखर सम्मेलनका क्रममा अमेजनले यस्तो घोषणा गरेको हो । सुस्त अर्थतन्त्रलाई गति […]"
     },
     {
       "id": "db3b67601fc4279f",
@@ -1063,23 +1763,6 @@
       "description": "बजारमा आपूर्ति प्रणाली बिग्रिएको बेला सामान अभाव हुने भएकाले प्रभावित व्यक्तिले जतिसुकै मूल्य तिर्नुपर्ने वा अभाव खेप्नुपर्ने बाध्यता आउन सक्छ।"
     },
     {
-      "id": "0ae423c1c7334d89",
-      "title": "रसुवा र नुवाकोटका धार्मिक तथा पर्यटकीय क्षेत्र भ्रमणका लागि सुरक्षित",
-      "link": "https://www.ratopati.com/story/600682/religious-and-tourist-areas-of-rasuwa-and-nuwakot-safe-for-visiting",
-      "source": "Ratopati",
-      "sourceUrl": "https://ratopati.com/feed",
-      "pubDate": "2026-10-20T13:20:52+00:00",
-      "categories": [
-        "politics",
-        "sports"
-      ],
-      "image": "https://npcdn.ratopati.com/media/news/rasuwa-map_5ptxmJBUA0.jpg",
-      "images": [
-        "https://npcdn.ratopati.com/media/news/rasuwa-map_5ptxmJBUA0.jpg"
-      ],
-      "description": "रसुवा। भोटेकोशी र त्रिशूली नदीमा भदौमा गएको बाढीका कारण बगे–भत्केका सडक मर्मतसम्भार भएसँगै नदी तटीय क्षेत्रबाहेक अन्यत्रको जनजीवन लयमा फर्केको छ। रसुवा नागरिक समाजका अध्यक्ष बाबुलाल तामाङका अनुसार बाढीले सखाप पारेका रसुवा र नुवाकोट जिल्लाका नदी"
-    },
-    {
       "id": "c274fec744fdc61b",
       "title": "चिनियाँ डिजिटल अर्थतन्त्र र एआई क्षेत्रलाई तीव्र गति दिन नयाँ राष्ट्रिय डेटा कम्पनीको स्थापना",
       "link": "https://www.onlinekhabar.com/2026/10/2042031/new-national-data-company-established-to-accelerate-chinas-digital-economy-and-ai-sector",
@@ -1098,72 +1781,6 @@
       "description": "चीनले आफ्नो डिजिटल अर्थतन्त्रलाई गति दिन र आर्टिफिसियल इन्टेलिजेन्स उद्योगलाई अझ शक्तिशाली बनाउन डेटा स्रोतहरूको व्यवस्थापनका लागि एक नयाँ राज्य-स्वामित्वको उद्यम स्थापना गरेको छ। चीनको सरकारी समाचार संस्था ‘सिन्ह्वा’ का अनुसार उत्तरपूर्वी हेबेई प्रान्तस्थित चीनको ‘भविष्यको सहर’ भनिने सिओङ्गान नयाँ क्षेत्रमा ‘नेसनल डेटा ग्रुप कम्पनी’ को औपचारिक स्थापना गरिएको हो। यस कम्पनीलाई ‘डेटा स्रोतहरूको विकास […]"
     },
     {
-      "id": "5d905645c454594e",
-      "title": "काठमाडौँमा तीन दिने फिल्म फेस्टिभल आयोजना हुने",
-      "link": "https://nepalnews.com/2026/10/20/three-day-film-festival-to-be-held-in-kathmandu/",
-      "source": "Nepal News",
-      "sourceUrl": "https://nepalnews.com/feed",
-      "pubDate": "2026-10-20T13:16:18+00:00",
-      "categories": [
-        "politics",
-        "business",
-        "world"
-      ],
-      "image": "",
-      "images": [],
-      "description": "काठमाडौँ। काठमाडौँ महानगरपालिकाले यही कात्तिक १३, १४ र १५ गते फिल्म फेस्टिभल आयोजना गर्ने भएको छ। फेस्टिभलको शुभारम्भ कात्तिक १३ गते वसन्तपुरमा सम्पदा यात्राबाट गरिनेछ। कार्यक्रम अन्तर्गत राष्ट्रिय सभा गृह, नेपाल पर्यटन बोर्ड, जय नेपाल सिनेमा घर र तारागाउँमा विभिन्न कार्यक्रम सञ्चालन हुनेछन्। महानगरपालिकाका अनुसार फेस्टिभलमा ४० वटा चलचित्र प्रदर्शन गरिनेछन्। यसमा सर्ट फिल्म भिडियो […]"
-    },
-    {
-      "id": "b9b9405580928034",
-      "title": "दसैँ सम्झाउने दस गीत",
-      "link": "https://nepalnews.com/2026/10/20/ten-songs-to-remind-you-of-dashain/",
-      "source": "Nepal News",
-      "sourceUrl": "https://nepalnews.com/feed",
-      "pubDate": "2026-10-20T13:15:33+00:00",
-      "categories": [
-        "politics",
-        "business",
-        "world"
-      ],
-      "image": "",
-      "images": [],
-      "description": "‘चरिररि… चरिररिरै…’। यो धुन सुन्नेबित्तिकै धेरैलाई दसैँको सम्झना आउँछ। खेतमा झुलेका धानका बाला, बारीमा फुलेको कोदो, आँगनमा जमरा राख्ने तयारी, गाउँघरमा हालिएका पिङ र परदेशबाट फर्किरहेका आफन्तको अनुहार सम्झनामा आउँछन्। नेपाली चलचित्र ‘मुग्लान’को ‘दसैँ आयो’ गीतको सुरुवाती धुन हो यो। चलचित्र नहेरेकालाई पनि गीतले दसैँ आएको अनुभूति गराउन सक्छ। दसैँ नजिकिँदै जाँदा रेडियो, टेलिभिजन र […]"
-    },
-    {
-      "id": "aa008f067d5410dd",
-      "title": "वैदेशिक रोजगारीबाट आएको रकम मधेसमा कहाँ गरिन्छ खर्च ?",
-      "link": "https://www.ratopati.com/story/600566/where-is-the-money-earned-from-foreign-employment-spent-in-madhesh",
-      "source": "Ratopati",
-      "sourceUrl": "https://ratopati.com/feed",
-      "pubDate": "2026-10-20T13:15:00+00:00",
-      "categories": [
-        "politics",
-        "sports"
-      ],
-      "image": "https://npcdn.ratopati.com/media/news/remittance-madhesh_W3ok30JG94.webp",
-      "images": [
-        "https://npcdn.ratopati.com/media/news/remittance-madhesh_W3ok30JG94.webp"
-      ],
-      "description": "काठमाडौँ । सप्तरी, राजविराजका रामकिसुन देव पाँच वर्षपछि गत वर्ष साउदीबाट फर्के । पाँच वर्ष वैदेशिक रोजगारीमा रहे पनि उनको हातमा अहिले केही छैन । उनी अहिले घर बनाउने मजदुरी काम गरिरहेका छन् । फेरि"
-    },
-    {
-      "id": "9ec67baef60624e5",
-      "title": "रातो माटो, कमेरो र खोटोको संस्कृति ओझेलमा",
-      "link": "https://www.ratopati.com/story/600680/the-culture-of-red-soil-kamero-and-khoto-is-fading-away",
-      "source": "Ratopati",
-      "sourceUrl": "https://ratopati.com/feed",
-      "pubDate": "2026-10-20T13:13:57+00:00",
-      "categories": [
-        "politics",
-        "sports"
-      ],
-      "image": "https://npcdn.ratopati.com/media/news/ujQC9vKFI5.jpg",
-      "images": [
-        "https://npcdn.ratopati.com/media/news/ujQC9vKFI5.jpg"
-      ],
-      "description": "धनकुटा। नेपालीहरूको महान् चाड बडादसैँ सुरु भएसँगै गाउँघरमा दसैँको रौनक छाएको छ । बजारमा किनमेल गर्ने, नयाँ लुगा लगाउने, मीठोमसिनो खाने, घरआँगन सफा गर्ने र मान्यजनबाट टीका तथा आशीर्वाद ग्रहण गर्ने परम्पराले दसैँलाई उल्लासमय बनाउने"
-    },
-    {
       "id": "96532f6eae21f7c5",
       "title": "मोटरसाइकल र स्कुटर ठोक्किँदा पाँच घाइते",
       "link": "https://gorkhapatraonline.com/news/227083",
@@ -1179,23 +1796,6 @@
         "https://gorkhapatraonline.com/storage/media/388672/conversions/Bike-accident-original.jpg"
       ],
       "description": "बोमलाल गिरीनवलपुर, कात्तिक ३ गते । पूर्वपश्चिम राजमार्गअन्तर्गत नवलपुरको कावासोती नगरपालिका ८ हाटबजारमा मोटरसाइकलले स्कुटरलाई ठक्कर दिँदा पाँच जना घाइते भएका छन् ।रजहरबाट कावासोतीत..."
-    },
-    {
-      "id": "f59635168053bd2b",
-      "title": "भक्तपुरमा राँगो दौडाउने जात्रा मनाइयाे, तस्बिरहरू",
-      "link": "https://www.ratopati.com/story/600679/rooster-running-festival-celebrated-in-bhaktapur-photos",
-      "source": "Ratopati",
-      "sourceUrl": "https://ratopati.com/feed",
-      "pubDate": "2026-10-20T13:11:02+00:00",
-      "categories": [
-        "politics",
-        "sports"
-      ],
-      "image": "https://npcdn.ratopati.com/media/news/jatra-8_muY3SNyW5P.webp",
-      "images": [
-        "https://npcdn.ratopati.com/media/news/jatra-8_muY3SNyW5P.webp"
-      ],
-      "description": "भक्तपुर। परम्परागत ऐतिहासिक तथा सांस्कृतिक खःमेय् व्वाकेगु (राँगो दौडाउने) जात्रा मंगलबार मनाइएको छ । भक्तपुरको परम्परागत ऐतिहासिक तथा सांस्कृतिक खःमेय् व्वाकेगु (राँगो दौडाउने) जात्रा आज मनाइएको छखःमेय् व्वाकेगु जात्रा प्रत्येक वर्ष बडादसैँको महानवमीको साँझ मनाउने परम्परा"
     },
     {
       "id": "d9dd7ebc63b711ac",
@@ -1216,23 +1816,6 @@
       "description": "३ कात्तिक, काठमाडौं । चीनबाट युरोपेली युनियनतर्फ हुने रेयर अर्थ पर्मिनेन्ट म्याग्नेटको निर्यात गत महिना बढेको छ। यो निर्यात फेब्रुअरी महिनापछिकै सबैभन्दा उच्च विन्दुमा पुगेको छ। बेइजिङ र ब्रसेल्सबीच व्यापार वार्ता हुनुअघि यो निर्यात बढेको हो। यस वार्ताले सम्भावित व्यापार युद्धको चिन्तालाई कम गर्न मद्दत गरेको छ। चीनको जनरल एडमिनिस्ट्रेशन अफ कस्टम्सले मंगलबार तथ्याङ्क सार्वजनिक गरेको […]"
     },
     {
-      "id": "c66f8e39be24e377",
-      "title": "इजिप्टमा बस र ट्रक ठोक्किँदा १२ जनाको मृत्यु, ३० घाइते",
-      "link": "https://www.ratopati.com/story/600678/12-killed-30-injured-in-bus-truck-collision-in-egypt",
-      "source": "Ratopati",
-      "sourceUrl": "https://ratopati.com/feed",
-      "pubDate": "2026-10-20T13:04:36+00:00",
-      "categories": [
-        "politics",
-        "sports"
-      ],
-      "image": "https://npcdn.ratopati.com/media/news/accident1_0HVVwEUEAJ.jpg",
-      "images": [
-        "https://npcdn.ratopati.com/media/news/accident1_0HVVwEUEAJ.jpg"
-      ],
-      "description": "काठमाडाैँ। इजिप्टको राजधानी कायरोको दक्षिणपश्चिममा बस र ट्रक आपसमा ठोक्किँदा कम्तीमा १२ जनाको मृत्यु भएको छ भने ३० जना घाइते भएका छन् । इजिप्टको स्वास्थ्य तथा जनसङ्ख्या मन्त्रालयका अनुसार मङ्गलबार कायरो–असियुत पश्चिमी मरुभूमि राजमार्गमा निजी कम्पनीको"
-    },
-    {
       "id": "6bdd176c6a61dbef",
       "title": "कतारमा नेपाली श्रमिकका आवाज बनेका मोहम्मद रमजान",
       "link": "https://www.onlinekhabar.com/2026/10/2041805/mohammad-ramadan-becomes-the-voice-of-nepali-workers-in-qatar",
@@ -1249,23 +1832,6 @@
       "image": "",
       "images": [],
       "description": "मोहम्मद रमजान अलि मियाँ कतार बसेर १९ वर्षदेखि नेपाली श्रमिकका पक्षमा निरन्तर आवाज उठाइरहेका छन् । प्रवासी श्रमिकको पक्षमा कानुनी सेवा दिइरहेका उनले कतारी श्रम ऐनलाई नेपालीमा अनुवाद गरेर मद्दत पुर्‍याएका छन् ।"
-    },
-    {
-      "id": "8e153fdbf0b42b0b",
-      "title": "दसैँमा काठमाडौँ उपत्यकामा नेपाल प्रहरीद्वारा निःशुल्क बस सेवा सञ्चालन",
-      "link": "https://www.ratopati.com/story/600676/nepal-police-to-operate-free-bus-service-in-kathmandu-valley-during-dashain",
-      "source": "Ratopati",
-      "sourceUrl": "https://ratopati.com/feed",
-      "pubDate": "2026-10-20T12:55:54+00:00",
-      "categories": [
-        "politics",
-        "sports"
-      ],
-      "image": "https://npcdn.ratopati.com/media/news/free-bus_PWsD1yv2bJ.webp",
-      "images": [
-        "https://npcdn.ratopati.com/media/news/free-bus_PWsD1yv2bJ.webp"
-      ],
-      "description": "काठमाडौँ। बडा दसैँको अवसरमा काठमाडौँ उपत्यकामा आम नागरिकको सुविधा र सहज आवागमनका लागि नेपाल प्रहरीले निःशुल्क बस सेवा सञ्चालन गरेको छ। दसैँका बेला सार्वजनिक यातायातको अभावमा रहेका यात्रुहरूलाई सहजता प्रदान गर्ने उद्देश्यले उपत्यकाका तीनवटा रुटमा"
     },
     {
       "id": "fdadb7b26d268dea",
@@ -1301,21 +1867,6 @@
       "description": ""
     },
     {
-      "id": "1fa3cbaa91a519c1",
-      "title": "दशैंमा काठमाडौं उपत्यकाभित्र नेपाल प्रहरीको निःशुल्क बस सेवा",
-      "link": "https://www.dainiknepal.com/2026/10/846134.html",
-      "source": "Dainik Nepal",
-      "sourceUrl": "https://dainiknepal.com/feed",
-      "pubDate": "2026-10-20T12:43:53+00:00",
-      "categories": [
-        "politics",
-        "sports"
-      ],
-      "image": "",
-      "images": [],
-      "description": "काठमाडौं । बडादशैंको अवसरमा काठमाडौं उपत्यकामा आम नागरिकको सुविधा र सहज आवागमनका लागि नेपाल प्रहरीले निःशुल्क बस सेवा सञ्चालन गरेको छ । प्रहरीले दशैंमा यात्रुको सहजताका लागि उपत्यकाका तीन रूटमा आज कात्तिक ३ र भोलि ४ गते निःशुल्क बस सञ्चालन गरेको हो । रूट नम्बर १ नक्सालबाट सुरू भई बालुवाटार, टिचिङ, चक्रपथ, नयाँ बसपार्क, बालाजु, […]"
-    },
-    {
       "id": "285d41df490d5431",
       "title": "दशैँको रौनकसँगै धनगढीमा धान भित्र्याउने चटारो",
       "link": "https://nepalsamaya.com/detail/147170",
@@ -1347,23 +1898,6 @@
       "image": "",
       "images": [],
       "description": "छ दशकदेखि नेपाली सङ्गीतमा समर्पित गायिका मीरा राणाका लागि यसपालिको दशैं विगतभन्दा फरक छ। बाल्यकालका चञ्चल सम्झना, गुरु गोपाल योञ्जनको आशीर्वाद र ५७ वर्षको जीवनसाथीको अभावबीच पनि उनको जीवनरागमा साधनाको उज्यालो निभेको छैन।"
-    },
-    {
-      "id": "7c83fbd60a27df70",
-      "title": "‘मिस वेलनेस वर्ल्ड २०२६’ का विजेता सान्वीलाई गृहनगरमा स्वागत",
-      "link": "https://www.ratopati.com/story/600673/miss-wellness-world-2026-winner-sanvi-welcomed-to-her-hometown",
-      "source": "Ratopati",
-      "sourceUrl": "https://ratopati.com/feed",
-      "pubDate": "2026-10-20T12:38:39+00:00",
-      "categories": [
-        "politics",
-        "sports"
-      ],
-      "image": "https://npcdn.ratopati.com/media/news/janalpurdham_4k9u0kDctU.jpg",
-      "images": [
-        "https://npcdn.ratopati.com/media/news/janalpurdham_4k9u0kDctU.jpg"
-      ],
-      "description": "जनकपुरधाम। अन्तर्राष्ट्रिय सौन्दर्य प्रतियोगितामा ‘मिस वेलनेस वल्र्ड २०२६’ की विजेता सान्वी मण्डललाई गृहनगर जनकपुरधाममा स्वागत तथा सम्मान गरिएको छ। विजेता मण्डलको गाउँ भोइलमा मंगलबार आयोजित कार्यक्रममा मधेस प्रदेशसभाका सभामुख रामअशिष यादवसहित स्थानीयवासीले उनलाई स्वागत तथा सम्मान"
     },
     {
       "id": "43bc1c5e9a1c80a2",
@@ -1400,23 +1934,6 @@
         "https://nepalviews.cdnsolution.net/en/media/setting/banner_FHsSzcWYKk.jpg"
       ],
       "description": ""
-    },
-    {
-      "id": "17f9bf95b8111453",
-      "title": "म्यानहट्टनमा दुर्लभ उल्लूको परिवार, हेर्नेको भिड",
-      "link": "https://www.ratopati.com/story/600672/rare-owl-family-draws-crowds-in-manhattan",
-      "source": "Ratopati",
-      "sourceUrl": "https://ratopati.com/feed",
-      "pubDate": "2026-10-20T12:34:41+00:00",
-      "categories": [
-        "politics",
-        "sports"
-      ],
-      "image": "https://rpcdn.ratopati.com/media/albums/usa-flag_9ituxu6lJM.JPG",
-      "images": [
-        "https://rpcdn.ratopati.com/media/albums/usa-flag_9ituxu6lJM.JPG"
-      ],
-      "description": "काठमाडाैँ। अमेरिकाको न्युयोर्कस्थित म्यानहट्टनको माथिल्लो वेस्ट साइडमा सेन्ट्रल पार्कनजिकै एउटा भवनको पानी ट्याङ्कीमा दुर्लभ बार्न उल्लूको परिवार बसेपछि स्थानीय बासिन्दा र चराप्रेमी आकर्षित भएका छन् । विज्ञहरूका अनुसार आधुनिक इतिहासमा म्यानहट्टनमा बार्न उल्लूले गुँड बनाएर"
     },
     {
       "id": "bf3cf1ce3fae90bc",
@@ -1472,56 +1989,6 @@
       "description": "काठमाडौं। नेपालमा बिक्री हुने नयाँ कारमध्ये झन्डै तीन चौथाइ विद्युतीय भएसँगै पेट्रोलियम पदार्थको आयात घटाउने र प्रदूषण नियन्त्रण गर्ने प्रयासले गति लिएको छ। तर इभीको यही तीव्र विस्तारसँगै अबको केही वर्षमा प्रयोग अवधि सकिएका ब्याट्रीको व्यवस्थापन अर्को ठूलो चुनौतीका रूपमा देखा पर्ने भएको छ। समयमै संकलन, पुनःप्रयोग र पुनःप्रशोधनको व्यवस्था गर्न नसके स्वच्छ यातायातको विकल्प […] The post इभीको बजार विस्तारसँगै नेपालमा ब्याट्रीबारे बढ्दैछ चासो, अरू देशले कसरी गर्दैछन् व्यवस्थापन? appeared first on BI"
     },
     {
-      "id": "36c758b9d1fb3c92",
-      "title": "द्रव्य शाहको यात्रा लिगलिगकोटदेखि गोरखा राज्यसम्म",
-      "link": "https://nepalnews.com/2026/10/20/dravi-shahs-journey-from-ligligkot-to-the-gorkha-kingdom/",
-      "source": "Nepal News",
-      "sourceUrl": "https://nepalnews.com/feed",
-      "pubDate": "2026-10-20T12:30:04+00:00",
-      "categories": [
-        "politics",
-        "business",
-        "world"
-      ],
-      "image": "",
-      "images": [],
-      "description": "लमजुङ।नेपाली समाजमा धार्मिक, सांस्कृतिक र ऐतिहासिक महत्व बोकेको विजयादशमी पर्वसँग जोडिएको गोरखाको लिगलिगकोटको परम्परा पनि नेपालको इतिहासमा चर्चित छ। प्रचलित जनश्रुतिअनुसार विजयादशमीका दिन लिगलिगकोटमा दौड आयोजना गरिन्थ्यो र दौडमा प्रथम हुने व्यक्ति राजा बन्ने परम्परा थियो। यही ऐतिहासिक प्रसङ्गसँग जोडिएका लमजुङका राजकुमार द्रव्य शाहको यात्रा गोरखामा छुट्टै राज्य स्थापना गर्नेसम्म पुगेको थियो। द्रव्य शाहको जीवनयात्रा […]"
-    },
-    {
-      "id": "962d8b964033cf59",
-      "title": "जटिल प्रसूति समस्यामा परेकी १७ वर्षीया महिलाको हवाई उद्धार",
-      "link": "https://rajdhanidaily.com/id/150374/",
-      "source": "Rajdhani Daily",
-      "sourceUrl": "https://rajdhanidaily.com/feed/",
-      "pubDate": "2026-10-20T12:29:12+00:00",
-      "categories": [
-        "politics",
-        "business"
-      ],
-      "image": "https://rajdhanidaily.com/wp-content/uploads/2026/10/sutkeri-mahila.jpg",
-      "images": [
-        "https://rajdhanidaily.com/wp-content/uploads/2026/10/sutkeri-mahila.jpg"
-      ],
-      "description": "जाजरकोट । जाजरकोटको कुशे गाउँपालिका-२ की १७ वर्षीया महिलालाई जटिल प्रसूति समस्या देखिएपछि थप उपचारका लागि हवाई उद्धार गरी सुर्खेत पुर्‍याइएको छ। महिला, बालबालिका, लैङ्गिक तथा यौनिक अल्पसङ्ख्यक र सामाजिक सुरक्षा मन्त्रालयद्वारा राष्ट्रिय महिला सशक्तीकरण परियोजनाअन्तर्गत सञ्चालित गर्भवती तथा सुत्केरी महिलाको हवाई उद्धार कार्यक्रममार्फत ती महिलाको उद्धार गरिएको हो। जटिल प्रसूति समस्या देखिएपछि थप उपचार […] The post जटिल प्रसूति समस्यामा परेकी १७ वर्षीया महिलाको हवाई उद्धार appeared first on राजधानी"
-    },
-    {
-      "id": "a281ff9be086491f",
-      "title": "सकियो खम्ये जात्रा",
-      "link": "https://www.ratopati.com/story/600671/the-khamye-jatra-is-over",
-      "source": "Ratopati",
-      "sourceUrl": "https://ratopati.com/feed",
-      "pubDate": "2026-10-20T12:28:43+00:00",
-      "categories": [
-        "politics",
-        "sports"
-      ],
-      "image": "https://npcdn.ratopati.com/media/news/IiCeWCwozv.jpg",
-      "images": [
-        "https://npcdn.ratopati.com/media/news/IiCeWCwozv.jpg"
-      ],
-      "description": "भक्तपुर । दसैँ पर्वमा महिषासुरको प्रतीक मानिने ठूलो राँगोलाई दौडाएर मनाइने ‘खम्ये’ जात्रा मंगलबार साँझ सम्पन्न भएको छ। श्री नवदुर्गा देवगण जात्रा तथा मन्दिर व्यवस्थापन संस्थाका सल्लाहकार नारायणमान बनमालाका अनुसार यो वर्षको जात्रा अन्य वर्षको तुलनामा"
-    },
-    {
       "id": "0a1a3eb52e71425f",
       "title": "फ्रान्स किन यति लाचार देखिँदैछ ?",
       "link": "https://www.onlinekhabar.com/2026/10/2041883/why-does-france-look-so-helpless",
@@ -1555,23 +2022,6 @@
       "image": "",
       "images": [],
       "description": "BEIJING, Oct. 20 (Xinhua) -- China has issued a development plan for the advertising industry during the 15th Five-Year..."
-    },
-    {
-      "id": "252c413b82120502",
-      "title": "विजयादशमीको दौडदेखि गोरखा राज्यसम्म द्रव्य शाहको यात्रा",
-      "link": "https://www.ratopati.com/story/600670/dravi-shahs-journey-from-the-vijayadashami-race-to-the-gorkha-kingdom",
-      "source": "Ratopati",
-      "sourceUrl": "https://ratopati.com/feed",
-      "pubDate": "2026-10-20T12:26:44+00:00",
-      "categories": [
-        "politics",
-        "sports"
-      ],
-      "image": "https://npcdn.ratopati.com/media/news/JLpOH3gLH5.jpg",
-      "images": [
-        "https://npcdn.ratopati.com/media/news/JLpOH3gLH5.jpg"
-      ],
-      "description": "लमजुङ। नेपाली समाजमा धार्मिक, सांस्कृतिक र ऐतिहासिक महत्व बोकेको विजयादशमी पर्वसँग जोडिएको गोरखाको लिगलिगकोटको परम्परा पनि नेपालको इतिहासमा चर्चित छ । प्रचलित जनश्रुतिअनुसार विजयादशमीका दिन लिगलिगकोटमा दौड आयोजना गरिन्थ्यो र दौडमा प्रथम हुने व्यक्ति राजा बन्ने"
     },
     {
       "id": "63ab555b6bcc2e37",
@@ -2122,42 +2572,6 @@
       "description": "काठमाडौँ- बलिउड अभिनेता टाइगर श्राफको कारमाथि शनिबार भएको आक्रमणपपछि मुम्बई प्रहरीले उनलाई सुरक्षा प्रदान गरेको छ भने स्थानीय प्रहरी चौकीले एक अधिकारी र थप प्रहरीकर्मीहरू खटाएको छ। समाचार एजेन्सी एनआईलाई उद्धृत गर्दै बीबीसीले जनाएअनुसार यो घटनामा राजस्थानको कोटाबाट तीन जना अभियुक्तलाई पक्राउ गरिएको छ र सोधपुछका लागि उनीहरूलाई मुम्बई प्रहरीको जिम्मा लगाइएको छ। मुम्बई प्रहरीका […]"
     },
     {
-      "id": "208a5b58ea5d3912",
-      "title": "‘शोबाट बाहिर आएपछि मैले मनोचिकित्सककहाँ जानुपर्‍यो’, बिग बोसबारे तनिषा मुखर्जीको खुलासा",
-      "link": "https://www.onlinekhabar.com/2026/10/2041967/i-had-to-go-to-a-psychiatrist-after-leaving-the-show-tanisha-mukherjee-reveals-about-bigg-boss",
-      "source": "Online Khabar",
-      "sourceUrl": "https://www.onlinekhabar.com/feed",
-      "pubDate": "2026-10-20T10:43:45+00:00",
-      "categories": [
-        "politics",
-        "business",
-        "sports",
-        "technology",
-        "entertainment"
-      ],
-      "image": "",
-      "images": [],
-      "description": "रियालिटी शो ‘बिग बोस’मा प्रायः झगडा, प्रेम र मित्रताका कथा देख्न पाइन्छन् । हालै अभिनेत्री तनिषा मुखर्जीले शोमा सहभागीहरूबीच सम्बन्ध विकास गराउन विशेष परिस्थितिहरू सिर्जना गरिने दाबी गरेकी छन् । उनले अभिनेता अरमान कोहलीसँगको आफ्नो सम्बन्धबारे पनि खुलेर कुरा गरेकी छन् । ‘बिग बोस’मा जानुअघि शोबारे पूर्ण जानकारी थिएन युट्युब च्यानल ‘अनफोल्डिङ ह्युमन्स’सँगको कुराकानीमा तनिषाले […]"
-    },
-    {
-      "id": "9f620004bb0c333c",
-      "title": "लिम्बुवानको इतिहास बोकेका निशान, पूर्वको दशैंमा मौलो काट्ने परम्परा",
-      "link": "https://www.onlinekhabar.com/2026/10/2041956/traces-of-limbuwan-history-the-tradition-of-cutting-maulo-during-dashain-in-the-east",
-      "source": "Online Khabar",
-      "sourceUrl": "https://www.onlinekhabar.com/feed",
-      "pubDate": "2026-10-20T10:23:00+00:00",
-      "categories": [
-        "politics",
-        "business",
-        "sports",
-        "technology",
-        "entertainment"
-      ],
-      "image": "",
-      "images": [],
-      "description": "३ कार्तिक, तेह्रथुम । दशैंको नवमी । गाउँघरमा दुर्गा भवानीको पूजा आराधना चलिरहेको हुन्छ । पूर्वी नेपालको लिम्बुवान क्षेत्रमा भने यही दिन पुस्तौँदेखि चल्दै आएको एउटा ऐतिहासिक परम्परा छ । पुराना हातहतियारसहितका निशान निकालिन्छन्, विधिपूर्वक पूजाआजा गरिन्छ र कतिपय स्थानमा निशान नचाउँदै मौलो काटिन्छ । धार्मिक आस्था र सांस्कृतिक अभ्याससँग जोडिएको यो परम्पराले लिम्बू समुदायको […]"
-    },
-    {
       "id": "3ad72eb55dbc34fa",
       "title": "पानीमा बिलाएको एउटा गाउँ जहाँ 'कोहिनूर हीरा भेटिन्थ्यो', अहिले पनि खोजिन्छ",
       "link": "https://www.bbc.com/nepali/articles/cmly0q84ev1do?at_medium=RSS&at_campaign=rss",
@@ -2244,78 +2658,6 @@
       "description": "काठमाडौं । बडादशैंअन्तर्गत महानवमीका दिन काठमाडौं उपत्यकाका सडकमा सवारीसाधनको चाप निकै कम देखिएको छ। दसैँ मनाउन ठूलो संख्यामा सर्वसाधारण उपत्यकाबाट बाहिरिएपछि सडकमा सवारीसाधनको आवागमन घटेको हो। महानवमीका दिन सवारीसाधनको पूजा गर्ने परम्पराले पनि सडकमा सवारीसाधन कम देखिएका छन्। काठमाडौं उपत्यका ट्राफिक प्रहरी कार्यालयका अनुसार घटस्थापनादेखि हालसम्म पाँच लाख ७६ हजारभन्दा बढी सर्वसाधारण उपत्यकाबाट बाहिरिएका छन्। […]"
     },
     {
-      "id": "08e953040b27d8de",
-      "title": "टाइगरमाथि आक्रमणको योजना बनाएको दुई महिनापछि ऋतिकले खौरिए टाउको",
-      "link": "https://www.onlinekhabar.com/2026/10/2041950/hrithik-shaves-his-head-two-months-after-planning-attack-on-tiger",
-      "source": "Online Khabar",
-      "sourceUrl": "https://www.onlinekhabar.com/feed",
-      "pubDate": "2026-10-20T09:53:06+00:00",
-      "categories": [
-        "politics",
-        "business",
-        "sports",
-        "technology",
-        "entertainment"
-      ],
-      "image": "",
-      "images": [],
-      "description": "बलिउड अभिनेता टाइगर श्राफमाथि गोली प्रहार गरेको घटनामा पक्राउ परेका आरोपी ऋतिकले आफ्नो पहिचान लुकाउन टाउको खौरिएको खुलासा भएको छ । आक्रमणको योजना बनेको करिब दुई महिनापछि ऋतिकले आफ्नो रूप परिवर्तन गरेका थिए । पहिले लामो कपाल पालेका ऋतिकले पछि पूरै टाउको खौरिएको बताइएको छ । यसो गर्दा आफू बसेको क्षेत्रका मानिसहरूले सजिलै चिन्न नसक्ने […]"
-    },
-    {
-      "id": "0e8169633c94068c",
-      "title": "ट्रम्पको दाबी- पेरिस चाँडै मुस्लिम सहर बन्नेछ, म्याक्रोंको अध्यागमन नीतिलाई दिए दोष",
-      "link": "https://www.onlinekhabar.com/2026/10/2041944/trump-claims-paris-will-soon-become-a-muslim-city-blames-macrons-immigration-policy",
-      "source": "Online Khabar",
-      "sourceUrl": "https://www.onlinekhabar.com/feed",
-      "pubDate": "2026-10-20T09:43:34+00:00",
-      "categories": [
-        "politics",
-        "business",
-        "sports",
-        "technology",
-        "entertainment"
-      ],
-      "image": "",
-      "images": [],
-      "description": "३ कात्तिक, काठमाडौं । अमेरिकी राष्ट्रपति डोनाल्ड ट्रम्पले सोमबार पेरिस चाँडै मुस्लिम सहर बन्ने दाबी गरेका छन्। उनले फ्रान्समा जारी हिंसाका लागि राष्ट्रपति इमानुएल म्याक्रोंको अध्यागमन नीतिलाई जिम्मेवार ठहराएका छन्। ट्रम्प लामो समयदेखि अध्यागमनमा कडाइ गर्नुपर्ने पक्षमा वकालत गर्दै आएका छन्। ट्रम्पले करिब ८ वर्षअघि नै आफूले म्याक्रोंलाई अन्य देशबाट आउने मानिसहरूलाई ठूलो सङ्ख्यामा फ्रान्समा […]"
-    },
-    {
-      "id": "11f730d48c736c8b",
-      "title": "भारु २ करोडमा बनेको फिल्मले कसरी ३ सय करोड कमायो ?",
-      "link": "https://www.onlinekhabar.com/2026/10/2041939/how-did-a-film-made-for-rs-2-crore-earn-rs-300-crore",
-      "source": "Online Khabar",
-      "sourceUrl": "https://www.onlinekhabar.com/feed",
-      "pubDate": "2026-10-20T09:38:49+00:00",
-      "categories": [
-        "politics",
-        "business",
-        "sports",
-        "technology",
-        "entertainment"
-      ],
-      "image": "",
-      "images": [],
-      "description": "करिब पाँच दशकअघि संसार छाडेका एक सन्त, उत्तराखण्डका पहाडमा बनेको एउटा आश्रम र ती सन्तको जीवनबाट प्रेरित एउटा फिल्म । फिल्मको सुरुवात ठूला हिन्दी फिल्मको जस्तो थिएन । तर, अहिले यो फिल्म चर्चाको केन्द्रमा छ । यसको मुख्य कारण हो, ‘हनुमान अंश’ नामक फिल्मले बक्स अफिसमा हासिल गरेको सफलता । प्रसिद्ध फिल्म समीक्षक तरण आदर्शका […]"
-    },
-    {
-      "id": "f2c8b17829bf784a",
-      "title": "डोल्पा र जाजरकोटबाट जटिल प्रसूति भएकी महिलाको उद्धार, उपचारका लागि सुर्खेत लगियो",
-      "link": "https://www.onlinekhabar.com/2026/10/2041941/woman-with-complicated-labor-rescued-from-dolpa-and-jajarkot-taken-to-surkhet-for-treatment",
-      "source": "Online Khabar",
-      "sourceUrl": "https://www.onlinekhabar.com/feed",
-      "pubDate": "2026-10-20T09:36:46+00:00",
-      "categories": [
-        "politics",
-        "business",
-        "sports",
-        "technology",
-        "entertainment"
-      ],
-      "image": "",
-      "images": [],
-      "description": "३ कात्तिक, सुर्खेत । डोल्पा र जाजरकोटबाट जटिल प्रसूति भएकी महिलाको हवाई उद्धार गरी सुर्खेत पुर्‍याइएको छ । डोल्पाको विकट बस्तीमा साल अड्किएर जटिल अवस्थामा रहेकी एक गर्भवती महिलाको उद्धार गरी थप उपचारका लागि सुर्खेत लगिएको छ । शे–फोक्सुण्डो गाउँपालिका–४ नाम्दोकी २८ वर्षीया पेम्मा आङमो गुरुङको गर्भावस्थामा साल अड्किएपछि अवस्था जटिल बनेको थियो । उनलाई […]"
-    },
-    {
       "id": "aac2ba3aaf39d086",
       "title": "जटिल प्रसूति समस्या देखिएका दुई किशोरीको हवाई उद्धार गरी सुर्खेत पुर्‍याइयो",
       "link": "https://himalpress.com/2026/10/two-teenage-girls-with-complicated-obstetric-problems-were-airlifted-to-surkhet/",
@@ -2332,24 +2674,6 @@
       "description": "काठमाडौँ– जाजरकोटको कुशे गाउँपालिका–२ की १७ वर्षीया किशाेरीलाई जटिल प्रसूति समस्या देखिएपछि हवाई उद्धार गरी सुर्खेत पुर्‍याइएको छ । महिला, बालबालिका, लैङ्गिक तथा यौनिक अल्पसङ्ख्यक र सामाजिक सुरक्षा मन्त्रालयले राष्ट्रिय महिला सशक्तीकरण परियोजनाअन्तर्गत सञ्चालन गरेको गर्भवती तथा सुत्केरीको हवाई उद्धार कार्यक्रममार्फत ती महिलाको उद्धार गरिएका जनाएको छ । निजको उद्धारमा नेपाली सेनाको हेलिकप्टर प्रयोग गरिएको […]"
     },
     {
-      "id": "6b80fcd87f9a0e24",
-      "title": "चालु वर्ष विपद्बाट ३८६ जनाको मृत्यु, सर्पदंशबाट मात्रै ११० जनाको ज्यान गयो",
-      "link": "https://www.onlinekhabar.com/2026/10/2041938/386-people-died-from-disasters-this-year-110-from-snakebites-alone",
-      "source": "Online Khabar",
-      "sourceUrl": "https://www.onlinekhabar.com/feed",
-      "pubDate": "2026-10-20T09:27:22+00:00",
-      "categories": [
-        "politics",
-        "business",
-        "sports",
-        "technology",
-        "entertainment"
-      ],
-      "image": "",
-      "images": [],
-      "description": "३ कात्तिक, काठमाडौं । चालु आर्थिक वर्ष २०८३ को वैशाख १ देखि कात्तिक ३ गतेसम्म देशभर भएका विपद्का घटनामा ३८६ जनाको मृत्यु भएको छ । राष्ट्रिय विपद् जोखिम न्यूनीकरण तथा व्यवस्थापन प्राधिकरणको तथ्यांकअनुसार यस अवधिमा सबैभन्दा धेरै मानवीय क्षति सर्पदंशबाट भएको छ । यो तथ्याङ्कमा भोटेकोशी र बूढीगण्डकी बाढीको तथ्याङ्क समावेश छैन । प्राधिकरणका अनुसार […]"
-    },
-    {
       "id": "aeae74fbfbb19aad",
       "title": "एकैदिनमा विपत् घटनामा एक जनाको मृत्यु, ११ घाइते",
       "link": "https://himalpress.com/2026/10/one-person-killed-11-injured-in-single-day-disaster/",
@@ -2364,24 +2688,6 @@
       "image": "",
       "images": [],
       "description": "काठमाडाैँ– गत २४ घण्टामा भएका २४ वटा विपद्का घटनामा एक जनाको मृत्यु भएको छ भने अन्य ११ जना घाइते भएका छन् । विपत्तिका घटनाबाट रु १८ लाख दुई हजार ५०० बराबरको क्षति भएको छ । राष्ट्रिय विपद् जोखिम न्यूनीकरण तथा व्यवस्थापन प्राधिकरणका अनुसार आगलागीका १५, सर्पदंशका पाँच र जनावर आक्रमणको एउटा घटना भएको छ । […]"
-    },
-    {
-      "id": "30eb79665f354d2f",
-      "title": "सरकारले गिरफ्तार वा यातना दिन सक्छ, तर पनि डिसेम्बरमा बङ्गलादेश फर्किन्छु : शेख हसिना",
-      "link": "https://www.onlinekhabar.com/2026/10/2041935/government-may-arrest-or-torture-me-but-i-will-still-return-to-bangladesh-in-december-sheikh-hasina",
-      "source": "Online Khabar",
-      "sourceUrl": "https://www.onlinekhabar.com/feed",
-      "pubDate": "2026-10-20T09:21:25+00:00",
-      "categories": [
-        "politics",
-        "business",
-        "sports",
-        "technology",
-        "entertainment"
-      ],
-      "image": "",
-      "images": [],
-      "description": "३ कात्तिक, काठमाडौं । बङ्गलादेशकी पूर्वप्रधानमन्त्री शेख हसिनाले मङ्गलबार आफू डिसेम्बरमा स्वदेश फर्किने बताएकी छन्। भारतीय सञ्चार माध्यमहरूका अनुसार, उनले मंगलबार भनेकी छन्, ‘बङ्गलादेशको वर्तमान तारिक रहमान सरकारले मलाई गिरफ्तार गर्न सक्छ, मार्न सक्छ वा यातना दिन सक्छ, तर जतिसुकै खतरा भए पनि मलाई त्यसको पर्वाह छैन। म मेरो देश फर्किनैपर्छ।’ उनले आफू तारिक रहमानको […]"
     },
     {
       "id": "f9c0a7b40e32841e",
@@ -2402,24 +2708,6 @@
       "description": ""
     },
     {
-      "id": "6124b0d8a32d6d55",
-      "title": "मधुमेह छ भन्दैमा दसैँको स्वाद किन छोड्ने ?",
-      "link": "https://www.onlinekhabar.com/2026/10/2035600/why-should-you-miss-out-on-the-taste-of-dashain-just-because-you-have-diabetes",
-      "source": "Online Khabar",
-      "sourceUrl": "https://www.onlinekhabar.com/feed",
-      "pubDate": "2026-10-20T09:16:47+00:00",
-      "categories": [
-        "politics",
-        "business",
-        "sports",
-        "technology",
-        "entertainment"
-      ],
-      "image": "",
-      "images": [],
-      "description": "दसैंको रमाइलो नै खानपिनमा छ । मिठो खाने, परिवारसँग बसेर खाने र मन लागेको परिकारको स्वाद लिने । तर, यही रमाइलोको बीचमा कतिपयलाई भने पीर पर्न थाल्छ । मुख बार्नुपर्ने रोग मधुमेह छ, अब के खाने ? छाकै पिच्छे भान्सामा पाक्ने मासुको बास्नाले तान्छ । देख्दा खान मन लाग्छ । मिठाई देख्दा जिब्रो रसाउँछ । […]"
-    },
-    {
       "id": "fbfbbf3346197b9e",
       "title": "Devotees throng Budha Subba Temple to fulfil vows",
       "link": "https://english.khabarhub.com/2026/20/572697/",
@@ -2434,21 +2722,6 @@
       "image": "",
       "images": [],
       "description": "SUNSARI: Devotees have flocked to the Budha Subba Temple in Bijayapur, Dharan Sub-Metropolitan City-14, to offer prayers and perform rituals during the Bada Dashain festival. The temple has witnessed a large turnout since morning on Maha Nawami, when special worship of Goddess Durga is performed, traditionally accompanied by the sacrifice of roosters. According to temple […]"
-    },
-    {
-      "id": "38d9439f37fa6c17",
-      "title": "दशैंको खानपान र ग्यास्ट्राइटिस",
-      "link": "https://nepallive.com/story/292278",
-      "source": "Nepal Live",
-      "sourceUrl": "https://nepallive.com/feed",
-      "pubDate": "2026-10-20T09:14:00+00:00",
-      "categories": [
-        "politics",
-        "technology"
-      ],
-      "image": "",
-      "images": [],
-      "description": "अत्यधिक चिल्लो र मसालेदार खानपानले मानव स्वास्थ्यमा प्रत्यक्ष प्रभाव पार्छ। बढी चिल्लो, तारेको, अमिलो, पिरो, नुनिलो तथा मसालेदार खानाको अत्यधिक सेवनले पेटमा पनि गडबढी हुनसक्छ। विशेषगरी पेटको समस्या धेरैमा देखिने भनेको ग्यास्ट्राइटिस नै हो।"
     },
     {
       "id": "1ad910b2cf992a76",
@@ -2761,22 +3034,6 @@
       "description": "गोरखापत्र अनलाइनकाठमाडौँ, कात्तिक ३ गते । राष्ट्रपति रामचन्द्र पौडेलले बडादसैँ २०८३ का अवसरमा नवकन्याहरूको (९ जना कन्या) विधिपूर्वक पूजाअर्चना गर्नुभएको छ । बडादसैँको अवसरमा नवदुर्..."
     },
     {
-      "id": "26fd80ea718bdfdb",
-      "title": "One killed, another injured in elephant attack in Jhapa",
-      "link": "https://english.khabarhub.com/2026/20/572685/",
-      "source": "Khabarhub",
-      "sourceUrl": "https://english.khabarhub.com/feed/",
-      "pubDate": "2026-10-20T07:15:09+00:00",
-      "categories": [
-        "politics",
-        "business",
-        "world"
-      ],
-      "image": "",
-      "images": [],
-      "description": "JHAPA: A 70-year-old woman was killed and an elderly man injured in an elephant attack at Janata Chowk in Bahradashi Rural Municipality-2, Jhapa, on Tuesday. The deceased has been identified as Lajuma Khatun, a local resident. According to Ranjan Awal, information officer at the District Police Office, Jhapa, Khatun was attacked by two elephants near […]"
-    },
-    {
       "id": "bbda147a49b991f9",
       "title": "मङ्गल ग्रहको चन्द्रमाको टुक्रा लिन एउटा मिसन मङ्गलतर्फ रवाना",
       "link": "https://www.bbc.com/nepali/articles/cmy56pz7zdzdo?at_medium=RSS&at_campaign=rss",
@@ -2951,6 +3208,23 @@
       "description": "काठमाडौँ । दशैँमा रक्सी खाएर सवारी साधन चलाउने ६ सय बढी कारवाहीमा परेका छन् । ट्राफिक प्रहरीले हालसम्म काठमाडौँमा ६ सय ६३ जनालाई कारवाही गरेको हो । उनीहरु सबैलाई दशैँ सुरु भएयता कारवाही गरिएको उपत्यका ट्राफिक प्रहरी कार्यालयले जनाएको छ । कारवाहीमा पर्नेमा केहीलाई पटके कारवाही गरिएको छ भने अधिकांशलाई पहिलो पटक कारवाही गरिएको ट्राफिक Continue reading \"‘एक्सन’मा ट्राफिक प्रहरीः दशैँ सुरु भएदेखि रक्सी खाएर सवारी चलाउने ६ सय ६३ जनालाई कारवाही\""
     },
     {
+      "id": "3e06f0fd811b586b",
+      "title": "One killed, another injured in elephant attack in Jhapa",
+      "link": "https://risingnepaldaily.com/news/87952",
+      "source": "The Rising Nepal",
+      "sourceUrl": "https://risingnepaldaily.com/rss",
+      "pubDate": "2026-10-20T06:47:09+00:00",
+      "categories": [
+        "politics",
+        "business",
+        "world",
+        "sports"
+      ],
+      "image": "",
+      "images": [],
+      "description": "Jhapa, Oct 20: A 70-year-old woman was killed and an elderly man injured in an elephant attack at Janata Chowk in Bahrad..."
+    },
+    {
       "id": "e0b88c8549e445a6",
       "title": "तलेजुमा हुन्छ ३६५ दिन नै नित्य पूजा : मन्दिर कहिले बन्यो, कहाँ कहाँ छिन् इष्टदेवी?",
       "link": "https://bizmandu.com/content/20261020123123.html",
@@ -2964,22 +3238,6 @@
       "image": "",
       "images": [],
       "description": "काठमाडौं । आज महानवमी। हनुमानढोका दरबार क्षेत्रमा रहेको तलेजु भवानीको मन्दिरमा आज बिहानदेखि दर्शनार्थीको घुइँचो लागेको छ। लामो लाइन बसेर उनीहरु मन्दिर दर्शनमा जाँदैछन्। दशैंको महानवमीका दिन मात्र सर्वसाधरणका लागि यो मन्दिर खुला गरिन्छ। देशकै इष्टदेवीका रुपमा रहेकी तलेजु भवानीको दर्शनका लागि उपत्यका वरपरबाट थुप्रै दर्शनार्थी हनुमानढोका पुग्ने गर्छन्। तलेजु मन्दिरमा वर्षको ३६५ दिन नै […] The post तलेजुमा हुन्छ ३६५ दिन नै नित्य पूजा : मन्दिर कहिले बन्यो, कहाँ कहाँ छिन् इष्टदेवी? appeared first on B"
-    },
-    {
-      "id": "5631fe08d4d260a4",
-      "title": "President Paudel worships Nawakanya",
-      "link": "https://english.khabarhub.com/2026/20/572688/",
-      "source": "Khabarhub",
-      "sourceUrl": "https://english.khabarhub.com/feed/",
-      "pubDate": "2026-10-20T06:37:57+00:00",
-      "categories": [
-        "politics",
-        "business",
-        "world"
-      ],
-      "image": "",
-      "images": [],
-      "description": "KATHMANDU: President Ram Chandra Paudel performed a worship ceremony honoring Nawakanya (nine virgin girls) at Rastrapati Bhawan, Sheetal Niwas, on Tuesday on the occasion of Maha Nawami, the ninth day of the Bada Dashain festival. The President observes the annual tradition of worshipping nine virgin girls as part of the Maha Nawami celebrations. First Lady […]"
     },
     {
       "id": "eb24e71560373b39",
@@ -3099,22 +3357,6 @@
         "https://gorkhapatraonline.com/storage/media/388663/conversions/Bom-1-original.jpg"
       ],
       "description": "नौरते नेपाली‎सिँजा (जुम्ला), कात्तिक ३ गते । ‎जुम्लाको हिमा गाउँपालिका –२ ओदीमा युद्धकालीन बम विस्फोट हुँदा दुई जना घाइते भएका छन्। सोमबार बिहान बम विस्फोट हुँदा हिमा गाउँपालिका–२..."
-    },
-    {
-      "id": "0605d57b0e401ba0",
-      "title": "Chitwan removes 3,362 names from voter register",
-      "link": "https://english.khabarhub.com/2026/20/572680/",
-      "source": "Khabarhub",
-      "sourceUrl": "https://english.khabarhub.com/feed/",
-      "pubDate": "2026-10-20T06:15:08+00:00",
-      "categories": [
-        "politics",
-        "business",
-        "world"
-      ],
-      "image": "",
-      "images": [],
-      "description": "CHITWAN: The District Election Office in Chitwan has removed 3,362 names from the district’s electoral roll as part of an initiative to update voter records. The names were deleted after authorities identified duplicate registrations, deceased individuals and people who had renounced their Nepali citizenship. Of the total, 1,943 entries were removed due to duplicate registrations. […]"
     },
     {
       "id": "cacc477c6160e35a",
@@ -3251,22 +3493,6 @@
         "https://bizmandu.com/wp-content/uploads/2026/10/matchaiya-jinjhiya-10-1024x683.jpg"
       ],
       "description": "सिरहा । सिरहाको मिर्चैया बजारमा नवरात्रीको विशेष उल्लास छाएको छ। दसैं तथा नवरात्रको अवसरमा यहाँ विभिन्न सांस्कृतिक तथा धार्मिक कार्यक्रमहरूको आयोजना भइरहेको छ। आज महाअष्टमीका दिन बलि दिने र शक्तिपीठमा पूजा गर्न पुग्नेको घुइँचो छ। दुर्गाको प्रतिमा राखिएको पण्डाल र मन्दिरहरुमा मानिसहरु पुगिरहेका छन्। यस वर्षको नवरात्र महोत्सवमा मैथिली समुदायको ऐतिहासिक तथा सांस्कृतिक झिझिया नाच […] The post सिरहाको मिर्चैयामा नवरात्रको उल्लास, झिझिया नाच मुख्य आकर्षण (तस्विरहरु) appeared first on BIZMANDU ."
-    },
-    {
-      "id": "577f88c0aece94f1",
-      "title": "Damage to Beni-Jomsom-Korala road estimated at nearly Rs 1 billion",
-      "link": "https://english.khabarhub.com/2026/20/572677/",
-      "source": "Khabarhub",
-      "sourceUrl": "https://english.khabarhub.com/feed/",
-      "pubDate": "2026-10-20T05:45:18+00:00",
-      "categories": [
-        "politics",
-        "business",
-        "world"
-      ],
-      "image": "",
-      "images": [],
-      "description": "MYAGDI: Damage to infrastructure along the Beni-Jomsom-Korala road is estimated at nearly Rs 1 billion. According to the Beni-Jomsom-Korala Road Project, an additional budget of Rs 3 billion to Rs 4 billion will be required to restore the road damaged by landslides, floods and erosion along the Kaligandaki River following heavy rainfall from September 24 […]"
     },
     {
       "id": "d60346af01f60b2c",
@@ -3589,24 +3815,6 @@
       "description": ""
     },
     {
-      "id": "15b0feb6375a573c",
-      "title": "महानवमीमा मात्रै खुल्ने तलेजु भवानी मन्दिरमा भक्तजनको घुइँचो",
-      "link": "https://newsofnepal.com/2026/10/20/791895/",
-      "source": "News of Nepal",
-      "sourceUrl": "https://newsofnepal.com/feed/",
-      "pubDate": "2026-10-20T03:36:25+00:00",
-      "categories": [
-        "politics",
-        "business",
-        "sports"
-      ],
-      "image": "https://newsofnepal.com/wp-content/uploads/2026/10/IMG_20261020_065320-150x150.jpg",
-      "images": [
-        "https://newsofnepal.com/wp-content/uploads/2026/10/IMG_20261020_065320-150x150.jpg"
-      ],
-      "description": "Oplus_16908288 \" data-medium-file=\"https://newsofnepal.com/wp-content/uploads/2026/10/IMG_20261020_065320-400x220.jpg\" data-large-file=\"https://newsofnepal.com/wp-content/uploads/2026/10/IMG_20261020_065320.jpg\" />काठमाडौं । वर्षमा एकपटक महानवमीका दिन मात्रै खुल्ने हनुमानढोका दरबार क्षेत्रस्थित तलेजु भवानी मन्दिर आज बिहान ५ बजेदेखि सर्वसाधारणका लागि खुला गरिएको छ। मन्दिर खुलेसँगै पूजा, आराधना तथा दर्शनका लागि बिहानैदेखि भक्तजनको घुइँचो लागेको छ। भक्तजनलाई सहज रूपमा दर्शन गराउने व्यवस्था मिलाइएको"
-    },
-    {
       "id": "73ecf21cad0fec8f",
       "title": "मालीमा सशस्त्र आक्रमणमा ५० जनाको मृत्यु",
       "link": "https://www.nepalviews.com/story/426961/50-killed-in-armed-attack-in-mali",
@@ -3765,24 +3973,6 @@
       "description": ""
     },
     {
-      "id": "098271c30d46235e",
-      "title": "असोज महिनामा उदयपुर जिल्ला प्रहरी कार्यालयमा विभिन्न प्रकृतिका ४२ वटा मुद्दा",
-      "link": "https://newsofnepal.com/2026/10/20/791891/",
-      "source": "News of Nepal",
-      "sourceUrl": "https://newsofnepal.com/feed/",
-      "pubDate": "2026-10-20T02:27:46+00:00",
-      "categories": [
-        "politics",
-        "business",
-        "sports"
-      ],
-      "image": "https://newsofnepal.com/wp-content/uploads/2026/10/Messenger_creation_Q8HtBALdZKlwxDpw_Z0TVdGFZm1Y8yOF67hoD5MymGLzFQ84z53xQlQrN0V2-vOeRtfnnPUNaBCSwpjnJUdMb1NZb_VQRUwS3rFR-150x150.jpeg",
-      "images": [
-        "https://newsofnepal.com/wp-content/uploads/2026/10/Messenger_creation_Q8HtBALdZKlwxDpw_Z0TVdGFZm1Y8yOF67hoD5MymGLzFQ84z53xQlQrN0V2-vOeRtfnnPUNaBCSwpjnJUdMb1NZb_VQRUwS3rFR-150x150.jpeg"
-      ],
-      "description": "उदयपुर । जिल्ला प्रहरी कार्यालय उदयपुर र मातहतका प्रहरी कार्यालयमा २०८३ असोज महिनामा विभिन्न प्रकृतिका ४२ वटा मुद्दा दर्ता भएका छन् । जिल्ला प्रहरी कार्यालय उदयपुरले सोमबार सार्वजनिक गरेको विवरणअनुसार दर्ता मुद्दामध्ये १६ वटा सामान्य प्रकृतिका र २२ वटा गम्भीर प्रकृतिका रहेका छन् । बाँकी चार मुद्दाको प्रकृति भने विवरणमा स्पष्ट खुलाइएको छैन । महिला […]"
-    },
-    {
       "id": "3a5777a5f82b6a6e",
       "title": "चीन र भारतलाई जोड्ने बेनी–जोमसोम–कोरला सडकमा करिब एक अर्ब बराबरको भौतिक संरचनाहरुको क्षति",
       "link": "https://himalpress.com/2026/10/damage-to-physical-infrastructure-worth-about-one-billion-on-the-beni-jomsom-korla-road-connecting-china-and-india/",
@@ -3815,24 +4005,6 @@
         "https://nepalviews.cdnsolution.net/en/media/setting/banner_FHsSzcWYKk.jpg"
       ],
       "description": ""
-    },
-    {
-      "id": "25d0c5711f72d4de",
-      "title": "पोखरा–जोमसोम हवाई सेवा स्थगित, चार्टर उडान भने जारी",
-      "link": "https://newsofnepal.com/2026/10/20/791887/",
-      "source": "News of Nepal",
-      "sourceUrl": "https://newsofnepal.com/feed/",
-      "pubDate": "2026-10-20T02:17:35+00:00",
-      "categories": [
-        "politics",
-        "business",
-        "sports"
-      ],
-      "image": "https://newsofnepal.com/wp-content/uploads/2026/10/IMG_20261020_073404-1-150x150.jpg",
-      "images": [
-        "https://newsofnepal.com/wp-content/uploads/2026/10/IMG_20261020_073404-1-150x150.jpg"
-      ],
-      "description": "Oplus_16908288 \" data-medium-file=\"https://newsofnepal.com/wp-content/uploads/2026/10/IMG_20261020_073404-1-376x220.jpg\" data-large-file=\"https://newsofnepal.com/wp-content/uploads/2026/10/IMG_20261020_073404-1.jpg\" />मुस्ताङ । पोखरा–जोमसोम रुटमा सञ्चालन हुँदै आएको नियमित हवाई सेवा स्थगित भएको छ। पर्यटकीय याम नसकिँदै तारा एयर र समिट एयरले नियमित उडान बन्द गरेका हुन्। जोमसोमस्थित नागरिक उड्डयन कार्यालयका प्रमुख विश्वराज शर्माका अनुसार तारा एयरले अघिल्लो सातादेखि र समिट एयरले सोमबारदेखि नियमित उडा"
     },
     {
       "id": "3fef04291200c542",
@@ -3874,24 +4046,6 @@
       "source": "Nepal Views",
       "sourceUrl": "https://www.nepalviews.com/feed/",
       "pubDate": "2026-10-20T01:52:29+00:00",
-      "categories": [
-        "politics",
-        "business",
-        "technology"
-      ],
-      "image": "https://nepalviews.cdnsolution.net/en/media/setting/banner_FHsSzcWYKk.jpg",
-      "images": [
-        "https://nepalviews.cdnsolution.net/en/media/setting/banner_FHsSzcWYKk.jpg"
-      ],
-      "description": ""
-    },
-    {
-      "id": "75e6f29b6a329525",
-      "title": "नवरात्रको अन्तिम दिन आज, महानवमी मनाइँदै",
-      "link": "https://www.nepalviews.com/story/426956/mahanavami-is-being-celebrated-today-the-last-day-of-navratri",
-      "source": "Nepal Views",
-      "sourceUrl": "https://www.nepalviews.com/feed/",
-      "pubDate": "2026-10-20T01:43:31+00:00",
       "categories": [
         "politics",
         "business",
@@ -3969,24 +4123,6 @@
       "description": "काठमाडौं । सोमबार स्थिर रहेको अमेरिकी डलरको विनिमय दर आज घटेको छ। डलरको खरिद दर आज १५१.५९ रुपैयाँ र बिक्री दर १५२.१९ रुपैयाँ छ। युरो र पाउण्डको मूल्यमा पनि गिरावट आएको छ। युरोको बिक्री दर १७०.५७ रुपैयाँ र पाउण्डको २०२.८२ रुपैयाँ कायम भएको छ। आज अष्ट्रेलियन डलरको मूल्य बढेर बिक्री दर १०६.२४ रुपैयाँ पुगेको छ। […] The post अमेरिकी र सिंगापुर डलरको विनिमय दर घट्दा बढ्यो अष्ट्रेलियन र क्यानेडियन डलरको मूल्य appeared first on BIZMANDU ."
     },
     {
-      "id": "edb171d12a1dc81e",
-      "title": "प्राकृतिक विपत्तिमा बौद्ध दर्शन : करुणा, प्रज्ञा र सामूहिक जिम्मेवारी",
-      "link": "https://www.nepalviews.com/story/426950/buddhist-philosophy-on-natural-disasters-compassion-wisdom-and-collective-responsibility",
-      "source": "Nepal Views",
-      "sourceUrl": "https://www.nepalviews.com/feed/",
-      "pubDate": "2026-10-20T01:15:08+00:00",
-      "categories": [
-        "politics",
-        "business",
-        "technology"
-      ],
-      "image": "https://nepalviews.cdnsolution.net/en/media/setting/banner_FHsSzcWYKk.jpg",
-      "images": [
-        "https://nepalviews.cdnsolution.net/en/media/setting/banner_FHsSzcWYKk.jpg"
-      ],
-      "description": "धार्मिक दर्शनहरूमा उल्लेख गरिएका वाणीहरूलाई वर्तमान वैज्ञानिक चेतनासँग जोडेर विपत्‌को निकास दिनु नै उत्तम विकल्प हो । विविधि दृष्टिकोणबाट दुःख र विपत्‌मा बौद्ध दर्शनलाई उत्तम उपायको खोजमा लगाउनु नै सैद्धान्तिक मात्र नभएर वैज्ञानिक विषय हुन्छ ।"
-    },
-    {
       "id": "08554ea25e37057f",
       "title": "Nepali athletes remain busy with international competitions during Dashain",
       "link": "https://english.onlinekhabar.com/nepali-athletes-remain-busy-with-international-competitions-during-dashain.html",
@@ -4024,24 +4160,6 @@
       "description": "थोरै वा धेरै जति भए पनि दशैँमा पाएको दक्षिणालाई दैनिक आवश्यकताको खर्चमा प्रयोग गर्ने कि लगानी गर्ने वा सामाजिक वा मानवीय कार्यमा प्रयोग गर्ने?"
     },
     {
-      "id": "a07fde5c965b160d",
-      "title": "मर्चवारको पूर्वाधार विकासलाई प्राथमिकता दिन्छौँ : मन्त्री लम्साल",
-      "link": "https://www.nepalviews.com/story/426955/we-will-prioritize-infrastructure-development-in-marchwar-minister-lamsal",
-      "source": "Nepal Views",
-      "sourceUrl": "https://www.nepalviews.com/feed/",
-      "pubDate": "2026-10-20T01:06:07+00:00",
-      "categories": [
-        "politics",
-        "business",
-        "technology"
-      ],
-      "image": "https://nepalviews.cdnsolution.net/en/media/setting/banner_FHsSzcWYKk.jpg",
-      "images": [
-        "https://nepalviews.cdnsolution.net/en/media/setting/banner_FHsSzcWYKk.jpg"
-      ],
-      "description": ""
-    },
-    {
       "id": "4b6450f6c75a16f0",
       "title": "Mahanawami festival today",
       "link": "https://risingnepaldaily.com/news/87949",
@@ -4072,24 +4190,6 @@
       "image": "",
       "images": [],
       "description": "विश्वका सबैभन्दा धनी उद्यमीहरूको पैसा महँगा घर, निजी विमान र विलासी जीवनमा मात्र खर्च हुँदैन। उनीहरूले आफ्नो सम्पत्तिको ठूलो हिस्सा व्यवसाय विस्तार, कृत्रिम बौद्धिकता (एआई), अन्तरिक्ष प्रविधि, स्वास्थ्य अनुसन्धान र अन्य दीर्घकालीन परियोजनामा पनि लगानी गरिरहेका छन्। ब्लुमबर्ग, फाइनान्सियल टाइम्स र फर्च्युन लगायतका सञ्चारमाध्यमका पछिल्ला रिपोर्टले इलन मस्क, जेफ बेजोस, ल्यारी पेज, सर्गेई ब्रिन र […] The post मस्कदेखि जुकरबर्गसम्म : अर्बपतिहरूले के-केमा गर्छन् खर्च र लगानी? appeared first on BIZMAND"
-    },
-    {
-      "id": "3d0c3d3d97fad94b",
-      "title": "कस्तो रहला आजको मौसम ?",
-      "link": "https://www.nepalviews.com/story/426954/how-was-the-weather-today",
-      "source": "Nepal Views",
-      "sourceUrl": "https://www.nepalviews.com/feed/",
-      "pubDate": "2026-10-20T00:49:50+00:00",
-      "categories": [
-        "politics",
-        "business",
-        "technology"
-      ],
-      "image": "https://nepalviews.cdnsolution.net/en/media/setting/banner_FHsSzcWYKk.jpg",
-      "images": [
-        "https://nepalviews.cdnsolution.net/en/media/setting/banner_FHsSzcWYKk.jpg"
-      ],
-      "description": ""
     },
     {
       "id": "43bd9e5f5b8023a3",
@@ -4431,69 +4531,6 @@
       "description": "काठमाडौँ- फ्रान्सका गृहमन्त्री लोरँ न्युनेजले त्यहाँका धेरै सहरहरुमा हिंसात्मक प्रदर्शनपछि स्थिति प्रहरीको नियन्त्रणभन्दा बाहिर गएको बताएका छन्। उनले प्रशासनले स्थितिको गम्भीरताको आकलन गर्न असफल भएको स्वीकार गरेका छन्। उनले राजीनामा दिने प्रस्ताव पनि गरेका थिए। तर, फ्रान्सका राष्ट्रपति इमानुएल म्याक्रोनले उनलाई पदमा निरन्तर रहन आग्रह गरे। म्याक्रोनले न्युनेजलाई फ्रान्सका सडकहरुलाई सुरक्षित बनाउन र शनिबार तथा […]"
     },
     {
-      "id": "e8fb21f6a38087ff",
-      "title": "टाइगरमाथि गोली चलाउनेहरु पक्राउ, भारतीय प्रहरीको दाबी : दिल्ली हुँदै नेपाल भाग्ने योजना थियो",
-      "link": "https://bizmandu.com/content/20261019182321.html",
-      "source": "Bizmandu",
-      "sourceUrl": "https://bizmandu.com/feed",
-      "pubDate": "2026-10-19T12:38:21+00:00",
-      "categories": [
-        "business",
-        "technology"
-      ],
-      "image": "",
-      "images": [],
-      "description": "काठमाडौं । भारतीय अभिनेता टाइगर श्रोफमाथि गोली चलाउने तीनजना आक्रमणकारीलाई प्रहरीले पक्राउ गरेको छ। भारतीय प्रहरीले उनीहरुलाई भाग्दै गर्दा राजस्थानको कोटाबाट नियन्त्रणमा लिएको हो। सुटरहरुमा एक जना १७ वर्षीय नाबालक पनि रहेको प्रहरीले जनाएको छ। पक्राउ पर्नेमा २२ वर्षीय ऋतिक कुमार र १८ वर्षीय रेहान रहेका छन्। भारतीय प्रहरीले श्रोफमाथि गोली चलाएर सुटरहरु राजस्थानबाट दिल्ली […] The post टाइगरमाथि गोली चलाउनेहरु पक्राउ, भारतीय प्रहरीको दाबी : दिल्ली हुँदै नेपाल भाग्ने योजना थियो appeared first on BIZM"
-    },
-    {
-      "id": "bd1978cbe309b835",
-      "title": "‘नेपाल-बंगलादेशमा जस्तो हिंसात्मक होइन, भारतमा संविधानअनुसारै सत्ता ढल्छ’",
-      "link": "https://himalpress.com/2026/10/like-in-nepal-and-bangladesh/",
-      "source": "Himal Press",
-      "sourceUrl": "https://himalpress.com/feed/",
-      "pubDate": "2026-10-19T12:21:41+00:00",
-      "categories": [
-        "politics",
-        "business",
-        "society"
-      ],
-      "image": "",
-      "images": [],
-      "description": "काठमाडौँ- भारतका मुख्य निर्वाचन आयुक्त ज्ञानेश कुमारको राजीनामा माग्दै चलिरहेको विरोध प्रदर्शनलाई अब जिल्लास्तरसम्म विस्तार गरिने भएको छ। संयुक्त किसान मोर्चाको आह्वानपछि किसान संगठन, ट्रेड युनियन र दलित संगठनका नेताहरूले अभिनेता तथा सामाजिक कार्यकर्ता प्रकाश राजको उपस्थितिमा बेंगलुरूमा पत्रकार सम्मेलन गर्दै यस्तो घोषणा गरेका हुन्। पत्रकार सम्मेलनलाई सम्बोधन गर्दै अभिनेता प्रकाशले किसानहरुले आफ्ना छोराछोरीमाथि भएको […]"
-    },
-    {
-      "id": "046784ee665ed948",
-      "title": "यमनमा हुथी विद्रोहीको आक्रमणमा २० सैनिकको मृत्यु",
-      "link": "https://himalpress.com/2026/10/houthi-rebel-attack-in-yemen/",
-      "source": "Himal Press",
-      "sourceUrl": "https://himalpress.com/feed/",
-      "pubDate": "2026-10-19T11:56:56+00:00",
-      "categories": [
-        "politics",
-        "business",
-        "society"
-      ],
-      "image": "",
-      "images": [],
-      "description": "काठमाडौँ- यमनको दक्षिणी क्षेत्रमा हुथी विद्रोहीहरूले सरकारी सेनाको सैन्य शिविरमा गरेको आक्रमणमा कम्तीमा २० सैनिकको मृत्यु भएको छ। आक्रमणमा दुई दर्जनभन्दा बढी सैनिक घाइते भएका छन्। यमनी सेनाका अधिकारीका अनुसार, इरान समर्थित हुथी विद्रोहीहरूले सोमबार दक्षिणी प्रान्त शबवास्थित ‘अल–आलम’ सैन्य शिविरलाई लक्षित गरी ब्यालेस्टिक मिसाइल प्रहार गरेका थिए। अन्तर्राष्ट्रिय रूपमा मान्यता प्राप्त यमनी सरकारका ती अधिकारीहरूले […]"
-    },
-    {
-      "id": "ab649b207e33a2da",
-      "title": "एम्बुलेन्सबाट पाँच क्विन्टलभन्दा बढी गाँजा बरामद",
-      "link": "https://himalpress.com/2026/10/five-quintals-from-an-ambulance/",
-      "source": "Himal Press",
-      "sourceUrl": "https://himalpress.com/feed/",
-      "pubDate": "2026-10-19T11:30:30+00:00",
-      "categories": [
-        "politics",
-        "business",
-        "society"
-      ],
-      "image": "",
-      "images": [],
-      "description": "सुनसरी- दुहबी नगरपालिका–६ स्थित बूढी खोलाको किनारबाट प्रहरीले पाँच क्विन्टलभन्दा बढी गाँजासहित एउटा एम्बुलेन्स बरामद गरेको छ। जिल्ला प्रहरी कार्यालय सुनसरीका अनुसार सोमबार बिहान कोशी राजमार्गमा एम्बुलेन्समा इटहरीबाट विराटनगरतर्फ गाँजा ओसारपसार भइरहेको भन्ने सूचनाका आधारमा प्रहरीले उक्त गाँजा बरामद गरेको हो। इलाका प्रहरी कार्यालय दुहबी र सीआरभी दुहबी सुनसरीबाट खटिएको प्रहरी टोलीले दुहबी नगरपालिका–६ स्थित बूढी […]"
-    },
-    {
       "id": "5e213ce5302b898d",
       "title": "सुदूरपश्चिमका गाउँमा घर फर्किनेहरूसँगै भित्रिने रौनक 'दशैँ लगत्तै हराउँछ'",
       "link": "https://www.bbc.com/nepali/articles/c3pwgq2jr857o?at_medium=RSS&at_campaign=rss",
@@ -4510,21 +4547,6 @@
         "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/f268/live/c020b3b0-ca02-11f1-9a39-31b474234113.jpg"
       ],
       "description": "दशैँ सकिएपछि गाउँको दृश्य फेरिन्छ। रोजगारीका लागि गाउँ छोडेर भारत फर्किनेहरूको लर्को लाग्छ।"
-    },
-    {
-      "id": "90b22952c93e3b21",
-      "title": "चीनको आर्थिक वृद्धिदर अपेक्षाभन्दा उच्च, तेस्रो त्रैमासमा जीडीपी ४.५ प्रतिशतले बढ्यो",
-      "link": "https://bizmandu.com/content/20261019154144.html",
-      "source": "Bizmandu",
-      "sourceUrl": "https://bizmandu.com/feed",
-      "pubDate": "2026-10-19T09:56:44+00:00",
-      "categories": [
-        "business",
-        "technology"
-      ],
-      "image": "",
-      "images": [],
-      "description": "चीनको अर्थतन्त्रले पछिल्लो त्रैमासिकमा अपेक्षाभन्दा द्रुत गतिमा प्रगति गरेको छ। अन्तर्राष्ट्रिय संचारमाध्यमहरुका अनुसार चीनले एआईको माग बढेसँगै चीनको आर्थिक अवस्था थप बलियो बनिरहेको छ। चीनको राष्ट्रिय तथ्यांक विभागले सोमबार सार्वजनिक गरेको तथ्यांक अनुसार जुलाईदेखि सेप्टेम्बरको तेस्रो त्रैमासिक अवधिमा चीनको कुल गार्हस्थ्य उत्पादन (जीडीपी) ४.५ प्रतिशतले बढेको छ। यो दोस्रो त्रैमासिकको ४.३ प्रतिशत वृद्धिको तुलनामा बढी […] The post चीनको आर्थिक वृद्धिदर अपेक्षाभन्दा उच्च, तेस्रो त्रैमासमा जीडीपी ४.५ "
     },
     {
       "id": "86d049cb1c2eae3c",
@@ -5140,23 +5162,6 @@
         "https://media.arthasarokar.com/uploads/2026/10/Ghiu.jpg"
       ],
       "description": "कर्णाली । खाद्य प्रविधि तथा गुण नियन्त्रण कार्यालय सुर्खेतले वीरेन्द्रनगरस्थित एक पसलबाट प्रतिबन्धित चिल्लो पदार्थ जफत गरी नष्ट गरेको छ । उक्त कार्यालयबाट बजार अनुगमन तथा निरीक्षणमा गएको टोलीले वीरेन्द्रनगरको पुजा पसल तथा स्टोरबाट पुजामा प्रयोग गर्ने घ्यूको नाममा प्रतिबन्धित रसायन मिसिएको चिल्लो पदार्थ जफत गरेको थियो । उक्त जफत गरिएको चिल्लो पदार्थका करिब दुई Continue reading \"घ्यूका नाममा बेच्न प्रतिबन्धित चिल्लो पदार्थ जफत गरी नष्ट\""
-    },
-    {
-      "id": "2d90e359486b3e47",
-      "title": "नेपाल एकीकरण पदमार्गमा सेनाले भुलेको बाटो",
-      "link": "https://www.himalkhabar.com/145002",
-      "source": "Himal Khabar",
-      "sourceUrl": "https://himalKhabar.com/feed",
-      "pubDate": "2026-10-17T01:55:01+00:00",
-      "categories": [
-        "politics",
-        "business"
-      ],
-      "image": "https://www.himalkhabar.com/uploads/posts/root-padmarga-1792127778.jpg",
-      "images": [
-        "https://www.himalkhabar.com/uploads/posts/root-padmarga-1792127778.jpg"
-      ],
-      "description": "नेपाली सेनाले निर्माण र यात्रा अभ्यास गरेको एकीकरण पदमार्ग विदुर नगरपालिका–२, नुवाकोटको शेरा दरबारसम्म पुगेको छ। त्यहाँबाट त्यो मार्ग मूलबाटो भुलेर मालाकोट हुँदै ककनी लाग्छ। यही विन्दुमा मूलबाटो भुलिएको छ र वास्तविक एकीकरण पदमार्ग छुटेको छ।"
     },
     {
       "id": "261ac4f9d0d39f65",
