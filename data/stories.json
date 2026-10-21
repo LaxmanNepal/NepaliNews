@@ -1,8 +1,253 @@
 {
-  "generatedAt": "2026-10-21T20:47:29.617117+00:00",
-  "sourceItemCount": 302,
-  "storyCount": 292,
+  "generatedAt": "2026-10-21T23:48:54.076863+00:00",
+  "sourceItemCount": 303,
+  "storyCount": 294,
   "stories": [
+    {
+      "id": "48ccef3f8a4cc21b",
+      "title": "यस्ताे छ आज विदेशी मुद्राको विनिमय दर",
+      "summary": "काठमाडौँ । नेपाल राष्ट्र बैंकले आज (बिहीबार) का लागि विदेशी मुद्राको विनिमय दर निर्धारण गरेको छ । राष्ट्र बैंकका अनुसार अमेरिकी डलर एकको खरिददर १५० रुपैयाँ ८४ पैसा र बिक्रीदर १५१ रुपैयाँ ४४ पैसा निर्धारण",
+      "publishedAt": "2026-10-21T23:38:04+00:00",
+      "updatedAt": "2026-10-21T23:38:04+00:00",
+      "sourceCount": 1,
+      "languageCount": 1,
+      "sources": [
+        "Ratopati"
+      ],
+      "categories": [
+        "politics",
+        "sports"
+      ],
+      "items": [
+        {
+          "id": "14c447a445823dc0",
+          "title": "यस्ताे छ आज विदेशी मुद्राको विनिमय दर",
+          "link": "https://www.ratopati.com/story/600782/this-is-the-foreign-currency-exchange-rate-today",
+          "source": "Ratopati",
+          "sourceUrl": "https://ratopati.com/feed",
+          "pubDate": "2026-10-21T23:38:04+00:00",
+          "categories": [
+            "politics",
+            "sports"
+          ],
+          "image": "https://rpcdn.ratopati.com/media/albums/forex_3HNlavACP4.jpg",
+          "images": [
+            "https://rpcdn.ratopati.com/media/albums/forex_3HNlavACP4.jpg"
+          ],
+          "description": "काठमाडौँ । नेपाल राष्ट्र बैंकले आज (बिहीबार) का लागि विदेशी मुद्राको विनिमय दर निर्धारण गरेको छ । राष्ट्र बैंकका अनुसार अमेरिकी डलर एकको खरिददर १५० रुपैयाँ ८४ पैसा र बिक्रीदर १५१ रुपैयाँ ४४ पैसा निर्धारण"
+        }
+      ]
+    },
+    {
+      "id": "66a41076cb2fadee",
+      "title": "टीकाको दोस्रो दिन : मान्यजनबाट आशीर्वाद थाप्ने क्रम जारी",
+      "summary": "काठमाडौँ । बडादसैँ अन्तर्गत टीकाको दोस्रो दिन आज पनि मान्यजन तथा आफन्तबाट नवदुर्गाको प्रसाद स्वरूप टीका र जमरा लगाउने क्रम जारी छ । विजयादशमीको दिन आफ्नै घरपरिवारभित्र टीका–जमरा लगाएकाहरू आज दोस्रो दिन आफ्ना टाढा–टाढा रहेका आफन्त",
+      "publishedAt": "2026-10-21T23:25:04+00:00",
+      "updatedAt": "2026-10-21T23:25:04+00:00",
+      "sourceCount": 1,
+      "languageCount": 1,
+      "sources": [
+        "Ratopati"
+      ],
+      "categories": [
+        "politics",
+        "sports"
+      ],
+      "items": [
+        {
+          "id": "0bded706e61beec9",
+          "title": "टीकाको दोस्रो दिन : मान्यजनबाट आशीर्वाद थाप्ने क्रम जारी",
+          "link": "https://www.ratopati.com/story/600779/second-day-of-bada-dashain-tika-blessings-from-dignitaries-continue",
+          "source": "Ratopati",
+          "sourceUrl": "https://ratopati.com/feed",
+          "pubDate": "2026-10-21T23:25:04+00:00",
+          "categories": [
+            "politics",
+            "sports"
+          ],
+          "image": "https://rpcdn.ratopati.com/media/albums/dashain_tika_19_vDYxL9ex6q.jpg",
+          "images": [
+            "https://rpcdn.ratopati.com/media/albums/dashain_tika_19_vDYxL9ex6q.jpg"
+          ],
+          "description": "काठमाडौँ । बडादसैँ अन्तर्गत टीकाको दोस्रो दिन आज पनि मान्यजन तथा आफन्तबाट नवदुर्गाको प्रसाद स्वरूप टीका र जमरा लगाउने क्रम जारी छ । विजयादशमीको दिन आफ्नै घरपरिवारभित्र टीका–जमरा लगाएकाहरू आज दोस्रो दिन आफ्ना टाढा–टाढा रहेका आफन्त"
+        }
+      ]
+    },
+    {
+      "id": "dce429730b092d5e",
+      "title": "बिहीबार यी राशिहरूलाई मिल्न सक्छ लाभ, हेर्नुहोस् राशिफल",
+      "summary": "आजको पञ्चाङ्ग वि.सं.२०८३ साल कार्तिक ५ गते । बिहीबार । इस्वी सन् २०२६ अक्टोबर २२ तारिख । नेपाल संवत् ११४६ । रौद्र संवत्सर । दक्षिणायन । शरद ऋतु । श्रीशाके १९४८ । आश्विन शुक्लपक्ष । तिथि–एकादशी,",
+      "publishedAt": "2026-10-21T23:18:21+00:00",
+      "updatedAt": "2026-10-21T23:18:21+00:00",
+      "sourceCount": 1,
+      "languageCount": 1,
+      "sources": [
+        "Ratopati"
+      ],
+      "categories": [
+        "politics",
+        "sports"
+      ],
+      "items": [
+        {
+          "id": "a1f302234b3a0430",
+          "title": "बिहीबार यी राशिहरूलाई मिल्न सक्छ लाभ, हेर्नुहोस् राशिफल",
+          "link": "https://www.ratopati.com/story/600780/these-zodiac-signs-may-get-benefits-on-thursday-see-horoscope",
+          "source": "Ratopati",
+          "sourceUrl": "https://ratopati.com/feed",
+          "pubDate": "2026-10-21T23:18:21+00:00",
+          "categories": [
+            "politics",
+            "sports"
+          ],
+          "image": "https://npcdn.ratopati.com/media/news/horoscope_yWVgb1BJAO.jpg",
+          "images": [
+            "https://npcdn.ratopati.com/media/news/horoscope_yWVgb1BJAO.jpg"
+          ],
+          "description": "आजको पञ्चाङ्ग वि.सं.२०८३ साल कार्तिक ५ गते । बिहीबार । इस्वी सन् २०२६ अक्टोबर २२ तारिख । नेपाल संवत् ११४६ । रौद्र संवत्सर । दक्षिणायन । शरद ऋतु । श्रीशाके १९४८ । आश्विन शुक्लपक्ष । तिथि–एकादशी,"
+        }
+      ]
+    },
+    {
+      "id": "f1541de11ac21e00",
+      "title": "एनपीएल खेल्न नेपाल आइपुगे जिम्मी निसम",
+      "summary": "काठमाडौँ । नेपाल प्रिमियर लिग (एनपीएल) को तेस्रो संस्करण खेल्नका लागि न्युजिल्यान्डका स्टार अलराउन्डर जिम्मी निसम नेपाल आइपुगेका छन् । जनकपुर बोल्ट्सले बिहीबार सामाजिक सञ्जालमार्फत निसम नेपाल अवतरण भइसकेको र टोलीमा पुनः जोडिएको औपचारिक जानकारी",
+      "publishedAt": "2026-10-21T23:17:52+00:00",
+      "updatedAt": "2026-10-21T23:17:52+00:00",
+      "sourceCount": 1,
+      "languageCount": 1,
+      "sources": [
+        "Ratopati"
+      ],
+      "categories": [
+        "politics",
+        "sports"
+      ],
+      "items": [
+        {
+          "id": "7c71fb693c31010e",
+          "title": "एनपीएल खेल्न नेपाल आइपुगे जिम्मी निसम",
+          "link": "https://www.ratopati.com/story/600781/jimmy-neesam-arrives-in-nepal-to-play-in-npl",
+          "source": "Ratopati",
+          "sourceUrl": "https://ratopati.com/feed",
+          "pubDate": "2026-10-21T23:17:52+00:00",
+          "categories": [
+            "politics",
+            "sports"
+          ],
+          "image": "https://npcdn.ratopati.com/media/news/nisham_II1mBQQql7.webp",
+          "images": [
+            "https://npcdn.ratopati.com/media/news/nisham_II1mBQQql7.webp"
+          ],
+          "description": "काठमाडौँ । नेपाल प्रिमियर लिग (एनपीएल) को तेस्रो संस्करण खेल्नका लागि न्युजिल्यान्डका स्टार अलराउन्डर जिम्मी निसम नेपाल आइपुगेका छन् । जनकपुर बोल्ट्सले बिहीबार सामाजिक सञ्जालमार्फत निसम नेपाल अवतरण भइसकेको र टोलीमा पुनः जोडिएको औपचारिक जानकारी"
+        }
+      ]
+    },
+    {
+      "id": "050687056ea0098d",
+      "title": "भाइकिङलाई ३-१ ले हराउँदै एस्टन भिल्ला दोस्रो स्थानमा उक्लियो",
+      "summary": "काठमाडौँ । युइएफए च्याम्पियन्स लिग फुटबल अन्तर्गत भएको खेलमा इङ्लिस क्लब एस्टन भिल्लाले नर्वेली क्लब भाइकिङमाथि ३–१ गोलको सहज जित दर्ता गरेको छ । खेलमा एस्टन भिल्लाले पहिलो हाफमै दुई गोलको अग्रता बनाएको थियो। खेलको २३",
+      "publishedAt": "2026-10-21T22:34:27+00:00",
+      "updatedAt": "2026-10-21T22:34:27+00:00",
+      "sourceCount": 1,
+      "languageCount": 1,
+      "sources": [
+        "Ratopati"
+      ],
+      "categories": [
+        "politics",
+        "sports"
+      ],
+      "items": [
+        {
+          "id": "e9b82aa0493b785f",
+          "title": "भाइकिङलाई ३-१ ले हराउँदै एस्टन भिल्ला दोस्रो स्थानमा उक्लियो",
+          "link": "https://www.ratopati.com/story/600778/aston-villa-move-up-to-second-place-with-3-1-win-over-vikings",
+          "source": "Ratopati",
+          "sourceUrl": "https://ratopati.com/feed",
+          "pubDate": "2026-10-21T22:34:27+00:00",
+          "categories": [
+            "politics",
+            "sports"
+          ],
+          "image": "https://npcdn.ratopati.com/media/news/aston-villa_uM1R8ZOrxG.webp",
+          "images": [
+            "https://npcdn.ratopati.com/media/news/aston-villa_uM1R8ZOrxG.webp"
+          ],
+          "description": "काठमाडौँ । युइएफए च्याम्पियन्स लिग फुटबल अन्तर्गत भएको खेलमा इङ्लिस क्लब एस्टन भिल्लाले नर्वेली क्लब भाइकिङमाथि ३–१ गोलको सहज जित दर्ता गरेको छ । खेलमा एस्टन भिल्लाले पहिलो हाफमै दुई गोलको अग्रता बनाएको थियो। खेलको २३"
+        }
+      ]
+    },
+    {
+      "id": "7d67512bf5b6ad5d",
+      "title": "आर्सनलविरुद्ध अग्रता जोगाउन नसक्दा बायर्न २-२ को बराबरीमा रोकियो",
+      "summary": "काठमाडौँ । युइएफए च्याम्पियन्स लिग फुटबल अन्तर्गत नेपाली समय अनुसार बिहीबार बिहान भएको एक रोमाञ्चक खेलमा जर्मन क्लब बायर्न म्युनिख र इंग्लिस क्लब आर्सनलले २–२ गोलको बराबरी खेल्दै अंक बाँडेका छन् । प्रतिस्पर्धात्मक खेलमा सुरुवाती अग्रता",
+      "publishedAt": "2026-10-21T22:29:44+00:00",
+      "updatedAt": "2026-10-21T22:29:44+00:00",
+      "sourceCount": 1,
+      "languageCount": 1,
+      "sources": [
+        "Ratopati"
+      ],
+      "categories": [
+        "politics",
+        "sports"
+      ],
+      "items": [
+        {
+          "id": "9c122b85eb1eb057",
+          "title": "आर्सनलविरुद्ध अग्रता जोगाउन नसक्दा बायर्न २-२ को बराबरीमा रोकियो",
+          "link": "https://www.ratopati.com/story/600777/bayern-held-to-2-2-draw-against-arsenal-after-failing-to-defend-lead",
+          "source": "Ratopati",
+          "sourceUrl": "https://ratopati.com/feed",
+          "pubDate": "2026-10-21T22:29:44+00:00",
+          "categories": [
+            "politics",
+            "sports"
+          ],
+          "image": "https://npcdn.ratopati.com/media/news/arsenal_k6bgDZ3iER.webp",
+          "images": [
+            "https://npcdn.ratopati.com/media/news/arsenal_k6bgDZ3iER.webp"
+          ],
+          "description": "काठमाडौँ । युइएफए च्याम्पियन्स लिग फुटबल अन्तर्गत नेपाली समय अनुसार बिहीबार बिहान भएको एक रोमाञ्चक खेलमा जर्मन क्लब बायर्न म्युनिख र इंग्लिस क्लब आर्सनलले २–२ गोलको बराबरी खेल्दै अंक बाँडेका छन् । प्रतिस्पर्धात्मक खेलमा सुरुवाती अग्रता"
+        }
+      ]
+    },
+    {
+      "id": "cc7c8481fe3827d8",
+      "title": "आरबी लाइपजिगमाथि रियल मड्रिडको ४-१ को सानदार जित",
+      "summary": "काठमाडौँ । युइएफए च्याम्पियन्स लिग अन्तर्गत भएको खेलमा स्पेनिस क्लब रियल मड्रिडले जर्मन क्लब आरबी लाइपजिगमाथि ४–१ गोलको फराकिलो जित दर्ता गरेको छ । खेलमा रियल मड्रिडले सुरुवाती अग्रता पहिलो हाफको अन्त्यतिर बनाएको थियो । खेलको",
+      "publishedAt": "2026-10-21T22:25:11+00:00",
+      "updatedAt": "2026-10-21T22:25:11+00:00",
+      "sourceCount": 1,
+      "languageCount": 1,
+      "sources": [
+        "Ratopati"
+      ],
+      "categories": [
+        "politics",
+        "sports"
+      ],
+      "items": [
+        {
+          "id": "37885b3c172f0913",
+          "title": "आरबी लाइपजिगमाथि रियल मड्रिडको ४-१ को सानदार जित",
+          "link": "https://www.ratopati.com/story/600776/real-madrids-impressive-4-1-win-over-rb-leipzig",
+          "source": "Ratopati",
+          "sourceUrl": "https://ratopati.com/feed",
+          "pubDate": "2026-10-21T22:25:11+00:00",
+          "categories": [
+            "politics",
+            "sports"
+          ],
+          "image": "https://npcdn.ratopati.com/media/news/real-madrid_dMnNH1UphE.webp",
+          "images": [
+            "https://npcdn.ratopati.com/media/news/real-madrid_dMnNH1UphE.webp"
+          ],
+          "description": "काठमाडौँ । युइएफए च्याम्पियन्स लिग अन्तर्गत भएको खेलमा स्पेनिस क्लब रियल मड्रिडले जर्मन क्लब आरबी लाइपजिगमाथि ४–१ गोलको फराकिलो जित दर्ता गरेको छ । खेलमा रियल मड्रिडले सुरुवाती अग्रता पहिलो हाफको अन्त्यतिर बनाएको थियो । खेलको"
+        }
+      ]
+    },
     {
       "id": "6a77ea15b86deea1",
       "title": "मैथिल परम्पराको रावण वध उत्सव सम्पन्न",
@@ -2992,22 +3237,20 @@
       ]
     },
     {
-      "id": "71c51f649dfa8452",
+      "id": "23c2fbca1576c193",
       "title": "क्यासिनोबाट पाँच जना प्रहरीको नियन्त्रणमा",
       "summary": "वीरगन्ज- क्यासिनोभित्र नेपाली प्रवेश गराई जुवा खेल्ने-खेलाउने कार्यमा संलग्न पाँच जनालाई प्रहरीले नियन्त्रणमा लिएको छ। वीरगञ्ज महानगरपालिका-१४ गण्डकस्थित गोल्डेन फिंगर गेमिङ जोन प्रालिमा नेपाली प्रवेश गराई जुवा खेलाइरहेको भन्ने सूचनाका आधारमा उनीहरूलाई नियन्त्रणमा लिएको जिल्ला प्रहरी कार्यालय पर्साका प्रहरी नायब उपरीक्षक चक्रबहादुर मल्लले जानकारी दिए। बारा जिल्ला पचरौता नगरपालिका-४ का रामचन्द्र साह, प्रसौनी गाउँपालिका-३ का अच्छेलाल […]",
       "publishedAt": "2026-10-21T10:44:34+00:00",
       "updatedAt": "2026-10-21T10:44:34+00:00",
-      "sourceCount": 2,
+      "sourceCount": 1,
       "languageCount": 1,
       "sources": [
-        "Himal Press",
-        "Ratopati"
+        "Himal Press"
       ],
       "categories": [
         "business",
         "politics",
-        "society",
-        "sports"
+        "society"
       ],
       "items": [
         {
@@ -3025,58 +3268,6 @@
           "image": "",
           "images": [],
           "description": "वीरगन्ज- क्यासिनोभित्र नेपाली प्रवेश गराई जुवा खेल्ने-खेलाउने कार्यमा संलग्न पाँच जनालाई प्रहरीले नियन्त्रणमा लिएको छ। वीरगञ्ज महानगरपालिका-१४ गण्डकस्थित गोल्डेन फिंगर गेमिङ जोन प्रालिमा नेपाली प्रवेश गराई जुवा खेलाइरहेको भन्ने सूचनाका आधारमा उनीहरूलाई नियन्त्रणमा लिएको जिल्ला प्रहरी कार्यालय पर्साका प्रहरी नायब उपरीक्षक चक्रबहादुर मल्लले जानकारी दिए। बारा जिल्ला पचरौता नगरपालिका-४ का रामचन्द्र साह, प्रसौनी गाउँपालिका-३ का अच्छेलाल […]"
-        },
-        {
-          "id": "418b660cdd68676b",
-          "title": "क्यासिनोबाट पाँच जना प्रहरी नियन्त्रणमा",
-          "link": "https://www.ratopati.com/story/600752/five-people-arrested-by-police-from-casino",
-          "source": "Ratopati",
-          "sourceUrl": "https://ratopati.com/feed",
-          "pubDate": "2026-10-21T10:20:31+00:00",
-          "categories": [
-            "politics",
-            "sports"
-          ],
-          "image": "https://npcdn.ratopati.com/media/news/two-arrest-jail_vasZWTNXwT.png",
-          "images": [
-            "https://npcdn.ratopati.com/media/news/two-arrest-jail_vasZWTNXwT.png"
-          ],
-          "description": "पर्सा। क्यासिनोभित्र नेपाली प्रवेश गराई जुवा खेल्ने–खेलाउने कार्यमा संलग्न पाँच जनालाई प्रहरीले नियन्त्रणमा लिएको छ। वीरगञ्ज महानगरपालिका–१४ गण्डकस्थित गोल्डेन फिङ्गर गेमिङ जोन प्रालिमा नेपाली प्रवेश गराई जुवा खेलाइरहेको भन्ने सूचनाका आधारमा उनीहरूलाई नियन्त्रणमा लिएको जिल्ला प्रहरी"
-        }
-      ]
-    },
-    {
-      "id": "2027322d4c7bded9",
-      "title": "नवदुर्गासँग जोड्दै नेवार समुदायले उल्लासमय पर्वका रूपमा मनाए मोहनी नखः",
-      "summary": "भक्तपुर। भक्तपुरका नेवार समुदायले आज मोहनी नखः मनाएका छन् । विजयादशमीको दिन आज मान्यजनको हातबाट मोहनी सिः न अर्थात कालो टीका, राटो टीका, जमरा ग्रहण गरि मोहनी नःख मनाएका हुन् । यहाँका नेवार समुदायले नवदुर्गा भवानीको",
-      "publishedAt": "2026-10-21T10:43:59+00:00",
-      "updatedAt": "2026-10-21T10:43:59+00:00",
-      "sourceCount": 1,
-      "languageCount": 1,
-      "sources": [
-        "Ratopati"
-      ],
-      "categories": [
-        "politics",
-        "sports"
-      ],
-      "items": [
-        {
-          "id": "499417837a125b56",
-          "title": "नवदुर्गासँग जोड्दै नेवार समुदायले उल्लासमय पर्वका रूपमा मनाए मोहनी नखः",
-          "link": "https://www.ratopati.com/story/600755/newar-community-celebrates-mohini-nakha-as-a-joyful-festival-linking-it-with-nava-durga",
-          "source": "Ratopati",
-          "sourceUrl": "https://ratopati.com/feed",
-          "pubDate": "2026-10-21T10:43:59+00:00",
-          "categories": [
-            "politics",
-            "sports"
-          ],
-          "image": "https://rpcdn.ratopati.com/media/albums/_mohani_nakha_4N8OTvpvia.jpg",
-          "images": [
-            "https://rpcdn.ratopati.com/media/albums/_mohani_nakha_4N8OTvpvia.jpg"
-          ],
-          "description": "भक्तपुर। भक्तपुरका नेवार समुदायले आज मोहनी नखः मनाएका छन् । विजयादशमीको दिन आज मान्यजनको हातबाट मोहनी सिः न अर्थात कालो टीका, राटो टीका, जमरा ग्रहण गरि मोहनी नःख मनाएका हुन् । यहाँका नेवार समुदायले नवदुर्गा भवानीको"
         }
       ]
     },
@@ -3153,76 +3344,6 @@
       ]
     },
     {
-      "id": "df831994adfeb8be",
-      "title": "पाकिस्तानका कारखानामा गर्मीले कामदारको स्वास्थ्य जोखिममा",
-      "summary": "पाकिस्तान । पाकिस्तानका कपडा कारखानामा काम गर्ने श्रमिक चरम गर्मीबाट प्रभावित भएका छन्। जारा र म्याङ्गोजस्ता अन्तर्राष्ट्रिय ब्रान्डका लागि सामान उत्पादन गर्ने कारखानामा पर्याप्त सुरक्षा व्यवस्था नहुँदा कामदार बेहोस हुने, सास फेर्न कठिन हुने र",
-      "publishedAt": "2026-10-21T10:39:21+00:00",
-      "updatedAt": "2026-10-21T10:39:21+00:00",
-      "sourceCount": 1,
-      "languageCount": 1,
-      "sources": [
-        "Ratopati"
-      ],
-      "categories": [
-        "politics",
-        "sports"
-      ],
-      "items": [
-        {
-          "id": "146f39251bee6376",
-          "title": "पाकिस्तानका कारखानामा गर्मीले कामदारको स्वास्थ्य जोखिममा",
-          "link": "https://www.ratopati.com/story/600754/heat-in-pakistani-factories-puts-workers-health-at-risk",
-          "source": "Ratopati",
-          "sourceUrl": "https://ratopati.com/feed",
-          "pubDate": "2026-10-21T10:39:21+00:00",
-          "categories": [
-            "politics",
-            "sports"
-          ],
-          "image": "https://npcdn.ratopati.com/media/news/pakistan-flag_VxB0GaBXso.jpg",
-          "images": [
-            "https://npcdn.ratopati.com/media/news/pakistan-flag_VxB0GaBXso.jpg"
-          ],
-          "description": "पाकिस्तान । पाकिस्तानका कपडा कारखानामा काम गर्ने श्रमिक चरम गर्मीबाट प्रभावित भएका छन्। जारा र म्याङ्गोजस्ता अन्तर्राष्ट्रिय ब्रान्डका लागि सामान उत्पादन गर्ने कारखानामा पर्याप्त सुरक्षा व्यवस्था नहुँदा कामदार बेहोस हुने, सास फेर्न कठिन हुने र"
-        }
-      ]
-    },
-    {
-      "id": "d1ab925af77746f3",
-      "title": "ठमेलमा विदेशी पर्यटकले पनि लगाए दसैँको टीका",
-      "summary": "काठमाडौँ। नेपाल भ्रमणमा रहेका विदेशी पर्यटकले पनि नेपाली संस्कृति र परम्पराप्रति उत्साह देखाउँदै हर्षोल्लासका साथ बडादसैँको टीका र जमरा लगाएका छन् । नेपालीको महान् पर्व बडादसैँका अवसरमा विदेशी पर्यटकले ठमेलस्थित काठमाडौँ इको होटलमा नेपाली परम्पराअनुसार रातो",
-      "publishedAt": "2026-10-21T10:34:29+00:00",
-      "updatedAt": "2026-10-21T10:34:29+00:00",
-      "sourceCount": 1,
-      "languageCount": 1,
-      "sources": [
-        "Ratopati"
-      ],
-      "categories": [
-        "politics",
-        "sports"
-      ],
-      "items": [
-        {
-          "id": "fb2ce4e823cc26ef",
-          "title": "ठमेलमा विदेशी पर्यटकले पनि लगाए दसैँको टीका",
-          "link": "https://www.ratopati.com/story/600753/foreign-tourists-also-wear-dashain-tika-in-thamel",
-          "source": "Ratopati",
-          "sourceUrl": "https://ratopati.com/feed",
-          "pubDate": "2026-10-21T10:34:29+00:00",
-          "categories": [
-            "politics",
-            "sports"
-          ],
-          "image": "https://npcdn.ratopati.com/media/news/dashain-tika-tourist_kNZ1HdU9uj.webp",
-          "images": [
-            "https://npcdn.ratopati.com/media/news/dashain-tika-tourist_kNZ1HdU9uj.webp"
-          ],
-          "description": "काठमाडौँ। नेपाल भ्रमणमा रहेका विदेशी पर्यटकले पनि नेपाली संस्कृति र परम्पराप्रति उत्साह देखाउँदै हर्षोल्लासका साथ बडादसैँको टीका र जमरा लगाएका छन् । नेपालीको महान् पर्व बडादसैँका अवसरमा विदेशी पर्यटकले ठमेलस्थित काठमाडौँ इको होटलमा नेपाली परम्पराअनुसार रातो"
-        }
-      ]
-    },
-    {
       "id": "fa69525d40c0db55",
       "title": "ट्रम्पका विशेष दूत स्टिभ किन भेट्दैछन् पुटिनलाई?",
       "summary": "काठमाडौँ- अमेरिकी राष्ट्रपति डोनाल्ड ट्रम्पका विशेष दूत स्टिभ विकटकपले रुस–युक्रेनबीच लामो समयदेखि जारी युद्ध अन्त्य गर्ने प्रस्तावहरुमाथि छलफल गर्न बुधबार सेन्ट पिटर्सबर्गमा रुसी राष्ट्रपति भ्लादिमीर पुटिनसँग भेट गर्दैछन्। यो महत्वपूर्ण कूटनीतिक भेटघाट विटकफले नर्वेको राजधानी ओस्लोमा युक्रेनी राष्ट्रपति भोलोदिमिर जेलेन्स्कीसँग गरेको उच्चस्तरीय वार्तापछि हुन थालेको हो। एक अमेरिकी अधिकारीलाई उद्धृत गर्दै बीबीसीले जनाएअनुसार ओस्लोमा भएको […]",
@@ -3291,41 +3412,6 @@
       ]
     },
     {
-      "id": "807d420a116a5ba6",
-      "title": "लेखनाथ न्यौपानेलाई प्रश्न : कहिल्यै जस नपाइने यो राजनीतिमा किन आउनुभयो ?",
-      "summary": "लेखनाथ न्यौपाने वौद्धिक र अध्ययनशील नेता मानिन्छन् । स्पष्ट विचार, मार्क्सवादी दर्शनमा गहिरो अध्ययन तथा सरल जीवन शैलीका कारण लोकप्रिय छन् । नेपाली कम्युनिस्ट पार्टी(नेकपा) का केन्द्रीय सदस्य रहेका उनी अहिले पार्टी स्कुल विभागको जिम्मेवारीमा",
-      "publishedAt": "2026-10-21T10:15:00+00:00",
-      "updatedAt": "2026-10-21T10:15:00+00:00",
-      "sourceCount": 1,
-      "languageCount": 1,
-      "sources": [
-        "Ratopati"
-      ],
-      "categories": [
-        "politics",
-        "sports"
-      ],
-      "items": [
-        {
-          "id": "e1235e72a7a6f681",
-          "title": "लेखनाथ न्यौपानेलाई प्रश्न : कहिल्यै जस नपाइने यो राजनीतिमा किन आउनुभयो ?",
-          "link": "https://www.ratopati.com/story/600706/question-to-lekhnath-neupane-why-did-you-enter-politics-where-you-will-never-be-successful",
-          "source": "Ratopati",
-          "sourceUrl": "https://ratopati.com/feed",
-          "pubDate": "2026-10-21T10:15:00+00:00",
-          "categories": [
-            "politics",
-            "sports"
-          ],
-          "image": "https://npcdn.ratopati.com/media/news/lekhnath_TF9mkpIpN1.jpg",
-          "images": [
-            "https://npcdn.ratopati.com/media/news/lekhnath_TF9mkpIpN1.jpg"
-          ],
-          "description": "लेखनाथ न्यौपाने वौद्धिक र अध्ययनशील नेता मानिन्छन् । स्पष्ट विचार, मार्क्सवादी दर्शनमा गहिरो अध्ययन तथा सरल जीवन शैलीका कारण लोकप्रिय छन् । नेपाली कम्युनिस्ट पार्टी(नेकपा) का केन्द्रीय सदस्य रहेका उनी अहिले पार्टी स्कुल विभागको जिम्मेवारीमा"
-        }
-      ]
-    },
-    {
       "id": "5712298afffe758b",
       "title": "भारत-अमेरिका व्यापार सम्झौता नजिक",
       "summary": "काठमाडौँ- भारत र अमेरिकाले व्यापार, रक्षा, प्रविधि र ऊर्जा सुरक्षामा सहकार्य बढाउँदै प्रस्तावित द्विपक्षीय व्यापार सम्झौता चाँडै टुंग्याउने प्रतिबद्धता व्यक्त गरेका छन्। मुम्बईमा मंगलबार भारतीय विदेशमन्त्री एस जयशंकर र अमेरिकी विदेशमन्त्री मार्को रुबियोबीच भएको भेटवार्तामा दुई देशको सम्बन्ध र क्षेत्रीय तथा विश्वव्यापी घटनाक्रमबारे छलफल भएको भारतीय विदेश मन्त्रालयले जनाएको छ। रुबियोले व्यापार सम्झौता अन्तिम चरणमा […]",
@@ -3357,41 +3443,6 @@
           "image": "",
           "images": [],
           "description": "काठमाडौँ- भारत र अमेरिकाले व्यापार, रक्षा, प्रविधि र ऊर्जा सुरक्षामा सहकार्य बढाउँदै प्रस्तावित द्विपक्षीय व्यापार सम्झौता चाँडै टुंग्याउने प्रतिबद्धता व्यक्त गरेका छन्। मुम्बईमा मंगलबार भारतीय विदेशमन्त्री एस जयशंकर र अमेरिकी विदेशमन्त्री मार्को रुबियोबीच भएको भेटवार्तामा दुई देशको सम्बन्ध र क्षेत्रीय तथा विश्वव्यापी घटनाक्रमबारे छलफल भएको भारतीय विदेश मन्त्रालयले जनाएको छ। रुबियोले व्यापार सम्झौता अन्तिम चरणमा […]"
-        }
-      ]
-    },
-    {
-      "id": "31c7df433d6651a5",
-      "title": "नाइजेरियामा इबोलाको पहिलो सङ्क्रमण",
-      "summary": "काठमाडाैँ। अफ्रिकामा फैलिएको इबोला प्रकोप नाइजेरियासम्म पुगेको छ । युगान्डाबाट आएकी एक महिलामा सङ्क्रमण पुष्टि भएको छ भने केन्यामा सङ्क्रमितको सङ्ख्या नौ पुगेको छ । नाइजेरियाका स्वास्थ्यमन्त्री मुहम्मद अली पाटेका अनुसार, सङ्क्रमित महिलालाई एकान्तवासमा राखेर उपचार",
-      "publishedAt": "2026-10-21T10:05:46+00:00",
-      "updatedAt": "2026-10-21T10:05:46+00:00",
-      "sourceCount": 1,
-      "languageCount": 1,
-      "sources": [
-        "Ratopati"
-      ],
-      "categories": [
-        "politics",
-        "sports"
-      ],
-      "items": [
-        {
-          "id": "a637621ed9379af2",
-          "title": "नाइजेरियामा इबोलाको पहिलो सङ्क्रमण",
-          "link": "https://www.ratopati.com/story/600751/first-ebola-case-in-nigeria",
-          "source": "Ratopati",
-          "sourceUrl": "https://ratopati.com/feed",
-          "pubDate": "2026-10-21T10:05:46+00:00",
-          "categories": [
-            "politics",
-            "sports"
-          ],
-          "image": "https://npcdn.ratopati.com/media/news/congo-ibola_8hugD7OOwR.jpg",
-          "images": [
-            "https://npcdn.ratopati.com/media/news/congo-ibola_8hugD7OOwR.jpg"
-          ],
-          "description": "काठमाडाैँ। अफ्रिकामा फैलिएको इबोला प्रकोप नाइजेरियासम्म पुगेको छ । युगान्डाबाट आएकी एक महिलामा सङ्क्रमण पुष्टि भएको छ भने केन्यामा सङ्क्रमितको सङ्ख्या नौ पुगेको छ । नाइजेरियाका स्वास्थ्यमन्त्री मुहम्मद अली पाटेका अनुसार, सङ्क्रमित महिलालाई एकान्तवासमा राखेर उपचार"
         }
       ]
     },
