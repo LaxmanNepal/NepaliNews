@@ -1,8 +1,418 @@
 {
-  "generatedAt": "2026-10-22T21:31:44.138195+00:00",
-  "sourceItemCount": 325,
-  "storyCount": 312,
+  "generatedAt": "2026-10-23T00:09:54.119233+00:00",
+  "sourceItemCount": 323,
+  "storyCount": 311,
   "stories": [
+    {
+      "id": "5b71aeb8c0836f46",
+      "title": "माछापुच्छ्रे",
+      "summary": "",
+      "publishedAt": "2026-10-23T00:05:21+00:00",
+      "updatedAt": "2026-10-23T00:05:21+00:00",
+      "sourceCount": 1,
+      "languageCount": 1,
+      "sources": [
+        "Baahrakhari"
+      ],
+      "categories": [
+        "business",
+        "politics",
+        "society"
+      ],
+      "items": [
+        {
+          "id": "23c978add1c3b5d1",
+          "title": "माछापुच्छ्रे",
+          "link": "https://baahrakhari.com/detail/505488",
+          "source": "Baahrakhari",
+          "sourceUrl": "https://baahrakhari.com/feed",
+          "pubDate": "2026-10-23T00:05:21+00:00",
+          "categories": [
+            "politics",
+            "business",
+            "society"
+          ],
+          "image": "",
+          "images": [],
+          "description": ""
+        }
+      ]
+    },
+    {
+      "id": "aec7ebebc62bb6a7",
+      "title": "तिब्बतमा ७ म्याग्निच्युडको भूकम्प, कम्तिमा १६ जनाको मृत्यु, ३२ घाइते",
+      "summary": "६ कात्तिक, काठमाडौं । दक्षिणपश्चिम चीनको सिजाङ स्वायत्त क्षेत्रमा ७ म्याग्निच्युडको भूकम्प जाँदा कम्तीमा १६ जनाको मृत्यु भएको छ भने ३२ जना घाइते भएका छन् । नगरको आपत्कालीन व्यवस्थापन ब्युरोका अनुसार नाग्छु सहरको बाकेन काउन्टीमा बिहीबार राति १० बजेर ३३ मिनेटमा भूकम्प गएको हो । भूकम्पमा परी घाइते भएकामध्ये ११ जनाको अवस्था गम्भीर रहेको छ […]",
+      "publishedAt": "2026-10-23T00:00:16+00:00",
+      "updatedAt": "2026-10-23T00:00:16+00:00",
+      "sourceCount": 1,
+      "languageCount": 1,
+      "sources": [
+        "Online Khabar"
+      ],
+      "categories": [
+        "business",
+        "entertainment",
+        "politics",
+        "sports",
+        "technology"
+      ],
+      "items": [
+        {
+          "id": "ceb8abe1bbeccd79",
+          "title": "तिब्बतमा ७ म्याग्निच्युडको भूकम्प, कम्तिमा १६ जनाको मृत्यु, ३२ घाइते",
+          "link": "https://www.onlinekhabar.com/2026/10/2042760/7-0-magnitude-earthquake-hits-tibet-at-least-16-dead-32-injured",
+          "source": "Online Khabar",
+          "sourceUrl": "https://www.onlinekhabar.com/feed",
+          "pubDate": "2026-10-23T00:00:16+00:00",
+          "categories": [
+            "politics",
+            "business",
+            "sports",
+            "technology",
+            "entertainment"
+          ],
+          "image": "",
+          "images": [],
+          "description": "६ कात्तिक, काठमाडौं । दक्षिणपश्चिम चीनको सिजाङ स्वायत्त क्षेत्रमा ७ म्याग्निच्युडको भूकम्प जाँदा कम्तीमा १६ जनाको मृत्यु भएको छ भने ३२ जना घाइते भएका छन् । नगरको आपत्कालीन व्यवस्थापन ब्युरोका अनुसार नाग्छु सहरको बाकेन काउन्टीमा बिहीबार राति १० बजेर ३३ मिनेटमा भूकम्प गएको हो । भूकम्पमा परी घाइते भएकामध्ये ११ जनाको अवस्था गम्भीर रहेको छ […]"
+        }
+      ]
+    },
+    {
+      "id": "9239fee91e9a43e7",
+      "title": "लाङटाङ र गोसाईकुण्ड पदयात्राका लागि खुला",
+      "summary": "",
+      "publishedAt": "2026-10-22T23:59:12+00:00",
+      "updatedAt": "2026-10-22T23:59:12+00:00",
+      "sourceCount": 1,
+      "languageCount": 1,
+      "sources": [
+        "Baahrakhari"
+      ],
+      "categories": [
+        "business",
+        "politics",
+        "society"
+      ],
+      "items": [
+        {
+          "id": "6b62a4022b2e4e2a",
+          "title": "लाङटाङ र गोसाईकुण्ड पदयात्राका लागि खुला",
+          "link": "https://baahrakhari.com/detail/505487",
+          "source": "Baahrakhari",
+          "sourceUrl": "https://baahrakhari.com/feed",
+          "pubDate": "2026-10-22T23:59:12+00:00",
+          "categories": [
+            "politics",
+            "business",
+            "society"
+          ],
+          "image": "",
+          "images": [],
+          "description": ""
+        }
+      ]
+    },
+    {
+      "id": "c5fdbc57ec6ece3e",
+      "title": "रवि लामिछाने आज तीर्थाटनका लागि भारत जाने",
+      "summary": "",
+      "publishedAt": "2026-10-22T23:57:59+00:00",
+      "updatedAt": "2026-10-22T23:57:59+00:00",
+      "sourceCount": 1,
+      "languageCount": 1,
+      "sources": [
+        "Thaha Khabar"
+      ],
+      "categories": [
+        "business",
+        "politics",
+        "sports"
+      ],
+      "items": [
+        {
+          "id": "8d2dc4aa33a6c225",
+          "title": "रवि लामिछाने आज तीर्थाटनका लागि भारत जाने",
+          "link": "https://www.thahakhabar.com/detail/310733",
+          "source": "Thaha Khabar",
+          "sourceUrl": "https://www.thahakhabar.com/feed",
+          "pubDate": "2026-10-22T23:57:59+00:00",
+          "categories": [
+            "politics",
+            "business",
+            "sports"
+          ],
+          "image": "https://www.thahakhabar.com/uploads/posts/rabi-lamichhane-1782889868.jpg",
+          "images": [
+            "https://www.thahakhabar.com/uploads/posts/rabi-lamichhane-1782889868.jpg"
+          ],
+          "description": ""
+        }
+      ]
+    },
+    {
+      "id": "a50ec7920c3a4d39",
+      "title": "मनास्लु लार्केपास पदयात्रा खुला, सतर्कता अपनाएर यात्रा गर्न आग्रह",
+      "summary": "",
+      "publishedAt": "2026-10-22T23:55:27+00:00",
+      "updatedAt": "2026-10-22T23:55:27+00:00",
+      "sourceCount": 2,
+      "languageCount": 1,
+      "sources": [
+        "Baahrakhari",
+        "Ratopati"
+      ],
+      "categories": [
+        "business",
+        "politics",
+        "society",
+        "sports"
+      ],
+      "items": [
+        {
+          "id": "bdd381916c698d46",
+          "title": "मनास्लु लार्केपास पदयात्रा खुला, सतर्कता अपनाएर यात्रा गर्न आग्रह",
+          "link": "https://baahrakhari.com/detail/505486",
+          "source": "Baahrakhari",
+          "sourceUrl": "https://baahrakhari.com/feed",
+          "pubDate": "2026-10-22T23:55:27+00:00",
+          "categories": [
+            "politics",
+            "business",
+            "society"
+          ],
+          "image": "",
+          "images": [],
+          "description": ""
+        },
+        {
+          "id": "9083e6d2c44071c4",
+          "title": "मनास्लु लार्केपास पदयात्रा खुला, सतर्कता अपनाएर यात्रा गर्न टानको आग्रह",
+          "link": "https://www.ratopati.com/story/600868/manaslu-larke-pass-trekking-open-taan-urges-to-travel-with-caution",
+          "source": "Ratopati",
+          "sourceUrl": "https://ratopati.com/feed",
+          "pubDate": "2026-10-22T22:34:59+00:00",
+          "categories": [
+            "politics",
+            "sports"
+          ],
+          "image": "https://npcdn.ratopati.com/media/news/makalu-trek-(16)_Vxhx2ADlX6.jpg",
+          "images": [
+            "https://npcdn.ratopati.com/media/news/makalu-trek-(16)_Vxhx2ADlX6.jpg"
+          ],
+          "description": "काठमाडौँ । ट्रेकिङ एजेन्सीज् एशोसियशन अफ नेपाल (टान)ले मनास्लु लार्केपास पदयात्रा खुला भएकाले सर्तकता अनपाएर यात्रा गर्न आग्रह गरेको छ । टानले बिहीबार एक सूचना जारी गरी बूढीगण्डकीमा आएको विनाशकारी बाढीका कारण क्षतिग्रस्त पहुँचमार्ग, पदमार्गका खण्ड,"
+        }
+      ]
+    },
+    {
+      "id": "9a3a3fe44eb201a0",
+      "title": "बडादसैँको टीका आज पनि लगाइँदै",
+      "summary": "",
+      "publishedAt": "2026-10-22T23:46:03+00:00",
+      "updatedAt": "2026-10-22T23:46:03+00:00",
+      "sourceCount": 1,
+      "languageCount": 1,
+      "sources": [
+        "Baahrakhari"
+      ],
+      "categories": [
+        "business",
+        "politics",
+        "society"
+      ],
+      "items": [
+        {
+          "id": "03d033d5268c31f6",
+          "title": "बडादसैँको टीका आज पनि लगाइँदै",
+          "link": "https://baahrakhari.com/detail/505485",
+          "source": "Baahrakhari",
+          "sourceUrl": "https://baahrakhari.com/feed",
+          "pubDate": "2026-10-22T23:46:03+00:00",
+          "categories": [
+            "politics",
+            "business",
+            "society"
+          ],
+          "image": "",
+          "images": [],
+          "description": ""
+        }
+      ]
+    },
+    {
+      "id": "2ca8358b9b996211",
+      "title": "धरानमा दसैँमा २६ करोड बढीको खसी बोका कारोबार",
+      "summary": "सुनसरी । बडादसैँलाई लक्षित गरी धरान उपमहानगरपालिका–१३ स्थित कृषि उपज बजारबाट यस वर्ष रु २६ करोड २५ लाख बराबरको खसी बोका कारोबार भएको छ । कोशी प्रदेशका पहाडी जिल्लाबाट किसान तथा व्यापारीले बिक्रीका लागि ल्याएका खसी",
+      "publishedAt": "2026-10-22T23:30:00+00:00",
+      "updatedAt": "2026-10-22T23:30:00+00:00",
+      "sourceCount": 1,
+      "languageCount": 1,
+      "sources": [
+        "Ratopati"
+      ],
+      "categories": [
+        "politics",
+        "sports"
+      ],
+      "items": [
+        {
+          "id": "9ce0246d9da8dad9",
+          "title": "धरानमा दसैँमा २६ करोड बढीको खसी बोका कारोबार",
+          "link": "https://www.ratopati.com/story/600872/goat-and-sheep-turnover-worth-over-rs-260-million-in-dharan-during-dashain",
+          "source": "Ratopati",
+          "sourceUrl": "https://ratopati.com/feed",
+          "pubDate": "2026-10-22T23:30:00+00:00",
+          "categories": [
+            "politics",
+            "sports"
+          ],
+          "image": "https://npcdn.ratopati.com/media/news/o3KNN1Yxsu.jpg",
+          "images": [
+            "https://npcdn.ratopati.com/media/news/o3KNN1Yxsu.jpg"
+          ],
+          "description": "सुनसरी । बडादसैँलाई लक्षित गरी धरान उपमहानगरपालिका–१३ स्थित कृषि उपज बजारबाट यस वर्ष रु २६ करोड २५ लाख बराबरको खसी बोका कारोबार भएको छ । कोशी प्रदेशका पहाडी जिल्लाबाट किसान तथा व्यापारीले बिक्रीका लागि ल्याएका खसी"
+        }
+      ]
+    },
+    {
+      "id": "b35b77de31008734",
+      "title": "दसैँको टीकाको तेस्रो दिन : मान्यजनबाट टीका र आशीर्वाद ग्रहण गर्ने क्रम जारी",
+      "summary": "काठमाडौँ । बडादसैँ अन्तर्गत टीकाको तेस्रो दिन आज पनि मान्यजनबाट टीका, जमरा र आशीर्वाद ग्रहण गर्ने क्रम जारी रहेको छ । विजयादशमीका दिन मान्यजनबाट टीका लगाउन नभ्याएका वा छुटेकाहरूले आज आफन्तकहाँ पुगेर टीका र आशीर्वाद",
+      "publishedAt": "2026-10-22T23:19:29+00:00",
+      "updatedAt": "2026-10-22T23:19:29+00:00",
+      "sourceCount": 1,
+      "languageCount": 1,
+      "sources": [
+        "Ratopati"
+      ],
+      "categories": [
+        "politics",
+        "sports"
+      ],
+      "items": [
+        {
+          "id": "87dc2850383c3ed7",
+          "title": "दसैँको टीकाको तेस्रो दिन : मान्यजनबाट टीका र आशीर्वाद ग्रहण गर्ने क्रम जारी",
+          "link": "https://www.ratopati.com/story/600873/third-day-of-dashain-tika-receiving-tika-and-blessings-from-relatives-continues",
+          "source": "Ratopati",
+          "sourceUrl": "https://ratopati.com/feed",
+          "pubDate": "2026-10-22T23:19:29+00:00",
+          "categories": [
+            "politics",
+            "sports"
+          ],
+          "image": "https://npcdn.ratopati.com/media/news/dashain-tika_PpUKIq2H4F.jpg",
+          "images": [
+            "https://npcdn.ratopati.com/media/news/dashain-tika_PpUKIq2H4F.jpg"
+          ],
+          "description": "काठमाडौँ । बडादसैँ अन्तर्गत टीकाको तेस्रो दिन आज पनि मान्यजनबाट टीका, जमरा र आशीर्वाद ग्रहण गर्ने क्रम जारी रहेको छ । विजयादशमीका दिन मान्यजनबाट टीका लगाउन नभ्याएका वा छुटेकाहरूले आज आफन्तकहाँ पुगेर टीका र आशीर्वाद"
+        }
+      ]
+    },
+    {
+      "id": "540d69b5ba6ba1a7",
+      "title": "कस्तो रहला आज तपाईंको दिन ? हेर्नुहोस् राशिफल",
+      "summary": "आजको पञ्चाङ्ग वि.सं.२०८३ साल कार्तिक ६ गते । शुक्रबार । इस्वी सन् २०२६ अक्टोबर २३ तारिख । नेपाल संवत् ११४६ । रौद्र संवत्सर । दक्षिणायन । शरद ऋतु । श्रीशाके १९४८ । आश्विन शुक्लपक्ष । तिथि–द्वादशी,",
+      "publishedAt": "2026-10-22T23:15:00+00:00",
+      "updatedAt": "2026-10-22T23:15:00+00:00",
+      "sourceCount": 1,
+      "languageCount": 1,
+      "sources": [
+        "Ratopati"
+      ],
+      "categories": [
+        "politics",
+        "sports"
+      ],
+      "items": [
+        {
+          "id": "f4b8842f1f55a2dc",
+          "title": "कस्तो रहला आज तपाईंको दिन ? हेर्नुहोस् राशिफल",
+          "link": "https://www.ratopati.com/story/600869/how-was-your-day-today-check-your-horoscope",
+          "source": "Ratopati",
+          "sourceUrl": "https://ratopati.com/feed",
+          "pubDate": "2026-10-22T23:15:00+00:00",
+          "categories": [
+            "politics",
+            "sports"
+          ],
+          "image": "https://npcdn.ratopati.com/media/news/horoscope_68mF8G6CaS.jpg",
+          "images": [
+            "https://npcdn.ratopati.com/media/news/horoscope_68mF8G6CaS.jpg"
+          ],
+          "description": "आजको पञ्चाङ्ग वि.सं.२०८३ साल कार्तिक ६ गते । शुक्रबार । इस्वी सन् २०२६ अक्टोबर २३ तारिख । नेपाल संवत् ११४६ । रौद्र संवत्सर । दक्षिणायन । शरद ऋतु । श्रीशाके १९४८ । आश्विन शुक्लपक्ष । तिथि–द्वादशी,"
+        }
+      ]
+    },
+    {
+      "id": "b44db77d2d476112",
+      "title": "बाढीपहिरोले यस वर्षको दसैँ उल्लासमय भएन",
+      "summary": "चितवन । भोटेकोशी, त्रिशूली र बूढीगण्डकी नदीमा गएको बाढीले जनधनको अपूरणीय क्षति पुर्‍याएको र बाढी पहिरोका कारण प्रमुख राजमार्ग प्रभावित भएकाले विगतको तुलनामा यस वर्षको दसैँ खल्लो भएको स्थानीयको भनाइ छ । भोटेकाशी बाढीमा परी आफन्त",
+      "publishedAt": "2026-10-22T23:08:41+00:00",
+      "updatedAt": "2026-10-22T23:08:41+00:00",
+      "sourceCount": 1,
+      "languageCount": 1,
+      "sources": [
+        "Ratopati"
+      ],
+      "categories": [
+        "politics",
+        "sports"
+      ],
+      "items": [
+        {
+          "id": "79506ac9f9ae9071",
+          "title": "बाढीपहिरोले यस वर्षको दसैँ उल्लासमय भएन",
+          "link": "https://www.ratopati.com/story/600871/this-years-dashain-was-not-a-joyous-one-due-to-floods-and-landslides",
+          "source": "Ratopati",
+          "sourceUrl": "https://ratopati.com/feed",
+          "pubDate": "2026-10-22T23:08:41+00:00",
+          "categories": [
+            "politics",
+            "sports"
+          ],
+          "image": "https://npcdn.ratopati.com/media/news/chitwan_map_hQtNsfDIYC.jpg",
+          "images": [
+            "https://npcdn.ratopati.com/media/news/chitwan_map_hQtNsfDIYC.jpg"
+          ],
+          "description": "चितवन । भोटेकोशी, त्रिशूली र बूढीगण्डकी नदीमा गएको बाढीले जनधनको अपूरणीय क्षति पुर्‍याएको र बाढी पहिरोका कारण प्रमुख राजमार्ग प्रभावित भएकाले विगतको तुलनामा यस वर्षको दसैँ खल्लो भएको स्थानीयको भनाइ छ । भोटेकाशी बाढीमा परी आफन्त"
+        }
+      ]
+    },
+    {
+      "id": "df31d9208917a847",
+      "title": "प्राकृतिक स्रोतको उपयोगबाट करोडौँ आम्दानी",
+      "summary": "गण्डकी । अन्नपूर्ण संरक्षण क्षेत्र आयोजनाले जडीबुटी सङ्कलन शुल्कलगायत प्राकृतिक स्रोतको उपयोगबाट गत आर्थिक वर्षमा रु तीन करोड ८६ लाख ५१ हजार ९०८ सङ्कलन गरेको छ । कार्यालयले जडीबुटी, काठ दाउरा आदिको सङ्कलन तथा उपयोगबाट",
+      "publishedAt": "2026-10-22T23:03:25+00:00",
+      "updatedAt": "2026-10-22T23:03:25+00:00",
+      "sourceCount": 1,
+      "languageCount": 1,
+      "sources": [
+        "Ratopati"
+      ],
+      "categories": [
+        "politics",
+        "sports"
+      ],
+      "items": [
+        {
+          "id": "d17273e9f7c758da",
+          "title": "प्राकृतिक स्रोतको उपयोगबाट करोडौँ आम्दानी",
+          "link": "https://www.ratopati.com/story/600870/millions-of-dollars-in-income-from-the-use-of-natural-resources",
+          "source": "Ratopati",
+          "sourceUrl": "https://ratopati.com/feed",
+          "pubDate": "2026-10-22T23:03:25+00:00",
+          "categories": [
+            "politics",
+            "sports"
+          ],
+          "image": "https://npcdn.ratopati.com/media/news/annapurna-conservation-area_i8c7P7b4mo.jpg",
+          "images": [
+            "https://npcdn.ratopati.com/media/news/annapurna-conservation-area_i8c7P7b4mo.jpg"
+          ],
+          "description": "गण्डकी । अन्नपूर्ण संरक्षण क्षेत्र आयोजनाले जडीबुटी सङ्कलन शुल्कलगायत प्राकृतिक स्रोतको उपयोगबाट गत आर्थिक वर्षमा रु तीन करोड ८६ लाख ५१ हजार ९०८ सङ्कलन गरेको छ । कार्यालयले जडीबुटी, काठ दाउरा आदिको सङ्कलन तथा उपयोगबाट"
+        }
+      ]
+    },
     {
       "id": "f204dcf814bdf58c",
       "title": "पब्जी मोबाइल ग्लोबल ओपन : नेपालको टीटूके सर्भाइभल स्टेजबाट बाहिरियो",
@@ -894,41 +1304,6 @@
       ]
     },
     {
-      "id": "3ea5dd0a85de23b9",
-      "title": "भोटेकोशी विपद् : अन्तर्राष्ट्रिय हानी-नोक्सानी कोषबाट नेपाललाई २० मिलियन डलर अनुदान",
-      "summary": "",
-      "publishedAt": "2026-10-22T15:29:21+00:00",
-      "updatedAt": "2026-10-22T15:29:21+00:00",
-      "sourceCount": 1,
-      "languageCount": 1,
-      "sources": [
-        "Baahrakhari"
-      ],
-      "categories": [
-        "business",
-        "politics",
-        "society"
-      ],
-      "items": [
-        {
-          "id": "1e7fbbe399d9730c",
-          "title": "भोटेकोशी विपद् : अन्तर्राष्ट्रिय हानी-नोक्सानी कोषबाट नेपाललाई २० मिलियन डलर अनुदान",
-          "link": "https://baahrakhari.com/detail/505483",
-          "source": "Baahrakhari",
-          "sourceUrl": "https://baahrakhari.com/feed",
-          "pubDate": "2026-10-22T15:29:21+00:00",
-          "categories": [
-            "politics",
-            "business",
-            "society"
-          ],
-          "image": "",
-          "images": [],
-          "description": ""
-        }
-      ]
-    },
-    {
       "id": "aebc4acfb79072f1",
       "title": "रुसका लागि जासुसी गरेको आरोपमा जर्मनीमा युक्रेनी नागरिक पक्राउ",
       "summary": "काठमाडौँ । जर्मनीमा रुसी गुप्तचर निकायका लागि जासुसी गरेको आरोपमा एक युक्रेनी नागरिक पक्राउ परेका छन् । जर्मनीका सङ्घीय अभियोजकका अनुसार ती व्यक्तिमाथि सैन्य दृष्टिकोणले महत्त्वपूर्ण सूचना सङ्कलन गरेको आरोप छ । ‘भादिम वाई’ नामका ती",
@@ -960,41 +1335,6 @@
             "https://npcdn.ratopati.com/media/news/ukraine-flag_BVVXxRww8h.jpg"
           ],
           "description": "काठमाडौँ । जर्मनीमा रुसी गुप्तचर निकायका लागि जासुसी गरेको आरोपमा एक युक्रेनी नागरिक पक्राउ परेका छन् । जर्मनीका सङ्घीय अभियोजकका अनुसार ती व्यक्तिमाथि सैन्य दृष्टिकोणले महत्त्वपूर्ण सूचना सङ्कलन गरेको आरोप छ । ‘भादिम वाई’ नामका ती"
-        }
-      ]
-    },
-    {
-      "id": "7a2bed639aabaf2e",
-      "title": "प्राकृतिक स्रोतको उपयोगबाट करोडौं आम्दानी",
-      "summary": "कास्की।अन्नपूर्ण संरक्षण क्षेत्र आयोजनाले जडीबुटी संकलन शुल्कलगायत प्राकृतिक स्रोतको उपयोगबाट गत आर्थिक वर्षमा तीन करोड ८६ लाख ५१ हजार ९०८ संकलन गरेको छ। कार्यालयले जडीबुटी, काठ दाउरा आदिको संकलन तथा उपयोगबाट हुने उक्त आम्दानी गरेको हो। आयोजना प्रमुख डा. रविन कडरियाका अनुसार कार्यालयले आव २०८१/८२ मा पाँच करोड ७७ लाख १६ हजार ७८१ रुपैंयाँ र […]",
-      "publishedAt": "2026-10-22T15:14:17+00:00",
-      "updatedAt": "2026-10-22T15:14:17+00:00",
-      "sourceCount": 1,
-      "languageCount": 1,
-      "sources": [
-        "Nepal News"
-      ],
-      "categories": [
-        "business",
-        "politics",
-        "world"
-      ],
-      "items": [
-        {
-          "id": "a04e63a76d6d3553",
-          "title": "प्राकृतिक स्रोतको उपयोगबाट करोडौं आम्दानी",
-          "link": "https://nepalnews.com/2026/10/22/millions-of-dollars-in-income-from-the-use-of-natural-resources/",
-          "source": "Nepal News",
-          "sourceUrl": "https://nepalnews.com/feed",
-          "pubDate": "2026-10-22T15:14:17+00:00",
-          "categories": [
-            "politics",
-            "business",
-            "world"
-          ],
-          "image": "",
-          "images": [],
-          "description": "कास्की।अन्नपूर्ण संरक्षण क्षेत्र आयोजनाले जडीबुटी संकलन शुल्कलगायत प्राकृतिक स्रोतको उपयोगबाट गत आर्थिक वर्षमा तीन करोड ८६ लाख ५१ हजार ९०८ संकलन गरेको छ। कार्यालयले जडीबुटी, काठ दाउरा आदिको संकलन तथा उपयोगबाट हुने उक्त आम्दानी गरेको हो। आयोजना प्रमुख डा. रविन कडरियाका अनुसार कार्यालयले आव २०८१/८२ मा पाँच करोड ७७ लाख १६ हजार ७८१ रुपैंयाँ र […]"
         }
       ]
     },
@@ -1261,41 +1601,6 @@
           "image": "",
           "images": [],
           "description": "भोटेकोशी-त्रिशूली बाढीबाट प्रभावित परिवार तथा समुदायलाई राहत, पुनर्स्थापना र पुनर्निर्माणका लागि हानि-नोक्सानी कोषले नेपाललाई २ कराेड अमेरिकी डलर (३ अर्ब २ कराेड रुपैयाँ) बराबरको अनुदान सहयोग दिने निर्णय गरेको हो ।"
-        }
-      ]
-    },
-    {
-      "id": "5637c98860e8f129",
-      "title": "साउदीमा नेपालीको सुरक्षा र उद्धारमा पहल गर्न सरकारलाई कांग्रेसको ध्यानाकर्षण",
-      "summary": "",
-      "publishedAt": "2026-10-22T14:53:52+00:00",
-      "updatedAt": "2026-10-22T14:53:52+00:00",
-      "sourceCount": 1,
-      "languageCount": 1,
-      "sources": [
-        "Baahrakhari"
-      ],
-      "categories": [
-        "business",
-        "politics",
-        "society"
-      ],
-      "items": [
-        {
-          "id": "e1456dd4b6141b53",
-          "title": "साउदीमा नेपालीको सुरक्षा र उद्धारमा पहल गर्न सरकारलाई कांग्रेसको ध्यानाकर्षण",
-          "link": "https://baahrakhari.com/detail/505482",
-          "source": "Baahrakhari",
-          "sourceUrl": "https://baahrakhari.com/feed",
-          "pubDate": "2026-10-22T14:53:52+00:00",
-          "categories": [
-            "politics",
-            "business",
-            "society"
-          ],
-          "image": "",
-          "images": [],
-          "description": ""
         }
       ]
     },
@@ -1642,43 +1947,6 @@
       ]
     },
     {
-      "id": "bc6b4e513c401937",
-      "title": "रसुवा बाढी : हानिनोक्सानी कोषले नेपाललाई दिने भयो तीन अर्ब",
-      "summary": "बाढीबाट भएको प्रारम्भिक आर्थिक क्षति दुई अर्ब ७० करोड अमेरिकी डलर बराबर रहेको र पुनर्निर्माणका लागि चार अर्ब ७० करोड अमेरिकी डलर आवश्यक पर्ने अनुमान गरिएको मन्त्रालयले जनाएको छ।",
-      "publishedAt": "2026-10-22T14:26:11+00:00",
-      "updatedAt": "2026-10-22T14:26:11+00:00",
-      "sourceCount": 1,
-      "languageCount": 1,
-      "sources": [
-        "Thaha Khabar"
-      ],
-      "categories": [
-        "business",
-        "politics",
-        "sports"
-      ],
-      "items": [
-        {
-          "id": "c02ec6b05e75f73f",
-          "title": "रसुवा बाढी : हानिनोक्सानी कोषले नेपाललाई दिने भयो तीन अर्ब",
-          "link": "https://www.thahakhabar.com/detail/310728",
-          "source": "Thaha Khabar",
-          "sourceUrl": "https://www.thahakhabar.com/feed",
-          "pubDate": "2026-10-22T14:26:11+00:00",
-          "categories": [
-            "politics",
-            "business",
-            "sports"
-          ],
-          "image": "https://www.thahakhabar.com/uploads/posts/rasuwa-badhi-1787730070.jpg",
-          "images": [
-            "https://www.thahakhabar.com/uploads/posts/rasuwa-badhi-1787730070.jpg"
-          ],
-          "description": "बाढीबाट भएको प्रारम्भिक आर्थिक क्षति दुई अर्ब ७० करोड अमेरिकी डलर बराबर रहेको र पुनर्निर्माणका लागि चार अर्ब ७० करोड अमेरिकी डलर आवश्यक पर्ने अनुमान गरिएको मन्त्रालयले जनाएको छ।"
-        }
-      ]
-    },
-    {
       "id": "82e90e8f03953118",
       "title": "श्रीलङ्काली स्टार अलराउन्डर एन्जेलो म्याथ्युजले विराटनगर किंग्सबाट एनपीएल खेल्ने",
       "summary": "काठमाडौँ । नेपाल प्रिमियर लिग (एनपीएल) को तेस्रो संस्करणका लागि विराटनगर किंग्सले श्रीलंकाका अनुभवी क्रिकेटर तथा पूर्व कप्तान एन्जेलो म्याथ्युजलाई अनुबन्ध गरेको छ । अन्तर्राष्ट्रिय क्रिकेटमा आफ्नो उत्कृष्ट ब्याटिङ, उपयोगी मध्यम गतिका बलिङ र नेतृत्व",
@@ -1743,61 +2011,6 @@
           "image": "",
           "images": [],
           "description": ""
-        }
-      ]
-    },
-    {
-      "id": "37fc1cc6b9de0afe",
-      "title": "विपद्प्रभावित क्षेत्रको पुनर्निर्माणमा बजेटको कमी हुँदैन : मन्त्री लम्साल",
-      "summary": "",
-      "publishedAt": "2026-10-22T14:20:00+00:00",
-      "updatedAt": "2026-10-22T14:20:00+00:00",
-      "sourceCount": 2,
-      "languageCount": 2,
-      "sources": [
-        "Baahrakhari",
-        "Nepal News"
-      ],
-      "categories": [
-        "business",
-        "politics",
-        "society",
-        "world"
-      ],
-      "items": [
-        {
-          "id": "831cbbd3ff6bdb20",
-          "title": "विपद्प्रभावित क्षेत्रको पुनर्निर्माणमा बजेटको कमी हुँदैन : मन्त्री लम्साल",
-          "link": "https://baahrakhari.com/detail/505481",
-          "source": "Baahrakhari",
-          "sourceUrl": "https://baahrakhari.com/feed",
-          "pubDate": "2026-10-22T14:20:00+00:00",
-          "categories": [
-            "politics",
-            "business",
-            "society"
-          ],
-          "image": "",
-          "images": [],
-          "description": ""
-        },
-        {
-          "id": "10d6d7abc381c6d6",
-          "title": "पुनर्निर्माणमा बजेटको कमी हुँदैन : मन्त्री लम्साल",
-          "link": "https://nepalnews.com/2026/10/22/there-will-be-no-budget-shortage-in-reconstruction-minister-lamsal/",
-          "source": "Nepal News",
-          "sourceUrl": "https://nepalnews.com/feed",
-          "pubDate": "2026-10-22T13:55:18+00:00",
-          "categories": [
-            "politics",
-            "business",
-            "world"
-          ],
-          "image": "https://nepalnews.com/wp-content/uploads/2026/10/sunil-lamsal-maygdi-1-768x512.jpg",
-          "images": [
-            "https://nepalnews.com/wp-content/uploads/2026/10/sunil-lamsal-maygdi-1-768x512.jpg"
-          ],
-          "description": "म्याग्दी।पूर्वाधार विकासमन्त्री सुनिल लम्सालले मनसुनजन्य विपदबाट क्षतिग्रस्त कालीगण्डकी कोरिडोरको आज स्थलगत निरीक्षण गरेका छन्। गुल्मी, बागलुङ, पर्वत, म्याग्दी हुँदै मुस्ताङको सीमानामा रहेको रुप्से झरनासम्म पुगेका मन्त्री लम्सालले कालीगण्डकी बाढीबाट प्रभावित मालढुङ्गा पुल, पर्वतको फर्से, म्याग्दीको बेनी खानेपानी योजना, सिंगा तातोपानी कुण्ड र बेनी–दरवाङ–ढोरपाटन सडकअन्तर्गत फापरखेतको पहिरोको पनि निरीक्षण गरेका हुन् । निरीक्षणपछि रुप्सेमा सडक विभाग, […]"
         }
       ]
     },
@@ -1870,41 +2083,6 @@
             "https://npcdn.ratopati.com/media/news/timure_SUu4TxwP3f.webp"
           ],
           "description": "काठमाडौँ । स्वयम्भूको शान्त डाँडामा बिहानैदेखि बौद्ध मन्त्रका गुञ्जन सुनिन्छन् । हावामा फरफराइरहेका लुङ्दार र घिउका बत्तीहरूको मधुरो सुवासबिच मुस्ताङ गुम्बाको आँगनमा छन्- भोटेकोशी बाढीबाट बिस्थापित टिमुरेका स्थानीय । गत भदौ १० गतेको त्यो कालो बिहान"
-        }
-      ]
-    },
-    {
-      "id": "b767ca76e8985e52",
-      "title": "धरानमा दसैंमा २६ करोड बढीको खसी–बोका कारोबार",
-      "summary": "सुनसरी।बडादसैंलाई लक्षित गरी धरान उपमहानगरपालिका–१३ स्थित कृषिउपज बजारबाट यस वर्ष २६ करोड २५ लाख बराबरको खसी–बोका कारोबार भएको छ। कोशी प्रदेशका पहाडी जिल्लाबाट किसान तथा व्यापारीले बिक्रीका लागि ल्याएका खसी–बोकाको माग बढेपछि गत वर्षको तुलनामा यस वर्ष करिब १५ प्रतिशतले कारोबार वृद्धि भएको कृषिउपज बजारका व्यवस्थापक लक्ष्मण भट्टराईले बताए। गत वर्ष २०८२ को दसैंमा कृषिउपज […]",
-      "publishedAt": "2026-10-22T14:11:31+00:00",
-      "updatedAt": "2026-10-22T14:11:31+00:00",
-      "sourceCount": 1,
-      "languageCount": 1,
-      "sources": [
-        "Nepal News"
-      ],
-      "categories": [
-        "business",
-        "politics",
-        "world"
-      ],
-      "items": [
-        {
-          "id": "ae89433d6dc05124",
-          "title": "धरानमा दसैंमा २६ करोड बढीको खसी–बोका कारोबार",
-          "link": "https://nepalnews.com/2026/10/22/goat-and-sheep-trade-exceeds-rs-260-million-in-dharan-during-dashain/",
-          "source": "Nepal News",
-          "sourceUrl": "https://nepalnews.com/feed",
-          "pubDate": "2026-10-22T14:11:31+00:00",
-          "categories": [
-            "politics",
-            "business",
-            "world"
-          ],
-          "image": "",
-          "images": [],
-          "description": "सुनसरी।बडादसैंलाई लक्षित गरी धरान उपमहानगरपालिका–१३ स्थित कृषिउपज बजारबाट यस वर्ष २६ करोड २५ लाख बराबरको खसी–बोका कारोबार भएको छ। कोशी प्रदेशका पहाडी जिल्लाबाट किसान तथा व्यापारीले बिक्रीका लागि ल्याएका खसी–बोकाको माग बढेपछि गत वर्षको तुलनामा यस वर्ष करिब १५ प्रतिशतले कारोबार वृद्धि भएको कृषिउपज बजारका व्यवस्थापक लक्ष्मण भट्टराईले बताए। गत वर्ष २०८२ को दसैंमा कृषिउपज […]"
         }
       ]
     },
@@ -2057,41 +2235,6 @@
       ]
     },
     {
-      "id": "f135b9399e91a905",
-      "title": "त्रिपक्षीय वार्तामा सहमत भएकै रात रुसद्वारा किभमा भीषण क्षेप्यास्त्र हमला",
-      "summary": "",
-      "publishedAt": "2026-10-22T13:57:02+00:00",
-      "updatedAt": "2026-10-22T13:57:02+00:00",
-      "sourceCount": 1,
-      "languageCount": 1,
-      "sources": [
-        "Baahrakhari"
-      ],
-      "categories": [
-        "business",
-        "politics",
-        "society"
-      ],
-      "items": [
-        {
-          "id": "6937b6e062ed1312",
-          "title": "त्रिपक्षीय वार्तामा सहमत भएकै रात रुसद्वारा किभमा भीषण क्षेप्यास्त्र हमला",
-          "link": "https://baahrakhari.com/detail/505480",
-          "source": "Baahrakhari",
-          "sourceUrl": "https://baahrakhari.com/feed",
-          "pubDate": "2026-10-22T13:57:02+00:00",
-          "categories": [
-            "politics",
-            "business",
-            "society"
-          ],
-          "image": "",
-          "images": [],
-          "description": ""
-        }
-      ]
-    },
-    {
       "id": "2f8f09e9a2c11be7",
       "title": "पुनः निर्माणमा बजेटको कमी हुँदैनः मन्त्री लम्साल",
       "summary": "म्याग्दी । पूर्वाधार विकासमन्त्री सुनिल लम्सालले मनसुनजन्य विपद्बाट क्षतिग्रस्त कालीगण्डकी कोरिडोरको आज स्थलगत निरीक्षण गर्नुभएको छ । गुल्मी, बागलुङ, पर्वत, म्याग्दी हुँदै मुस्ताङको सिमानामा रहेको रुप्से झरनासम्म पुग्नुभएका मन्त्री लम्सालले कालीगण्डकी बाढीबाट प्रभावित मालढुङ्गा पुल, पर्वतको",
@@ -2123,6 +2266,43 @@
             "https://npcdn.ratopati.com/media/news/2WWTJ30KFw.jpg"
           ],
           "description": "म्याग्दी । पूर्वाधार विकासमन्त्री सुनिल लम्सालले मनसुनजन्य विपद्बाट क्षतिग्रस्त कालीगण्डकी कोरिडोरको आज स्थलगत निरीक्षण गर्नुभएको छ । गुल्मी, बागलुङ, पर्वत, म्याग्दी हुँदै मुस्ताङको सिमानामा रहेको रुप्से झरनासम्म पुग्नुभएका मन्त्री लम्सालले कालीगण्डकी बाढीबाट प्रभावित मालढुङ्गा पुल, पर्वतको"
+        }
+      ]
+    },
+    {
+      "id": "a7783712212efcd9",
+      "title": "पुनर्निर्माणमा बजेटको कमी हुँदैन : मन्त्री लम्साल",
+      "summary": "म्याग्दी।पूर्वाधार विकासमन्त्री सुनिल लम्सालले मनसुनजन्य विपदबाट क्षतिग्रस्त कालीगण्डकी कोरिडोरको आज स्थलगत निरीक्षण गरेका छन्। गुल्मी, बागलुङ, पर्वत, म्याग्दी हुँदै मुस्ताङको सीमानामा रहेको रुप्से झरनासम्म पुगेका मन्त्री लम्सालले कालीगण्डकी बाढीबाट प्रभावित मालढुङ्गा पुल, पर्वतको फर्से, म्याग्दीको बेनी खानेपानी योजना, सिंगा तातोपानी कुण्ड र बेनी–दरवाङ–ढोरपाटन सडकअन्तर्गत फापरखेतको पहिरोको पनि निरीक्षण गरेका हुन् । निरीक्षणपछि रुप्सेमा सडक विभाग, […]",
+      "publishedAt": "2026-10-22T13:55:18+00:00",
+      "updatedAt": "2026-10-22T13:55:18+00:00",
+      "sourceCount": 1,
+      "languageCount": 1,
+      "sources": [
+        "Nepal News"
+      ],
+      "categories": [
+        "business",
+        "politics",
+        "world"
+      ],
+      "items": [
+        {
+          "id": "10d6d7abc381c6d6",
+          "title": "पुनर्निर्माणमा बजेटको कमी हुँदैन : मन्त्री लम्साल",
+          "link": "https://nepalnews.com/2026/10/22/there-will-be-no-budget-shortage-in-reconstruction-minister-lamsal/",
+          "source": "Nepal News",
+          "sourceUrl": "https://nepalnews.com/feed",
+          "pubDate": "2026-10-22T13:55:18+00:00",
+          "categories": [
+            "politics",
+            "business",
+            "world"
+          ],
+          "image": "https://nepalnews.com/wp-content/uploads/2026/10/sunil-lamsal-maygdi-1-768x512.jpg",
+          "images": [
+            "https://nepalnews.com/wp-content/uploads/2026/10/sunil-lamsal-maygdi-1-768x512.jpg"
+          ],
+          "description": "म्याग्दी।पूर्वाधार विकासमन्त्री सुनिल लम्सालले मनसुनजन्य विपदबाट क्षतिग्रस्त कालीगण्डकी कोरिडोरको आज स्थलगत निरीक्षण गरेका छन्। गुल्मी, बागलुङ, पर्वत, म्याग्दी हुँदै मुस्ताङको सीमानामा रहेको रुप्से झरनासम्म पुगेका मन्त्री लम्सालले कालीगण्डकी बाढीबाट प्रभावित मालढुङ्गा पुल, पर्वतको फर्से, म्याग्दीको बेनी खानेपानी योजना, सिंगा तातोपानी कुण्ड र बेनी–दरवाङ–ढोरपाटन सडकअन्तर्गत फापरखेतको पहिरोको पनि निरीक्षण गरेका हुन् । निरीक्षणपछि रुप्सेमा सडक विभाग, […]"
         }
       ]
     },
@@ -3532,41 +3712,6 @@
       ]
     },
     {
-      "id": "3fc815de1117e17a",
-      "title": "लेम्फीले ल्यायो ‘एम्बिसन ह्याज नो पासपोर्ट’",
-      "summary": "काठमाडाैँ । नेपालसहित ३० भन्दा बढी देशमा रेमिट्यान्स सेवा दिँदै आएको अन्तर्राष्ट्रिय डिजिटल वित्तीय प्लेटफर्म लेम्फीले आफ्नो इतिहासकै सबैभन्दा ठुलो उत्पादन विस्तार गरेको छ । कम्पनीले बेलायतमा बचत र क्रेडिट सेवा तथा १०० भन्दा बढी",
-      "publishedAt": "2026-10-22T12:18:01+00:00",
-      "updatedAt": "2026-10-22T12:18:01+00:00",
-      "sourceCount": 1,
-      "languageCount": 1,
-      "sources": [
-        "Ratopati"
-      ],
-      "categories": [
-        "politics",
-        "sports"
-      ],
-      "items": [
-        {
-          "id": "aa147787edf8e7db",
-          "title": "लेम्फीले ल्यायो ‘एम्बिसन ह्याज नो पासपोर्ट’",
-          "link": "https://www.ratopati.com/story/600845/lemphy-brings-ambition-has-no-passport",
-          "source": "Ratopati",
-          "sourceUrl": "https://ratopati.com/feed",
-          "pubDate": "2026-10-22T12:18:01+00:00",
-          "categories": [
-            "politics",
-            "sports"
-          ],
-          "image": "https://npcdn.ratopati.com/media/news/lemfi_Oc8BZBl7MH.webp",
-          "images": [
-            "https://npcdn.ratopati.com/media/news/lemfi_Oc8BZBl7MH.webp"
-          ],
-          "description": "काठमाडाैँ । नेपालसहित ३० भन्दा बढी देशमा रेमिट्यान्स सेवा दिँदै आएको अन्तर्राष्ट्रिय डिजिटल वित्तीय प्लेटफर्म लेम्फीले आफ्नो इतिहासकै सबैभन्दा ठुलो उत्पादन विस्तार गरेको छ । कम्पनीले बेलायतमा बचत र क्रेडिट सेवा तथा १०० भन्दा बढी"
-        }
-      ]
-    },
-    {
       "id": "0abc52e76609c706",
       "title": "काठमाडौंमा बढ्दै चहलपहल, उपत्यकाको काखमै हिमाल (तस्विरहरू)",
       "summary": "यसपटक खुलेको मौसमले काठमाडौंको दृश्यलाई थप आकर्षक बनाएको छ। रिङरोडमा गुडिरहेका सवारीसाधन र अग्ला भवनका पृष्ठभूमिमा टल्किएका हिमालले उपत्यकाको प्राकृतिक सुन्दरता झल्काउँछन्।",
@@ -3719,76 +3864,6 @@
       ]
     },
     {
-      "id": "435c0ddf2fae74f8",
-      "title": "चितवन प्रहरीद्वारा पहिलोपटक निःशुल्क बस सेवा सञ्चालन",
-      "summary": "चितवन । बडादसैँअन्तर्गत टीकाको दिन आमसर्वसाधारण जनताको हितलाई ध्यानमा राखी चितवन प्रहरीले पहिलोपटक भरतपुर क्षेत्रमा निःशुल्क बस सेवा सञ्चालन गरेको छ । जिल्ला प्रहरी कार्यालय चितवनले टीकाको दिन सहज रुपमा सार्वजनिक सवारीसाधन नपाइने भएकाले नेपाल पुलिस",
-      "publishedAt": "2026-10-22T12:05:08+00:00",
-      "updatedAt": "2026-10-22T12:05:08+00:00",
-      "sourceCount": 1,
-      "languageCount": 1,
-      "sources": [
-        "Ratopati"
-      ],
-      "categories": [
-        "politics",
-        "sports"
-      ],
-      "items": [
-        {
-          "id": "3ac2a1284455cb81",
-          "title": "चितवन प्रहरीद्वारा पहिलोपटक निःशुल्क बस सेवा सञ्चालन",
-          "link": "https://www.ratopati.com/story/600843/chitwan-police-to-operate-free-bus-service-for-the-first-time",
-          "source": "Ratopati",
-          "sourceUrl": "https://ratopati.com/feed",
-          "pubDate": "2026-10-22T12:05:08+00:00",
-          "categories": [
-            "politics",
-            "sports"
-          ],
-          "image": "https://npcdn.ratopati.com/media/news/chitwan_map_hQtNsfDIYC.jpg",
-          "images": [
-            "https://npcdn.ratopati.com/media/news/chitwan_map_hQtNsfDIYC.jpg"
-          ],
-          "description": "चितवन । बडादसैँअन्तर्गत टीकाको दिन आमसर्वसाधारण जनताको हितलाई ध्यानमा राखी चितवन प्रहरीले पहिलोपटक भरतपुर क्षेत्रमा निःशुल्क बस सेवा सञ्चालन गरेको छ । जिल्ला प्रहरी कार्यालय चितवनले टीकाको दिन सहज रुपमा सार्वजनिक सवारीसाधन नपाइने भएकाले नेपाल पुलिस"
-        }
-      ]
-    },
-    {
-      "id": "90800a6b35535a28",
-      "title": "आर्कटिक सुरक्षामा बेलायतलाई चुनौती",
-      "summary": "काठमाडाैँ। बेलायतले रणनीतिक रूपमा महत्वपूर्ण आर्कटिक क्षेत्रको सुदूर उत्तरमा रूसको सैन्य गतिविधिको सामना गर्न आवश्यक नौसैनिक क्षमतामा ‘स्पष्ट खाडल’ रहेको सांसदहरूले चेतावनी दिएका छन्। बिहीबार सार्वजनिक गरिएको संसदीय प्रतिवेदनअनुसार, आर्कटिक र उत्तरी एट्लान्टिकका केही भाग समेट्ने",
-      "publishedAt": "2026-10-22T12:00:52+00:00",
-      "updatedAt": "2026-10-22T12:00:52+00:00",
-      "sourceCount": 1,
-      "languageCount": 1,
-      "sources": [
-        "Ratopati"
-      ],
-      "categories": [
-        "politics",
-        "sports"
-      ],
-      "items": [
-        {
-          "id": "585046f5e3fba92e",
-          "title": "आर्कटिक सुरक्षामा बेलायतलाई चुनौती",
-          "link": "https://www.ratopati.com/story/600842/challenges-for-britain-in-arctic-security",
-          "source": "Ratopati",
-          "sourceUrl": "https://ratopati.com/feed",
-          "pubDate": "2026-10-22T12:00:52+00:00",
-          "categories": [
-            "politics",
-            "sports"
-          ],
-          "image": "https://rpcdn.ratopati.com/archived-media/uk-flag.gif",
-          "images": [
-            "https://rpcdn.ratopati.com/archived-media/uk-flag.gif"
-          ],
-          "description": "काठमाडाैँ। बेलायतले रणनीतिक रूपमा महत्वपूर्ण आर्कटिक क्षेत्रको सुदूर उत्तरमा रूसको सैन्य गतिविधिको सामना गर्न आवश्यक नौसैनिक क्षमतामा ‘स्पष्ट खाडल’ रहेको सांसदहरूले चेतावनी दिएका छन्। बिहीबार सार्वजनिक गरिएको संसदीय प्रतिवेदनअनुसार, आर्कटिक र उत्तरी एट्लान्टिकका केही भाग समेट्ने"
-        }
-      ]
-    },
-    {
       "id": "2546be7504759171",
       "title": "साउदीमा ड्रोन आक्रमणबाट एक नेपालीको मृ*त्यु, नेपाल सरकारको कडा निन्दा",
       "summary": "५ कात्तिक, काठमाडौं । साउदी अरेबियाको सेबा आयल फिल्डमा भएको ड्रोन आक्रमणमा परी एक नेपाली नागरिकको मृत्यु भएको छ। बुधबार साउदी अरामकोको तेल उत्पादन तथा प्रशोधन केन्द्रलाई लक्षित गरी गरिएको उक्त आक्रमणमा एक नेपाली र एक फिलिपिनो नागरिकको ज्यान गएको हो। घटनामा एक भारतीय र एक पाकिस्तानी नागरिक घाइते भएका छन्। साउदी ऊर्जा मन्त्रालयका अनुसार, […]",
@@ -3824,41 +3899,6 @@
           "image": "",
           "images": [],
           "description": "५ कात्तिक, काठमाडौं । साउदी अरेबियाको सेबा आयल फिल्डमा भएको ड्रोन आक्रमणमा परी एक नेपाली नागरिकको मृत्यु भएको छ। बुधबार साउदी अरामकोको तेल उत्पादन तथा प्रशोधन केन्द्रलाई लक्षित गरी गरिएको उक्त आक्रमणमा एक नेपाली र एक फिलिपिनो नागरिकको ज्यान गएको हो। घटनामा एक भारतीय र एक पाकिस्तानी नागरिक घाइते भएका छन्। साउदी ऊर्जा मन्त्रालयका अनुसार, […]"
-        }
-      ]
-    },
-    {
-      "id": "636447ed86cfe97f",
-      "title": "म्याग्दीमा व्यावसायिक अलैँची खेतीको परीक्षण सफल",
-      "summary": "म्याग्दी। बेनी नगरपालिका–३ मुसुङ गाउँमा परीक्षणका रुपमा लगाइएको अलैँचीखेती सफल भएको छ । परीक्षणका लागि तीन वर्षअघि गरिएको अलैँचीखेती सफल भएपछि व्यावसायिक रूपमा खेती विस्तार गर्न थालिएको हो। बेनी नगरपालिका–३ का वडाअध्यक्ष पदम पुनले चारखोलाको ओसेपिलो",
-      "publishedAt": "2026-10-22T11:56:21+00:00",
-      "updatedAt": "2026-10-22T11:56:21+00:00",
-      "sourceCount": 1,
-      "languageCount": 1,
-      "sources": [
-        "Ratopati"
-      ],
-      "categories": [
-        "politics",
-        "sports"
-      ],
-      "items": [
-        {
-          "id": "a6805e5ffd5e5981",
-          "title": "म्याग्दीमा व्यावसायिक अलैँची खेतीको परीक्षण सफल",
-          "link": "https://www.ratopati.com/story/600841/trial-of-commercial-cardamom-cultivation-successful-in-myagdi",
-          "source": "Ratopati",
-          "sourceUrl": "https://ratopati.com/feed",
-          "pubDate": "2026-10-22T11:56:21+00:00",
-          "categories": [
-            "politics",
-            "sports"
-          ],
-          "image": "https://npcdn.ratopati.com/media/news/liB2pNUcjh.jpg",
-          "images": [
-            "https://npcdn.ratopati.com/media/news/liB2pNUcjh.jpg"
-          ],
-          "description": "म्याग्दी। बेनी नगरपालिका–३ मुसुङ गाउँमा परीक्षणका रुपमा लगाइएको अलैँचीखेती सफल भएको छ । परीक्षणका लागि तीन वर्षअघि गरिएको अलैँचीखेती सफल भएपछि व्यावसायिक रूपमा खेती विस्तार गर्न थालिएको हो। बेनी नगरपालिका–३ का वडाअध्यक्ष पदम पुनले चारखोलाको ओसेपिलो"
         }
       ]
     },
@@ -4044,97 +4084,6 @@
           "image": "",
           "images": [],
           "description": "काठमाडौँ- बडादसैँका अवसरमा नेपाल प्रहरी र सशस्त्र प्रहरी बल नेपालले काठमाडौँ उपत्यकामा सञ्चालन गरेका निःशुल्क बस सेवाबाट तीन हजार ५८५ जना नागरिक लाभान्वित भएका छन्। दसैँका बेला सार्वजनिक सवारीसाधनको अभाव र यात्रुको चापलाई ध्यानमा राख्दै दुवै सुरक्षा निकायले सञ्चालन गरेका निःशुल्क बस सेवाले सर्वसाधारणलाई आवतजावतमा सहजता प्रदान गरेको छ। नेपाल प्रहरीले सञ्चालन गरेको निःशुल्क बस सेवाबाट […]"
-        }
-      ]
-    },
-    {
-      "id": "fb2d3950f694e0ff",
-      "title": "लुम्बिनी लायन्समा अमेरिकी अलराउन्डर शाड्ली भान स्कालवकविक अनुबन्ध",
-      "summary": "काठमाडौँ । पाकिस्तानका ‘अलराउन्डर’ हुसेन तलतले नेपाल प्रिमियर लिग (एनपिएल) को तेस्रो संस्करण कर्णाली ‘याक्स’बाट खेल्ने भएका छन् । कर्णालीले ३० वर्षीय तलतलाई आज विदेशी खेलाडीका रूपमा टोलीमा भित्र्याएको हो । “पाकिस्तानका अलराउन्डर हुसेन तलत अब",
-      "publishedAt": "2026-10-22T11:44:22+00:00",
-      "updatedAt": "2026-10-22T11:44:22+00:00",
-      "sourceCount": 1,
-      "languageCount": 1,
-      "sources": [
-        "Ratopati"
-      ],
-      "categories": [
-        "politics",
-        "sports"
-      ],
-      "items": [
-        {
-          "id": "8c553e21d875a8e1",
-          "title": "लुम्बिनी लायन्समा अमेरिकी अलराउन्डर शाड्ली भान स्कालवकविक अनुबन्ध",
-          "link": "https://www.ratopati.com/story/600840/pakistans-hussain-to-play-npl-with-talat-karnali-yaks",
-          "source": "Ratopati",
-          "sourceUrl": "https://ratopati.com/feed",
-          "pubDate": "2026-10-22T11:44:22+00:00",
-          "categories": [
-            "politics",
-            "sports"
-          ],
-          "image": "https://npcdn.ratopati.com/media/news/whatsapp-image-2026-10-22-at-52601-pm_Zzam6OEwLn.webp",
-          "images": [
-            "https://npcdn.ratopati.com/media/news/whatsapp-image-2026-10-22-at-52601-pm_Zzam6OEwLn.webp"
-          ],
-          "description": "काठमाडौँ । पाकिस्तानका ‘अलराउन्डर’ हुसेन तलतले नेपाल प्रिमियर लिग (एनपिएल) को तेस्रो संस्करण कर्णाली ‘याक्स’बाट खेल्ने भएका छन् । कर्णालीले ३० वर्षीय तलतलाई आज विदेशी खेलाडीका रूपमा टोलीमा भित्र्याएको हो । “पाकिस्तानका अलराउन्डर हुसेन तलत अब"
-        }
-      ]
-    },
-    {
-      "id": "ef8f80f3fc4d1a33",
-      "title": "पाकिस्तानका हुसेनले कर्णाली ‘याक्स’बाट एनपीएल खेल्ने",
-      "summary": "काठमाडौँ। पाकिस्तानका ‘अलराउन्डर’ हुसेन तलतले नेपाल प्रिमियर लिग (एनपीएल) को तेस्रो संस्करण कर्णाली ‘याक्स’बाट खेल्ने भएका छन् । कर्णालीले ३० वर्षीय तलतलाई बिहीबार विदेशी खेलाडीका रूपमा टोलीमा भित्र्याएको हो। “पाकिस्तानका अलराउन्डर हुसेन तलत अब आधिकारिक रूपमा",
-      "publishedAt": "2026-10-22T11:43:52+00:00",
-      "updatedAt": "2026-10-22T11:43:52+00:00",
-      "sourceCount": 2,
-      "languageCount": 2,
-      "sources": [
-        "Nepal Views",
-        "Ratopati"
-      ],
-      "categories": [
-        "business",
-        "politics",
-        "sports",
-        "technology"
-      ],
-      "items": [
-        {
-          "id": "2902f4f473c78a92",
-          "title": "पाकिस्तानका हुसेनले कर्णाली ‘याक्स’बाट एनपीएल खेल्ने",
-          "link": "https://www.ratopati.com/story/600839/pakistans-hussain-to-play-npl-with-karnali-yaks",
-          "source": "Ratopati",
-          "sourceUrl": "https://ratopati.com/feed",
-          "pubDate": "2026-10-22T11:43:52+00:00",
-          "categories": [
-            "politics",
-            "sports"
-          ],
-          "image": "https://npcdn.ratopati.com/media/news/hussian_YLw5z6OdQe.webp",
-          "images": [
-            "https://npcdn.ratopati.com/media/news/hussian_YLw5z6OdQe.webp"
-          ],
-          "description": "काठमाडौँ। पाकिस्तानका ‘अलराउन्डर’ हुसेन तलतले नेपाल प्रिमियर लिग (एनपीएल) को तेस्रो संस्करण कर्णाली ‘याक्स’बाट खेल्ने भएका छन् । कर्णालीले ३० वर्षीय तलतलाई बिहीबार विदेशी खेलाडीका रूपमा टोलीमा भित्र्याएको हो। “पाकिस्तानका अलराउन्डर हुसेन तलत अब आधिकारिक रूपमा"
-        },
-        {
-          "id": "8c65f2976c4c1fa7",
-          "title": "पाकिस्तानका हुसेनले तलतले कर्णाली ‘याक्स’बाट एनपीएल खेल्ने",
-          "link": "https://www.nepalviews.com/story/427033/pakistans-hussain-to-play-npl-with-talat-karnali-yaks",
-          "source": "Nepal Views",
-          "sourceUrl": "https://www.nepalviews.com/feed/",
-          "pubDate": "2026-10-22T11:18:57+00:00",
-          "categories": [
-            "politics",
-            "business",
-            "technology"
-          ],
-          "image": "https://nepalviews.cdnsolution.net/en/media/setting/banner_FHsSzcWYKk.jpg",
-          "images": [
-            "https://nepalviews.cdnsolution.net/en/media/setting/banner_FHsSzcWYKk.jpg"
-          ],
-          "description": ""
         }
       ]
     },
@@ -4483,6 +4432,43 @@
             "https://rajdhanidaily.com/wp-content/uploads/2026/09/npl.jpg"
           ],
           "description": "काठमाडौँ । नेपाल प्रिमियर लिग (एनपिएल) को तेस्रो संस्करणका सम्पूर्ण खेलले अन्तरराष्ट्रिय क्रिकेट परिषद् (आइसिसी) को आधिकारिक ‘लिस्ट ए टी–२०’ मान्यता पाउने भएका छन् । नेपाल क्रिकेट सङ्घ (क्यान) का अनुसार यही कात्तिक ९ गतेदेखि कीर्तिपुरस्थित त्रिभुवन विश्वविद्यालय, अन्तरराष्ट्रिय क्रिकेट मैदानमा सञ्चालन हुने एनपिएलका सबै खेलले उक्त मान्यता भएका हुन् । आइसिसीको ‘लिस्ट ए टी–२०’ […] The post एनपिएलका सबै खेलले आइसिसीको मान्यता पाउने appeared first on राजधानी राष्ट्रिय दैनिक (लोकप्रिय राष्ट्रिय दैनिक)"
+        }
+      ]
+    },
+    {
+      "id": "f936f6e4318508f7",
+      "title": "पाकिस्तानका हुसेनले तलतले कर्णाली ‘याक्स’बाट एनपीएल खेल्ने",
+      "summary": "",
+      "publishedAt": "2026-10-22T11:18:57+00:00",
+      "updatedAt": "2026-10-22T11:18:57+00:00",
+      "sourceCount": 1,
+      "languageCount": 1,
+      "sources": [
+        "Nepal Views"
+      ],
+      "categories": [
+        "business",
+        "politics",
+        "technology"
+      ],
+      "items": [
+        {
+          "id": "8c65f2976c4c1fa7",
+          "title": "पाकिस्तानका हुसेनले तलतले कर्णाली ‘याक्स’बाट एनपीएल खेल्ने",
+          "link": "https://www.nepalviews.com/story/427033/pakistans-hussain-to-play-npl-with-talat-karnali-yaks",
+          "source": "Nepal Views",
+          "sourceUrl": "https://www.nepalviews.com/feed/",
+          "pubDate": "2026-10-22T11:18:57+00:00",
+          "categories": [
+            "politics",
+            "business",
+            "technology"
+          ],
+          "image": "https://nepalviews.cdnsolution.net/en/media/setting/banner_FHsSzcWYKk.jpg",
+          "images": [
+            "https://nepalviews.cdnsolution.net/en/media/setting/banner_FHsSzcWYKk.jpg"
+          ],
+          "description": ""
         }
       ]
     },
@@ -5905,45 +5891,6 @@
           "image": "",
           "images": [],
           "description": "साउदी राजधानीमा भएको मिसाइल तथा ड्रोन आक्रमणपछि लागु गरिएका उडान प्रतिबन्धका कारण यात्रुले निरन्तर अनिश्चितताको सामना गरिरहेका छन् ।"
-        }
-      ]
-    },
-    {
-      "id": "dcddcf4de244e13e",
-      "title": "बडादसैंको टीका आज पनि जारी",
-      "summary": "५ कात्तिक, काठमाडौं । विजया दशमीको टीकाको दोस्रो दिन आज एकादशीमा पनि टीका र जमरा लगाएर बडादसैँ मनाइँदैछ। आज पनि मान्यजनका हातबाट नवदुर्गाको प्रसादस्वरूप रातो टीका र समृद्धिको प्रतीक जमरा लगाएर दसैँ मनाइएको छ। बुधबार बडादसैँको मुख्य दिन अर्थात् विजया दशमी थियो भने आज एकादशी हो। हिजो टीका थाप्न नभ्याएका सर्वसाधारण आज पनि आफन्त तथा […]",
-      "publishedAt": "2026-10-22T08:44:39+00:00",
-      "updatedAt": "2026-10-22T08:44:39+00:00",
-      "sourceCount": 1,
-      "languageCount": 1,
-      "sources": [
-        "Online Khabar"
-      ],
-      "categories": [
-        "business",
-        "entertainment",
-        "politics",
-        "sports",
-        "technology"
-      ],
-      "items": [
-        {
-          "id": "89045dda8163345e",
-          "title": "बडादसैंको टीका आज पनि जारी",
-          "link": "https://www.onlinekhabar.com/2026/10/2042569/dashain-tika-continues-today",
-          "source": "Online Khabar",
-          "sourceUrl": "https://www.onlinekhabar.com/feed",
-          "pubDate": "2026-10-22T08:44:39+00:00",
-          "categories": [
-            "politics",
-            "business",
-            "sports",
-            "technology",
-            "entertainment"
-          ],
-          "image": "",
-          "images": [],
-          "description": "५ कात्तिक, काठमाडौं । विजया दशमीको टीकाको दोस्रो दिन आज एकादशीमा पनि टीका र जमरा लगाएर बडादसैँ मनाइँदैछ। आज पनि मान्यजनका हातबाट नवदुर्गाको प्रसादस्वरूप रातो टीका र समृद्धिको प्रतीक जमरा लगाएर दसैँ मनाइएको छ। बुधबार बडादसैँको मुख्य दिन अर्थात् विजया दशमी थियो भने आज एकादशी हो। हिजो टीका थाप्न नभ्याएका सर्वसाधारण आज पनि आफन्त तथा […]"
         }
       ]
     },
@@ -11211,6 +11158,45 @@
             "https://media.nepalitimes.com/cover/manaslu.jpg"
           ],
           "description": "The Budi Gandaki flood has damaged trail sections and bridges on the Manaslu circuit, cutting off inflow of trekkers during the peak autumn…"
+        }
+      ]
+    },
+    {
+      "id": "777b5ab705650440",
+      "title": "Himalayan Hideaway",
+      "summary": "Himalayan Hideaway Resort Pokhara, The Centara Collection, was recognised as the Best New Hotel/Resort 2026 at the South Asian Travel Awards…",
+      "publishedAt": "2026-10-15T08:43:09+00:00",
+      "updatedAt": "2026-10-15T08:43:09+00:00",
+      "sourceCount": 1,
+      "languageCount": 1,
+      "sources": [
+        "Nepali Times"
+      ],
+      "categories": [
+        "business",
+        "politics",
+        "society",
+        "technology"
+      ],
+      "items": [
+        {
+          "id": "f9b03efed1687c1f",
+          "title": "Himalayan Hideaway",
+          "link": "https://nepalitimes.com/himalayan-hideaway",
+          "source": "Nepali Times",
+          "sourceUrl": "https://www.nepalitimes.com/feed/",
+          "pubDate": "2026-10-15T08:43:09+00:00",
+          "categories": [
+            "politics",
+            "business",
+            "society",
+            "technology"
+          ],
+          "image": "https://media.nepalitimes.com/cover/Himalayan%20Hideaway%20Resort.jpg",
+          "images": [
+            "https://media.nepalitimes.com/cover/Himalayan%20Hideaway%20Resort.jpg"
+          ],
+          "description": "Himalayan Hideaway Resort Pokhara, The Centara Collection, was recognised as the Best New Hotel/Resort 2026 at the South Asian Travel Awards…"
         }
       ]
     }
