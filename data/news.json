@@ -1,10 +1,300 @@
 {
-  "generatedAt": "2026-10-24T16:21:26.500135+00:00",
+  "generatedAt": "2026-10-24T18:54:18.984565+00:00",
   "feedCount": 41,
   "healthyFeeds": 24,
   "failedFeeds": 17,
-  "itemCount": 326,
+  "itemCount": 324,
   "items": [
+    {
+      "id": "0f64195c40882170",
+      "title": "१२ बजे १२ समाचार : यस्ता छन् आजका प्रमुख समाचार",
+      "link": "https://www.ratopati.com/story/601107/12-news-at-12-these-are-todays-top-news-stories",
+      "source": "Ratopati",
+      "sourceUrl": "https://ratopati.com/feed",
+      "pubDate": "2026-10-24T18:15:00+00:00",
+      "categories": [
+        "politics",
+        "sports"
+      ],
+      "image": "https://npcdn.ratopati.com/media/news/12-am-final_viqawbfig2-(1)_fam6WtIhIE.jpg",
+      "images": [
+        "https://npcdn.ratopati.com/media/news/12-am-final_viqawbfig2-(1)_fam6WtIhIE.jpg"
+      ],
+      "description": "काठमाडौँ। आज दिनभर भएका मुख्यमुख्य घटनाक्रमसहित रातोपाटीको रात्रिकालीन प्रस्तुति रातोपाटी ब्रिफिङमा १२ बजे १२ समाचार लिएर हाजिर भएका छौँ । १. राष्ट्रिय जागरण अभियानमा नेकपा नेपाली कम्युनिस्ट पार्टी (नेकपा) ले दुई महिने राष्ट्रिय जागरण अभियान सुरु गरेको"
+    },
+    {
+      "id": "36ebb905fb15bccd",
+      "title": "पोखरामा कोजाग्रत पूर्णिमामा दसैँ पर्यटन तथा सांस्कृतिक महोत्सव",
+      "link": "https://www.ratopati.com/story/601110/dashain-tourism-and-cultural-festival-on-kojagrat-purnima-in-pokhara",
+      "source": "Ratopati",
+      "sourceUrl": "https://ratopati.com/feed",
+      "pubDate": "2026-10-24T17:32:42+00:00",
+      "categories": [
+        "politics",
+        "sports"
+      ],
+      "image": "https://rpcdn.ratopati.com/media/albums/pokhara-fewatal_SMDZp0Wyfo.jpg",
+      "images": [
+        "https://rpcdn.ratopati.com/media/albums/pokhara-fewatal_SMDZp0Wyfo.jpg"
+      ],
+      "description": "कास्की । ‘टीका, जमरा र चङ्गा चेट, पोखरामा पर्यटकसँग दसैँ भेट’ भन्ने नारासहित बडादसैँको अन्तिम दिन कोजाग्रत पूर्णिमाका अवसरमा आइतबार दसैँ पर्यटन तथा सांस्कृतिक महोत्सव हुँदै छ । महिला पर्यटन व्यवसायी मञ्च (ओटेफ) को आयोजनामा फेवाताल"
+    },
+    {
+      "id": "e47047040064aa84",
+      "title": "फापरखेत पहिरो र सिङ्गा–तातोपानी कुण्ड संरक्षणमा मन्त्री पुनको चासो",
+      "link": "https://www.ratopati.com/story/601109/minister-puns-interest-in-phaparkhet-landslide-and-singa-tatopani-pond-conservation",
+      "source": "Ratopati",
+      "sourceUrl": "https://ratopati.com/feed",
+      "pubDate": "2026-10-24T17:28:19+00:00",
+      "categories": [
+        "politics",
+        "sports"
+      ],
+      "image": "https://npcdn.ratopati.com/media/news/kKxiu6udyE.jpg",
+      "images": [
+        "https://npcdn.ratopati.com/media/news/kKxiu6udyE.jpg"
+      ],
+      "description": "म्याग्दी । विज्ञान, प्रविधि तथा नवप्रवर्तन मन्त्री महावीर पुनले म्याग्दीको पश्चिमी क्षेत्रका तीन वटा स्थानीय तहलाई जिल्ला सदरमुकाम बेनीसँग जोड्ने बेनी–दरबाङ सडकको मुख्य चुनौती बनेको फापरखेत पहिरोको समस्या समाधानमा चासो देखाएका छन् । म्याग्दीबाट निर्वाचित प्रतिनिधिसभा"
+    },
+    {
+      "id": "4d49029e160ebbad",
+      "title": "‘पदभन्दा ठुलो पौरख’ पुस्तक लोकार्पित",
+      "link": "https://gorkhapatraonline.com/news/227159",
+      "source": "Gorkhapatra",
+      "sourceUrl": "https://gorkhapatraonline.com/rss",
+      "pubDate": "2026-10-24T17:27:02+00:00",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "image": "https://gorkhapatraonline.com/storage/media/388777/conversions/book-release-original.jpg",
+      "images": [
+        "https://gorkhapatraonline.com/storage/media/388777/conversions/book-release-original.jpg"
+      ],
+      "description": "गोरखापत्र अनलाइनकाठमाडौँ, कात्तिक ७ गते। सरकारका पूर्व उपसचिव मीनप्रसाद ज्ञवालीद्वारा लिखित आत्मकथा पुस्तक ‘पदभन्दा ठुलो पौरख’ सार्वजनिक भएको छ। शनिवार काठमाडौँको कमलादीस्थित नेपाल..."
+    },
+    {
+      "id": "1117d97b722eda30",
+      "title": "चङ्खेली गाउँपालिकामा मौसमी फ्लुबाट चार जनाको मृत्यु",
+      "link": "https://gorkhapatraonline.com/news/227158",
+      "source": "Gorkhapatra",
+      "sourceUrl": "https://gorkhapatraonline.com/rss",
+      "pubDate": "2026-10-24T17:27:00+00:00",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "image": "https://gorkhapatraonline.com/storage/media/388778/conversions/death-original.jpg",
+      "images": [
+        "https://gorkhapatraonline.com/storage/media/388778/conversions/death-original.jpg"
+      ],
+      "description": "हुम्ला समाचारदाताहुम्ला, कात्तिक ७ गते । तीन हप्ता यता कडा खाले रुघाखोकीको प्रकोपले चङ्खेली गाउँपालिकामा चार जना बिरामीको मृत्यु भएको छ । मौसममा आएको परिवर्तनसँगै चिसो बढेको मौसमी..."
+    },
+    {
+      "id": "c86ef3b66ad74014",
+      "title": "अन्तिम निर्वाचन बहसमा लुला र बोल्सोनारो दुवैको शान्त स्वर",
+      "link": "https://www.ratopati.com/story/601108/lula-and-bolsonaro-both-sound-calm-in-final-election-debate",
+      "source": "Ratopati",
+      "sourceUrl": "https://ratopati.com/feed",
+      "pubDate": "2026-10-24T17:24:34+00:00",
+      "categories": [
+        "politics",
+        "sports"
+      ],
+      "image": "https://rpcdn.ratopati.com/media/albums/brazil-flag_rbSmpilStW.JPG",
+      "images": [
+        "https://rpcdn.ratopati.com/media/albums/brazil-flag_rbSmpilStW.JPG"
+      ],
+      "description": "काठमाडौँ । ब्राजिलका राष्ट्रपति लुइज इनासियो लुला दा सिल्भा र दक्षिणपन्थी नेता फ्लाभियो बोल्सोनारोले अन्तिम दिन शुक्रबार कूटनीतिक बहस गरेका छन् । निर्वाचनको दुई दिनअघि दुवैले तीखो टिप्पणी गर्न भने छाडेनन् । पहिलो चरणको मतदानमा अति–दक्षिणपन्थी पूर्वराष्ट्रपति"
+    },
+    {
+      "id": "a4e9c369ba95b558",
+      "title": "युरोपका जेन–जी किन आन्दोलन हाँक्दैछन् ?",
+      "link": "https://www.ratopati.com/story/601106/why-are-europes-gen-zs-leading-the-movement",
+      "source": "Ratopati",
+      "sourceUrl": "https://ratopati.com/feed",
+      "pubDate": "2026-10-24T17:15:06+00:00",
+      "categories": [
+        "politics",
+        "sports"
+      ],
+      "image": "https://npcdn.ratopati.com/media/news/capture5_nKqTe4gZ2v.webp",
+      "images": [
+        "https://npcdn.ratopati.com/media/news/capture5_nKqTe4gZ2v.webp"
+      ],
+      "description": "काठमाडौँ । युरोपभरि युवा पुस्ता शिक्षा क्षेत्रमा बजेटको अभावदेखि आवासको बढ्दो लागत सम्मका विभिन्न मुद्दालाई लिएर प्रदर्शनमा उत्रिएको छ । यसले पहिल्यै दबाबमा रहेका सरकारहरूका लागि ठुलो चुनौती खडा गरेको छ । साथै, आफ्ना अभिभावकको पुस्ताले"
+    },
+    {
+      "id": "b542a7502a3f8461",
+      "title": "अमेरिकी मध्यावधि निर्वाचन: क्यानडामाथिका केही वस्तुको शुल्क हटाइयो",
+      "link": "https://www.ratopati.com/story/601105/us-midterm-elections-tariffs-on-some-canadian-goods-lifted",
+      "source": "Ratopati",
+      "sourceUrl": "https://ratopati.com/feed",
+      "pubDate": "2026-10-24T17:12:17+00:00",
+      "categories": [
+        "politics",
+        "sports"
+      ],
+      "image": "https://npcdn.ratopati.com/media/news/usa-canada-trade-war_3FlRfwCcnj.jpg",
+      "images": [
+        "https://npcdn.ratopati.com/media/news/usa-canada-trade-war_3FlRfwCcnj.jpg"
+      ],
+      "description": "काठमाडौँ । ट्रम्प प्रशासनले क्यानडाबाट आउने आयातमाथि लगाइएका केही शुल्क शुक्रबार हटाएको छ । मध्यावधि निर्वाचन हुन दुई साता बाँकी रहँदा यो कदम चालिएको हो । कमजोर अवस्थामा रहेकी एक रिपब्लिकन उम्मेदवारले यो परिवर्तनका लागि लबिङ"
+    },
+    {
+      "id": "1143fc0f185731b9",
+      "title": "तनहुँको जामुनेमा तीन वटा सवारी साधन ठोक्किए",
+      "link": "https://gorkhapatraonline.com/news/227157",
+      "source": "Gorkhapatra",
+      "sourceUrl": "https://gorkhapatraonline.com/rss",
+      "pubDate": "2026-10-24T16:58:25+00:00",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "image": "https://gorkhapatraonline.com/storage/media/388775/conversions/Accident1-original.jpg",
+      "images": [
+        "https://gorkhapatraonline.com/storage/media/388775/conversions/Accident1-original.jpg"
+      ],
+      "description": "दमौली (तनहुँं), कात्तिक ७ गते । पृथ्वीराजमार्ग अन्तर्गत तनहुँको म्याग्दे गाउँपालिका–२ जामुनेस्थित पृथ्वीराजमार्गमा आज तीन सवारीसाधन एकआपसमा ठोक्किँदा दुई जना घाइते भएका छन् ।दमौलीब..."
+    },
+    {
+      "id": "3a13edafbf730df2",
+      "title": "विभिन्न जिल्लामा सवारी दुर्घटना : ६ जनाको मृत्यु",
+      "link": "https://nepalnews.com/2026/10/24/6-killed-in-road-accidents-in-various-districts/",
+      "source": "Nepal News",
+      "sourceUrl": "https://nepalnews.com/feed",
+      "pubDate": "2026-10-24T16:45:36+00:00",
+      "categories": [
+        "politics",
+        "business",
+        "world"
+      ],
+      "image": "",
+      "images": [],
+      "description": "काठमाडौं। देशका विभिन्न जिल्लामा भएका छुट्टाछुट्टै सवारी दुर्घटनामा ६ जनाको मृत्यु भएको छ। शुक्रबार रातिदेखि शनिबार बिहानसम्म भएका दुर्घटनामा मोटरसाइकल चालक, पैदलयात्री तथा सवारीसाधनमा सवार व्यक्तिको मृत्यु भएको प्रहरीले जनाएको छ । नेपाल प्रहरीको केन्द्रीय समाचार कक्षका अनुसार सप्तरी, काभ्रे, कास्की, नवलपरासी पश्चिम, रौतहट र बाँकेमा भएका दुर्घटनामा ६ जनाको ज्यान गएको हो। सप्तरीको डाक्नेश्वरी […]"
+    },
+    {
+      "id": "ab0d1895aa08fb0d",
+      "title": "तामाङ सम्पदा र रुविभ्याली पदमार्ग खुला",
+      "link": "https://baahrakhari.com/detail/505593",
+      "source": "Baahrakhari",
+      "sourceUrl": "https://baahrakhari.com/feed",
+      "pubDate": "2026-10-24T16:39:52+00:00",
+      "categories": [
+        "politics",
+        "business",
+        "society"
+      ],
+      "image": "",
+      "images": [],
+      "description": ""
+    },
+    {
+      "id": "20388b83ef878f91",
+      "title": "राजनीतिमा अनुसन्धानको ठूलो महत्त्व हुन्छ : बिजुक्छे",
+      "link": "https://www.thahakhabar.com/detail/310827",
+      "source": "Thaha Khabar",
+      "sourceUrl": "https://www.thahakhabar.com/feed",
+      "pubDate": "2026-10-24T16:34:15+00:00",
+      "categories": [
+        "politics",
+        "business",
+        "sports"
+      ],
+      "image": "https://www.thahakhabar.com/uploads/posts/narayanman-bijukxe-1792859463.jpg",
+      "images": [
+        "https://www.thahakhabar.com/uploads/posts/narayanman-bijukxe-1792859463.jpg"
+      ],
+      "description": ""
+    },
+    {
+      "id": "ff579fabb9631bc3",
+      "title": "पोखरामा पर्यटकीय चहलपहल बढ्यो",
+      "link": "https://www.ratopati.com/story/601104/tourist-activity-increases-in-pokhara",
+      "source": "Ratopati",
+      "sourceUrl": "https://ratopati.com/feed",
+      "pubDate": "2026-10-24T16:34:07+00:00",
+      "categories": [
+        "politics",
+        "sports"
+      ],
+      "image": "https://npcdn.ratopati.com/media/news/pokhara-tourist_LFxa3C8a0y.jpg",
+      "images": [
+        "https://npcdn.ratopati.com/media/news/pokhara-tourist_LFxa3C8a0y.jpg"
+      ],
+      "description": "पोखरा । दसैँबिदाका कारण केही दिनयता पर्यटकीय राजधानी पोखरामा पर्यटकको आगमन बढेको छ । यतिबेला मुख्य पर्यटकीय याम पनि चलिरहेकाले पोखरामा पर्यटकको चहलपहल बढेको हो । आन्तरिक तथा बाह्य पर्यटकको आगमन बढेपछि पोखराका होटलको ‘अकुपेन्सी’ ७५ प्रतिशतसम्म"
+    },
+    {
+      "id": "c9b53541e550b836",
+      "title": "साहित्यकार तुलाधरलाई अभिनन्दन, महर्जनद्वयलाई विराट सुरत्न सिरपा पुरस्कार",
+      "link": "https://www.thahakhabar.com/detail/310826",
+      "source": "Thaha Khabar",
+      "sourceUrl": "https://www.thahakhabar.com/feed",
+      "pubDate": "2026-10-24T16:30:00+00:00",
+      "categories": [
+        "politics",
+        "business",
+        "sports"
+      ],
+      "image": "https://www.thahakhabar.com/uploads/posts/sahi-1792859965.jpg",
+      "images": [
+        "https://www.thahakhabar.com/uploads/posts/sahi-1792859965.jpg"
+      ],
+      "description": ""
+    },
+    {
+      "id": "293d6950afc9da52",
+      "title": "कर्णालीको सुर्खेतमा सवारी दुर्घटनाबाट मृत्यु हुनेको सङ्ख्या उच्च",
+      "link": "https://www.thahakhabar.com/detail/310825",
+      "source": "Thaha Khabar",
+      "sourceUrl": "https://www.thahakhabar.com/feed",
+      "pubDate": "2026-10-24T16:25:30+00:00",
+      "categories": [
+        "politics",
+        "business",
+        "sports"
+      ],
+      "image": "https://www.thahakhabar.com/uploads/posts/accident-1766743159.jpg",
+      "images": [
+        "https://www.thahakhabar.com/uploads/posts/accident-1766743159.jpg"
+      ],
+      "description": ""
+    },
+    {
+      "id": "d5244abf69abb6c2",
+      "title": "दाङमा सराय नाच मेलाको सुरुआत",
+      "link": "https://gorkhapatraonline.com/news/227155",
+      "source": "Gorkhapatra",
+      "sourceUrl": "https://gorkhapatraonline.com/rss",
+      "pubDate": "2026-10-24T16:22:49+00:00",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "image": "https://gorkhapatraonline.com/storage/media/388774/conversions/KN_DANG_RSS_7_DSC_8269-original.jpg",
+      "images": [
+        "https://gorkhapatraonline.com/storage/media/388774/conversions/KN_DANG_RSS_7_DSC_8269-original.jpg"
+      ],
+      "description": "घोराही (दाङ), कात्तिक ७ गते । दाङमा यस वर्षदेखि सराय नाच मेलाको सुरुआत गरिएको छ । घोराही उपमहानगरपालिका–१८ स्थित अम्बिकेश्वरी मन्दिर व्यवस्थापन समितिको आयोजनामा आज सराय नाच मेलाको..."
+    },
+    {
+      "id": "a7f5d48ea7b6e51a",
+      "title": "१० बजे १० समाचार : चीनमा विद्याको सम्बोधनदेखि नेकपाको राष्ट्रिय जागरण अभियानसम्म",
+      "link": "https://www.ratopati.com/story/601103/10-news-at-10-from-vidyas-address-in-china-to-the-ncps-national-awareness-campaign",
+      "source": "Ratopati",
+      "sourceUrl": "https://ratopati.com/feed",
+      "pubDate": "2026-10-24T16:15:00+00:00",
+      "categories": [
+        "politics",
+        "sports"
+      ],
+      "image": "https://npcdn.ratopati.com/media/news/cover_tT6TX7iGrG.webp",
+      "images": [
+        "https://npcdn.ratopati.com/media/news/cover_tT6TX7iGrG.webp"
+      ],
+      "description": "काठमाडौँ। आज मिति २०८३ साल कात्तिक महिनाको ७ गते शनिबार। आज दिनभर भएका मुख्यमुख्य घटनाक्रमसहित रातोपाटीको रात्रिकालीन प्रस्तुति रातोपाटी ब्रिफिङमा १० बजे १० समाचार लिएर हाजिर भएका छौँ– १. राष्ट्रिय जागरण अभियानमा नेकपा नेपाली कम्युनिस्ट पार्टी (नेकपा)"
+    },
     {
       "id": "e9324f0df73cc6b8",
       "title": "इरानले अमेरिकी नागरिकलाई निसाना बनाउने प्रयास बढाएको अमेरिकी गुप्तचर प्रमुखको दाबी",
@@ -73,25 +363,8 @@
       "description": "७ कात्तिक, काठमाडौं । पब्जी मोबाइल ग्लोबल ओपन (पीएमजीओ) फाइनलको पहिलो दिन नेपाली टोली होरा ईस्पोर्ट्स शीर्ष स्थानमा रहेको छ। होराले ६ खेलमा एक चिकेन डिनरसहित ५७ अंक जोडेको छ। प्रतियोगिताको अन्तिम दिन आइतबार बाँकी ६ (आवश्यक परेमा ७) खेल हुनेछन्। होराले पहिलो दिन शीर्ष स्थानमा रहँदै उपाधि जित्ने सम्भावना बलियो बनाएको छ। होराको ५७ अंकसँगै […]"
     },
     {
-      "id": "a7c074be471c0540",
-      "title": "तामाङ सम्पदा र रुविभ्याली पदमार्ग खुला",
-      "link": "https://www.ratopati.com/story/601101/tamang-heritage-and-ruby-valley-trekking-trail-open",
-      "source": "Ratopati",
-      "sourceUrl": "https://ratopati.com/feed",
-      "pubDate": "2026-10-24T15:58:23+00:00",
-      "categories": [
-        "politics",
-        "sports"
-      ],
-      "image": "https://npcdn.ratopati.com/media/news/rubi-valley_8twWLcrEc7.webp",
-      "images": [
-        "https://npcdn.ratopati.com/media/news/rubi-valley_8twWLcrEc7.webp"
-      ],
-      "description": "काठमाडौँ । रसुवामा अवस्थित तामाङ सम्पदा पदमार्ग र धादिङमा अवस्थित रुविभ्याली पदमार्ग पर्यटकका लागि खुला भएको छ । गत भदौ १० गते रसुवाको भोटेकोशी नदीमा आएको बाढीबाट क्षति पुगेको पदमार्ग स्याफ्रुबेँसीस्थित भोटेकोशी नदीमा अस्थायी फड्के"
-    },
-    {
       "id": "69c7a3a8afc5b0dd",
-      "title": "हिमालय स्पोर्ट्स ‘रेड बुल क्रिकेट लाइभ’का प्रस्तोता नवनीत कृष्ण नेपाल आइपुगे",
+      "title": "हिमालय स्पोर्ट्स ‘रेड बुल क्रिकेट लाइभ’ का प्रस्तोता नवनीत कृष्ण नेपाल आइपुगे",
       "link": "https://www.onlinekhabar.com/2026/10/2043344/himalaya-sports-red-bull-cricket-live-presenter-navneet-krishna-arrives-in-nepal",
       "source": "Online Khabar",
       "sourceUrl": "https://www.onlinekhabar.com/feed",
@@ -105,7 +378,7 @@
       ],
       "image": "",
       "images": [],
-      "description": "हिमालय स्पोर्ट्सबाट प्रसारण हुने कार्यक्रम ‘रेड बुल क्रिकेट लाइभ’का प्रस्तोता नवनीत कृष्ण नेपाल आइपुगेका छन्।"
+      "description": "हिमालय स्पोर्ट्सबाट प्रसारण हुने कार्यक्रम ‘रेड बुल क्रिकेट लाइभ’ का प्रस्तोता नवनीत कृष्ण नेपाल आइपुगेका छन् ।"
     },
     {
       "id": "31519c79ea35914a",
@@ -142,24 +415,6 @@
       "image": "",
       "images": [],
       "description": "७ कात्तिक, स्याङ्जा । स्याङ्जाको कालीगण्डकी नदीमा पहिचान नखुलेका एक पुरुषको शव फेला परेको छ । कालीगण्डकी गाउँपालिका–१ पुलक्यामस्थित नदीको बीच भागमा ढुंगामा अड्किएको अवस्थामा शनिबार बिहान शव फेला परेको हो । जिल्ला प्रहरी कार्यालय स्याङ्जाका सूचना अधिकारी प्रहरी नायब उपरीक्षक रमेश दत्त अवस्थीका अनुसार बिहान करिब ११ बजे अन्दाजी ४० वर्षका पुरुषको शव फेला […]"
-    },
-    {
-      "id": "4fad35b2fbcfd7b5",
-      "title": "फापरखेत पहिरो र सिङ्गा–तातोपानी कुण्ड संरक्षणमा मन्त्री पुनको चासो",
-      "link": "https://www.thahakhabar.com/detail/310824",
-      "source": "Thaha Khabar",
-      "sourceUrl": "https://www.thahakhabar.com/feed",
-      "pubDate": "2026-10-24T15:44:46+00:00",
-      "categories": [
-        "politics",
-        "business",
-        "sports"
-      ],
-      "image": "https://www.thahakhabar.com/uploads/posts/pun-1792856177.jpg",
-      "images": [
-        "https://www.thahakhabar.com/uploads/posts/pun-1792856177.jpg"
-      ],
-      "description": ""
     },
     {
       "id": "00a2472c01acd30c",
@@ -440,22 +695,6 @@
       "description": "KATHMANDU: Nepal recorded 20 disaster-related incidents across the country in the past 24 hours, leaving eight people injured and causing property damage estimated at approximately Rs 2.41 million. According to the National Disaster Risk Reduction and Management Authority (NDRRMA), the incidents included fires, snakebites, altitude sickness, landslides, and wild animal attacks. The incidents occurred in […]"
     },
     {
-      "id": "031256d6bb733527",
-      "title": "तनहुँको जामुनेमा तीनवटा सवारी साधन ठोक्किए",
-      "link": "https://nepalnews.com/2026/10/24/three-vehicles-collide-in-jamune-tanahun/",
-      "source": "Nepal News",
-      "sourceUrl": "https://nepalnews.com/feed",
-      "pubDate": "2026-10-24T15:20:26+00:00",
-      "categories": [
-        "politics",
-        "business",
-        "world"
-      ],
-      "image": "",
-      "images": [],
-      "description": "तनहुँं। पृथ्वीराजमार्ग अन्तर्गत तनहुँको म्याग्दे गाउँपालिका–२ जामुनेस्थित पृथ्वीराजमार्गमा आज तीन सवारीसाधन एकआपसमा ठोक्किँदा दुई जना घाइते भएका छन्। दमौलीबाट पोखरातर्फ जाँदै गरेको बा १९ च १४७७ नम्बरको स्कारपिओ र विपरीत दिशाबाट आउँदै गरेको ग १ ज ९००८ नम्बरको ईभी माइक्रो एकआपसमा ठोक्किएका थिए । ठक्करपछि अनियन्त्रित भएको स्कारपिओ डिभाइडर नाघेर विपरीत लेनमा पुगेको र पोखराबाट […]"
-    },
-    {
       "id": "b518073a682752de",
       "title": "सर्लाहीमा ट्रक र ईभी ठोक्किँदा १२ जना घाइते, एकको अवस्था गम्भीर",
       "link": "https://www.onlinekhabar.com/2026/10/2043321/12-injured-one-in-critical-condition-after-truck-and-ev-collide-in-sarlahi",
@@ -542,24 +781,6 @@
       "description": "७ कात्तिक, कञ्चनपुर । कञ्चनपुरमा सशस्त्र प्रहरी बल नेपालको तालिमप्राप्त कुकुर ‘अल्फा’को सहयोगमा मुखभित्र लुकाइएको १.७८ ग्राम खैरो हेरोइन फेला परेको छ । शुक्रबार साँझ भीमदत्त नगरपालिका–१० स्थित भन्सार बेरियलमा गरिएको चेकजाँचका क्रममा उक्त पदार्थ फेला परेको हो । सशस्त्र प्रहरी बल नेपाल सीमा सुरक्षा गुल्म हेडक्वार्टर गड्डाचौकीबाट डग स्क्वाड टोली र प्रहरी टोलीले संयुक्त […]"
     },
     {
-      "id": "406d8dd6822509ac",
-      "title": "प्रचण्डले एमालेलाई लगाए भ्रष्टाचारीको आरोप, देश अप्ठेरोमा पर्दा माधव नेपाल चुप नबस्ने",
-      "link": "https://www.thahakhabar.com/detail/310822",
-      "source": "Thaha Khabar",
-      "sourceUrl": "https://www.thahakhabar.com/feed",
-      "pubDate": "2026-10-24T14:55:22+00:00",
-      "categories": [
-        "politics",
-        "business",
-        "sports"
-      ],
-      "image": "https://www.thahakhabar.com/uploads/posts/A4oupJ1eKag-HD-1792853627.jpg",
-      "images": [
-        "https://www.thahakhabar.com/uploads/posts/A4oupJ1eKag-HD-1792853627.jpg"
-      ],
-      "description": ""
-    },
-    {
       "id": "00552db7ffd4f1ea",
       "title": "पेन्सनको सुनिश्चितताको माग गर्दै मड्रिडमा दुई लाख ५० हजार व्यक्तिले गरे प्रदर्शन",
       "link": "https://www.ratopati.com/story/601094/250000-people-protest-in-madrid-demanding-pension-guarantees",
@@ -607,24 +828,6 @@
       ],
       "image": "",
       "images": [],
-      "description": ""
-    },
-    {
-      "id": "46d11237410d3b6c",
-      "title": "इरानले अमेरिकीहरूलाई निसाना बनाउने प्रयास थाल्यो : अमेरिकी गुप्तचर प्रमुख",
-      "link": "https://www.thahakhabar.com/detail/310821",
-      "source": "Thaha Khabar",
-      "sourceUrl": "https://www.thahakhabar.com/feed",
-      "pubDate": "2026-10-24T14:48:10+00:00",
-      "categories": [
-        "politics",
-        "business",
-        "sports"
-      ],
-      "image": "https://www.thahakhabar.com/uploads/posts/iran-america-1788312344.jpg",
-      "images": [
-        "https://www.thahakhabar.com/uploads/posts/iran-america-1788312344.jpg"
-      ],
       "description": ""
     },
     {
@@ -810,22 +1013,6 @@
       "image": "",
       "images": [],
       "description": "CHITWAN: The Nepal–India Cross Border Tourism Connect 2026 is set to take place in Chitwan from October 26 to 28, with the aim of strengthening tourism cooperation and expanding business opportunities between the two countries. The event is being jointly organised by the Non-Resident Nepali Association (NRNA) International Coordination Council (ICC) and the Samriddha Chitwan […]"
-    },
-    {
-      "id": "f32300f4950ff03f",
-      "title": "एनपीएल : टिमको भ्यालुएसन र बेटिङबारे पारस खड्का (अन्तर्वार्ता)",
-      "link": "https://baahrakhari.com/detail/505588",
-      "source": "Baahrakhari",
-      "sourceUrl": "https://baahrakhari.com/feed",
-      "pubDate": "2026-10-24T13:51:29+00:00",
-      "categories": [
-        "politics",
-        "business",
-        "society"
-      ],
-      "image": "",
-      "images": [],
-      "description": ""
     },
     {
       "id": "07de12418fc9b20f",
@@ -1352,23 +1539,6 @@
       "description": "काठमाडौं। चितवनमा चालु आर्थिक वर्षको साउनदेखि असोज मसान्तसम्म तीन महिनाको अवधिमा तीन हजार ६२ जनाले वंशजका आधारमा नेपाली नागरिकता लिएका छन्। जिल्ला प्रशासन कार्यालय चितवन र इलाका प्रशासन कार्यालय माडीबाट उक्त संख्यामा नागरिकता जारी गरिएको हो। जिल्ला प्रशासन कार्यालयका सूचना अधिकारी विकास विकका अनुसार जिल्ला प्रशासन कार्यालयबाट दुई हजार ८२४ र इलाका प्रशासन कार्यालय माडीबाट […]"
     },
     {
-      "id": "69d6fa3bca6ab8d3",
-      "title": "सर्लाहीको बाँकेमा ट्रक र इभी ठोक्किए, १२ जना घाइते",
-      "link": "https://gorkhapatraonline.com/news/227150",
-      "source": "Gorkhapatra",
-      "sourceUrl": "https://gorkhapatraonline.com/rss",
-      "pubDate": "2026-10-24T12:30:36+00:00",
-      "categories": [
-        "politics",
-        "business"
-      ],
-      "image": "https://gorkhapatraonline.com/storage/media/388762/conversions/Sarlahi-Accident-Photo-original.jpg",
-      "images": [
-        "https://gorkhapatraonline.com/storage/media/388762/conversions/Sarlahi-Accident-Photo-original.jpg"
-      ],
-      "description": "जनार्जन खत्रीसर्लाही, कात्तिक ७ गते । पूर्वपश्चिम महेन्द्र राजमार्गस्थित सर्लाहीको ईश्वरपुर नगरपालिका–१२, बाँके जङ्गलमा शनिबार ट्रक र इभी गाडी ठोक्किँदा १२ जना घाइते भएका छन् । सर्..."
-    },
-    {
       "id": "2ff85d2d8be1c197",
       "title": "एमालेसँग तत्काल पार्टी एकताको सम्भावना छैन : प्रचण्ड",
       "link": "https://himalpress.com/2026/10/there-is-no-possibility-of-immediate-party-unity-with-uml-prachanda/",
@@ -1383,23 +1553,6 @@
       "image": "",
       "images": [],
       "description": "काठमाडौँ– नेपाली कम्युनिस्ट पार्टीका संयोजक पुष्पकमल दाहाल प्रचण्डले नेकपा (एमाले) सँग तत्काल पार्टी एकताको सम्भावना नरहेको बताएका छन् । तर, राष्ट्रिय मुद्दाहरूमा सहकार्य हुनसक्ने उनले बताए । पार्टीको केन्द्रीय कार्यालय पेरिसडाँडामा शनिबार आयोजित ‘पार्टी जागरण अभियान’ शुभारम्भ कार्यक्रममा पत्रकारहरूसँग कुरा गर्दै प्रचण्डले एमाले र नेकपाको चरित्र नै फरक रहेको दाबी गरे । “राष्ट्रिय स्वाधीनता, लोकतान्त्रिक […]"
-    },
-    {
-      "id": "97efe0b839cffdd7",
-      "title": "गुल्मीमा ५५.९२ प्रतिशत नागरिकले गराए स्वास्थ्य बिमा",
-      "link": "https://gorkhapatraonline.com/news/227149",
-      "source": "Gorkhapatra",
-      "sourceUrl": "https://gorkhapatraonline.com/rss",
-      "pubDate": "2026-10-24T12:22:58+00:00",
-      "categories": [
-        "politics",
-        "business"
-      ],
-      "image": "https://gorkhapatraonline.com/storage/media/388761/conversions/IMG_4018-original.jpg",
-      "images": [
-        "https://gorkhapatraonline.com/storage/media/388761/conversions/IMG_4018-original.jpg"
-      ],
-      "description": "रमेश विश्वकर्मागुल्मी, कात्तिक ७ गते। गुल्मीमा ५५ दशमलव ९२ प्रतिशत नागरिक स्वास्थ्य बिमामा आबद्ध भएका छन् । सामाजिक सुरक्षाअन्तर्गत सरकारले ल्याएको स्वास्थ्य बिमाप्रति यस जिल्लाका..."
     },
     {
       "id": "073fc7770ce5e13b",
@@ -1472,40 +1625,6 @@
       "description": "काठमाडौं । गत ४ कात्तिकमा सशस्त्र प्रहरी र नेपाल प्रहरीको संयुक्त टोलीले सुनसरीबाट विभिन्न प्रकारका लागूऔषधसहितको मोटरसाइकल बरामद ग¥यो । लागूऔषधसहितको मोटरसाइकल बरामदपछि अहिले सामाजिक सञ्जालमा सुरक्षाकर्मीलाई दोषी देखाउन अनेक प्रयास भएका छन् । सशस्त्र प्रहरी बल नेपाल नं. ४ गण सुनसरीबाट खटिएको टोलीले विशेष सूचनाको आधारमा त्यस दिन दिउँसो साढे २ बजे सुनसरीको भोक्राह […] The post सुनसरीमा लागूऔषध बरामद र भ्रामक भिडियो प्रकरणमा खास भएको के हो ? appeared first on राजधानी राष्ट्रिय दैनिक (लोकप्रिय राष्"
     },
     {
-      "id": "d9e98e2dbc517212",
-      "title": "छठको रौनकले बढ्यो बाँसका सामग्रीको व्यापार, तस्बिरहरू",
-      "link": "https://www.ratopati.com/story/601083/the-excitement-of-chhath-has-increased-the-trade-of-bamboo-products-in-sirahas-market-photos",
-      "source": "Ratopati",
-      "sourceUrl": "https://ratopati.com/feed",
-      "pubDate": "2026-10-24T12:11:00+00:00",
-      "categories": [
-        "politics",
-        "sports"
-      ],
-      "image": "https://npcdn.ratopati.com/media/news/byaopar_C2AVEShy4q.webp",
-      "images": [
-        "https://npcdn.ratopati.com/media/news/byaopar_C2AVEShy4q.webp"
-      ],
-      "description": "सिरहा। छठ पर्व नजिकिएसँगै सिरहाका बजारमा छठ पूजामा प्रयोग हुने बाँसका सामग्रीको किनबेच बढ्न थालेको छ। सूर्यदेवलाई अर्घ्य दिन आवश्यक पूजा सामग्री राख्न प्रयोग गरिने ढाकी, नाङ्लो, सुप र कोनियालगायतका सामग्री खरिद गर्न बजारमा सर्वसाधारणको चहलपहल"
-    },
-    {
-      "id": "99053be7a42bc005",
-      "title": "तीन महिनामा २८ जनाद्वारा नागरिकता परित्याग",
-      "link": "https://gorkhapatraonline.com/news/227148",
-      "source": "Gorkhapatra",
-      "sourceUrl": "https://gorkhapatraonline.com/rss",
-      "pubDate": "2026-10-24T12:05:34+00:00",
-      "categories": [
-        "politics",
-        "business"
-      ],
-      "image": "https://gorkhapatraonline.com/storage/media/388760/conversions/940x-CTZN-original.jpg",
-      "images": [
-        "https://gorkhapatraonline.com/storage/media/388760/conversions/940x-CTZN-original.jpg"
-      ],
-      "description": "नारायणगढ (चितवन), कात्तिक ७ गते । जिल्ला प्रशासन कार्यालय चितवन र इलाका प्रशासन कार्यालय माडीबाट चालु आर्थिक वर्षको साउनदेखि असोज मसान्तसम्म तीन हजार ६२ जनाले वंशजका आधारमा नागरिकत..."
-    },
-    {
       "id": "42d23c32ce134d3f",
       "title": "तीन महिनामा चितवनमा २८ जनाले त्यागे नागरिकता",
       "link": "https://www.onlinekhabar.com/2026/10/2043271/28-people-renounced-citizenship-in-chitwan-in-three-months",
@@ -1575,23 +1694,6 @@
       "description": "७ कात्तिक, मुस्ताङ । दशैँदेखि हिमाली मुस्ताङमा पर्यटकीय चहलपहल बढ्दै जान थालेको छ । दशैँअघि सुनसान जस्तै बनेको मुस्ताङमा यही बिहीबारदेखि भने पर्यटकको आगमन सङ्ख्या वृद्धि हुन थालेको हो । रसुवाको भोटेकोशीमा आएको विनाशकारी बाढी र गत असोज ११ गतेको भारी वर्षाका कारण बाढी पहिरो र नदी कटानले मुस्ताङ जोड्ने (बेनी–जोमसोम) सडकमार्ग पूर्ण रूपमा अवरुद्ध […]"
     },
     {
-      "id": "e6c02c885bf301ac",
-      "title": "पाकिस्तानमा खाना पकाउने ग्यासको मूल्य आकासियो, एउटा सिलिन्डरको ७ हजार रुपैयाँ",
-      "link": "https://www.ratopati.com/story/601082/the-price-of-cooking-gas-has-skyrocketed-in-pakistan-reaching-rs-7000-per-cylinder",
-      "source": "Ratopati",
-      "sourceUrl": "https://ratopati.com/feed",
-      "pubDate": "2026-10-24T11:52:48+00:00",
-      "categories": [
-        "politics",
-        "sports"
-      ],
-      "image": "https://npcdn.ratopati.com/media/news/gyash-pakistan_bp8gzAHvk5.webp",
-      "images": [
-        "https://npcdn.ratopati.com/media/news/gyash-pakistan_bp8gzAHvk5.webp"
-      ],
-      "description": "काठमाडौँ। इरानबाट आपूर्ति बन्द भएपछि पाकिस्तानमा खाना पकाउने एलपीजी ग्यासको मूल्य अचाक्ली बढेको छ । १२ किलोको एउटा सिलिन्डरको मूल्य केही दिनमै ४ हजार ५०० पाकिस्तानी रुपैयाँबाट बढेर ७ हजार रुपैयाँ पुगेको छ। रोयटर्सका अनुसार पाकिस्तान"
-    },
-    {
       "id": "0603afd5e9515d07",
       "title": "मापसे र लापसे गरी सवारी चलाउने एक हजार ३७ चालक कारबाहीमा",
       "link": "https://www.onlinekhabar.com/2026/10/2043265/1037-drivers-taken-into-action-for-drunk-and-distracted-driving",
@@ -1608,40 +1710,6 @@
       "image": "",
       "images": [],
       "description": "७ कात्तिक, काठमाडौं । बडादशैँ अवधिमा काठमाडौं उपत्यकामा मादक पदार्थ तथा लागुपदार्थ सेवन गरी सवारीसाधन चलाउने एक हजार ३७ जना चालक कारबाहीमा परेका छन् । काठमाडौं उपत्यका ट्राफिक प्रहरी कार्यालयका अनुसार घटस्थापनादेखि कात्तिक ७ गतेसम्म १४ दिनको अवधिमा मादकपदार्थ सेवन (मापसे) गरी सवारी चलाउने एक हजार दुई जना र लागुपदार्थ सेवन (लापसे) गरी सवारी चलाउने […]"
-    },
-    {
-      "id": "7ba4507c8db69948",
-      "title": "बाँकेमा कार दुर्घटना : एकको मृत्यु, ६ जना घाइते",
-      "link": "https://gorkhapatraonline.com/news/227147",
-      "source": "Gorkhapatra",
-      "sourceUrl": "https://gorkhapatraonline.com/rss",
-      "pubDate": "2026-10-24T11:49:54+00:00",
-      "categories": [
-        "politics",
-        "business"
-      ],
-      "image": "https://gorkhapatraonline.com/storage/media/388759/conversions/2-car-thokkiyeko-thau-original.jpg",
-      "images": [
-        "https://gorkhapatraonline.com/storage/media/388759/conversions/2-car-thokkiyeko-thau-original.jpg"
-      ],
-      "description": "सिराज खान नेपालगन्ज, कात्तिक ७ गते । बाँकेमा दुई वटा कार एक आपसमा ठोक्किंदा शनिवार एकजनाको मृत्यु भएको छ भने ६ जना घाइते भएका छन् । जिल्लाको राप्तीसोनारी गाउँपालिका–१ सौरीस्थित पूर..."
-    },
-    {
-      "id": "46c4d1114efd7384",
-      "title": "राष्ट्रिय जागरण अभियानमा नेकपा : केन्द्रदेखि स्थानीय तहसम्मका नेता कार्यकर्ता परिचालन",
-      "link": "https://www.ratopati.com/story/601081/ncp-mobilizes-leaders-and-cadres-from-the-center-to-the-local-level-in-the-national-awareness-campaign",
-      "source": "Ratopati",
-      "sourceUrl": "https://ratopati.com/feed",
-      "pubDate": "2026-10-24T11:49:44+00:00",
-      "categories": [
-        "politics",
-        "sports"
-      ],
-      "image": "https://npcdn.ratopati.com/media/news/rastriya-jagaran-abhiyan_2uqfIUbic1.webp",
-      "images": [
-        "https://npcdn.ratopati.com/media/news/rastriya-jagaran-abhiyan_2uqfIUbic1.webp"
-      ],
-      "description": "काठमाडौँ। नेपाली कम्युनिस्ट पार्टी (नेकपा) ले दुई महिने राष्ट्रिय जागरण अभियान सुरु गरेको छ। अभियानको नेकपाका संयोजक पुष्पकमल दाहाल र सहसंयोजक माधवकुमार नेपालले शनिबार पार्टी कार्यालय पेरिसडाँडाबाट सुरुवात गरेका छन्। अभियान अन्तर्गत उक्त पार्टीका केन्द्रीय नेताहरूको नेतृत्वको"
     },
     {
       "id": "f2e8a08212e7cd80",
@@ -1729,23 +1797,6 @@
       "description": ""
     },
     {
-      "id": "2172fa6069c05b4a",
-      "title": "११२ रनमा ६ विकेट गुमाएको भारतको चमत्कारिक जित, तिलक र नितेशले पल्टाए खेल",
-      "link": "https://www.ratopati.com/story/601080/indias-miraculous-win-after-losing-6-wickets-for-112-runs-tilak-and-nitesh-turned-the-game-around",
-      "source": "Ratopati",
-      "sourceUrl": "https://ratopati.com/feed",
-      "pubDate": "2026-10-24T11:42:38+00:00",
-      "categories": [
-        "politics",
-        "sports"
-      ],
-      "image": "https://npcdn.ratopati.com/media/news/player_Ux7WNp9Qlo.webp",
-      "images": [
-        "https://npcdn.ratopati.com/media/news/player_Ux7WNp9Qlo.webp"
-      ],
-      "description": "काठमाडौँ। न्युजिल्यान्डविरुद्धको टी–२० खेलमा भारतले हारको मुखबाट रोमाञ्चक पुनरागमन गर्दै ४ विकेटको जित निकालेको छ। तिलक वर्मा र नितेश कुमार रेड्डीको आक्रामक ब्याटिङमा भारतले पाँच खेलको सिरिजमा २–० को अग्रता बनाएको छ । शनिबार न्युजिल्यान्डले दिएको"
-    },
-    {
       "id": "50c63c88886336f7",
       "title": "देशभरका छुट्टाछुट्टै सवारी दुर्घटनामा ६ जनाको मृत्यु",
       "link": "https://newsofnepal.com/2026/10/24/792088/",
@@ -1782,23 +1833,6 @@
       "description": "७ कात्तिक, काठमाडौं । कतारमा नोभेम्बर १९ देखि २९ सम्म हुने राइजिङ स्टार्स एसिया कपमा नेपाल भारत ‘ए’, पाकिस्तान ‘ए’ र यूएईसँगै समूह ‘बी’ मा परेको छ। समूह ‘ए’ मा बंगलादेश ‘ए’, श्रीलंका ‘ए’, अफगानिस्तान ‘ए’ र हङकङ छन्। प्रतियोगितामा भारत, पाकिस्तान, बंगलादेश र श्रीलंकाले ‘ए’ टोली खेलाउनेछन् भने नेपाल, यूएई र हङकङले राष्ट्रिय सिनियर […]"
     },
     {
-      "id": "afa84529b2da7f18",
-      "title": "फिफा अध्यक्ष इन्फान्टिनोले भने– विश्व फुटबलको बहुमतको समर्थन मलाई छ",
-      "link": "https://www.ratopati.com/story/601079/fifa-president-infantino-said-i-have-the-support-of-the-majority-of-world-football",
-      "source": "Ratopati",
-      "sourceUrl": "https://ratopati.com/feed",
-      "pubDate": "2026-10-24T11:37:28+00:00",
-      "categories": [
-        "politics",
-        "sports"
-      ],
-      "image": "https://npcdn.ratopati.com/media/news/infantino_oegPPlOnMF.webp",
-      "images": [
-        "https://npcdn.ratopati.com/media/news/infantino_oegPPlOnMF.webp"
-      ],
-      "description": "काठमाडौँ। फिफा अध्यक्ष जियानी इन्फान्टिनोले विश्व फुटबलको ठुलो बहुमतको समर्थन आफूलाई रहेको दाबी गरेका छन् । बीबीसी स्पोर्ट्ससँगको अन्तर्वार्तामा इन्फान्टिनोले फिफामा फरक विचार हुनु स्वाभाविक भएको भन्दै सबैको मत र विचारको सम्मान गर्नुपर्ने बताए । फिफाको व्यावसायिक"
-    },
-    {
       "id": "e76d451967779cdb",
       "title": "Prachanda warns against attempts to erase Nepal’s political history",
       "link": "https://english.khabarhub.com/2026/24/573011/",
@@ -1813,40 +1847,6 @@
       "image": "",
       "images": [],
       "description": "KATHMANDU: Nepali Communist Party (NCP) coordinator and former Prime Minister Pushpa Kamal Dahal Prachanda has said that a new political situation will emerge in the country in the near future. Inaugurating the party’s awareness campaign at its central office in Parisdanda on Saturday, Dahal recalled the People’s War and expressed confidence that the party could […]"
-    },
-    {
-      "id": "30f4eea65425e15f",
-      "title": "चितवनमा तीन महिनामा ३ हजार ६२ जनाले लिए वंशजका आधारमा नागरिकता, २८ जनाले त्यागे",
-      "link": "https://www.ratopati.com/story/601078/in-chitwan-3062-people-obtained-citizenship-based-on-descent-in-three-months-28-people-renounced-it",
-      "source": "Ratopati",
-      "sourceUrl": "https://ratopati.com/feed",
-      "pubDate": "2026-10-24T11:26:07+00:00",
-      "categories": [
-        "politics",
-        "sports"
-      ],
-      "image": "https://npcdn.ratopati.com/media/news/citizenship-nagarikta_B3febg986v.jpg",
-      "images": [
-        "https://npcdn.ratopati.com/media/news/citizenship-nagarikta_B3febg986v.jpg"
-      ],
-      "description": "चितवन । चितवनमा चालु आर्थिक वर्षको साउनदेखि असोज मसान्तसम्म तीन हजार ६२ जनाले वंशजका आधारमा नागरिकता प्राप्त गरेका छन् । यस अवधिमा ६ हजार ७६६ नागरिकताको प्रतिलिपि जारी गरिएको छ । यस्तै २८ जनाले नागरिकता"
-    },
-    {
-      "id": "95a619f3fdfe15ab",
-      "title": "विभिन्न स्थानमा चार जना मृतावस्थामा फेला",
-      "link": "https://www.ratopati.com/story/601077/four-people-found-dead-in-different-locations",
-      "source": "Ratopati",
-      "sourceUrl": "https://ratopati.com/feed",
-      "pubDate": "2026-10-24T11:20:32+00:00",
-      "categories": [
-        "politics",
-        "sports"
-      ],
-      "image": "https://npcdn.ratopati.com/media/news/dead-body-found_bsAn1blFYs.jpg",
-      "images": [
-        "https://npcdn.ratopati.com/media/news/dead-body-found_bsAn1blFYs.jpg"
-      ],
-      "description": "काठमाडौं । देशका विभिन्न जिल्लामा चार जना मृतावस्थामा फेला परेका छन् । प्रहरीको केन्द्रीय समाचार कक्षका अनुसार मोरङको पथरी शनिश्चरे नगरपालिका–८ स्थित डाँस खोलामा सोही ठाउँका ७७ वर्षीय कृष्णा माझी शुक्रबार मृतावस्थामा फेला परेका हुन् । त्यस्तै,"
     },
     {
       "id": "ee8c05aec105f80a",
@@ -1882,23 +1882,6 @@
         "https://nepalnews.com/wp-content/uploads/2026/10/Smarika-1.jpg"
       ],
       "description": "दाङमा पत्रकारिता गरेकी स्मारिका अहिले जापानमा सूचना प्रविधि इन्जिनियरिङ अध्ययन गर्दै छिन्। उनको पहिलो उपन्यास ब्लुम हालै दाङमा सार्वजनिक भएको छ। बिएन पुस्तक संसारबाट प्रकाशित उपन्यासले प्रेम, सम्बन्ध, करिअर र आफ्नो बाटो खोजिरहेको युवा पुस्ताको जीवनलाई विषय बनाएको छ। उपन्यास लेखन, प्रेम र करिअरबीचको द्वन्द्व, विदेशिएका नेपाली युवाको जीवन तथा नयाँ पुस्ताको पठन संस्कृतिबारे स्मारिकासँग […]"
-    },
-    {
-      "id": "c339e3b5fdc85e81",
-      "title": "छुट्टाछुट्टै सवारी दुर्घटनामा ६ जनाको मृत्यु",
-      "link": "https://www.ratopati.com/story/601076/6-people-die-in-separate-road-accidents",
-      "source": "Ratopati",
-      "sourceUrl": "https://ratopati.com/feed",
-      "pubDate": "2026-10-24T11:15:17+00:00",
-      "categories": [
-        "politics",
-        "sports"
-      ],
-      "image": "https://npcdn.ratopati.com/media/news/accident1_0HVVwEUEAJ.jpg",
-      "images": [
-        "https://npcdn.ratopati.com/media/news/accident1_0HVVwEUEAJ.jpg"
-      ],
-      "description": "काठमाडौं । देशका विभिन्न जिल्लामा भएका छुट्टाछुट्टै सवारी दुर्घटनामा ६ जनाको मृत्यु भएको छ । दुर्घटनामा मोटरसाइकल चालक, पैदलयात्री तथा सवारीसाधनमा सवार व्यक्तिको मृत्यु भएको प्रहरीले जनाएको छ । नेपाल प्रहरीको केन्द्रीय समाचार कक्षका अनुसार सप्तरीको"
     },
     {
       "id": "b5304bf7be2439e9",
@@ -2327,22 +2310,6 @@
       "image": "",
       "images": [],
       "description": "मुस्ताङ– दसैँदेखि हिमाली मुस्ताङमा पर्यटकीय चहलपहल बढ्दै जान थालेको छ । दसैँ अघि सुनसान जस्तै बनेको मुस्ताङमा यही बिहीबारदेखि भने पर्यटकको आगमन सङ्ख्या वृद्धि हुन थालेको हो । रसुवाको भोटेकोशीमा आएको विनाशकारी बाढी र गत असोज ११ गतेको भारी वर्षाका कारण बाढी पहिरो र नदी कटानले मुस्ताङ जोड्ने (बेनी-जोमसोम) सडकमार्ग पूर्ण रूपमा अवरुद्ध हुँदा मुस्ताङमा […]"
-    },
-    {
-      "id": "fc699ed3d3188515",
-      "title": "विश्व भोकमरी सूचकांकमा नेपालको सुधार, ७२औँ स्थानमा कायम",
-      "link": "https://nepalnews.com/2026/10/24/nepal-improves-on-global-hunger-index-maintains-72nd-place/",
-      "source": "Nepal News",
-      "sourceUrl": "https://nepalnews.com/feed",
-      "pubDate": "2026-10-24T09:27:34+00:00",
-      "categories": [
-        "politics",
-        "business",
-        "world"
-      ],
-      "image": "",
-      "images": [],
-      "description": "काठमाडौं।विश्व भोकमरी सूचकांक २०२६ को प्रतिवेदनअनुसार नेपाल १२२ देशमध्ये ७२औँ स्थानमा रहेको छ। सूचकांकले नेपालमा भोकमरीको अवस्था मध्यम श्रेणीमा रहेको देखाएको छ। नेपालले यस वर्ष १०० पूर्णांकमा १४.५ अंक प्राप्त गरेको छ। सन् २०१८ मा नेपालको अंक १८.४ थियो, जसले पछिल्लो समय मुलुकमा भोकमरीको अवस्था सुधार हुँदै गएको पुष्टि गर्छ। प्रतिवेदनअनुसार दक्षिण एसियाली मुलुकहरूमध्ये नेपालको […]"
     },
     {
       "id": "b8789d086a8ea2f4",
