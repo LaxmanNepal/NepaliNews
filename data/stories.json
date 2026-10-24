@@ -1,8 +1,41 @@
 {
-  "generatedAt": "2026-10-23T21:40:27.454269+00:00",
+  "generatedAt": "2026-10-24T00:00:03.783406+00:00",
   "sourceItemCount": 327,
-  "storyCount": 311,
+  "storyCount": 312,
   "stories": [
+    {
+      "id": "6a7fb115b8b7b1da",
+      "title": "आजको राशिफल",
+      "summary": "मेष राशि (चु, चे, चो, ला, लि, लु, ले, लो, अ) : आज कामकाजमा नयाँ उत्साह आउनेछ र रोकिएका योजना अघि बढाउने अवसर मिल्न सक्छ । व्यवसाय तथा पेसामा आफ्नो क्षमता देखाउन सकिनेछ, तर हतारमा निर्णय लिनु उचित हुने छैन । आर्थिक कारोबारमा सावधानी अपनाउनुहोला र अनावश्यक खर्च नियन्त्रण गर्नुहोला । पारिवारिक भेटघाटले मन प्रसन्न रहनेछ […]",
+      "publishedAt": "2026-10-23T23:43:27+00:00",
+      "updatedAt": "2026-10-23T23:43:27+00:00",
+      "sourceCount": 1,
+      "languageCount": 1,
+      "sources": [
+        "Dainik Nepal"
+      ],
+      "categories": [
+        "politics",
+        "sports"
+      ],
+      "items": [
+        {
+          "id": "b0b6dd2df52321c4",
+          "title": "आजको राशिफल",
+          "link": "https://www.dainiknepal.com/2026/10/846349.html",
+          "source": "Dainik Nepal",
+          "sourceUrl": "https://dainiknepal.com/feed",
+          "pubDate": "2026-10-23T23:43:27+00:00",
+          "categories": [
+            "politics",
+            "sports"
+          ],
+          "image": "",
+          "images": [],
+          "description": "मेष राशि (चु, चे, चो, ला, लि, लु, ले, लो, अ) : आज कामकाजमा नयाँ उत्साह आउनेछ र रोकिएका योजना अघि बढाउने अवसर मिल्न सक्छ । व्यवसाय तथा पेसामा आफ्नो क्षमता देखाउन सकिनेछ, तर हतारमा निर्णय लिनु उचित हुने छैन । आर्थिक कारोबारमा सावधानी अपनाउनुहोला र अनावश्यक खर्च नियन्त्रण गर्नुहोला । पारिवारिक भेटघाटले मन प्रसन्न रहनेछ […]"
+        }
+      ]
+    },
     {
       "id": "2b54b8a911ddd611",
       "title": "१२ बजे १२ समाचार : पीएचपीमा फेरि देखियो सुरक्षा कमजोरी, नेपालको मौसम प्रभावित हुने",
@@ -2751,60 +2784,6 @@
       ]
     },
     {
-      "id": "08ace9701ce30ad4",
-      "title": "रविले बालेनलाई स्थानीय तहको निर्वाचनसम्म मात्रै उपयोग गर्न खोज्दैछन् : प्रभु साह",
-      "summary": "काठमाडौं । आम जनता पार्टी (आजपा)का अध्यक्ष तथा पूर्वमन्त्री प्रभु साहले रास्वपाको कोर टिमले प्रधानमन्त्री बालेन्द्र साहलाई असफल बनाउन षड्यन्त्रको तानाबाना बुनेको आरोप लगाएका छन् । सरकार बनेको ६ महिना व्यतित नहुँदै रास्वपाको कोर टिमले प्रधानमन्त्री साहलाई विस्थापित गर्नेगरी षड्यन्त्र गरिरहेको साहको टिप्पणी छ । आज (शुक्रबार) रौटतहको गरुड़ामा अग्रगामी मोर्चाको नगर कमिटीले आयोजना गरेको […]",
-      "publishedAt": "2026-10-23T13:22:41+00:00",
-      "updatedAt": "2026-10-23T13:22:41+00:00",
-      "sourceCount": 2,
-      "languageCount": 2,
-      "sources": [
-        "Dainik Nepal",
-        "Nepal Views"
-      ],
-      "categories": [
-        "business",
-        "politics",
-        "sports",
-        "technology"
-      ],
-      "items": [
-        {
-          "id": "f4fbe87fac580ba6",
-          "title": "रविले बालेनलाई स्थानीय तहको निर्वाचनसम्म मात्रै उपयोग गर्न खोज्दैछन् : प्रभु साह",
-          "link": "https://www.dainiknepal.com/2026/10/846343.html",
-          "source": "Dainik Nepal",
-          "sourceUrl": "https://dainiknepal.com/feed",
-          "pubDate": "2026-10-23T13:22:41+00:00",
-          "categories": [
-            "politics",
-            "sports"
-          ],
-          "image": "",
-          "images": [],
-          "description": "काठमाडौं । आम जनता पार्टी (आजपा)का अध्यक्ष तथा पूर्वमन्त्री प्रभु साहले रास्वपाको कोर टिमले प्रधानमन्त्री बालेन्द्र साहलाई असफल बनाउन षड्यन्त्रको तानाबाना बुनेको आरोप लगाएका छन् । सरकार बनेको ६ महिना व्यतित नहुँदै रास्वपाको कोर टिमले प्रधानमन्त्री साहलाई विस्थापित गर्नेगरी षड्यन्त्र गरिरहेको साहको टिप्पणी छ । आज (शुक्रबार) रौटतहको गरुड़ामा अग्रगामी मोर्चाको नगर कमिटीले आयोजना गरेको […]"
-        },
-        {
-          "id": "81a722b092c1e0a4",
-          "title": "रवि बालेनलाई स्थानीय तहको निर्वाचनसम्म मात्रै उपयोग गर्न खोज्दै छन् - प्रभु साह",
-          "link": "https://www.nepalviews.com/story/427072/ravi-is-trying-to-use-balen-only-until-the-local-elections-prabhu-sah",
-          "source": "Nepal Views",
-          "sourceUrl": "https://www.nepalviews.com/feed/",
-          "pubDate": "2026-10-23T12:26:35+00:00",
-          "categories": [
-            "politics",
-            "business",
-            "technology"
-          ],
-          "image": "https://nepalviews.cdnsolution.net/en/media/setting/banner_FHsSzcWYKk.jpg",
-          "images": [
-            "https://nepalviews.cdnsolution.net/en/media/setting/banner_FHsSzcWYKk.jpg"
-          ],
-          "description": ""
-        }
-      ]
-    },
-    {
       "id": "e73c7c23a172e961",
       "title": "एनपीएलको तेस्रो संस्करणका लागि विदेशी खेलाडी र प्रशिक्षक काठमाडौंमा",
       "summary": "काठमाडौं। नेपाल प्रिमियर लिग (एनपीएल) क्रिकेटको तेस्रो संस्करण कात्तिक ९ गतेदेखि सुरु हुँदैछ। अन्तर्राष्ट्रिय क्रिकेट काउन्सिल (आईसीसी) बाट मान्यता प्राप्त यस प्रतियोगितामा सहभागी टोलीहरूले यसपटक आठ जनासम्म विदेशी खेलाडी अनुबन्ध गर्न पाउनेछन्, जसमध्ये एक खेलाडी एसोसिएट राष्ट्रको हुनुपर्नेछ। यद्यपि, प्लेइङ-११ मा भने चारजना विदेशी खेलाडी मात्र मैदानमा उत्रन पाउनेछन्। प्रतियोगिता सुरु हुन तीन दिन बाँकी […]",
@@ -3255,6 +3234,43 @@
           "image": "",
           "images": [],
           "description": "BAQEN, Xizang, Oct. 23 (Xinhua) -- Sixteen people have been killed and 76 others are injured following a 7.0-magnitude e..."
+        }
+      ]
+    },
+    {
+      "id": "eb554a12e0ace98f",
+      "title": "रवि बालेनलाई स्थानीय तहको निर्वाचनसम्म मात्रै उपयोग गर्न खोज्दै छन् - प्रभु साह",
+      "summary": "",
+      "publishedAt": "2026-10-23T12:26:35+00:00",
+      "updatedAt": "2026-10-23T12:26:35+00:00",
+      "sourceCount": 1,
+      "languageCount": 1,
+      "sources": [
+        "Nepal Views"
+      ],
+      "categories": [
+        "business",
+        "politics",
+        "technology"
+      ],
+      "items": [
+        {
+          "id": "81a722b092c1e0a4",
+          "title": "रवि बालेनलाई स्थानीय तहको निर्वाचनसम्म मात्रै उपयोग गर्न खोज्दै छन् - प्रभु साह",
+          "link": "https://www.nepalviews.com/story/427072/ravi-is-trying-to-use-balen-only-until-the-local-elections-prabhu-sah",
+          "source": "Nepal Views",
+          "sourceUrl": "https://www.nepalviews.com/feed/",
+          "pubDate": "2026-10-23T12:26:35+00:00",
+          "categories": [
+            "politics",
+            "business",
+            "technology"
+          ],
+          "image": "https://nepalviews.cdnsolution.net/en/media/setting/banner_FHsSzcWYKk.jpg",
+          "images": [
+            "https://nepalviews.cdnsolution.net/en/media/setting/banner_FHsSzcWYKk.jpg"
+          ],
+          "description": ""
         }
       ]
     },
@@ -11205,45 +11221,6 @@
             "https://media.nepalitimes.com/cover/betrawati-Bridge-1.jpg"
           ],
           "description": "The Nepali Army has installed a Bailey bridge for vital connection between Nuwakot and Rasuwa over the Phalaku River at Betrawati. With a load…"
-        }
-      ]
-    },
-    {
-      "id": "a3a2a73b5d2f6d1c",
-      "title": "Manaslu treks",
-      "summary": "The Budi Gandaki flood has damaged trail sections and bridges on the Manaslu circuit, cutting off inflow of trekkers during the peak autumn…",
-      "publishedAt": "2026-10-15T08:43:45+00:00",
-      "updatedAt": "2026-10-15T08:43:45+00:00",
-      "sourceCount": 1,
-      "languageCount": 1,
-      "sources": [
-        "Nepali Times"
-      ],
-      "categories": [
-        "business",
-        "politics",
-        "society",
-        "technology"
-      ],
-      "items": [
-        {
-          "id": "864ea8ac79945897",
-          "title": "Manaslu treks",
-          "link": "https://nepalitimes.com/manaslu-treks",
-          "source": "Nepali Times",
-          "sourceUrl": "https://www.nepalitimes.com/feed/",
-          "pubDate": "2026-10-15T08:43:45+00:00",
-          "categories": [
-            "politics",
-            "business",
-            "society",
-            "technology"
-          ],
-          "image": "https://media.nepalitimes.com/cover/manaslu.jpg",
-          "images": [
-            "https://media.nepalitimes.com/cover/manaslu.jpg"
-          ],
-          "description": "The Budi Gandaki flood has damaged trail sections and bridges on the Manaslu circuit, cutting off inflow of trekkers during the peak autumn…"
         }
       ]
     }
