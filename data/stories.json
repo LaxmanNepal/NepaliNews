@@ -1,8 +1,43 @@
 {
-  "generatedAt": "2026-10-26T18:56:48.822444+00:00",
+  "generatedAt": "2026-10-26T22:57:38.796251+00:00",
   "sourceItemCount": 329,
   "storyCount": 309,
   "stories": [
+    {
+      "id": "dc34588baeb00dd8",
+      "title": "मौसम पूर्वानुमान महाशाखाको अनुरोधः भारी वर्षा हुने सम्भावना भएकाले सचेत रहनुस्",
+      "summary": "काठमाडौँ, कात्तिक ९ गते । नेपाल मौसम विज्ञान विभागले बङ्गालको खाडीमा विकसित चक्रवात ‘अर्णव’ को प्रभावले आगामी बिहिबारदेखि सुरू भई विषेशगरी शुक्रबार र शनिबार नेपालका विभिन्न स्थान...",
+      "publishedAt": "2026-10-26T19:35:57+00:00",
+      "updatedAt": "2026-10-26T19:35:57+00:00",
+      "sourceCount": 1,
+      "languageCount": 1,
+      "sources": [
+        "Gorkhapatra"
+      ],
+      "categories": [
+        "business",
+        "politics"
+      ],
+      "items": [
+        {
+          "id": "49ae3300b861d38c",
+          "title": "मौसम पूर्वानुमान महाशाखाको अनुरोधः भारी वर्षा हुने सम्भावना भएकाले सचेत रहनुस्",
+          "link": "https://gorkhapatraonline.com/news/227332",
+          "source": "Gorkhapatra",
+          "sourceUrl": "https://gorkhapatraonline.com/rss",
+          "pubDate": "2026-10-26T19:35:57+00:00",
+          "categories": [
+            "politics",
+            "business"
+          ],
+          "image": "https://gorkhapatraonline.com/storage/media/389014/conversions/barsha-pani-Heavy-rainfall-(1)-original.jpg",
+          "images": [
+            "https://gorkhapatraonline.com/storage/media/389014/conversions/barsha-pani-Heavy-rainfall-(1)-original.jpg"
+          ],
+          "description": "काठमाडौँ, कात्तिक ९ गते । नेपाल मौसम विज्ञान विभागले बङ्गालको खाडीमा विकसित चक्रवात ‘अर्णव’ को प्रभावले आगामी बिहिबारदेखि सुरू भई विषेशगरी शुक्रबार र शनिबार नेपालका विभिन्न स्थान..."
+        }
+      ]
+    },
     {
       "id": "34018c94ce83af9b",
       "title": "एनपीएल सुरक्षार्थ एक हजार १२४ प्रहरी परिचालन",
@@ -4341,41 +4376,6 @@
           "image": "",
           "images": [],
           "description": "KATHMANDU: Defending champions Lumbini Lions made an impressive start to their title defence in the Nepal Premier League (NPL) 2026, bowling out Sudurpaschim Royals for just 87 runs in 17.2 overs. In the opening match of the tournament at the TU International Cricket Ground in Kirtipur, Lumbini Lions, led by Rohit Paudel, won the toss […]"
-        }
-      ]
-    },
-    {
-      "id": "8b770a0350fad14a",
-      "title": "गुल्मी स्कारपियो दुर्घटना : छ जनाको मृत्यु, तीन घाइते",
-      "summary": "रमेश विश्वकर्मागुल्मी, कात्तिक ९ गते। गुल्मीमा स्कारपियो दुर्घटना हुँदा छ जनाको मृत्यु भएको छ। यस जिल्लाको कालीगण्डकी गाउँपालिका वडा नम्बर–२ दबौखानीस्थित कालीगण्डकी करिडोर सडक खण्ड...",
-      "publishedAt": "2026-10-26T13:20:18+00:00",
-      "updatedAt": "2026-10-26T13:20:18+00:00",
-      "sourceCount": 1,
-      "languageCount": 1,
-      "sources": [
-        "Gorkhapatra"
-      ],
-      "categories": [
-        "business",
-        "politics"
-      ],
-      "items": [
-        {
-          "id": "d8a4d1203f185f71",
-          "title": "गुल्मी स्कारपियो दुर्घटना : छ जनाको मृत्यु, तीन घाइते",
-          "link": "https://gorkhapatraonline.com/news/227323",
-          "source": "Gorkhapatra",
-          "sourceUrl": "https://gorkhapatraonline.com/rss",
-          "pubDate": "2026-10-26T13:20:18+00:00",
-          "categories": [
-            "politics",
-            "business"
-          ],
-          "image": "https://gorkhapatraonline.com/storage/media/389002/conversions/IMG_4158-original.jpg",
-          "images": [
-            "https://gorkhapatraonline.com/storage/media/389002/conversions/IMG_4158-original.jpg"
-          ],
-          "description": "रमेश विश्वकर्मागुल्मी, कात्तिक ९ गते। गुल्मीमा स्कारपियो दुर्घटना हुँदा छ जनाको मृत्यु भएको छ। यस जिल्लाको कालीगण्डकी गाउँपालिका वडा नम्बर–२ दबौखानीस्थित कालीगण्डकी करिडोर सडक खण्ड..."
         }
       ]
     },
