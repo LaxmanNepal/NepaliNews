@@ -1,10 +1,44 @@
 {
-  "generatedAt": "2026-10-27T18:40:52.289061+00:00",
+  "generatedAt": "2026-10-27T22:37:28.167103+00:00",
   "feedCount": 41,
-  "healthyFeeds": 24,
-  "failedFeeds": 17,
+  "healthyFeeds": 23,
+  "failedFeeds": 18,
   "itemCount": 324,
   "items": [
+    {
+      "id": "fb1486652d5852ed",
+      "title": "गजेन्द्रमोक्ष नारायण मुक्तिनाथ रथयात्रा दमौलीमा",
+      "link": "https://www.ratopati.com/story/601695/gajendramoksha-narayan-muktinath-rath-yatra-in-damauli",
+      "source": "Ratopati",
+      "sourceUrl": "https://ratopati.com/feed",
+      "pubDate": "2026-10-27T19:15:00+00:00",
+      "categories": [
+        "politics",
+        "sports"
+      ],
+      "image": "https://npcdn.ratopati.com/media/news/tanahu-map_us5mlswuc2_MPGIzBN5w0.jpg",
+      "images": [
+        "https://npcdn.ratopati.com/media/news/tanahu-map_us5mlswuc2_MPGIzBN5w0.jpg"
+      ],
+      "description": "तनहुँ । प्रसिद्ध धार्मिकस्थल मुक्तिनाथबाट सुरु भएको मेची महाकाली गजेन्द्रमोक्ष नारायण मुक्तिनाथ रथयात्रा मंगलबार तनहुँको सदरमुकाम दमौली आइपुगेको छ । सनातन धर्मको संरक्षण, आध्यात्मिक चेतनाको विस्तार र धार्मिक जागरण अभिवृद्धि गर्ने उद्देश्य राखेर आइतबारदेखि सुरु"
+    },
+    {
+      "id": "83ae4d738c7e2c9a",
+      "title": "कर्नाटकमा मतदाता सूची पुनरीक्षणपछि ७२ लाख मतदाता घटे, एक जना ‘पाकिस्तानी नागरिक’ पनि भेटिए",
+      "link": "https://www.ratopati.com/story/601693/72-million-voters-reduced-after-revision-of-voter-list-in-karnataka-one-pakistani-citizen-also-found",
+      "source": "Ratopati",
+      "sourceUrl": "https://ratopati.com/feed",
+      "pubDate": "2026-10-27T19:00:00+00:00",
+      "categories": [
+        "politics",
+        "sports"
+      ],
+      "image": "https://npcdn.ratopati.com/media/news/india-voter_smTPffnhnb.webp",
+      "images": [
+        "https://npcdn.ratopati.com/media/news/india-voter_smTPffnhnb.webp"
+      ],
+      "description": "काठमाडौँ । भारतको कर्नाटक राज्यमा मतदाता सूचीको विशेष गहन पुनरीक्षण (एसआईआर) प्रक्रिया सम्पन्न भएपछि कुल मतदाताको सङ्ख्यामा करिब ७२ लाखले कमी आएको छ । विवादका बिच सम्पन्न भएको यस पुनरीक्षणपछि राज्यमा मतदाताको कुल सङ्ख्या ५ करोड"
+    },
     {
       "id": "5ca018a88787b9f9",
       "title": "कञ्चनपुरका स्थानीय तहलाई रासायनिक मलको कोटा निर्धारण",
@@ -1515,23 +1549,6 @@
       "description": "Kathmandu, Oct 27: Non-Resident Ambassador of Cyprus to Nepal, Evagoras Vrionidis, paid a courtesy call on Foreign Minis..."
     },
     {
-      "id": "fc978df3252c025f",
-      "title": "उच्चबाट सफाइ पाएलगत्तै जनप्रतिनिधिमाथि विशेषमा भ्रष्टाचार मुद्दा",
-      "link": "https://www.ratopati.com/story/601661/corruption-case-filed-against-public-representative-after-being-cleared-by-higher-authorities",
-      "source": "Ratopati",
-      "sourceUrl": "https://ratopati.com/feed",
-      "pubDate": "2026-10-27T14:25:18+00:00",
-      "categories": [
-        "politics",
-        "sports"
-      ],
-      "image": "https://npcdn.ratopati.com/media/news/rapti-upatyaka_B2FUiPuxMn.webp",
-      "images": [
-        "https://npcdn.ratopati.com/media/news/rapti-upatyaka_B2FUiPuxMn.webp"
-      ],
-      "description": "काठमाडौँ । लुम्बिनी प्रदेशको स्थायी राजधानीलाई स्वागत गर्न सडक सौन्दर्यकरणका नाममा भएको रूख कटान प्रकरणमा उच्च अदालतबाट सफाइ पाएका जनप्रतिनिधि तथा कर्मचारीहरूविरुद्ध विशेष अदालतमा भ्रष्टाचार मुद्दा दायर भएको छ । उच्च अदालत तुलसीपुरबाट अभियोग दाबीबाट सफाइ"
-    },
-    {
       "id": "8981b721c4cef249",
       "title": "कालीगण्डकी कोरिडोरमा व्यापारिक चहलपहल",
       "link": "https://gorkhapatraonline.com/news/227438",
@@ -1564,23 +1581,6 @@
         "https://gorkhapatraonline.com/storage/media/389180/conversions/hadigau-083_41-original.jpg"
       ],
       "description": "काठमाडौँ, कात्तिक १० गते । ‘कहीँ नभएको जात्रा हाँडीगाउँमा’ जात्रा मङ्गलबार निकालिएको छ । हरेक वर्ष कोजाग्रत पूर्णिमाको भोलिपल्टबाट उक्त जात्रा निकालिन्छ । कहीँ नभएको जात्रा हाँडीगा..."
-    },
-    {
-      "id": "411f5fdb9e090ef8",
-      "title": "‘राजा र कम्युनिस्टहरूको भारत विरोधी राष्ट्रवादको युग अझै सकिएको छैन’",
-      "link": "https://www.ratopati.com/story/601618/the-era-of-anti-indian-nationalism-of-kings-and-communists-is-not-over-yet",
-      "source": "Ratopati",
-      "sourceUrl": "https://ratopati.com/feed",
-      "pubDate": "2026-10-27T14:15:00+00:00",
-      "categories": [
-        "politics",
-        "sports"
-      ],
-      "image": "https://npcdn.ratopati.com/media/news/bijaykant-karna_iGZmKttxcw.webp",
-      "images": [
-        "https://npcdn.ratopati.com/media/news/bijaykant-karna_iGZmKttxcw.webp"
-      ],
-      "description": "काठमाडौँ । अर्थमन्त्री स्वर्णिम वाग्लेले नयाँदिल्लीमा ‘नेपालमा भारत विरोधी राष्ट्रवादको युग सकियो’ भनेर दिएको अभिव्यक्ति अहिले बहसको विषय बनेको छ । कतिपयले मन्त्री वाग्लेको अभिव्यक्ति गैरकूटनीतिक, असान्दर्भिक र नेपालको स्वाभिमानमाथि आँच पुर्‍याएको भनी विरोध गरेका"
     },
     {
       "id": "f8d94f47c9d2b161",
