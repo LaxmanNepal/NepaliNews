@@ -1,34 +1,50 @@
 {
-  "generatedAt": "2026-10-26T22:57:38.287996+00:00",
+  "generatedAt": "2026-10-27T01:47:25.326751+00:00",
   "feedCount": 41,
   "healthyFeeds": 24,
   "failedFeeds": 17,
-  "itemCount": 329,
+  "itemCount": 323,
   "items": [
     {
-      "id": "49ae3300b861d38c",
-      "title": "मौसम पूर्वानुमान महाशाखाको अनुरोधः भारी वर्षा हुने सम्भावना भएकाले सचेत रहनुस्",
-      "link": "https://gorkhapatraonline.com/news/227332",
+      "id": "ae8e54faf59e17d8",
+      "title": "ह्यारी केनले जिते बालोन डी’ओर अवार्ड",
+      "link": "https://himalpress.com/2026/10/harry-kane-wins-ballon-dor-award/",
+      "source": "Himal Press",
+      "sourceUrl": "https://himalpress.com/feed/",
+      "pubDate": "2026-10-27T01:46:17+00:00",
+      "categories": [
+        "politics",
+        "business",
+        "society"
+      ],
+      "image": "",
+      "images": [],
+      "description": "काठमाडौँ– इंग्ल्यान्डका कप्तान ह्यारी केनले सन् २०२६ को बालोन डी’ओर अवार्ड जितेका छन् । सोमबार लन्डनमा आयोजित समारोहमा केनलाई विश्वकै उत्कृष्ट पुरुष फुटबल खेलाडी घोषित गरिएको हो । किलियन एमबाप्पे र लामिन यामाललाई पछि पार्दै उनले यो अवार्ड जितेका हुन् । ३३ वर्षीय केनले क्लब र देशका लागि ६५ प्रतिस्पर्धात्मक खेलहरूमा ७३ गोल गर्दै आफूलाई […]"
+    },
+    {
+      "id": "0d3093c6166fdacd",
+      "title": "फलाउने विद्यार्थी, बेच्ने हेड सर",
+      "link": "https://gorkhapatraonline.com/news/227353",
       "source": "Gorkhapatra",
       "sourceUrl": "https://gorkhapatraonline.com/rss",
-      "pubDate": "2026-10-26T19:35:57+00:00",
+      "pubDate": "2026-10-27T01:45:14+00:00",
       "categories": [
         "politics",
         "business"
       ],
-      "image": "https://gorkhapatraonline.com/storage/media/389014/conversions/barsha-pani-Heavy-rainfall-(1)-original.jpg",
+      "image": "https://gorkhapatraonline.com/storage/media/389041/conversions/Tomato-original.jpg",
       "images": [
-        "https://gorkhapatraonline.com/storage/media/389014/conversions/barsha-pani-Heavy-rainfall-(1)-original.jpg"
+        "https://gorkhapatraonline.com/storage/media/389041/conversions/Tomato-original.jpg"
       ],
-      "description": "काठमाडौँ, कात्तिक ९ गते । नेपाल मौसम विज्ञान विभागले बङ्गालको खाडीमा विकसित चक्रवात ‘अर्णव’ को प्रभावले आगामी बिहिबारदेखि सुरू भई विषेशगरी शुक्रबार र शनिबार नेपालका विभिन्न स्थान..."
+      "description": "गणेश खनालअर्घाखाँची, असोज १० गते । भूमिकास्थान नगरपालिका–३ स्थित अन्नपूर्ण माध्यमिक विद्यालयका विद्यार्थी दसैँ बिदामा आआफ्नै तवरले रमाउँदै थिए तर सोही विद्यालयका प्रधानाध्यापक (हेड..."
     },
     {
-      "id": "7e05289a5ce1b741",
-      "title": "एनपीएल सुरक्षार्थ एक हजार १२४ प्रहरी परिचालन",
-      "link": "https://baahrakhari.com/detail/505761",
+      "id": "f997446673c351e5",
+      "title": "इजरायलमा आज संसदीय निर्वाचन, नेतन्याहूको राजनीतिक भविष्य के होला ?",
+      "link": "https://baahrakhari.com/detail/505765",
       "source": "Baahrakhari",
       "sourceUrl": "https://baahrakhari.com/feed",
-      "pubDate": "2026-10-26T18:06:12+00:00",
+      "pubDate": "2026-10-27T01:43:44+00:00",
       "categories": [
         "politics",
         "business",
@@ -39,12 +55,518 @@
       "description": ""
     },
     {
-      "id": "7a524ba7eb9cffed",
-      "title": "विदेश पठाउन लागिएको एक हजार प्याकेट चुरोट बरामद",
-      "link": "https://baahrakhari.com/detail/505760",
+      "id": "3a4c9bfb5caa5bca",
+      "title": "ग्यास बेच्दा भ्याट बिल अनिवार्य",
+      "link": "https://gorkhapatraonline.com/news/227352",
+      "source": "Gorkhapatra",
+      "sourceUrl": "https://gorkhapatraonline.com/rss",
+      "pubDate": "2026-10-27T01:41:18+00:00",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "image": "https://gorkhapatraonline.com/storage/media/389040/conversions/Gas-cilinder-original.jpg",
+      "images": [
+        "https://gorkhapatraonline.com/storage/media/389040/conversions/Gas-cilinder-original.jpg"
+      ],
+      "description": "गोरखापत्र समाचारदाताकाठमाडौँ, कात्तिक १० गते । नेपाल आयल निगमले एलपी ग्यास बेच्दा अनिवार्य रूपमा भ्याट बिल जारी गर्ने व्यवस्था मिलाउन सबै ग्यास उद्योगलाई निर्देशन दिएको छ ।निगमको ए..."
+    },
+    {
+      "id": "774bbecea5163abc",
+      "title": "The Fear Of Asking",
+      "link": "https://risingnepaldaily.com/news/88088",
+      "source": "The Rising Nepal",
+      "sourceUrl": "https://risingnepaldaily.com/rss",
+      "pubDate": "2026-10-27T01:40:17+00:00",
+      "categories": [
+        "politics",
+        "business",
+        "world",
+        "sports"
+      ],
+      "image": "",
+      "images": [],
+      "description": "Asking for help can require more courage than pretending to understand. A student may sit through an entire lesson with..."
+    },
+    {
+      "id": "88e8b9651acd29e8",
+      "title": "बजेट अभाव र सरकारी उदासीनताले कीटजन्य रोगको जोखिम बढ्दै",
+      "link": "https://www.ratopati.com/story/601477/budget-shortage-and-government-apathy-are-increasing-the-risk-of-insect-borne-diseases",
+      "source": "Ratopati",
+      "sourceUrl": "https://ratopati.com/feed",
+      "pubDate": "2026-10-27T01:40:09+00:00",
+      "categories": [
+        "politics",
+        "sports"
+      ],
+      "image": "https://rpcdn.ratopati.com/media/albums/vaccine_VsHJil3RVX.jpg",
+      "images": [
+        "https://rpcdn.ratopati.com/media/albums/vaccine_VsHJil3RVX.jpg"
+      ],
+      "description": "काठमाडौँ । बर्सेनि कीटजन्य रोगको प्रकोप बढ्दै गए पनि रोकथाम र नियन्त्रणतर्फ राज्यको ध्यान पर्याप्त पुग्न सकेको छैन । बजेट अभाव, जनचेतनाको कमी र नागरिकस्तरको हेलचेक्य्राइँका कारण प्रत्येक वर्ष सयौँ नागरिक यसबाट प्रभावित हुने गरेका"
+    },
+    {
+      "id": "9f6ec5fd2aaa2c33",
+      "title": "बिउ जोगाउँदै सांसद चौधरी",
+      "link": "https://gorkhapatraonline.com/news/227351",
+      "source": "Gorkhapatra",
+      "sourceUrl": "https://gorkhapatraonline.com/rss",
+      "pubDate": "2026-10-27T01:38:19+00:00",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "image": "https://gorkhapatraonline.com/storage/media/389039/conversions/333-original.jpg",
+      "images": [
+        "https://gorkhapatraonline.com/storage/media/389039/conversions/333-original.jpg"
+      ],
+      "description": "दाङ समाचारदातादाङ, कात्तिक १० गते । किसानले खेती गर्न छाड्दै गएपछि लोप हुने जोखिममा परेको कालानमक (रैथाने कालो बासमती) धानको बिउ संरक्षण गर्न राष्ट्रिय स्वतन्त्र पार्टी (रास्वपा) क..."
+    },
+    {
+      "id": "ef484a2b0a4a4036",
+      "title": "एनपीएलमा आज विराटनगर–चितवन र कर्णाली–जनकपुर भिड्दै",
+      "link": "https://newsofnepal.com/2026/10/27/792220/",
+      "source": "News of Nepal",
+      "sourceUrl": "https://newsofnepal.com/feed/",
+      "pubDate": "2026-10-27T01:36:06+00:00",
+      "categories": [
+        "politics",
+        "business",
+        "sports"
+      ],
+      "image": "https://newsofnepal.com/wp-content/uploads/2026/10/IMG_20261027_071957-150x150.jpg",
+      "images": [
+        "https://newsofnepal.com/wp-content/uploads/2026/10/IMG_20261027_071957-150x150.jpg"
+      ],
+      "description": "Oplus_16908288 \" data-medium-file=\"https://newsofnepal.com/wp-content/uploads/2026/10/IMG_20261027_071957-400x220.jpg\" data-large-file=\"https://newsofnepal.com/wp-content/uploads/2026/10/IMG_20261027_071957-768x225.jpg\" />काठमाडौं । नेपाल प्रिमियर लिग (एनपीएल) अन्तर्गत आज दुई खेल हुँदैछन्। पहिलो खेलमा विराटनगर किंग्स र चितवन राइनोजबीच दिउँसो साढे १२ बजे त्रिवि क्रिकेट मैदानमा प्रतिस्पर्धा हुनेछ। दोस्रो खेलमा साँझ ५ बजे कर्णाली याक्स र जनकपुर बोल्ट्स आमनेसामने हुनेछन्। हिजो भएको उद्घाटन खेलमा लुम"
+    },
+    {
+      "id": "0a5816e87d8f4850",
+      "title": "Reforming Universities",
+      "link": "https://risingnepaldaily.com/news/88087",
+      "source": "The Rising Nepal",
+      "sourceUrl": "https://risingnepaldaily.com/rss",
+      "pubDate": "2026-10-27T01:35:48+00:00",
+      "categories": [
+        "politics",
+        "business",
+        "world",
+        "sports"
+      ],
+      "image": "",
+      "images": [],
+      "description": "Following the opening up in the early 1990s, Nepal's higher education sector underwent significant change. The number of..."
+    },
+    {
+      "id": "358cdefe616dbd6d",
+      "title": "लगभग हरेक सङ्क्रमण पत्ता लगाउने आनुवंशिक प्रविधि",
+      "link": "https://www.bbc.com/nepali/articles/cwdr866gmgv4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News नेपाली",
+      "sourceUrl": "http://feeds.bbci.co.uk/nepali/rss.xml",
+      "pubDate": "2026-10-27T01:34:36+00:00",
+      "categories": [
+        "politics",
+        "business",
+        "technology"
+      ],
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/821a/live/13e5c220-cc5f-11f1-9a39-31b474234113.jpg",
+      "images": [
+        "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/821a/live/13e5c220-cc5f-11f1-9a39-31b474234113.jpg"
+      ],
+      "description": "सेप्सिस (रगतमा सङ्क्रमणका कारण उत्पन्न हुने गम्भीर अवस्था) को छिटो निदान गर्नेदेखि स्पष्ट कारण पत्ता नलागेका रोगहरूको कारण पहिचान गर्नेसम्म यसले पहिले नै मानिसहरूको जीवन बचाइरहेको छ।"
+    },
+    {
+      "id": "20fa9a9dcf7d581e",
+      "title": "कर्णालीमा हवाई उडान प्रभावकारी बनाउन छलफल",
+      "link": "https://gorkhapatraonline.com/news/227350",
+      "source": "Gorkhapatra",
+      "sourceUrl": "https://gorkhapatraonline.com/rss",
+      "pubDate": "2026-10-27T01:34:01+00:00",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "image": "https://gorkhapatraonline.com/storage/media/389038/conversions/Paryatan-Mantri-original.jpg",
+      "images": [
+        "https://gorkhapatraonline.com/storage/media/389038/conversions/Paryatan-Mantri-original.jpg"
+      ],
+      "description": "गोरखापत्र समाचारदाताकाठमाडौँ, कात्तिक १० गते । कर्णाली प्रदेशको हवाई उडान सेवामा देखिएका समस्या र तिनको समाधानका उपायबारे सरोकारवालाबिच गहन छलफल भएको छ । संस्कृति, पर्यटन तथा नागरि..."
+    },
+    {
+      "id": "0dbd5c289a33ee82",
+      "title": "मधुमेहका बिरामीले मुखको ध्यान नदिए दाँत नै झर्न सक्छ",
+      "link": "https://www.ratopati.com/story/601476/if-diabetics-do-not-take-care-of-their-mouth-their-teeth-may-fall-out",
+      "source": "Ratopati",
+      "sourceUrl": "https://ratopati.com/feed",
+      "pubDate": "2026-10-27T01:33:45+00:00",
+      "categories": [
+        "politics",
+        "sports"
+      ],
+      "image": "https://npcdn.ratopati.com/media/news/images_VTCdEJ1x9z.webp",
+      "images": [
+        "https://npcdn.ratopati.com/media/news/images_VTCdEJ1x9z.webp"
+      ],
+      "description": "काठमाडौँ । मधुमेह (सुगर)ले आँखा, मिर्गौला, स्नायु प्रणाली र मुटुलाई मात्र नभई मुख र दाँतको स्वास्थ्यमा समेत गम्भीर असर पुर्‍याउँछ । रगतमा चिनीको मात्रा अनियन्त्रित हुँदा मुखसम्बन्धी विभिन्न जटिल रोगहरू देखिन सक्ने भन्दै चिकित्सकहरूको भनाइ छ"
+    },
+    {
+      "id": "8304311739626fe1",
+      "title": "रोयटर्स सर्वेक्षण: ट्रम्पको लोकप्रियता दर ३२ प्रतिशत, मध्यावधि निर्वाचनमा डेमोक्र्याट अगाडि",
+      "link": "https://www.nepalviews.com/story/427189/reuters-poll-trumps-approval-rating-at-32-percent-democrats-ahead-in-midterm-elections",
+      "source": "Nepal Views",
+      "sourceUrl": "https://www.nepalviews.com/feed/",
+      "pubDate": "2026-10-27T01:32:56+00:00",
+      "categories": [
+        "politics",
+        "business",
+        "technology"
+      ],
+      "image": "https://nepalviews.cdnsolution.net/en/media/setting/banner_FHsSzcWYKk.jpg",
+      "images": [
+        "https://nepalviews.cdnsolution.net/en/media/setting/banner_FHsSzcWYKk.jpg"
+      ],
+      "description": ""
+    },
+    {
+      "id": "5c7c87666723c42d",
+      "title": "ह्यारी केनले जिते सन् २०२६ को बालोन डी’ओर अवार्ड",
+      "link": "https://www.onlinekhabar.com/2026/10/2044562/harry-kane-wins-the-2026-ballon-dor-award",
+      "source": "Online Khabar",
+      "sourceUrl": "https://www.onlinekhabar.com/feed",
+      "pubDate": "2026-10-27T01:31:43+00:00",
+      "categories": [
+        "politics",
+        "business",
+        "sports",
+        "technology",
+        "entertainment"
+      ],
+      "image": "",
+      "images": [],
+      "description": "१० कात्तिक, काठमाडौं । इंग्ल्यान्डका कप्तान ह्यारी केनले सन् २०२६ को बालोन डी’ओर अवार्ड जितेका छन् । सोमबार लन्डनमा आयोजित समारोहमा केनलाई विश्वकै उत्कृष्ट पुरुष फुटबल खेलाडी घोषित गरिएको हो । किलियन एमबाप्पे र लामिन यामाललाई पछि पार्दै उनले यो अवार्ड जितेका हुन् । ३३ वर्षीय केनले क्लब र देशका लागि ६५ प्रतिस्पर्धात्मक खेलहरूमा ७३ […]"
+    },
+    {
+      "id": "af989c4c0e871aee",
+      "title": "ग्लोबल आइएमईले फेरि पायो ‘बेस्ट बैङ्क अवार्ड’",
+      "link": "https://gorkhapatraonline.com/news/227349",
+      "source": "Gorkhapatra",
+      "sourceUrl": "https://gorkhapatraonline.com/rss",
+      "pubDate": "2026-10-27T01:31:39+00:00",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "image": "https://gorkhapatraonline.com/storage/media/389037/conversions/Best-Bank-Awards-2026-original.jpg",
+      "images": [
+        "https://gorkhapatraonline.com/storage/media/389037/conversions/Best-Bank-Awards-2026-original.jpg"
+      ],
+      "description": "गोरखापत्र समाचारदाताकाठमाडौँ, कात्तिक १० गते । ग्लोबल आइएमई बैङ्क अन्तर्राष्ट्रिय आर्थिक पत्रिका ‘ग्लोबल फाइनान्स’ ले प्रदान गर्ने ‘बेस्ट बैङ्क अवार्ड’ २०२६ बाट सम्मानित भएको छ । य..."
+    },
+    {
+      "id": "1fe5acd6df9b3ae5",
+      "title": "एनपिएल क्रिकेटः सुदूरपश्चिममाथि लुम्बिनीको जित",
+      "link": "https://arthasarokar.com/2026/10/npl-cricket-lumbini-defeats-sudurpaschim.html",
+      "source": "Artha Sarokar",
+      "sourceUrl": "https://arthasarokar.com/feed",
+      "pubDate": "2026-10-27T01:31:24+00:00",
+      "categories": [
+        "business",
+        "technology"
+      ],
+      "image": "https://media.arthasarokar.com/uploads/2026/10/Lumbini-wins.jpg",
+      "images": [
+        "https://media.arthasarokar.com/uploads/2026/10/Lumbini-wins.jpg"
+      ],
+      "description": "काठमाडौँ । नेपाल प्रिमियर लिग (एनपिएल) को उद्घाटन खेलमा लुम्बिनी लायन्सले सुदूरपश्चिम रोयल्सलाई हराउँदै प्रतियोगितामा सुखद् सुरुवात गरेको छ । कीर्तिपुरस्थित त्रिभुवन विश्वविद्यालय अन्तरराष्ट्रिय क्रिकेट मैदानमा भएको खेलमा लुम्बिनी लायन्सले सुदूरपश्चिम रोयल्समाथि सात विकेटको जित निकालेको हो । सुदुरपश्चिमले जितको लागि दिएको ८८ रनको सामान्य लक्ष्य पच्छाएको साविक विजता लुम्बिनीले ९.५ ओभरमा ३ विकेट गुमाएर Continue reading \"एनपिएल क्रिकेटः सुदूरपश्चिममाथि लुम्बिनीको जित\""
+    },
+    {
+      "id": "0fe304e4f61e3609",
+      "title": "गुवाहाटीको होटलमा गोली चल्दा पाँच जनाको मृत्यु, एक पक्राउ",
+      "link": "https://www.ratopati.com/story/601475/five-killed-one-arrested-in-guwahati-hotel-shooting",
+      "source": "Ratopati",
+      "sourceUrl": "https://ratopati.com/feed",
+      "pubDate": "2026-10-27T01:29:52+00:00",
+      "categories": [
+        "politics",
+        "sports"
+      ],
+      "image": "https://npcdn.ratopati.com/media/news/guwahati-firing-incident-1793034900640_pdTsCmaNiy.webp",
+      "images": [
+        "https://npcdn.ratopati.com/media/news/guwahati-firing-incident-1793034900640_pdTsCmaNiy.webp"
+      ],
+      "description": "असम । भारतको असम राज्यको गुवाहाटीस्थित एक होटलमा गोली चल्दा महिलासहित पाँच जनाको मृत्यु भएको छ भने अन्य केही घाइते भएका छन् । सोमबार राति करिब ९ बजे लाचित नगरस्थित होटल बिलास इनमा गोली चलेको हो"
+    },
+    {
+      "id": "fd3bc7e80060ed60",
+      "title": "इजरायल जान महिला आवेदन कम",
+      "link": "https://gorkhapatraonline.com/news/227348",
+      "source": "Gorkhapatra",
+      "sourceUrl": "https://gorkhapatraonline.com/rss",
+      "pubDate": "2026-10-27T01:29:28+00:00",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "image": "https://gorkhapatraonline.com/storage/media/389036/conversions/scfbn-original.jpg",
+      "images": [
+        "https://gorkhapatraonline.com/storage/media/389036/conversions/scfbn-original.jpg"
+      ],
+      "description": "गोरखापत्र समाचारदाताकाठमाडौँ, कात्तिक १० गते । इजरायलमा नेपालीबाट सहायक श्रमिक (केयरगिभर) को काममा लैजान इजरायल सरकारले गरेको मागमा महिलाको कम आवेदन परेको छ । वैदेशिक रोजगार विभागक..."
+    },
+    {
+      "id": "ddc2b1a0955fea6f",
+      "title": "बाढी र पहिरोका कारण गण्डकी र कर्णाली प्रदेशका मुख्य राजमार्गहरूमा अवरोध",
+      "link": "https://nepallive.com/story/352336",
+      "source": "Nepal Live",
+      "sourceUrl": "https://nepallive.com/feed",
+      "pubDate": "2026-10-27T01:27:51+00:00",
+      "categories": [
+        "politics",
+        "technology"
+      ],
+      "image": "",
+      "images": [],
+      "description": "नेपाल प्रहरीले विपद्का कारण देशका मुख्य राजमार्गहरूमा भएको अवरोधको पछिल्लो विवरण सार्वजनिक गरेको छ । आज बिहान ६ः३० बजेसम्मको तथ्याङ्कअनुसार बाढी र पहिरोका कारण गण्डकी र कर्णाली प्रदेशका विभिन्न सडक खण्डहरू प्रभावित भएका छन् ।"
+    },
+    {
+      "id": "1b1cfad892b9d9da",
+      "title": "घट्यो कुखुराको मासुको भाउ",
+      "link": "https://gorkhapatraonline.com/news/227347",
+      "source": "Gorkhapatra",
+      "sourceUrl": "https://gorkhapatraonline.com/rss",
+      "pubDate": "2026-10-27T01:26:41+00:00",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "image": "https://gorkhapatraonline.com/storage/media/389035/conversions/chicken-Meat-768x469-original.jpg",
+      "images": [
+        "https://gorkhapatraonline.com/storage/media/389035/conversions/chicken-Meat-768x469-original.jpg"
+      ],
+      "description": "गोरखापत्र समाचारदाताकाठमाडौँ, कात्तिक १० गते । दसैँ सकिएसँगै बजारमा कुखुराको मासुको मूल्य घटेको छ । खपत घटेको भन्दै व्यवसायीले कुखुराको मासुको मूल्य घटाएका हुन् । सोमबारदेखि लागु ह..."
+    },
+    {
+      "id": "d61691e534643b7f",
+      "title": "यस्तो छ आजका लागि तोकिएको विदेशी मुद्राको विनिमयदर (सूचीसहित)",
+      "link": "https://www.ratopati.com/story/601474/here-are-the-foreign-currency-exchange-rates-for-today-with-list",
+      "source": "Ratopati",
+      "sourceUrl": "https://ratopati.com/feed",
+      "pubDate": "2026-10-27T01:23:58+00:00",
+      "categories": [
+        "politics",
+        "sports"
+      ],
+      "image": "https://npcdn.ratopati.com/media/news/nepal-rastra-bank_yf3aBoOqeu.jpg",
+      "images": [
+        "https://npcdn.ratopati.com/media/news/nepal-rastra-bank_yf3aBoOqeu.jpg"
+      ],
+      "description": "काठमाडौं । नेपाल राष्ट्र बैंकले मंगलबारका लागि विदेशी मुद्राको विनिमयदर सार्वजनिक गरेको छ। राष्ट्र बैंकका अनुसार अमेरिकी डलर एकको खरिददर १५२ रुपैयाँ र बिक्रीदर १५२ रुपैयाँ ६० पैसा तोकिएको छ। यस्तै, युरो एकको खरिददर १७० रुपैयाँ"
+    },
+    {
+      "id": "d82ad15616abc45c",
+      "title": "चीनतर्फ कैयौँ नाका, तर किन छैनन् कोही भरपर्दा?",
+      "link": "https://www.bbc.com/nepali/articles/cmqxn2dre1n0o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News नेपाली",
+      "sourceUrl": "http://feeds.bbci.co.uk/nepali/rss.xml",
+      "pubDate": "2026-10-27T01:23:53+00:00",
+      "categories": [
+        "politics",
+        "business",
+        "technology"
+      ],
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/e5b8/live/53e967b0-c9f2-11f1-a64c-550be9e3c66b.jpg",
+      "images": [
+        "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/e5b8/live/53e967b0-c9f2-11f1-a64c-550be9e3c66b.jpg"
+      ],
+      "description": "त्रिशूली-भोटेकोशी बाढीसँगै चीनतर्फको नेपालको प्रमुख अन्तर्राष्ट्रिय नाका रसुवा पूर्णरूपमा टुटेपछि फेरि द्विपक्षीय व्यापारको भविष्यलाई लिएर प्रश्नहरू उठेको छ।"
+    },
+    {
+      "id": "7529142df33a8e82",
+      "title": "एनपीएलमा आज २ खेल : चितवन र विराटनगर तथा जनकपुर र कर्णाली भिड्दै",
+      "link": "https://www.dainiknepal.com/2026/10/846744.html",
+      "source": "Dainik Nepal",
+      "sourceUrl": "https://dainiknepal.com/feed",
+      "pubDate": "2026-10-27T01:23:09+00:00",
+      "categories": [
+        "politics",
+        "sports"
+      ],
+      "image": "",
+      "images": [],
+      "description": "काठमाडौं । नेपाल प्रिमियर लिग (एनपीएल)मा आज दुईवटा खेल हुँदै छ । आजको पहिलो खेलमा विराटनगर किंग्स र चितवन राइनोजबीच प्रतिस्पर्धा हुनेछ भने दोस्रो खेलमा कर्णाली याक्स र जनकपुर बोल्ट्स भिड्नेछन् । विराटनगर र चितवनबीचको खेल दिउँसो १२ः३० बजे हुनेछ भने कर्णाली र जनकपुरबीचको खेल साँझ ५ बजेबाट सुरु हुनेछ । दुवै खेल कीर्तिपुरस्थित त्रिवि […]"
+    },
+    {
+      "id": "37266568c90cf2d7",
+      "title": "भैलो संस्कृति जोगाउँदै युवा",
+      "link": "https://gorkhapatraonline.com/news/227346",
+      "source": "Gorkhapatra",
+      "sourceUrl": "https://gorkhapatraonline.com/rss",
+      "pubDate": "2026-10-27T01:21:41+00:00",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "image": "https://gorkhapatraonline.com/storage/media/389034/conversions/Sattala-Vaelo-dailekh-Kamal-original.jpg",
+      "images": [
+        "https://gorkhapatraonline.com/storage/media/389034/conversions/Sattala-Vaelo-dailekh-Kamal-original.jpg"
+      ],
+      "description": "दैलेख समाचारदातादैलेख, कात्तिक १० गते । लामबद्ध भएर ‘भैलारु भैलो’ भन्दै परम्परागत भाका भट्याउँदै अघि बढ्ने समूह, पन्चैबाजा र नगरा, नायकलाई काँधमा बोकेर गरिने प्रस्तुति । दैलेखको पश..."
+    },
+    {
+      "id": "71707858fc863e4d",
+      "title": "नोबेल शान्ति पुरस्कार विजेता माचाडोको आश्चर्यजनक स्वदेश फिर्ती, अन्तरिम राष्ट्रपतिसँग भेट्न तयार",
+      "link": "https://www.nepalviews.com/story/427188/nobel-peace-prize-winner-machado-makes-surprise-return-home-ready-to-meet-with-interim-president",
+      "source": "Nepal Views",
+      "sourceUrl": "https://www.nepalviews.com/feed/",
+      "pubDate": "2026-10-27T01:18:55+00:00",
+      "categories": [
+        "politics",
+        "business",
+        "technology"
+      ],
+      "image": "https://nepalviews.cdnsolution.net/en/media/setting/banner_FHsSzcWYKk.jpg",
+      "images": [
+        "https://nepalviews.cdnsolution.net/en/media/setting/banner_FHsSzcWYKk.jpg"
+      ],
+      "description": ""
+    },
+    {
+      "id": "e2bdf733373505f5",
+      "title": "‘चलचित्र विकास बोर्डलाई साझा संस्था बनाऔँ’",
+      "link": "https://gorkhapatraonline.com/news/227345",
+      "source": "Gorkhapatra",
+      "sourceUrl": "https://gorkhapatraonline.com/rss",
+      "pubDate": "2026-10-27T01:18:30+00:00",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "image": "https://gorkhapatraonline.com/storage/media/389033/conversions/Information-Minister-original.jpg",
+      "images": [
+        "https://gorkhapatraonline.com/storage/media/389033/conversions/Information-Minister-original.jpg"
+      ],
+      "description": "काठमाडौँ, कात्तिक १० गते । सूचना तथा सञ्चारमन्त्री डा. विक्रम तिमिल्सिनाले चलचित्र विकास बोर्डलाई सबै चलचित्रकर्मीको साझा संस्था बनाउँदै चलचित्र क्षेत्रको विकासका लागि ठोस काम गर्न..."
+    },
+    {
+      "id": "c2247d6441b43e17",
+      "title": "इजरायलमा चुनाव : नेतान्याहुको राजनीतिक भविष्य दाउमा",
+      "link": "https://www.ratopati.com/story/601473/elections-in-israel-netanyahus-political-future-at-stake",
+      "source": "Ratopati",
+      "sourceUrl": "https://ratopati.com/feed",
+      "pubDate": "2026-10-27T01:18:09+00:00",
+      "categories": [
+        "politics",
+        "sports"
+      ],
+      "image": "https://npcdn.ratopati.com/media/news/netanahu2_Fdih1J6ANZ.webp",
+      "images": [
+        "https://npcdn.ratopati.com/media/news/netanahu2_Fdih1J6ANZ.webp"
+      ],
+      "description": "जेरुसेलम । इजरायलका प्रधानमन्त्री बेन्जामिन नेतान्याहु मंगलबार हुने आमनिर्वाचनमा आफ्नो राजनीतिक भविष्य जोगाउन संघर्ष गरिरहेका छन् । सन् २०२३ को अक्टोबर ७ मा हमासले गरेको आक्रमण, त्यसपछि गाजामा इजरायलले सञ्चालन गरेको सैन्य कारबाही, इरानसँगको युद्ध"
+    },
+    {
+      "id": "06a13073f087329a",
+      "title": "एक महिनामा अन्नपूर्ण क्षेत्रमा ३३ हजार पर्यटक भित्रिए",
+      "link": "https://nepalnews.com/2026/10/27/33000-tourists-entered-the-annapurna-region-in-one-month/",
+      "source": "Nepal News",
+      "sourceUrl": "https://nepalnews.com/feed",
+      "pubDate": "2026-10-27T01:18:01+00:00",
+      "categories": [
+        "politics",
+        "business",
+        "world"
+      ],
+      "image": "",
+      "images": [],
+      "description": "कास्की। गत असोज महिनामा ३२ हजार ९६३ विदेशी पर्यटकले अन्नपूर्ण संरक्षण क्षेत्रको भ्रमण गरेका छन्। जसमध्ये दक्षिण एसियाली मुलुकका १२ हजार ६४५ र अन्य देशका २० हजार ३१८ पर्यटक रहेका छन्। गत वर्षको सोही अवधिको तुलनामा यस वर्ष दुई हजार ४१६ पर्यटक बढी आएको अन्नपूर्ण संरक्षण क्षेत्र आयोजनाका प्रमुख डा रविन कडरियाले बताए। गत वर्ष […]"
+    },
+    {
+      "id": "c1721661ebd58dad",
+      "title": "काठे पिङबाट आम्दानीसँगै संस्कृतिको जगेर्ना",
+      "link": "https://gorkhapatraonline.com/news/227344",
+      "source": "Gorkhapatra",
+      "sourceUrl": "https://gorkhapatraonline.com/rss",
+      "pubDate": "2026-10-27T01:17:40+00:00",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "image": "https://gorkhapatraonline.com/storage/media/389032/conversions/Kathe-Ping-1-original.jpg",
+      "images": [
+        "https://gorkhapatraonline.com/storage/media/389032/conversions/Kathe-Ping-1-original.jpg"
+      ],
+      "description": "रेसुङ्गा(गुल्मी), कार्तिक १० गते । गुल्मीमा मालिका गाउँपालिका–२ दर्लिङ्गका ४८ वर्षीय रमेश मगरलाई काठे पिङ नखेलेसम्म दसैँ आएको महसुस नै हुँदैन । गाउँमा बाबियो बाटेर पिङ हाल्ने दाँवल..."
+    },
+    {
+      "id": "50df2f95c1698e42",
+      "title": "Goat trade worth Rs. 40M in Humla during Dashain",
+      "link": "https://risingnepaldaily.com/news/88086",
+      "source": "The Rising Nepal",
+      "sourceUrl": "https://risingnepaldaily.com/rss",
+      "pubDate": "2026-10-27T01:17:30+00:00",
+      "categories": [
+        "politics",
+        "business",
+        "world",
+        "sports"
+      ],
+      "image": "",
+      "images": [],
+      "description": "By Our Correspondent, Humla/Nepalgunj, Oct. 27: Goats worth around Rs. 40 million were traded in the Himalayan district..."
+    },
+    {
+      "id": "34f48aae82ab0cf7",
+      "title": "ह्यारी केनले जिते बालोन डी'ओर",
+      "link": "https://nepalsamaya.com/detail/147270",
+      "source": "Nepal Samaya",
+      "sourceUrl": "https://nepalsamaya.com/feed",
+      "pubDate": "2026-10-27T01:16:57+00:00",
+      "categories": [
+        "politics",
+        "entertainment"
+      ],
+      "image": "",
+      "images": [],
+      "description": ""
+    },
+    {
+      "id": "1ef5783d1127abd3",
+      "title": "केनले जिते बालोन डी’ओर",
+      "link": "https://nepallive.com/story/352335",
+      "source": "Nepal Live",
+      "sourceUrl": "https://nepallive.com/feed",
+      "pubDate": "2026-10-27T01:16:04+00:00",
+      "categories": [
+        "politics",
+        "technology"
+      ],
+      "image": "",
+      "images": [],
+      "description": "इंग्ल्यान्डका कप्तान ह्यारी केनले सोमबार बालोन डी’ओर जित्दै २५ वर्षपछि यो प्रतिष्ठित अवार्ड जित्ने इंग्लिस खेलाडी बनेका छन्।"
+    },
+    {
+      "id": "039d84f8a4f3c041",
+      "title": "मेरो कारणले द्वन्द्व नफैलिओस्",
+      "link": "https://nepalnews.com/2026/10/27/dont-let-conflict-spread-because-of-me/",
+      "source": "Nepal News",
+      "sourceUrl": "https://nepalnews.com/feed",
+      "pubDate": "2026-10-27T01:15:31+00:00",
+      "categories": [
+        "politics",
+        "business",
+        "world"
+      ],
+      "image": "",
+      "images": [],
+      "description": "नेपाल सरकारले लुम्बिनी विकास कोषको उपाध्यक्षको जिम्मेवारी मलाई दिने निर्णय गरेर घोषणा गरेपछि विभिन्न खालका टीकाटिप्पणी भइरहेका छन्। धेरैले मलाई आशीर्वाद दिनुभएको छ। ‘राम्रो काम गर्नु, हामी तिमीलाई विश्वास गर्छौँ, तिमीले सक्छौ’ भनेर मेरो मनोबल बढाउनुभएको छ। धेरैले शुभेच्छा र शुभकामना व्यक्त गर्नुभएको छ। त्यसप्रति म साँच्चै नै हृदयदेखि आभारी छु। विगतमा आफ्नो जीवनमा धेरै […]"
+    },
+    {
+      "id": "b682e7e5da7ed254",
+      "title": "अलराउन्डरले भरिपूर्ण राइनोज",
+      "link": "https://baahrakhari.com/detail/505758",
       "source": "Baahrakhari",
       "sourceUrl": "https://baahrakhari.com/feed",
-      "pubDate": "2026-10-26T17:44:48+00:00",
+      "pubDate": "2026-10-27T01:15:00+00:00",
       "categories": [
         "politics",
         "business",
@@ -55,46 +577,85 @@
       "description": ""
     },
     {
-      "id": "4b4ab2b5fc8a8214",
-      "title": "चिनियाँ भाषामा अनूदित छ वटा नेपाली पुस्तक लोकार्पण",
-      "link": "https://gorkhapatraonline.com/news/227333",
-      "source": "Gorkhapatra",
-      "sourceUrl": "https://gorkhapatraonline.com/rss",
-      "pubDate": "2026-10-26T17:42:45+00:00",
+      "id": "5d138066d71fc60f",
+      "title": "Lula wins a ‘miracle’ election in Brazil. Now comes the hard part: putting the country back on the right track",
+      "link": "https://english.onlinekhabar.com/lula-wins-miracle-election-brazil.html",
+      "source": "Onlinekhabar English",
+      "sourceUrl": "https://english.onlinekhabar.com/feed",
+      "pubDate": "2026-10-27T01:15:00+00:00",
       "categories": [
         "politics",
-        "business"
+        "business",
+        "sports",
+        "technology"
       ],
-      "image": "https://gorkhapatraonline.com/storage/media/389018/conversions/572dd8fc-b7e1-41a7-b298-65e7b8524538-original.jpg",
+      "image": "http://english.onlinekhabar.com/wp-content/uploads/2026/10/AP26299049430072-1024x683.jpg",
       "images": [
-        "https://gorkhapatraonline.com/storage/media/389018/conversions/572dd8fc-b7e1-41a7-b298-65e7b8524538-original.jpg"
+        "http://english.onlinekhabar.com/wp-content/uploads/2026/10/AP26299049430072-1024x683.jpg",
+        "http://english.onlinekhabar.com/wp-content/uploads/2026/10/Lula-1024x683.jpg",
+        "http://english.onlinekhabar.com/wp-content/uploads/2026/10/AP26299154971029-1024x683.jpg"
       ],
-      "description": "काठमाडौँ, कात्तिक ९ गते । नेपाली साहित्यलाई अन्तर्राष्ट्रिय बजारमा पुर्‍याउने सरकारी पहलअन्तर्गत चिनियाँ भाषामा अनूदित छ वटा नेपाली पुस्तक चीनको छेन्दुमा लोकार्पण गरिएको छ। यहि अक्..."
+      "description": "Three weeks ago, Brazilian President Luiz Inácio Lula da Silva’s political obituaries had all been written. The far-right presidential candidate, Flávio Bolsonaro, son of the jailed former President Jair Bolsonaro, had come out of the first round of the presidential election with a lead that looked impossible to overcome. At 80 years old, Lula seemed […] The post Lula wins a ‘miracle’ election in Brazil. Now comes the hard part: putting the country back on the right track appeared first on Onlin"
     },
     {
-      "id": "62daf6bb4a55c0fe",
-      "title": "फूलखेती आम्दानीको मुख्य स्रोत",
-      "link": "https://gorkhapatraonline.com/news/227331",
-      "source": "Gorkhapatra",
-      "sourceUrl": "https://gorkhapatraonline.com/rss",
-      "pubDate": "2026-10-26T17:38:21+00:00",
+      "id": "1f9e9b1bbccaba95",
+      "title": "दसैँ बिदामा १५ हजार बढी पर्यटकद्वारा सहिद स्मारक अवलोकन",
+      "link": "https://www.ratopati.com/story/601472/over-15000-tourists-visit-martyrs-memorial-during-dashain-holiday",
+      "source": "Ratopati",
+      "sourceUrl": "https://ratopati.com/feed",
+      "pubDate": "2026-10-27T01:14:28+00:00",
       "categories": [
         "politics",
-        "business"
+        "sports"
       ],
-      "image": "https://gorkhapatraonline.com/storage/media/389010/conversions/KN_Damauli--IMG_9611-original.jpg",
+      "image": "https://npcdn.ratopati.com/media/news/smarak_b5d0wbHovx.webp",
       "images": [
-        "https://gorkhapatraonline.com/storage/media/389010/conversions/KN_Damauli--IMG_9611-original.jpg"
+        "https://npcdn.ratopati.com/media/news/smarak_b5d0wbHovx.webp"
       ],
-      "description": "घोराही (दाङ), कात्तिक ९ गते । दाङमा फूलखेती व्यवसायप्रति किसानको आकर्षण बढ्दै गएको छ । अन्य खेतीभन्दा सजिलो र आम्दानी बढी पाउने भएकाले किसानहरु फूलखेतीप्रति आकर्षित भएका हुन् ।यति..."
+      "description": "मकवानपुर । बागमती प्रदेशको राजधानी हेटौँडास्थित सहिद स्मारकमा यस वर्षको दसैँ बिदाका समयमा १५ हजारभन्दा बढी पर्यटकले अवलोकन गरेका छन्। हेटौँडाको पहिचानका रूपमा स्थापित स्मारकमा असोज २५ गते घटस्थापनादेखि कात्तिक ८ गते कोजाग्रत पूर्णिमासम्म १५ हजार"
     },
     {
-      "id": "ff5f18d148e78056",
-      "title": "कास्कीको माछापुच्छ्रे गाउँपालिकामा एक युवक मृत फेला, ६ जना पक्राउ",
-      "link": "https://baahrakhari.com/detail/505759",
+      "id": "fc80f92e93c772ba",
+      "title": "बाढीपहिरोले पाइपलाइन क्षतिग्रस्त हुँदा बेनीमा खानेपानीको चरम अभाव",
+      "link": "https://www.onlinekhabar.com/2026/10/2044553/severe-water-shortage-in-beni-as-pipeline-damaged-by-floods-and-landslides",
+      "source": "Online Khabar",
+      "sourceUrl": "https://www.onlinekhabar.com/feed",
+      "pubDate": "2026-10-27T01:09:53+00:00",
+      "categories": [
+        "politics",
+        "business",
+        "sports",
+        "technology",
+        "entertainment"
+      ],
+      "image": "",
+      "images": [],
+      "description": "१० कात्तिक, म्याग्दी । म्याग्दीको सदरमुकाम बेनी बजारमा खानेपानीको अभाव हुन थालेको छ । गत असोज दोस्रो साता आएको बाढीपहिरोका कारण खानेपानी आपूर्ति गर्ने पाइपलाइनमा क्षति पुगेपछि बजारमा पानीको आपूर्ति घटेको हो । बेनी खानेपानी तथा सरसफाइ उपभोक्ता संस्थाका अध्यक्ष रमेश गिरीका अनुसार बेनी बजारमा प्रतिसेकेन्ड २० लिटरभन्दा बढी पानी आवश्यक पर्ने भए पनि हाल […]"
+    },
+    {
+      "id": "ad2e4bae34b81ae1",
+      "title": "एलेक्सिया पुटेलासले जितिन् तेस्रोपटक महिला बालोन डी’ओर",
+      "link": "https://www.ratopati.com/story/601471/alexia-putellas-wins-third-womens-ballon-dor",
+      "source": "Ratopati",
+      "sourceUrl": "https://ratopati.com/feed",
+      "pubDate": "2026-10-27T01:07:57+00:00",
+      "categories": [
+        "politics",
+        "sports"
+      ],
+      "image": "https://npcdn.ratopati.com/media/news/dor_1HFOP4YTFJ.webp",
+      "images": [
+        "https://npcdn.ratopati.com/media/news/dor_1HFOP4YTFJ.webp"
+      ],
+      "description": "बेलायत । स्पेनकी एलेक्सिया पुटेलासले तेस्रोपटक महिला बालोन डी’ओर अवार्ड जितेकी छन्। बार्सिलोना फेमेनीकी पूर्वकप्तान पुटेलासले सन् २०२६ को महिला बालोन डी’ओर जितेकी हुन्। बेलायतको लन्डनमा आयोजित समारोहमा ३२ वर्षीया पुटेलासलाई वर्षको उत्कृष्ट महिला फुटबल खेलाडी"
+    },
+    {
+      "id": "1007aa044e14acd7",
+      "title": "ह्यरी केनलाई बालोन डी’ओर अवार्ड",
+      "link": "https://baahrakhari.com/detail/505764",
       "source": "Baahrakhari",
       "sourceUrl": "https://baahrakhari.com/feed",
-      "pubDate": "2026-10-26T17:26:43+00:00",
+      "pubDate": "2026-10-27T01:05:07+00:00",
       "categories": [
         "politics",
         "business",
@@ -105,21 +666,772 @@
       "description": ""
     },
     {
-      "id": "1d7c35e3bcfb3e91",
-      "title": "तिहारसम्म मुस्ताङको ८० प्रतिशत स्याउ निकासी हुने अनुमान",
-      "link": "https://gorkhapatraonline.com/news/227324",
-      "source": "Gorkhapatra",
-      "sourceUrl": "https://gorkhapatraonline.com/rss",
-      "pubDate": "2026-10-26T17:19:16+00:00",
+      "id": "b702cfc6e8204998",
+      "title": "आजको लागि तोकियो विदेशी मुद्राको विनिमयदर",
+      "link": "https://nepallive.com/story/352334",
+      "source": "Nepal Live",
+      "sourceUrl": "https://nepallive.com/feed",
+      "pubDate": "2026-10-27T01:04:18+00:00",
       "categories": [
         "politics",
-        "business"
+        "technology"
       ],
-      "image": "https://gorkhapatraonline.com/storage/media/389017/conversions/%E0%A4%95%E0%A5%8D%E0%A4%AF%E0%A4%BE-%E0%A4%B0%E0%A4%BE%E0%A4%AE%E0%A5%8D%E0%A4%B0%E0%A5%8B-%E0%A4%B8%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%89-%E0%A4%AC%E0%A4%BE%E0%A4%B0%E0%A5%80...-%282%29-original.jpg",
+      "image": "",
+      "images": [],
+      "description": "नेपाल राष्ट्र बैंकले आजका लागि विदेशी मुद्राको विनिमयदर निर्धारण गरेको छ । राष्ट्र बैंकका अनुसार अमेरिकी डलर एकको खरिददर १५२ रुपैयाँ ०० पैसा र बिक्रीदर १५२ रुपैयाँ ६० पैसा निर्धारण गरिएको छ ।"
+    },
+    {
+      "id": "1119dd8ddaf366aa",
+      "title": "सामूहिक फूलखेतीबाट आम्दानी गर्दै शिवसताक्षीका महिला",
+      "link": "https://nepalnews.com/2026/10/27/women-of-shivasatakshi-earning-income-from-collective-flower-farming/",
+      "source": "Nepal News",
+      "sourceUrl": "https://nepalnews.com/feed",
+      "pubDate": "2026-10-27T01:03:27+00:00",
+      "categories": [
+        "politics",
+        "business",
+        "world"
+      ],
+      "image": "",
+      "images": [],
+      "description": "झापा। पहेँलपुर बनेको बारी, ढकमक्क फुलेका सयपत्री। फूलको स्याहारमा व्यस्त महिला। झापाको शिवसताक्षी नगरपालिका–१० ट्याक्रमको दृश्य हो यो। बारीभरि फुलेका सयपत्रीले तिहार आगमनको मात्र सङ्केत गर्दैनन्, आफ्नै श्रमबाट आम्दानी गर्ने स्थानीय महिलाको सपना पनि उजागर गर्छ। एकातिर आफ्नै गाउँमा रोजगारीको अवसर, अर्कोतिर सामूहिक प्रयासबाट आत्मनिर्भर बन्ने आशा। यही उद्देश्यसहित स्थानीय महिलाले छ कठ्ठा जमिनमा १० […]"
+    },
+    {
+      "id": "7d3d7f1d3120e90a",
+      "title": "इजरायलमा आज आम निर्वाचन, दाउमा नेतान्याहुको सत्ता",
+      "link": "https://www.onlinekhabar.com/2026/10/2044552/israel-holds-general-election-today-netanyahus-rule-at-stake",
+      "source": "Online Khabar",
+      "sourceUrl": "https://www.onlinekhabar.com/feed",
+      "pubDate": "2026-10-27T01:03:08+00:00",
+      "categories": [
+        "politics",
+        "business",
+        "sports",
+        "technology",
+        "entertainment"
+      ],
+      "image": "",
+      "images": [],
+      "description": "नेतान्याहुका समर्थकहरुले उनलाई सुरक्षा मामिलामा बलियो नेताका रूपमा प्रस्तुत गर्दै आएका छन् । तर आलोचकहरूले सन् २०२३ मा हमासले गरेको आक्रमणका बेला सुरक्षा व्यवस्थामा भएको कमजोरी र उनीमाथि लागेका भ्रष्टाचारसम्बन्धी आरोपलाई लिएर प्रश्न उठाउँदै आएका छन् ।"
+    },
+    {
+      "id": "1af4f26e5c205e2e",
+      "title": "एम्बाप्पे र यामाललाई पछि पार्दै ह्यारी केनले जिते बालोन डी’ओर, २५ वर्षपछि इंग्ल्यान्डका खेलाडीलाई उपाधि",
+      "link": "https://www.ratopati.com/story/601470/harry-kane-beats-mbappe-and-yamal-to-win-ballon-dor-first-english-player-to-win-the-award-in-25-years",
+      "source": "Ratopati",
+      "sourceUrl": "https://ratopati.com/feed",
+      "pubDate": "2026-10-27T01:02:48+00:00",
+      "categories": [
+        "politics",
+        "sports"
+      ],
+      "image": "https://npcdn.ratopati.com/media/news/harry-ken_VplEAkVtkx.webp",
       "images": [
-        "https://gorkhapatraonline.com/storage/media/389017/conversions/%E0%A4%95%E0%A5%8D%E0%A4%AF%E0%A4%BE-%E0%A4%B0%E0%A4%BE%E0%A4%AE%E0%A5%8D%E0%A4%B0%E0%A5%8B-%E0%A4%B8%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%89-%E0%A4%AC%E0%A4%BE%E0%A4%B0%E0%A5%80...-%282%29-original.jpg"
+        "https://npcdn.ratopati.com/media/news/harry-ken_VplEAkVtkx.webp"
       ],
-      "description": "हरिकृष्ण शर्माकाठमाडौँ, कात्तिक ९ गते । मुस्ताङको घरपझोङ गाउँपालिका–२, मार्फामा स्याउ टिप्दै गरेको बगैँचामा पर्यटक घुम्दै खरिद गर्न आइपुग्छन् । दसैँ अगाडि करिब ५० प्रतिशत स्याउ नि..."
+      "description": "काठमाडौँ । इंग्ल्यान्डका कप्तान तथा जर्मन क्लब बायर्न म्युनिखका स्ट्राइकर ह्यारी केनले सन् २०२६ को बालोन डी’ओर अवार्ड जितेका छन् । सन् २००१ मा माइकल ओवेनले जितेयता पहिलोपटक इंग्ल्यान्डका खेलाडीले फुटबलको प्रतिष्ठित व्यक्तिगत अवार्ड जितेका हुन्"
+    },
+    {
+      "id": "558dda1dd0bab1c1",
+      "title": "Cyclone Arnab intensifies into very severe cyclonic storm",
+      "link": "https://english.khabarhub.com/2026/27/573301/",
+      "source": "Khabarhub",
+      "sourceUrl": "https://english.khabarhub.com/feed/",
+      "pubDate": "2026-10-27T00:59:55+00:00",
+      "categories": [
+        "politics",
+        "business",
+        "world"
+      ],
+      "image": "",
+      "images": [],
+      "description": "ODISHA: Cyclone Arnab intensified into a very severe cyclonic storm over the westcentral Bay of Bengal and is likely to cross the Andhra Pradesh and Yanam coasts between Bapatla and Visakhapatnam, close to Yanam, by the forenoon of October 28, the India Meteorological Department (IMD) said. According to the IMD’s Regional Meteorological Centre in Bhubaneswar, […]"
+    },
+    {
+      "id": "1f0e678d718dd3c8",
+      "title": "एनपीएलमा आज विराटनगर र चितवन तथा जनकपुर र कर्णाली भिड्दै, अघिल्लो संस्करणको नतिजा कस्तो थियो ?",
+      "link": "https://www.ratopati.com/story/601469/biratnagar-and-chitwan-and-janakpur-and-karnali-are-facing-off-today-in-the-npl-what-were-the-results-of-the-previous-edition",
+      "source": "Ratopati",
+      "sourceUrl": "https://ratopati.com/feed",
+      "pubDate": "2026-10-27T00:59:02+00:00",
+      "categories": [
+        "politics",
+        "sports"
+      ],
+      "image": "https://npcdn.ratopati.com/media/news/npl2_M0A2XIC0U1.webp",
+      "images": [
+        "https://npcdn.ratopati.com/media/news/npl2_M0A2XIC0U1.webp"
+      ],
+      "description": "काठमाडौँ । नेपाल प्रिमियर लिग (एनपीएल) क्रिकेटको तेस्रो संस्करणअन्तर्गत मंगलबार दुई खेल हुँदैछन् । पहिलो खेलमा विराटनगर किङ्स र चितवन राइनोज भिड्दा दोस्रो खेलमा कर्णाली याक्स र जनकपुर बोल्ट्स आमनेसामने हुनेछन् । कीर्तिपुरस्थित त्रिवि अन्तर्राष्ट्रिय क्रिकेट"
+    },
+    {
+      "id": "f5d27805cadaf37c",
+      "title": "एनपीएलमा आज दुई खेल हुँदै",
+      "link": "https://himalpress.com/2026/10/two-matches-are-being-played-in-the-npl-today/",
+      "source": "Himal Press",
+      "sourceUrl": "https://himalpress.com/feed/",
+      "pubDate": "2026-10-27T00:58:42+00:00",
+      "categories": [
+        "politics",
+        "business",
+        "society"
+      ],
+      "image": "",
+      "images": [],
+      "description": "काठमाडौँ– नेपाल प्रिमियर लिग (एनपीएल) अन्तर्गत आज दुई खेल हुँदैछन् । पहिलो खेल विराटनगर किंग्स र चितवन राइनोजबीच हुनेछ । यी दुईको खेल मध्याह्न साढे १२ बजे त्रिवि क्रिकेट ग्राउण्डमा हुने छ । साँझ पाँच बजे हुने दोस्रो खेलमा कर्णाली याक्स र जनकपुर बोल्ट्स आमनेसामने हुनेछन् । हिजोको उदघाटन खेलमा लुम्बिनी लायन्सले सुदूरपश्चिम रोएल्सलाई ७ […]"
+    },
+    {
+      "id": "c23e408f5f2db744",
+      "title": "धानखेतमा कागतीखेती, नमुना किसान बने कृष्णलाल",
+      "link": "https://nepalnews.com/2026/10/27/krishnalal-becomes-a-model-farmer-by-cultivating-lemons-in-paddy-fields/",
+      "source": "Nepal News",
+      "sourceUrl": "https://nepalnews.com/feed",
+      "pubDate": "2026-10-27T00:58:36+00:00",
+      "categories": [
+        "politics",
+        "business",
+        "world"
+      ],
+      "image": "",
+      "images": [],
+      "description": "म्याग्दी। कर्मले नै परिचय दिन्छ। सत्कर्म गर्दै जाँदा त्यसबाट अपेक्षित फल प्राप्त हुन्छ। नामसँगै दाम पनि प्राप्त हुन्छ। यस्तै भएको छ म्याग्दीको मङ्गला गाउँपालिका–३ बरञ्जाका कृष्णलाल सापकोटालाई। जिल्लामा उनले नमुना किसानको पहिचान बनाएका छन्। बरञ्जाको महेन्द्ररत्न माध्यमिक विद्यालयका प्रधानाध्यापक सापकोटाले धानखेती हुने खेतमा कागतीखेती विस्तार गरेका छन्। सापकोटा सञ्चालक रहेको सापकोटा सुन्तला फार्ममार्फत १२ रोपनी […]"
+    },
+    {
+      "id": "a4d5a0a5ba9ee323",
+      "title": "यस्तो छ आजको विदेशी मुद्रा विनिमय दर",
+      "link": "https://nepalsamaya.com/detail/147269",
+      "source": "Nepal Samaya",
+      "sourceUrl": "https://nepalsamaya.com/feed",
+      "pubDate": "2026-10-27T00:56:00+00:00",
+      "categories": [
+        "politics",
+        "entertainment"
+      ],
+      "image": "",
+      "images": [],
+      "description": ""
+    },
+    {
+      "id": "7f68630d25d817e4",
+      "title": "Two NPL matches scheduled for today",
+      "link": "https://english.khabarhub.com/2026/27/573297/",
+      "source": "Khabarhub",
+      "sourceUrl": "https://english.khabarhub.com/feed/",
+      "pubDate": "2026-10-27T00:53:37+00:00",
+      "categories": [
+        "politics",
+        "business",
+        "world"
+      ],
+      "image": "",
+      "images": [],
+      "description": "KATHMANDU: Two matches are scheduled for today (Tuesday) in the Nepal Premier League (NPL), following the opening match on Monday, in which defending champions Lumbini Lions defeated Sudurpaschim Royals by seven wickets. After featuring just one match on the opening day, the tournament will see two fixtures on Tuesday. Chitwan Rhinos will face Biratnagar Kings […]"
+    },
+    {
+      "id": "88839ecede92d335",
+      "title": "मापसे र लापसे गरी सवारी चलाउने एक हजार २०६ चालक कारबाहीमा",
+      "link": "https://nepalnews.com/2026/10/27/1206-drivers-arrested-for-drunk-and-distracted-driving/",
+      "source": "Nepal News",
+      "sourceUrl": "https://nepalnews.com/feed",
+      "pubDate": "2026-10-27T00:52:53+00:00",
+      "categories": [
+        "politics",
+        "business",
+        "world"
+      ],
+      "image": "",
+      "images": [],
+      "description": "काठमाडौँ। काठमाडौँ उपत्यकामा मादक पदार्थ तथा लागुपदार्थ सेवन गरी सवारीसाधन चलाउने एक हजार २०६ जना चालक कारबाहीमा परेका छन्। काठमाडौँ उपत्यका ट्राफिक प्रहरी कार्यालयका अनुसार घटस्थापनादेखि आज कात्तिक ९ गतेसम्मको अवधिमा मादक पदार्थ सेवन (मापसे) गरी सवारी चलाउने एक हजार १६५ जना र लागुपदार्थ सेवन (लापसे) गरी सवारी चलाउने ४१ जनालाई कारबाही गरिएको हो। कार्यालयका प्रमुख […]"
+    },
+    {
+      "id": "86deaa09bc3feb8d",
+      "title": "Delegations meet in Iran amid fears of renewed Mideast fighting",
+      "link": "https://risingnepaldaily.com/news/88083",
+      "source": "The Rising Nepal",
+      "sourceUrl": "https://risingnepaldaily.com/rss",
+      "pubDate": "2026-10-27T00:51:07+00:00",
+      "categories": [
+        "politics",
+        "business",
+        "world",
+        "sports"
+      ],
+      "image": "",
+      "images": [],
+      "description": "Cairo, Oct. 27: High-level delegations from Saudi Arabia, Pakistan and Turkey were in Tehran on Monday for meetings with..."
+    },
+    {
+      "id": "78d466759f067a09",
+      "title": "देशमा पश्चिमी वायुको प्रभाव कायमै,बिहीबारदेखि वर्षा र हिमपातको सम्भावना",
+      "link": "https://newsofnepal.com/2026/10/27/792218/",
+      "source": "News of Nepal",
+      "sourceUrl": "https://newsofnepal.com/feed/",
+      "pubDate": "2026-10-27T00:50:41+00:00",
+      "categories": [
+        "politics",
+        "business",
+        "sports"
+      ],
+      "image": "https://newsofnepal.com/wp-content/uploads/2026/02/mausam-150x150.jpg",
+      "images": [
+        "https://newsofnepal.com/wp-content/uploads/2026/02/mausam-150x150.jpg"
+      ],
+      "description": "काठमाडौँ । देशमा पश्चिमी वायुको प्रभावका कारण आगामी दिनमा वर्षा र हिमपातको सम्भावना रहेको मौसम पूर्वानुमान महाशाखाले जनाएको छ। महाशाखाका अनुसार आज कोशी, मधेस र बागमती प्रदेशमा आंशिक बादल लाग्नेछ भने अन्य भूभागमा मौसम मुख्यतया सफा रहनेछ। बुधबार देशभर साधारणतया बादल लाग्ने र हिमाली क्षेत्रमा हल्कादेखि मध्यम वर्षा तथा हिमपात हुन सक्ने अनुमान छ। बिहीबार […]"
+    },
+    {
+      "id": "359b8c23c2f77c2f",
+      "title": "अमेरिकी डलरसहित अधिकांश मुद्राको भाउ बढ्यो, हेर्नुहोस् कुन देशको विनिमय दर कति ?",
+      "link": "https://www.nepalviews.com/story/427187/the-price-of-most-currencies-including-the-us-dollar-has-increased-see-what-the-exchange-rate-is-for-which-country",
+      "source": "Nepal Views",
+      "sourceUrl": "https://www.nepalviews.com/feed/",
+      "pubDate": "2026-10-27T00:48:40+00:00",
+      "categories": [
+        "politics",
+        "business",
+        "technology"
+      ],
+      "image": "https://nepalviews.cdnsolution.net/en/media/setting/banner_FHsSzcWYKk.jpg",
+      "images": [
+        "https://nepalviews.cdnsolution.net/en/media/setting/banner_FHsSzcWYKk.jpg"
+      ],
+      "description": ""
+    },
+    {
+      "id": "8eb138819d401530",
+      "title": "भोटेकोशी बाढीः डीएनए रिपोर्टको प्रतीक्षामै बित्यो दसैँ",
+      "link": "https://nepalnews.com/2026/10/27/bhotekoshi-flood-dashain-spent-waiting-for-dna-report/",
+      "source": "Nepal News",
+      "sourceUrl": "https://nepalnews.com/feed",
+      "pubDate": "2026-10-27T00:46:06+00:00",
+      "categories": [
+        "politics",
+        "business",
+        "world"
+      ],
+      "image": "",
+      "images": [],
+      "description": "बाँके। गत भदौ १० गतेको भोटेकोशी बाढीमा बेपत्ता भएकाका परिवारले यस वर्षको दसैँ डीएनए परीक्षणको रिपोर्ट पर्खँदै बिताएका छन्। नेपालगञ्ज उपमहानगरपालिका–२० थपुवा निवासी अनलाल रोकायले बेपत्ता आफन्तको कुनै जानकारी नआएका कारण चाडपर्वका बेलामा पनि डीएनए रिपोर्ट कुरेर बसेको बताए। “बाढीमा हराएका हाम्रा मान्छेको अहिलेसम्म अत्तोपत्तो छैन”, उनले भने, “यो वर्षको दसैँ डीएनए परीक्षण रिपोर्टको पखाइमा […]"
+    },
+    {
+      "id": "2ada90d232c1dcb2",
+      "title": "विराटनगर–चितवन र जनकपुर–कर्णाली भिड्दै",
+      "link": "https://nepallive.com/story/352333",
+      "source": "Nepal Live",
+      "sourceUrl": "https://nepallive.com/feed",
+      "pubDate": "2026-10-27T00:45:46+00:00",
+      "categories": [
+        "politics",
+        "technology"
+      ],
+      "image": "",
+      "images": [],
+      "description": "नेपाल प्रिमियर लिग (एनपीएल) मा आज मंगलबार विराटनगर किंग्स र चितवन राइनोज तथा जनकपुर बोल्ट्स र कर्णाली याक्सबीच प्रतिस्पर्धा हुँदैछ।"
+    },
+    {
+      "id": "1e01a6d66be3ff4c",
+      "title": "Kavre’s Kotthumka: A hidden Himalayan gem awaiting tourists",
+      "link": "https://english.khabarhub.com/2026/27/573290/",
+      "source": "Khabarhub",
+      "sourceUrl": "https://english.khabarhub.com/feed/",
+      "pubDate": "2026-10-27T00:45:43+00:00",
+      "categories": [
+        "politics",
+        "business",
+        "world"
+      ],
+      "image": "",
+      "images": [],
+      "description": "KAVREPALCHOK: Kotthumka, also known as Chandeni-Mandan, is an emerging tourist destination in Ward No. 10 of Mandandeupur Municipality in Kavrepalanchok district. From this scenic hilltop, visitors can catch a glimpse of Mount Everest, the world’s highest peak, on clear days. The northern horizon also offers spectacular views of the Ganesh, Jugal, Gaurishankar and Langtang mountain […]"
+    },
+    {
+      "id": "33f9582f075fe5da",
+      "title": "अर्णव चक्रवातको असर नेपालसम्म पर्ने, भारी वर्षाको पूर्वानुमानसँगै सतर्कता अपनाउन आग्रह",
+      "link": "https://bizmandu.com/content/20261027063033.html",
+      "source": "Bizmandu",
+      "sourceUrl": "https://bizmandu.com/feed",
+      "pubDate": "2026-10-27T00:45:33+00:00",
+      "categories": [
+        "business",
+        "technology"
+      ],
+      "image": "",
+      "images": [],
+      "description": "काठमाडौं । भारतमा ‘अर्णव’ चक्रवात प्रवेश गरेसँगै नेपालमा पनि सकर्तकता अपनाउन आग्रह गरिएको छ। मौसम विज्ञान विभागले बंगालको खाडीमा विकसित चक्रवात ‘अर्णव’को प्रभावले आगामी विहिबारदेखि सुरू भएर शुक्रबार र शनिबार नेपालका विभिन्न स्थानमा वर्षा हुनसक्ने जनाएको हो। ती दिन केही स्थानमा भारी वर्षाको पनि सम्भावना रहेकाले उच्च सतर्कता अपनाउन अनुरोध गरिएको छ। सो चक्रवात क्रमशः […] The post अर्णव चक्रवातको असर नेपालसम्म पर्ने, भारी वर्षाको पूर्वानुमानसँगै सतर्कता अपनाउन आग्रह appeared first on BIZMANDU ."
+    },
+    {
+      "id": "5467bb37a32f3404",
+      "title": "के आज पानी पर्छ?",
+      "link": "https://himalpress.com/2026/10/will-it-rain-today-14/",
+      "source": "Himal Press",
+      "sourceUrl": "https://himalpress.com/feed/",
+      "pubDate": "2026-10-27T00:44:46+00:00",
+      "categories": [
+        "politics",
+        "business",
+        "society"
+      ],
+      "image": "",
+      "images": [],
+      "description": "काठमाडौँ– हाल देशमा पश्चिमी वायुको आंशिक प्रभाव रहेको मौसम पूर्वानुमान महाशाखाले जनाएको छ । जसको प्रभावले देशका हिमाली तथा पहाडी भूभागमा आंशिक बादल लागेको छ भने तराई भूभागमा मौसम मुख्यतया सफा रहेको छ। आज दिउँसो कोशी, मधेस, बागमती प्रदेशमा आंशिक बादल लाग्नेछ । देशको बाँकी भूभागमा मौसम मुख्यतया सफा रहनेछ । राति देशभर आंशिक बादल […]"
+    },
+    {
+      "id": "a62564ac4d02ee2b",
+      "title": "‘लुलाज आर्मी’ ह्वाट्सएपले ब्राजिलको निर्वाचनको नतिजा उल्ट्याउन मद्दत गर्‍यो ?",
+      "link": "https://baahrakhari.com/detail/505763",
+      "source": "Baahrakhari",
+      "sourceUrl": "https://baahrakhari.com/feed",
+      "pubDate": "2026-10-27T00:44:00+00:00",
+      "categories": [
+        "politics",
+        "business",
+        "society"
+      ],
+      "image": "",
+      "images": [],
+      "description": ""
+    },
+    {
+      "id": "469653d2cdae930d",
+      "title": "राष्ट्र बैंकले इमेल मार्फत् गुनासो सुनुवाइसहितका सेवा सञ्चालन गर्ने",
+      "link": "https://himalpress.com/2026/10/nepal-rastra-bank-to-operate-services-including-complaint-handling-via-email/",
+      "source": "Himal Press",
+      "sourceUrl": "https://himalpress.com/feed/",
+      "pubDate": "2026-10-27T00:42:06+00:00",
+      "categories": [
+        "politics",
+        "business",
+        "society"
+      ],
+      "image": "",
+      "images": [],
+      "description": "काठमाडौँ– नेपाल राष्ट्र बैंकले इमेल मार्फत् गुनासो सुनुवाइसहितका सेवा सञ्चालन गरेको छ। वेब प्रविधि पीएचपीमा विश्वव्यापी रूपमा देखिएको गम्भीर सुरक्षा जोखिमलाई ध्यान दिँदै वेबसाइटलगायतका आफ्ना सेवा अस्थायी रूपमा बन्द गरेको राष्ट्र बैंकले इमेलमार्फत् गुनासो सुनुवाइ, एनसीटीएस, एलसीसहितका सेवा प्रदान गर्न थालेको हो। वेब प्रविधि पीएचपीमा गम्भीर सुरक्षा जोखिम देखिएपछि राष्ट्र बैंकले विगत एक सातादेखि वेबसाइटलगायतका […]"
+    },
+    {
+      "id": "2ac5f8183d875ef1",
+      "title": "बाढीपहिरोले पाइपलाइन बगाएपछि बेनीमा खानेपानीको समस्या",
+      "link": "https://www.ratopati.com/story/601468/drinking-water-problem-in-beni-after-floods-and-landslides-wash-away-pipeline",
+      "source": "Ratopati",
+      "sourceUrl": "https://ratopati.com/feed",
+      "pubDate": "2026-10-27T00:41:55+00:00",
+      "categories": [
+        "politics",
+        "sports"
+      ],
+      "image": "https://npcdn.ratopati.com/media/news/lHeRuaS8gz.jpg",
+      "images": [
+        "https://npcdn.ratopati.com/media/news/lHeRuaS8gz.jpg"
+      ],
+      "description": "म्याग्दी । म्याग्दीको सदरमुकाम बेनी बजारमा खानेपानीको अभाव हुन थालेको छ । गत असोज दोस्रो साता आएको बाढीपहिरोका कारण खानेपानी आपूर्ति गर्ने पाइपलाइनमा क्षति पुगेपछि बजारमा पानीको आपूर्ति घटेको हो । बेनी खानेपानी तथा सरसफाइ उपभोक्ता"
+    },
+    {
+      "id": "40c29b35c093bb3a",
+      "title": "खेलकुदमन्त्री भन्छन्- एनपीएल खेल पर्यटन र पहिचान बढाउने बलियो आधार",
+      "link": "https://nepallive.com/story/352332",
+      "source": "Nepal Live",
+      "sourceUrl": "https://nepallive.com/feed",
+      "pubDate": "2026-10-27T00:40:52+00:00",
+      "categories": [
+        "politics",
+        "technology"
+      ],
+      "image": "",
+      "images": [],
+      "description": "नेपाल प्रिमियर लिग (एनपीएल) को तेस्रो सिजनले नेपाली क्रिकेटको विकाससँगै देशलाई ‘खेल पर्यटन’ को नयाँ गन्तव्यका रूपमा चिनाउने शिक्षा तथा खेलकुद मन्त्री सस्मित पोखरेलले बताएका छन्।"
+    },
+    {
+      "id": "3e1c41ba570eb190",
+      "title": "हिमालदेखि बुद्ध पार्कसम्मको रमणीय गन्तव्य : पर्यਟकीय पर्खाइमा काभ्रेको कोटथुम्का",
+      "link": "https://www.onlinekhabar.com/2026/10/2044547/a-picturesque-destination-from-the-mountains-to-buddha-park-kotthumka-in-kavre-awaits-tourists",
+      "source": "Online Khabar",
+      "sourceUrl": "https://www.onlinekhabar.com/feed",
+      "pubDate": "2026-10-27T00:40:41+00:00",
+      "categories": [
+        "politics",
+        "business",
+        "sports",
+        "technology",
+        "entertainment"
+      ],
+      "image": "",
+      "images": [],
+      "description": "१० कात्तिक, काभ्रेपलाञ्चोक । पर्यटकीयस्थल कोटथुम्का । काभ्रेपलाञ्चोकको मण्डनदेउपुर नगरपालिका–१० स्थित कोटथुम्का अर्थात् चण्डेनी–मण्डनको रमणीय क्षेत्र । जहाँबाट मौसम खुलेको बेला विश्वको उच्च हिमशिखर सगरमाथाको चुचुरो देख्न सकिन्छ । गणेश, जुगल, गौरीशङ्कर, लाम्टाङलगायत उत्तरतर्फ लस्करै चम्किएका अग्ला हिमशृङ्खलाको सोही स्थानबाट दृश्यावलोकन गर्न सकिन्छ । जिल्ला सदरमुकाम धुलिखेलबाट करिब ३० किलोमिटरको दूरीमा दुई हजार ५०० मिटर […]"
+    },
+    {
+      "id": "e1725bf19442a0b5",
+      "title": "एनपीएलमा आज विराटनगर र चितवन तथा कर्णाली र जनकपुर खेल्दै",
+      "link": "https://www.onlinekhabar.com/2026/10/2044548/biratnagar-and-chitwan-and-karnali-and-janakpur-are-playing-in-the-npl-today",
+      "source": "Online Khabar",
+      "sourceUrl": "https://www.onlinekhabar.com/feed",
+      "pubDate": "2026-10-27T00:40:03+00:00",
+      "categories": [
+        "politics",
+        "business",
+        "sports",
+        "technology",
+        "entertainment"
+      ],
+      "image": "",
+      "images": [],
+      "description": "१० कात्तिक, काठमाडौं । नेपाल प्रिमियर लिग (एनपीएल) अन्तर्गत आज दुई खेल हुँदैछन् । पहिलो खेल विराटनगर किंग्स र चितवन राइनोजबीच हुनेछ । यी दुईको खेल मध्याह्न साढे १२ बजे त्रिवि क्रिकेट ग्राउण्डमा हुने छ । साँझ पाँच बजे हुने दोस्रो खेलमा कर्णाली याक्स र जनकपुर बोल्ट्स आमनेसामने हुनेछन् । हिजोको उदघाटन खेलमा लुम्बिनी लायन्सले […]"
+    },
+    {
+      "id": "4e3ea45b311d7300",
+      "title": "पश्चिमी वायुको आंशिक प्रभाव कायमै, कस्तो रहला आज देशभरको मौसम ?",
+      "link": "https://www.ratopati.com/story/601467/the-partial-influence-of-the-westerly-wind-continues-what-will-the-weather-be-like-today",
+      "source": "Ratopati",
+      "sourceUrl": "https://ratopati.com/feed",
+      "pubDate": "2026-10-27T00:39:51+00:00",
+      "categories": [
+        "politics",
+        "sports"
+      ],
+      "image": "https://npcdn.ratopati.com/media/news/kathmandu-mausam-(10)_rzmqWQYtAz.jpg",
+      "images": [
+        "https://npcdn.ratopati.com/media/news/kathmandu-mausam-(10)_rzmqWQYtAz.jpg"
+      ],
+      "description": "काठमाडौँ । हाल देशमा पश्चिमी वायुको आंशिक प्रभाव रहेको मौसम पूर्वानुमान महाशाखाले जनाएको छ । जसको प्रभावले देशका हिमाली तथा पहाडी भूभागमा आंशिक बादल लागेको छ भने तराई भूभागमा मौसम मुख्यतया सफा रहेको छ। आज दिउँसो"
+    },
+    {
+      "id": "336a0c0e0a2a6817",
+      "title": "कति छ विदेशी मुद्राको विनिमय दर?",
+      "link": "https://himalpress.com/2026/10/what-is-the-foreign-exchange-rate-63/",
+      "source": "Himal Press",
+      "sourceUrl": "https://himalpress.com/feed/",
+      "pubDate": "2026-10-27T00:39:01+00:00",
+      "categories": [
+        "politics",
+        "business",
+        "society"
+      ],
+      "image": "",
+      "images": [],
+      "description": "काठमाडौँ– नेपाल राष्ट्र बैंकले आज (मंगलबार)का लागि विदेशी मुद्राहरूको विनिमयदर निर्धारण गरेको छ। आज अमेरिकी डलर, अस्ट्रेलियन डलर, युरो, पाउन्ड, कुवेती र बहराइन दिनारसहित धेरैजसो विदेशी मुद्राको विनिमयदर बढेको छ। हिजो अमेरिकी डलर, कुवेती र बहराइन दिनारसहितका मुद्राको विनिमयदर स्थिर रहँदा अस्ट्रेलियन डलर, युरो लगायत मुद्रा भने महँगिएका थिए। आज अमेरकी डलर १ को खरिददर […]"
+    },
+    {
+      "id": "79c0a1343a5858dd",
+      "title": "Nepathya to perform at Gangtok",
+      "link": "https://risingnepaldaily.com/news/88082",
+      "source": "The Rising Nepal",
+      "sourceUrl": "https://risingnepaldaily.com/rss",
+      "pubDate": "2026-10-27T00:37:54+00:00",
+      "categories": [
+        "politics",
+        "business",
+        "world",
+        "sports"
+      ],
+      "image": "",
+      "images": [],
+      "description": "By A Staff Reporter, Kathmandu, Oct. 27: Nepali folk-rock band Nepathya is preparing for a concert at Paljor Stadium in..."
+    },
+    {
+      "id": "1f265d40abaa624e",
+      "title": "एनपिएल सुरक्षार्थ एक हजार १२४ प्रहरी परिचालन",
+      "link": "https://nepalnews.com/2026/10/27/1124-police-officers-mobilized-for-npl-security/",
+      "source": "Nepal News",
+      "sourceUrl": "https://nepalnews.com/feed",
+      "pubDate": "2026-10-27T00:34:50+00:00",
+      "categories": [
+        "politics",
+        "business",
+        "world"
+      ],
+      "image": "",
+      "images": [],
+      "description": "काठमाडौँ। नेपाल प्रिमियर लिग (एनपिएल) क्रिकेट प्रतियोगिताको तेस्रो संस्करणमा सुरक्षा व्यवस्थाका लागि एक हजार १२४ जना प्रहरी परिचालन गरिएको छ। जिल्ला प्रहरी परिसर काठमाडौँका प्रवक्ता, प्रहरी उपरीक्षक दानबहादुर थापाले कीर्तिपुरस्थित त्रिवि क्रिकेट मैदानमा सञ्चालन भएको एनपिएल खेलको सुरक्षार्थ यथेष्ट जनशक्ति परिचालन गरिएको जानकारी दिए। आजदेखि सुरु भएको उक्त प्रतियोगिता आगामी मङ्सिर ५ गतेसम्म चल्नेछ। उक्त […]"
+    },
+    {
+      "id": "08af12aaaf012367",
+      "title": "माग पूरा गर्न सरकारलाई डा. केसीले दिए थप दुई दिन",
+      "link": "https://newsofnepal.com/2026/10/27/792216/",
+      "source": "News of Nepal",
+      "sourceUrl": "https://newsofnepal.com/feed/",
+      "pubDate": "2026-10-27T00:30:20+00:00",
+      "categories": [
+        "politics",
+        "business",
+        "sports"
+      ],
+      "image": "https://newsofnepal.com/wp-content/uploads/2018/07/Govinda-KC-150x150.jpg",
+      "images": [
+        "https://newsofnepal.com/wp-content/uploads/2018/07/Govinda-KC-150x150.jpg"
+      ],
+      "description": "काठमाडौं । चिकित्सा शिक्षा र स्वास्थ्य क्षेत्रको सुधार, जवाफदेहिता, सुशासन तथा सामाजिक न्यायका माग सम्बोधन गर्न सरकारलाई दिएको अल्टिमेटमको अवधि डा. गोविन्द केसीले दुई दिन थपेका छन्। डा. केसीले सोमबार प्रेस विज्ञप्ति जारी गर्दै दसैँ बिदाका कारण सरकारले माग सम्बोधन गर्न पर्याप्त समय नपाएको भन्दै अल्टिमेटमको अवधि थप गरिएको जनाएका हुन्। उनले २०८३ कात्तिक २ […]"
+    },
+    {
+      "id": "0fe2ff2f59532df0",
+      "title": "कस्तो रहला तपाईँको आजको दिन ? हेर्नुहोस् राशिफल",
+      "link": "https://www.ratopati.com/story/601463/how-was-your-day-today-check-your-horoscope",
+      "source": "Ratopati",
+      "sourceUrl": "https://ratopati.com/feed",
+      "pubDate": "2026-10-27T00:29:41+00:00",
+      "categories": [
+        "politics",
+        "sports"
+      ],
+      "image": "https://npcdn.ratopati.com/media/news/horoscope_vLkWHGsooW.webp",
+      "images": [
+        "https://npcdn.ratopati.com/media/news/horoscope_vLkWHGsooW.webp"
+      ],
+      "description": "वि.सं.२०८३ साल कार्तिक १० गते । मंगलबार । ईश्वी सन् २०२६ अक्टोबर २७ तारिख । नेपाल संवत् ११४६ । रौद्र संवत्सर । दक्षिणायन । शरद ऋतु । श्रीशाके १९४८ । कार्तिक कृष्णपक्ष । तिथि–प्रतिपदा, बिहान"
+    },
+    {
+      "id": "ee71477c15689f27",
+      "title": "ट्रम्पको लोकप्रियतादर एक प्रतिशत बढ्यो : रोयटर्स",
+      "link": "https://www.onlinekhabar.com/2026/10/2044541/trumps-approval-rating-rises-by-one-percentage-point-democrats-lead-in-midterm-elections-reuters",
+      "source": "Online Khabar",
+      "sourceUrl": "https://www.onlinekhabar.com/feed",
+      "pubDate": "2026-10-27T00:26:19+00:00",
+      "categories": [
+        "politics",
+        "business",
+        "sports",
+        "technology",
+        "entertainment"
+      ],
+      "image": "",
+      "images": [],
+      "description": "१० कात्तिक, काठमाडौं । अमेरिकी राष्ट्रपति डोनाल्ड ट्रम्पको लोकप्रियता दर गत साताको ऐतिहासिक न्यून विन्दुबाट एक प्रतिशत विन्दुले बढेर ३२ प्रतिशत पुगेको छ । नोभेम्बर ३ मा हुने मध्यावधि निर्वाचनअघि गरिएको रोयटर्स/इप्सोस सर्वेक्षणले यस्तो देखाएको हो । सोमबार सम्पन्न सर्वेक्षणअनुसार अमेरिकी कंग्रेसमा कुन दलको नियन्त्रण हुनुपर्छ भन्ने प्रश्नमा दर्ता भएका मतदातामध्ये ४७ प्रतिशतले डेमोक्र्याटिक पार्टी […]"
+    },
+    {
+      "id": "bd7e1384d04d7230",
+      "title": "कार्तिक १० गते मंगलबार ,यस्तो छ तपाईंको राशिफल",
+      "link": "https://newsofnepal.com/2026/10/27/792214/",
+      "source": "News of Nepal",
+      "sourceUrl": "https://newsofnepal.com/feed/",
+      "pubDate": "2026-10-27T00:24:38+00:00",
+      "categories": [
+        "politics",
+        "business",
+        "sports"
+      ],
+      "image": "https://newsofnepal.com/wp-content/uploads/2021/12/Rashifal-150x150.jpg",
+      "images": [
+        "https://newsofnepal.com/wp-content/uploads/2021/12/Rashifal-150x150.jpg"
+      ],
+      "description": "मेष : दिन शुभ छ । कोसेली, पुरस्कार प्राप्तिका साथै कार्य सफल, लाभको सम्भावना छ । वृष : दिन शुभ देखिँदैन । नोक्सानी, चोटपटकको भयका साथै निरर्थक खर्चको सम्भावना छ । मिथुन : सानै प्रयासमा पैसा, विविध सेवा वा वस्तुको प्राप्ति, मीठो भोजनको सम्भावना छ । कर्कट : दिन शुभ फलदायक छ । सुख–सन्तोष मिल्ला […]"
+    },
+    {
+      "id": "5e2ff03eec035dc7",
+      "title": "सुनकोशीमा बेपत्ता तीनमध्ये दुई जनाको शव फेला",
+      "link": "https://www.nepalviews.com/story/427186/bodies-of-two-of-three-missing-people-found-in-sunkoshi",
+      "source": "Nepal Views",
+      "sourceUrl": "https://www.nepalviews.com/feed/",
+      "pubDate": "2026-10-27T00:23:45+00:00",
+      "categories": [
+        "politics",
+        "business",
+        "technology"
+      ],
+      "image": "https://nepalviews.cdnsolution.net/en/media/setting/banner_FHsSzcWYKk.jpg",
+      "images": [
+        "https://nepalviews.cdnsolution.net/en/media/setting/banner_FHsSzcWYKk.jpg"
+      ],
+      "description": ""
+    },
+    {
+      "id": "3787790c98992332",
+      "title": "कस्तो रहनेछ आज दिनभरको मौसम ?",
+      "link": "https://nepalsamaya.com/detail/147268",
+      "source": "Nepal Samaya",
+      "sourceUrl": "https://nepalsamaya.com/feed",
+      "pubDate": "2026-10-27T00:23:00+00:00",
+      "categories": [
+        "politics",
+        "entertainment"
+      ],
+      "image": "",
+      "images": [],
+      "description": ""
+    },
+    {
+      "id": "bb34ad3e21b3c09e",
+      "title": "विराटनगर किंग्स : विदेशी हस्ती र स्वदेशी जोससहित उपाधिमा आँखा",
+      "link": "https://baahrakhari.com/detail/505756",
+      "source": "Baahrakhari",
+      "sourceUrl": "https://baahrakhari.com/feed",
+      "pubDate": "2026-10-27T00:18:00+00:00",
+      "categories": [
+        "politics",
+        "business",
+        "society"
+      ],
+      "image": "",
+      "images": [],
+      "description": ""
+    },
+    {
+      "id": "aa3346f18aea8d51",
+      "title": "अनलाइन सपिङका मूल्यले सटरका पसलमाथि दबाब, ग्राहक घटे कि फेरियो व्यापारको शैली?",
+      "link": "https://bizmandu.com/content/20261027060115.html",
+      "source": "Bizmandu",
+      "sourceUrl": "https://bizmandu.com/feed",
+      "pubDate": "2026-10-27T00:16:15+00:00",
+      "categories": [
+        "business",
+        "technology"
+      ],
+      "image": "https://bizmandu.com/wp-content/uploads/2026/10/lalitpur-lagankhel-market-sale-5-1024x769.jpg",
+      "images": [
+        "https://bizmandu.com/wp-content/uploads/2026/10/lalitpur-lagankhel-market-sale-5-1024x769.jpg",
+        "https://bizmandu.com/wp-content/uploads/2026/10/lalitpur-lagankhel-market-sale-21-1024x769.jpg",
+        "https://bizmandu.com/wp-content/uploads/2024/10/newroad-indrachowk-dashain-14-1024x683.jpg"
+      ],
+      "description": "काठमाडौं। कोभिड-१९ महामारीका बेला घरबाहिर निस्कन कठिन भएपछि उपभोक्ताले अनलाइनबाट सामान किन्ने विकल्प रोज्न थाले। लकडाउनका क्रममा बढेको यो अभ्यास पछिल्ला वर्षमा किनमेलको अर्को माध्यम बनेको छ। सामाजिक सञ्जाल र अनलाइन प्लेटफर्ममा सामान हेर्ने, मूल्य तुलना गर्ने र घरमै मगाउने सुविधा बढेसँगै परम्परागत रूपमा सटर खोलेर व्यापार गर्दै आएका व्यवसायीमाथि प्रतिस्पर्धाको दबाब थपिएको छ। अनलाइन […] The post अनलाइन सपिङका मूल्यले सटरका पसलमाथि दबाब, ग्राहक घटे कि फेरियो व्यापारको शैली? appeared first on BIZMAND"
+    },
+    {
+      "id": "64106e70098df48c",
+      "title": "ह्यारी केन र एलेक्सिया पुतेलासले जिते बालोन डि'ओर",
+      "link": "https://www.thahakhabar.com/detail/310914",
+      "source": "Thaha Khabar",
+      "sourceUrl": "https://www.thahakhabar.com/feed",
+      "pubDate": "2026-10-27T00:15:07+00:00",
+      "categories": [
+        "politics",
+        "business",
+        "sports"
+      ],
+      "image": "https://www.thahakhabar.com/uploads/posts/Ballon-1793060087.jpg",
+      "images": [
+        "https://www.thahakhabar.com/uploads/posts/Ballon-1793060087.jpg"
+      ],
+      "description": ""
+    },
+    {
+      "id": "d064df345925829e",
+      "title": "आमादब्लम हिमालमा जर्मन आरोहीको मृत्यु",
+      "link": "https://www.onlinekhabar.com/2026/10/2044538/german-climber-dies-on-mount-ama-dablam",
+      "source": "Online Khabar",
+      "sourceUrl": "https://www.onlinekhabar.com/feed",
+      "pubDate": "2026-10-27T00:14:58+00:00",
+      "categories": [
+        "politics",
+        "business",
+        "sports",
+        "technology",
+        "entertainment"
+      ],
+      "image": "",
+      "images": [],
+      "description": "१० कात्तिक, काठमाडौं । सोलुखुम्बुस्थित आमादब्लम हिमालमा लडेर एक जर्मन आरोहीको मृत्यु भएको छ । ६ हजार ८१४ मिटर अग्लो हिमालको शिखर चुमेर फर्किने क्रममा उनी करिब एक हजार ५०० मिटर तल खसेका थिए । आइतबार आमादब्लम हिमालको चुचुरोमा पुगेका ती आरोहीको सोमबार मृत्यु भएको हो । उनको शव सोमबार नै खोजी टोलीले फेला पारेको […]"
+    },
+    {
+      "id": "66d6307a2d1c1dcc",
+      "title": "International stars bring excitement to NPL season 3",
+      "link": "https://risingnepaldaily.com/news/88081",
+      "source": "The Rising Nepal",
+      "sourceUrl": "https://risingnepaldaily.com/rss",
+      "pubDate": "2026-10-27T00:11:34+00:00",
+      "categories": [
+        "politics",
+        "business",
+        "world",
+        "sports"
+      ],
+      "image": "",
+      "images": [],
+      "description": "BY A STAFF REPORTER,Kathmandu, Oct. 27: When the Nepal Premier League (NPL) began its third edition on Monday, Nepali cr..."
+    },
+    {
+      "id": "2ee5ecfecfece547",
+      "title": "आज अमेरिकी डलरसहित अधिकांश विदेशी मुद्राको भाउ बढ्यो",
+      "link": "https://www.onlinekhabar.com/2026/10/2044535/the-price-of-most-foreign-currencies-including-the-us-dollar-increased-today",
+      "source": "Online Khabar",
+      "sourceUrl": "https://www.onlinekhabar.com/feed",
+      "pubDate": "2026-10-27T00:02:13+00:00",
+      "categories": [
+        "politics",
+        "business",
+        "sports",
+        "technology",
+        "entertainment"
+      ],
+      "image": "",
+      "images": [],
+      "description": "१० कात्तिक, काठमाडौं । नेपाल राष्ट्र बैंकले निर्धारण गरेको विनिमय दर अनुसार आज अमेरिकी डलर, युरो, पाउण्ड, स्वीस फ्र्यांकसहित अधिकांश विदेशी मुद्राको भाउ बढेको छ । राष्ट्र बैंकका अनुसार आज अमेरिकी डलर एकको खरिद दर १५२ रुपैयाँ र बिक्रीदर १५२ रुपैयाँ ६० पैसा छ । हिजो अमेरिकी डलर एकको खरिद दर १५१ रुपैयाँ ६१ पैसा […]"
+    },
+    {
+      "id": "22fb1c19e0e8edc5",
+      "title": "NEPSE falls 4.34 points as turnover hits Rs. 4 billion",
+      "link": "https://risingnepaldaily.com/news/88080",
+      "source": "The Rising Nepal",
+      "sourceUrl": "https://risingnepaldaily.com/rss",
+      "pubDate": "2026-10-26T23:58:39+00:00",
+      "categories": [
+        "politics",
+        "business",
+        "world",
+        "sports"
+      ],
+      "image": "",
+      "images": [],
+      "description": "By A Staff Reporter, Kathmandu, Oct. 27: The Nepal Stock Exchange (NEPSE) index closed slightly lower on the first tradi..."
+    },
+    {
+      "id": "976b96cc8f822979",
+      "title": "33,000 foreign tourists visit Annapurna region in a month",
+      "link": "https://english.khabarhub.com/2026/27/573283/",
+      "source": "Khabarhub",
+      "sourceUrl": "https://english.khabarhub.com/feed/",
+      "pubDate": "2026-10-26T23:45:21+00:00",
+      "categories": [
+        "politics",
+        "business",
+        "world"
+      ],
+      "image": "",
+      "images": [],
+      "description": "GANDAKI: A total of 32,963 foreign tourists visited the Annapurna Conservation Area in Asoj (mid-Sept to mid-Oct), including 12,645 from South Asian countries and 20,318 from other countries. Dr. Rabin Kadariya, chief of the Annapurna Conservation Area Project (ACAP), said tourist arrivals increased by 2,416 compared with the same month last year, when 30,547 foreign […]"
+    },
+    {
+      "id": "0e5f80e4cb4a9819",
+      "title": "Bay of Bengal cyclone to bring rain to Nepal from Thursday",
+      "link": "https://risingnepaldaily.com/news/88079",
+      "source": "The Rising Nepal",
+      "sourceUrl": "https://risingnepaldaily.com/rss",
+      "pubDate": "2026-10-26T23:44:00+00:00",
+      "categories": [
+        "politics",
+        "business",
+        "world",
+        "sports"
+      ],
+      "image": "",
+      "images": [],
+      "description": "By A Staff Reporter, Kathmandu, Oct. 27: A cyclone developing in the Bay of Bengal is likely to bring rainfall to severa..."
+    },
+    {
+      "id": "a045a00ff7512bf7",
+      "title": "24-seat traditional swing attracts tourists",
+      "link": "https://risingnepaldaily.com/news/88078",
+      "source": "The Rising Nepal",
+      "sourceUrl": "https://risingnepaldaily.com/rss",
+      "pubDate": "2026-10-26T23:35:02+00:00",
+      "categories": [
+        "politics",
+        "business",
+        "world",
+        "sports"
+      ],
+      "image": "",
+      "images": [],
+      "description": "By Nabin Raj Kuinkel, Lamjung, Oct. 27: A traditional 24-seat rote-ping (wooden swing) installed for Dashain in Bardhang..."
+    },
+    {
+      "id": "b367e98c00dbee15",
+      "title": "When Rivers Cease to Be Relatives",
+      "link": "https://english.khabarhub.com/2026/27/573226/",
+      "source": "Khabarhub",
+      "sourceUrl": "https://english.khabarhub.com/feed/",
+      "pubDate": "2026-10-26T23:30:35+00:00",
+      "categories": [
+        "politics",
+        "business",
+        "world"
+      ],
+      "image": "",
+      "images": [],
+      "description": "The anthropology of disaster examines how people experience, interpret, and respond to events within social, cultural, political, and economic contexts. It considers how poverty, inequality, development policies, and environmental shifts shape vulnerability and management. Anthropologists study local knowledge, beliefs, community ties, displacement, and loss. They also ask why certain groups endure greater harm. By attending […]"
     },
     {
       "id": "b248e92c92253f24",
@@ -157,23 +1469,6 @@
       "description": "Gandaki, Oct 26: Speaker Dol Prasad Aryal has asserted that the state would not be stronger unless private sector become..."
     },
     {
-      "id": "f2406325ff6fa447",
-      "title": "सुनकोशीमा बेपत्ता तीनमध्ये दुई जनाको शव फेला",
-      "link": "https://www.ratopati.com/story/601461/bodies-of-two-of-three-missing-people-found-in-sunkoshi",
-      "source": "Ratopati",
-      "sourceUrl": "https://ratopati.com/feed",
-      "pubDate": "2026-10-26T17:08:17+00:00",
-      "categories": [
-        "politics",
-        "sports"
-      ],
-      "image": "https://rpcdn.ratopati.com/media/albums/khotang_deMYPrhSWV.jpg",
-      "images": [
-        "https://rpcdn.ratopati.com/media/albums/khotang_deMYPrhSWV.jpg"
-      ],
-      "description": "खोटाङ । काठमाडौँबाट यात्रु लिएर खोटाङ आउँदै गरेको सुमो दुर्घटनामा बेपत्ता भएका तीनमध्ये दुई जनाको शव फेला परेको छ । दिक्तेल रुपाकोट मझुवागढी नगरपालिका–५ लफ्याङका ३० वर्षीय हरि पुर्कुटी र सोही ठाउँकी २२ वर्षीया अप्सरा"
-    },
-    {
       "id": "11c558c2d1183ef1",
       "title": "कात्तिक १२, १३ र १४ गते उच्च सतर्कता अपनाउन आग्रह",
       "link": "https://www.ratopati.com/story/601460/appeal-to-adopt-high-alert-on-kartik-12-13-and-14",
@@ -207,39 +1502,6 @@
       "description": "काठमाडौँ। नेपाल प्रिमियर लिग एनपीएलको तेस्रो सिजनले नेपाली क्रिकेटको विकाससँगै देशलाई ‘खेल पर्यटन’ को नयाँ गन्तव्यका रूपमा चिनाउने शिक्षा तथा खेलकुद मन्त्री सस्मित पोखरेलले बताएका छन्। एनपीएल तेस्रो सिजनको उद्घाटन समारोहपछि प्रतिक्रिया दिँदै मन्त्री पोखरेलले ‘फेस्टिभल अफ हिमालयज’ का रूपमा स्थापित एनपीएलले अन्तर्राष्ट्रिय स्तरमा नेपालको पहिचान थप मजबुत बनाउने विश्वास व्यक्त गरे। उद्घाटनमा देखिएको दर्शकको […]"
     },
     {
-      "id": "6a0a744bf6fff7a3",
-      "title": "अल्बानियामा वार्ताका लागि प्रधानमन्त्री कार्यालयबाहिर राखिएका कुर्सी विद्यार्थीले जलाए",
-      "link": "https://baahrakhari.com/detail/505757",
-      "source": "Baahrakhari",
-      "sourceUrl": "https://baahrakhari.com/feed",
-      "pubDate": "2026-10-26T16:59:37+00:00",
-      "categories": [
-        "politics",
-        "business",
-        "society"
-      ],
-      "image": "",
-      "images": [],
-      "description": ""
-    },
-    {
-      "id": "5aebba47119d5658",
-      "title": "दैलेखेको भगवतीमाईमा दुई बालिका मृत फेला",
-      "link": "https://gorkhapatraonline.com/news/227330",
-      "source": "Gorkhapatra",
-      "sourceUrl": "https://gorkhapatraonline.com/rss",
-      "pubDate": "2026-10-26T16:44:39+00:00",
-      "categories": [
-        "politics",
-        "business"
-      ],
-      "image": "https://gorkhapatraonline.com/storage/media/389008/conversions/death-original.jpg",
-      "images": [
-        "https://gorkhapatraonline.com/storage/media/389008/conversions/death-original.jpg"
-      ],
-      "description": "दैलेख, कात्तिक ९ गते । दैलेखको भगवतीमाई गाउँपालिकामा दुई बालिका मृत अवस्थामा फेला परेका छन् । भगवतीमाई गाउँपालिका–४ स्थित मनघरमा १३ र १४ वर्षीया बालिका घर नजिकैको जङ्गलमा मृत अवस्थ..."
-    },
-    {
       "id": "94a733b0d25c25ac",
       "title": "NPL 3: Lumbini Lions begin title defence with seven-wicket win as DRS makes Nepal debut",
       "link": "https://english.onlinekhabar.com/lumbini-lions-begin-title-defence.html",
@@ -260,39 +1522,6 @@
         "http://english.onlinekhabar.com/wp-content/uploads/2026/10/Lumbini-vs-sudur__-1024x683-1.jpg"
       ],
       "description": "Kathmandu, October 26 The third edition of the Nepal Premier League (NPL) began on Monday with a historic technological milestone, as the Decision Review System (DRS) was used for the first time in Nepali cricket. Defending champions Lumbini Lions marked the occasion with a commanding seven-wicket victory over two-time runners-up Sudurpaschim Royals, making a strong […] The post NPL 3: Lumbini Lions begin title defence with seven-wicket win as DRS makes Nepal debut appeared first on OnlineKhabar"
-    },
-    {
-      "id": "27e89a7bf0803f7c",
-      "title": "नोबेल शान्ति पुरस्कार विजेता माचाडोको आश्चर्यजनक स्वदेश फिर्ता, अन्तरिम राष्ट्रपतिसँग भेट्न तयार",
-      "link": "https://www.ratopati.com/story/601459/nobel-peace-prize-winner-machado-makes-surprise-return-home-ready-to-meet-with-interim-president",
-      "source": "Ratopati",
-      "sourceUrl": "https://ratopati.com/feed",
-      "pubDate": "2026-10-26T16:41:58+00:00",
-      "categories": [
-        "politics",
-        "sports"
-      ],
-      "image": "https://npcdn.ratopati.com/media/news/capture_Xgbw98nvQj.webp",
-      "images": [
-        "https://npcdn.ratopati.com/media/news/capture_Xgbw98nvQj.webp"
-      ],
-      "description": "भेनेजुएला । भेनेजुएलाकी विपक्षी नेतृ तथा नोबेल शान्ति पुरस्कार विजेता मारिया कोरिना माचाडोले सोमबार निर्वासनबाट आश्चर्यजनक रूपमा फर्केपछि देशका अन्तरिम राष्ट्रपतिसँग बसेर कुराकानी गर्न तयार रहेको बताएकी छन् । विपक्षी नेता माचाडो लगभग एक वर्षको निर्वासनपछि"
-    },
-    {
-      "id": "8c273611d2d5d7d2",
-      "title": "मलेसियासँग श्रमिक छनौट तथा भर्ना प्रक्रियाबारे सरकारको कूटनीतिक पहल",
-      "link": "https://baahrakhari.com/detail/505755",
-      "source": "Baahrakhari",
-      "sourceUrl": "https://baahrakhari.com/feed",
-      "pubDate": "2026-10-26T16:41:09+00:00",
-      "categories": [
-        "politics",
-        "business",
-        "society"
-      ],
-      "image": "",
-      "images": [],
-      "description": ""
     },
     {
       "id": "b6470692e68338b2",
@@ -365,19 +1594,21 @@
       "description": "Kathmandu, October 26 The likelihood of rainfall and snowfall across several parts of Nepal has increased as Cyclone Arnab, developing over the Bay of Bengal, is expected to intensify, the Department of Hydrology and Meteorology has warned. Issuing a special weather bulletin, the department urged people to remain alert to possible adverse weather conditions. According […] The post Cyclone Arnab may bring heavy rain and snowfall to Nepal, weather department warns appeared first on OnlineKhabar En"
     },
     {
-      "id": "c94cba085cd61dbd",
-      "title": "श्रवण मुकारुङको ‘सलह’लाई पद्मश्री साहित्य पुरस्कार [भिडियो]",
-      "link": "https://nepalsamaya.com/detail/147265",
-      "source": "Nepal Samaya",
-      "sourceUrl": "https://nepalsamaya.com/feed",
-      "pubDate": "2026-10-26T16:29:45+00:00",
+      "id": "0550f3bb6edfb303",
+      "title": "विदेश पठाउन लागिएको एक हजार प्याकेट चुरोट बरामद",
+      "link": "https://www.ratopati.com/story/601458/one-thousand-packets-of-cigarettes-intended-for-export-seized",
+      "source": "Ratopati",
+      "sourceUrl": "https://ratopati.com/feed",
+      "pubDate": "2026-10-26T16:31:10+00:00",
       "categories": [
         "politics",
-        "entertainment"
+        "sports"
       ],
-      "image": "",
-      "images": [],
-      "description": ""
+      "image": "https://npcdn.ratopati.com/media/news/tribhuwan-airport-tia_5cwb9gzvhw_rUIvrQH9sh.jpg",
+      "images": [
+        "https://npcdn.ratopati.com/media/news/tribhuwan-airport-tia_5cwb9gzvhw_rUIvrQH9sh.jpg"
+      ],
+      "description": "काठमाडौँ । त्रिभुवन अन्तरराष्ट्रिय विमानस्थलको कार्गो कम्प्लेक्स भवनबाट आवश्यक कागजपत्रबिना अवैध रूपमा विदेश पठाउन लागिएको एक हजार प्याकेट चुरोट प्रहरीले बरामद गरेको छ । विमानस्थलको अन्तरराष्ट्रिय उडानतर्फ रहेको कार्गो कम्प्लेक्स भवनको ‘ए साइड’ मा जडान गरिएको"
     },
     {
       "id": "a8f669eb16aa0b1d",
@@ -414,68 +1645,6 @@
       "image": "",
       "images": [],
       "description": "बलरहरू चम्किएपछि साविक विजेता लुम्बिनी लायन्सले दुई पटकको उपविजेता सुदूरपश्चिम रोयल्समाथि ७ विकेटको शानदार जितसहित उपाधि रक्षा अभियानमा पनि खरो उत्रियो ।"
-    },
-    {
-      "id": "a72210b17e922972",
-      "title": "लुम्बिनी लायन्सलाई अझ बलियो बनाउँदै नेपाली क्रिकेटमा योगदान दिन चाहन्छौँ : अध्यक्ष जिसी [भिडियो]",
-      "link": "https://nepalsamaya.com/detail/147264",
-      "source": "Nepal Samaya",
-      "sourceUrl": "https://nepalsamaya.com/feed",
-      "pubDate": "2026-10-26T16:21:48+00:00",
-      "categories": [
-        "politics",
-        "entertainment"
-      ],
-      "image": "",
-      "images": [],
-      "description": ""
-    },
-    {
-      "id": "dbbd410cca5847b6",
-      "title": "चिकित्सकदेखि केन्द्रीय राजनीतिसम्म : डा. योसिका भट्टराईसँग कुराकानी [भिडियो]",
-      "link": "https://nepalsamaya.com/detail/147263",
-      "source": "Nepal Samaya",
-      "sourceUrl": "https://nepalsamaya.com/feed",
-      "pubDate": "2026-10-26T16:17:07+00:00",
-      "categories": [
-        "politics",
-        "entertainment"
-      ],
-      "image": "",
-      "images": [],
-      "description": ""
-    },
-    {
-      "id": "d05c85cc261148b2",
-      "title": "चक्रवातको जोखिमः मोरङमा उच्च सतर्कता अपनाउन आग्रह",
-      "link": "https://gorkhapatraonline.com/news/227329",
-      "source": "Gorkhapatra",
-      "sourceUrl": "https://gorkhapatraonline.com/rss",
-      "pubDate": "2026-10-26T16:16:29+00:00",
-      "categories": [
-        "politics",
-        "business"
-      ],
-      "image": "https://gorkhapatraonline.com/storage/media/389007/conversions/CDO-morang-original.jpg",
-      "images": [
-        "https://gorkhapatraonline.com/storage/media/389007/conversions/CDO-morang-original.jpg"
-      ],
-      "description": "खेमराज सापकोटा रानी(मोरङ) कात्तिक ९ गते । बंगालको खाडीमा विकसित भइरहेको न्यून चापीय प्रणाली चक्रवातमा परिणत भई नेपालमा भारी वर्षा गराउन सक्ने सम्भावना रहेकाले जिल्ला प्रशासन कार्या..."
-    },
-    {
-      "id": "8bc507e6f6e4e0b2",
-      "title": "इटालीमा इन्धन संकटले आपूर्ति शृंखला प्रभावित, दैनिक ३२ लाख युरोको क्षति [भिडियो]",
-      "link": "https://nepalsamaya.com/detail/147262",
-      "source": "Nepal Samaya",
-      "sourceUrl": "https://nepalsamaya.com/feed",
-      "pubDate": "2026-10-26T16:16:11+00:00",
-      "categories": [
-        "politics",
-        "entertainment"
-      ],
-      "image": "",
-      "images": [],
-      "description": ""
     },
     {
       "id": "0033b2a0f3d6404e",
@@ -561,23 +1730,6 @@
       "image": "",
       "images": [],
       "description": "काठमाडौँ।नेपाल र मलेसियाबीच श्रमिक छनौट तथा भर्ना प्रक्रियामा देखिएका विषयहरूमा छलफल गर्न सरकारले कूटनीतिक पहल अघि बढाएको छ। श्रम, रोजगार तथा सामाजिक सुरक्षा मन्त्रालयले परराष्ट्र मन्त्रालयमार्फत मलेसियाली पक्षलाई औपचारिक पत्राचार गर्दै संयुक्त कार्यदल (Joint Working Group-JWG) को बैठक काठमाडौँमा आयोजना गर्न प्रस्ताव गरेको हो। नेपालले उक्त बैठकका लागि सन् २०२६ को नोभेम्बर १८-१९ वा डिसेम्बर […]"
-    },
-    {
-      "id": "b3d282b66cc14a56",
-      "title": "निजी क्षेत्र बलियो नभई राज्य बलियो हुँदैनः सभामुख अर्याल",
-      "link": "https://gorkhapatraonline.com/news/227328",
-      "source": "Gorkhapatra",
-      "sourceUrl": "https://gorkhapatraonline.com/rss",
-      "pubDate": "2026-10-26T16:08:12+00:00",
-      "categories": [
-        "politics",
-        "business"
-      ],
-      "image": "https://gorkhapatraonline.com/storage/media/389006/conversions/IMG_7077-original.jpg",
-      "images": [
-        "https://gorkhapatraonline.com/storage/media/389006/conversions/IMG_7077-original.jpg"
-      ],
-      "description": "गण्डकी, कात्तिक ९ गते । प्रतिनिधिसभाका सभामुख डोलप्रसाद अर्यालले निजी क्षेत्र बलियो नभई राज्य बलियो नहुने बताउनुभएको छ । पोखराका अगुवा पर्यटन व्यवसायीसँग आज भएको भेटमा उहाँले मुल..."
     },
     {
       "id": "a0a886585ace3c14",
@@ -773,6 +1925,23 @@
       "image": "",
       "images": [],
       "description": "उच्च रक्तचापको समस्या देखिएपछि चिकित्सकले दिएको सल्लाहलाई जीवनशैली बनाएका छमबहादुरका लागि श्रम बाध्यता होइन, सक्रिय जीवनको आधार हो ।"
+    },
+    {
+      "id": "ad78efde0f9b18db",
+      "title": "फुलखेती आम्दानीको मुख्य स्रोत",
+      "link": "https://www.ratopati.com/story/601452/floriculture-is-the-main-source-of-income",
+      "source": "Ratopati",
+      "sourceUrl": "https://ratopati.com/feed",
+      "pubDate": "2026-10-26T15:58:38+00:00",
+      "categories": [
+        "politics",
+        "sports"
+      ],
+      "image": "https://npcdn.ratopati.com/media/news/sayapatri_tGjG9aYyM9.webp",
+      "images": [
+        "https://npcdn.ratopati.com/media/news/sayapatri_tGjG9aYyM9.webp"
+      ],
+      "description": "दाङ। दाङमा फूलखेती व्यवसायप्रति किसानको आकर्षण बढ्दै गएको छ। अन्य खेतीभन्दा सजिलो र आम्दानी बढी पाउने भएकाले किसानहरु फूलखेतीप्रति आकर्षित भएका हुन् । यति बेला दाङका विभिन्न फूलखेती गरेका स्थानमा सयपत्रि फूल ढकमक्क फुलिसकेका छन्। गढवा"
     },
     {
       "id": "88a1d0eb7cb163e7",
@@ -1034,123 +2203,20 @@
       "description": "दैलेख। दैलेखको भगवतीमाई गाउँपालिकामा दुई बालिका मृत अवस्थामा फेला परेका छन् । भगवतीमाई गाउँपालिका–४ स्थित मनघरमा १३ र १४ वर्षीया बालिका घर नजिकैको जङ्गलमा मृत अवस्थामा फेला परेका हुन् । नाताले दिदी बहिनी पर्ने उनीहरू दुवै जना जङ्गलमा झुण्डिएको अवस्थामा भेटिएको जिल्ला प्रहरी कार्यालय दैलेखले जनाएको छ । जिल्ला प्रहरी कार्यालय दैलेखका सूचना अधिकारी पुष्पराज […]"
     },
     {
-      "id": "907836dcff6eea9a",
-      "title": "सर्बियाका नयाँ नेताले रुससँगको सहकार्यको महत्व बुझ्ने क्रेमलिनको आशा",
-      "link": "https://www.ratopati.com/story/601447/kremlin-hopes-serbias-new-leader-will-understand-the-importance-of-cooperation-with-russia",
-      "source": "Ratopati",
-      "sourceUrl": "https://ratopati.com/feed",
-      "pubDate": "2026-10-26T15:40:26+00:00",
+      "id": "e49655f6571ad613",
+      "title": "निजी क्षेत्र बलियो नभई राज्य बलियो हुँदैन : सभामुख अर्याल",
+      "link": "https://nepalnews.com/2026/10/26/the-state-cannot-be-strong-without-a-strong-private-sector-speaker-aryal/",
+      "source": "Nepal News",
+      "sourceUrl": "https://nepalnews.com/feed",
+      "pubDate": "2026-10-26T15:31:49+00:00",
       "categories": [
         "politics",
-        "sports"
+        "business",
+        "world"
       ],
-      "image": "https://npcdn.ratopati.com/media/news/serbia-protest_scvFfcFNwC.jpg",
-      "images": [
-        "https://npcdn.ratopati.com/media/news/serbia-protest_scvFfcFNwC.jpg"
-      ],
-      "description": "काठमाडाैँ। विद्यार्थी नेतृत्वको आन्दोलनपछि लामो समयदेखि रुसनिकट मानिएका सर्बियाली नेता अलेक्जान्डर भुसिक राष्ट्रिय निर्वाचनमा पराजित भएपछि नयाँ राजनीतिक नेतृत्वले रुससँगको सहकार्यका फाइदा बुझ्ने आशा क्रेमलिनले व्यक्त गरेको छ। क्रेमलिनका प्रवक्ता दिमित्री पेस्कोभले सोमबार पत्रकारहरूसँग कुरा गर्दै"
-    },
-    {
-      "id": "e861198f711b6b20",
-      "title": "डिजिटल सञ्जालले बदलिँदै हुम्लीको दैनिकी",
-      "link": "https://www.ratopati.com/story/601446/digital-networks-are-changing-the-daily-lives-of-humli",
-      "source": "Ratopati",
-      "sourceUrl": "https://ratopati.com/feed",
-      "pubDate": "2026-10-26T15:37:22+00:00",
-      "categories": [
-        "politics",
-        "sports"
-      ],
-      "image": "https://npcdn.ratopati.com/media/news/sow3dIVUhv.jpg",
-      "images": [
-        "https://npcdn.ratopati.com/media/news/sow3dIVUhv.jpg"
-      ],
-      "description": "काठमाडौँ । दसैँ घटस्थापनाको दिउँसो अदानचुली गाउँपालिकाको श्रीनगरमा व्यवसायी तिलकबहादुर शाहीको पसलमा क्यूआर कोडमार्फत सरसामानको भुक्तानी गर्ने ग्राहकको बाक्लै भिड थियो । केही वर्षअघिसम्म नगदबिनाको कारोबार कल्पना गर्न पनि कठिन थियो । रकम अभाव हुँदा"
-    },
-    {
-      "id": "2c06e81afb65b86c",
-      "title": "एनपीएलको उद्घाटन खेल हेर्न कीर्तिपुरमा दर्शकको ओइरो (भिडियोसहित)",
-      "link": "https://www.ratopati.com/story/601445/spectators-flock-to-kirtipur-to-watch-the-inaugural-match-of-the-npl",
-      "source": "Ratopati",
-      "sourceUrl": "https://ratopati.com/feed",
-      "pubDate": "2026-10-26T15:35:46+00:00",
-      "categories": [
-        "politics",
-        "sports"
-      ],
-      "image": "https://npcdn.ratopati.com/media/news/npl-darshak_RQfnVQ1rkN.webp",
-      "images": [
-        "https://npcdn.ratopati.com/media/news/npl-darshak_RQfnVQ1rkN.webp"
-      ],
-      "description": "काठमाडौँ । नेपाल प्रिमियर लिग ९एनपीएल० को तेस्रो संस्करण आजदेखि सुरु भएको छ । प्रतियोगिताको उद्घाटन खेलमा साविक विजेता लुम्बिनी लायन्सले सुदूरपश्चिम रोयल्सलाई सात विकेटले पराजित गरेको छ । यी दुई टोली अघिल्लो संस्करणका फाइनल प्रतिस्पर्धी"
-    },
-    {
-      "id": "72b57240d7ede49a",
-      "title": "पाल्पामा सवारी दुर्घटनाः एक जनाको मृत्यु, सात घाइते",
-      "link": "https://gorkhapatraonline.com/news/227327",
-      "source": "Gorkhapatra",
-      "sourceUrl": "https://gorkhapatraonline.com/rss",
-      "pubDate": "2026-10-26T15:32:19+00:00",
-      "categories": [
-        "politics",
-        "business"
-      ],
-      "image": "https://gorkhapatraonline.com/storage/media/389004/conversions/Palpa-1-original.jpg",
-      "images": [
-        "https://gorkhapatraonline.com/storage/media/389004/conversions/Palpa-1-original.jpg"
-      ],
-      "description": "रेखीराम रानातानसेन, कात्तिक ९ गते । जिल्लाको दुई स्थानमा सवारी दुर्घटना हुँदा एक जनाको मृत्यु भएको छ । सात जना घाइते भएका छन्। मृत्यु हुनेमा गुल्मी जिल्ला धुर्कोट ४ जैसीथोककि ३७ वर..."
-    },
-    {
-      "id": "a10a7ad0dcdf0a64",
-      "title": "दसैँमा सवारी दुर्घटनाबाट १२४ जनाको मृत्यु",
-      "link": "https://www.ratopati.com/story/601444/124-people-die-in-road-accidents-during-dashain",
-      "source": "Ratopati",
-      "sourceUrl": "https://ratopati.com/feed",
-      "pubDate": "2026-10-26T15:30:37+00:00",
-      "categories": [
-        "politics",
-        "sports"
-      ],
-      "image": "https://npcdn.ratopati.com/media/news/accident1_0HVVwEUEAJ.jpg",
-      "images": [
-        "https://npcdn.ratopati.com/media/news/accident1_0HVVwEUEAJ.jpg"
-      ],
-      "description": "काठमाडौँ। दसैँको अवधिमा देशभर भएका सवारी दुर्घटनामा परी १२४ जनाको मृत्यु भएको छ । प्रहरी प्रधान कार्यालयले दिएको जानकारीअनुसार देशभर भएको सवारी दुर्घटनामा १२४ जनाको मृत्यु भएको छ भने दुई हजार ९८८ जना घाइते भएका छन्"
-    },
-    {
-      "id": "9ada2465408c5aff",
-      "title": "मुख्यमन्त्री थापा र मन्त्री मगरबिच कार्यसम्पादन सम्झौता",
-      "link": "https://www.ratopati.com/story/601443/performance-agreement-between-chief-minister-thapa-and-minister-magar",
-      "source": "Ratopati",
-      "sourceUrl": "https://ratopati.com/feed",
-      "pubDate": "2026-10-26T15:29:09+00:00",
-      "categories": [
-        "politics",
-        "sports"
-      ],
-      "image": "https://npcdn.ratopati.com/media/news/bagmati-sarkar_2bY5omIhep.jpg",
-      "images": [
-        "https://npcdn.ratopati.com/media/news/bagmati-sarkar_2bY5omIhep.jpg"
-      ],
-      "description": "हेटौँडा। बागमती प्रदेशका मुख्यमन्त्री किरण थापामगर र कृषि, पशुपन्छी, वन तथा वातावरणमन्त्री रमा आलेमगरबिच साेमबार कार्यसम्पादन सम्झौता भएको छ। चालु आर्थिक वर्ष २०८३/८४ को नीति तथा कार्यक्रम र बजेटमा समावेश योजना तथा आयोजनालाई निर्धारित समयभित्र प्रभावकारी"
-    },
-    {
-      "id": "f33cd95e8aa9cc13",
-      "title": "डोनाल्ड ट्रम्पले गरे नर्वेको आलोचना",
-      "link": "https://www.ratopati.com/story/601442/donald-trump-criticizes-norway",
-      "source": "Ratopati",
-      "sourceUrl": "https://ratopati.com/feed",
-      "pubDate": "2026-10-26T15:25:53+00:00",
-      "categories": [
-        "politics",
-        "sports"
-      ],
-      "image": "https://npcdn.ratopati.com/media/news/trump_wnQdMlHwQi.webp",
-      "images": [
-        "https://npcdn.ratopati.com/media/news/trump_wnQdMlHwQi.webp"
-      ],
-      "description": "काठमाडाैँ। अमेरिकी राष्ट्रपति डोनाल्ड ट्रम्पले मध्यावधि चुनावी सभालाई सम्बोधन गर्ने क्रममा नर्वेका आप्रवासीलाई अमेरिकामा स्वागत नगर्ने बताएका छन्। उनले नर्वेलाई आलोचना गर्दै यसलाई फोहोर राज्य (सिट हाउस कन्ट्री) भन्नुभएको छ। नोबेल समितिले ‘शान्ति पुरस्कारका लागि आफूलाई"
+      "image": "",
+      "images": [],
+      "description": "पाेखरा। प्रतिनिधि सभाका सभामुख डोलप्रसाद अर्यालले निजी क्षेत्र बलियो नभई राज्य बलियो नहुने बताएका छन्। पोखराका अगुवा पर्यटन व्यवसायीसँग आज भएको भेटमा उहाँले मुलुकको समृद्धिका लागि निजी क्षेत्रलाई सबल र सक्षम बनाउनुपर्ने धारणा राखे। “विप्रेषण यति आयो भनेर बसेर मात्र हुँदैन, हामीले हाम्रै निजी क्षेत्रको विकासमा जोड दिनुपर्छ”, उनले भने, “निजी क्षेत्रसँग मिलेर काम गर्न […]"
     },
     {
       "id": "67596318b49e3e4b",
@@ -1169,21 +2235,22 @@
       "description": "KATHMANDU: A total of 124 people have been killed and 2,988 injured in road accidents across the country during the Dashain festival, according to Nepal Police. Central Police Spokesperson Deputy Inspector General of Police Abinarayan Kafle said that 1,339 road accidents occurred between Asoj 25 and Kartik 28, resulting in the deaths of 83 men, […]"
     },
     {
-      "id": "54d7250148987a90",
-      "title": "रुस स्थानीय युद्धविरामका लागि तयार, तर युक्रेनमाथिको आक्रमण नरोकिने",
-      "link": "https://www.ratopati.com/story/601441/russia-ready-for-local-ceasefire-but-wont-stop-attacks-on-ukraine",
-      "source": "Ratopati",
-      "sourceUrl": "https://ratopati.com/feed",
-      "pubDate": "2026-10-26T15:20:56+00:00",
+      "id": "165c892cad9cf1bd",
+      "title": "दैलेखको भगवतीमाईमा दुई बालिका मृत फेला",
+      "link": "https://www.thahakhabar.com/detail/310911",
+      "source": "Thaha Khabar",
+      "sourceUrl": "https://www.thahakhabar.com/feed",
+      "pubDate": "2026-10-26T15:21:03+00:00",
       "categories": [
         "politics",
+        "business",
         "sports"
       ],
-      "image": "https://npcdn.ratopati.com/media/news/russia-flag_ZRMevq69o7.jpg",
+      "image": "https://www.thahakhabar.com/uploads/posts/death-1779520981.jpg",
       "images": [
-        "https://npcdn.ratopati.com/media/news/russia-flag_ZRMevq69o7.jpg"
+        "https://www.thahakhabar.com/uploads/posts/death-1779520981.jpg"
       ],
-      "description": "काठमाडाैँ। रुसले युक्रेनमा जारी आक्रमणको तीव्रता कम नगर्ने स्पष्ट पारेको छ । यद्यपि, मानवीय उद्देश्यका लागि स्थानीय स्तरमा सीमित अवधिको युद्धविराम गर्न भने आफू तयार रहेको मस्कोले जनाएको छ। क्रेमलिनका अनुसार रुसी नियन्त्रणमा रहेको युक्रेनको ओलेश्की"
+      "description": ""
     },
     {
       "id": "3f41a3c2cb4040d4",
@@ -1202,89 +2269,6 @@
       "image": "",
       "images": [],
       "description": "९ कात्तिक, काठमाडौं । नेपाल सरकारले नेपाल र मलेसियाबीच श्रमिक छनोट तथा भर्ना प्रक्रियामा देखिएका समस्या समाधानका लागि संयुक्त कार्यदल (ज्वाइन्ट वर्किङ ग्रुप–जेडब्लूजी) को बैठक नेपालमा आयोजना गर्न प्रस्ताव गरेको छ । युवा, श्रम तथा रोजगार मन्त्रालयले परराष्ट्र मन्त्रालयमार्फत मलेसियाली पक्षलाई पत्राचार गर्दै आगामी नोभेम्बर १८–१९ वा डिसेम्बर २–३ मा काठमाडौंमा बैठक आयोजना गर्ने प्रस्ताव […]"
-    },
-    {
-      "id": "92495e8b98457ecf",
-      "title": "मेटाले आफ्नो एआई महत्वाकाङ्क्षा पूरा गर्न ३५ अर्ब डलर उठाउने",
-      "link": "https://www.ratopati.com/story/601440/meta-to-raise-35-billion-to-fulfill-its-ai-ambitions",
-      "source": "Ratopati",
-      "sourceUrl": "https://ratopati.com/feed",
-      "pubDate": "2026-10-26T15:17:20+00:00",
-      "categories": [
-        "politics",
-        "sports"
-      ],
-      "image": "https://npcdn.ratopati.com/media/news/meta-photo_zKVmqBlzHa.webp",
-      "images": [
-        "https://npcdn.ratopati.com/media/news/meta-photo_zKVmqBlzHa.webp"
-      ],
-      "description": "काठमाडाैँ। मेटाले आफ्नो कृत्रिम बुद्धिमत्ता (एआई) विकासमा लगानी गर्न सेयर निष्कासनमार्फत ३५ अर्ब डलर उठाउने योजना बनाएको छ। अमेरिकी धितोपत्र तथा विनिमय आयोग (एसईसी) ले सोमबार सार्वजनिक रिपोर्टमा सेयर निष्कासनमार्फत मेटाले एआई विकासमा लगानी गने योजना"
-    },
-    {
-      "id": "fe93e4cc39334976",
-      "title": "स्थानीय फूललाई प्राथमिकता दिनुपर्छ : महामन्त्री पौडेल",
-      "link": "https://www.ratopati.com/story/601439/local-flowers-should-be-prioritized-general-secretary-poudel",
-      "source": "Ratopati",
-      "sourceUrl": "https://ratopati.com/feed",
-      "pubDate": "2026-10-26T15:15:31+00:00",
-      "categories": [
-        "politics",
-        "sports"
-      ],
-      "image": "https://npcdn.ratopati.com/media/news/pradip-paudel_v557DGmdua.jpg",
-      "images": [
-        "https://npcdn.ratopati.com/media/news/pradip-paudel_v557DGmdua.jpg"
-      ],
-      "description": "तनहुँ। नेपाली कांग्रेसका महामन्त्री प्रदीप पौडेलले तिहारमा स्वदेशमै उत्पादन भएका फूललाई प्राथमिकता दिनुपर्ने बताएका छन्। उनले स्थानीय उत्पादनलाई प्रोत्साहन गर्न सके किसानको आम्दानी बढ्नुका साथै स्वदेशी उत्पादनको प्रवर्द्धनमा सहयोग पुग्ने बताए। तनहुँको म्याग्दे गाउँपालिका–४ छिम्लीस्वारामा महिलाले"
-    },
-    {
-      "id": "7dd760e02a76bbde",
-      "title": "संसदमा ३६ विधेयक विचाराधीन, अधिवेशन अन्त्यपछि थपिए नयाँ ६ विधेयक",
-      "link": "https://nepallive.com/story/352330",
-      "source": "Nepal Live",
-      "sourceUrl": "https://nepallive.com/feed",
-      "pubDate": "2026-10-26T15:15:00+00:00",
-      "categories": [
-        "politics",
-        "technology"
-      ],
-      "image": "",
-      "images": [],
-      "description": "संघीय संसद् सचिवालयका अनुसार प्रतिनिधिसभाका समितिमा विचाराधीन विधेयकको सङ्ख्या २४ छ। राष्ट्रिय सभाका समितिमा भने कुनै पनि विधेयक विचाराधीन छैनन्। प्रतिनिधिसभाबाट पारित भएको राष्ट्रिय सेवा दल विधेयकको सन्देश राष्ट्रिय सभामा प्रस्तुत हुन बाँकी छ।"
-    },
-    {
-      "id": "01e3ee1930169c3c",
-      "title": "विपद् सङ्कटग्रस्त म्याग्दीका स्थानीय तहलाई अनुदान",
-      "link": "https://www.ratopati.com/story/601438/grants-to-disaster-hit-local-levels-in-myagdi",
-      "source": "Ratopati",
-      "sourceUrl": "https://ratopati.com/feed",
-      "pubDate": "2026-10-26T15:12:36+00:00",
-      "categories": [
-        "politics",
-        "sports"
-      ],
-      "image": "https://npcdn.ratopati.com/media/news/bipad_K1MTVLWec3.webp",
-      "images": [
-        "https://npcdn.ratopati.com/media/news/bipad_K1MTVLWec3.webp"
-      ],
-      "description": "म्याग्दी। नेपाल सरकारले विपद् सङ्कटग्रस्त म्याग्दीका ६ वटा स्थानीय तहलाई पहिलो चरणमा रु दुई करोड ४० लाख अनुदान उपलब्ध गराएको छ। राष्ट्रिय विपद् जोखिम न्यूनीकरण तथा व्यवस्थापन प्राधिकरणले म्याग्दीका ६ वटा स्थानीय तहलाई रु ४०/४० लाखका"
-    },
-    {
-      "id": "4a824ce1f64518ee",
-      "title": "हुम्लामा भलिबलको रोमाञ्चक प्रतिस्पर्धा, कर्णाली युथले जित्यो उपाधि",
-      "link": "https://www.ratopati.com/story/601437/exciting-volleyball-competition-in-humla-karnali-youth-wins-the-title",
-      "source": "Ratopati",
-      "sourceUrl": "https://ratopati.com/feed",
-      "pubDate": "2026-10-26T15:09:52+00:00",
-      "categories": [
-        "politics",
-        "sports"
-      ],
-      "image": "https://npcdn.ratopati.com/media/news/volleyball_e86wyj605e_DJBmtI7Sxi.webp",
-      "images": [
-        "https://npcdn.ratopati.com/media/news/volleyball_e86wyj605e_DJBmtI7Sxi.webp"
-      ],
-      "description": "हुम्ला। हुम्लाको तीन हजार ६०० मिटर उचाइमा सञ्चालन गरिएको जिल्लास्तरीय लेकधिङ्घा हाइअल्टिच्युड भलिबल प्रतियोगिताको उपाधि सिमकोट गाउँपालिका–७ को कर्णाली युथ क्लबले जितेको छ। फाइनल खेलमा सेकेन्ड स्टार युथ क्लबलाई पराजित गर्दै कर्णाली युथ क्लबले उपाधि आफ्नो"
     },
     {
       "id": "23ad43426d7864c0",
@@ -1340,89 +2324,6 @@
       "description": "काठमाडौँ– सिद्धबाबामा बसले स्कुटरलाई ठक्कर दिँदा एक महिलाको मृत्यु भएको छ भने अर्की घाइते भएकी छन् । सिद्धार्थ राजमार्गअन्तर्गत पाल्पाको तिनाउ गाउँपालिका–३ माथिल्लो सिद्धबाबा नजिकै सोमबार यात्रुवाहक बसले स्कुटरलाई ठक्कर दिएको हो । जिल्ला प्रहरी कार्यालय, पाल्पाका प्रहरी नायव उपरीक्षक (डीएसपी) भीमलाल भट्टराईका अनुसार पाल्पाबाट बुटवलतर्फ आउँदै गरेको लु ९० प ४२७४ नम्बरको स्कुटरलाई सोही […]"
     },
     {
-      "id": "d0bfd8ab4624dddb",
-      "title": "चलचित्र विकास बोर्डलाई आत्मनिर्भर बनाउने अध्यक्ष पण्डितको योजना",
-      "link": "https://www.ratopati.com/story/601436/chairman-pandits-plan-to-make-the-film-development-board-self-reliant",
-      "source": "Ratopati",
-      "sourceUrl": "https://ratopati.com/feed",
-      "pubDate": "2026-10-26T15:04:53+00:00",
-      "categories": [
-        "politics",
-        "sports"
-      ],
-      "image": "https://npcdn.ratopati.com/media/news/manish-pandit_W81pZb9yfF.webp",
-      "images": [
-        "https://npcdn.ratopati.com/media/news/manish-pandit_W81pZb9yfF.webp"
-      ],
-      "description": "काठमाडौँ । चलचित्र विकास बोर्डका नवनियुक्त अध्यक्ष मनिष पण्डितले बोर्डलाई आत्मनिर्भर र नाफामूलक संस्था बनाउने योजनासहित पाँचवर्षे रणनीतिक योजना अघि बढाएको बताएका छन्। सूचना तथा सञ्चार मन्त्रालयमा साेमबार नियुक्तिपत्र बुझेपछि मन्तव्य व्यक्त गर्दै उनले बोर्डमा प्रशासनिक"
-    },
-    {
-      "id": "a35f0c2dd54afa67",
-      "title": "राजनीतिमा पाइला राख्दै दक्षिण भारतीय अभिनेता धनुष",
-      "link": "https://www.ratopati.com/story/601435/south-indian-actor-dhanush-enters-politics",
-      "source": "Ratopati",
-      "sourceUrl": "https://ratopati.com/feed",
-      "pubDate": "2026-10-26T15:04:31+00:00",
-      "categories": [
-        "politics",
-        "sports"
-      ],
-      "image": "https://npcdn.ratopati.com/media/news/dhanush-actor_RFIBqqLlIR.webp",
-      "images": [
-        "https://npcdn.ratopati.com/media/news/dhanush-actor_RFIBqqLlIR.webp"
-      ],
-      "description": "चेन्नई । तमिल सिनेमाका चर्चित अभिनेता धनुष र राष्ट्रिय स्वयंसेवक संघ (आरएसएस) का एक वरिष्ठ नेताबिच भएको भेटघाटले उनी पनि राजनीतिमा प्रवेश गर्न लागेको चर्चालाई तीव्रता दिएको छ । अभिनेता विजय राजनीतिमा सक्रिय भई तमिलनाडुको मुख्यमन्त्री बनेको"
-    },
-    {
-      "id": "0df26981658d7312",
-      "title": "मलेसियालाई सरकारको प्नस्ताव : श्रमिक भर्ना प्रक्रियाबारे नेपाल–मलेसिया संयुक्त कार्यदलको बैठक काठमाडौंमा गराै",
-      "link": "https://nepallive.com/story/352331",
-      "source": "Nepal Live",
-      "sourceUrl": "https://nepallive.com/feed",
-      "pubDate": "2026-10-26T15:03:00+00:00",
-      "categories": [
-        "politics",
-        "technology"
-      ],
-      "image": "",
-      "images": [],
-      "description": ""
-    },
-    {
-      "id": "25ecc4e434dc9417",
-      "title": "थानकोटबाट करिब ६० केजी चाँदी बरामद, एक जना पक्राउ",
-      "link": "https://www.ratopati.com/story/601434/about-60-kg-of-silver-seized-from-thankot-one-arrested",
-      "source": "Ratopati",
-      "sourceUrl": "https://ratopati.com/feed",
-      "pubDate": "2026-10-26T15:01:59+00:00",
-      "categories": [
-        "politics",
-        "sports"
-      ],
-      "image": "https://npcdn.ratopati.com/media/news/jail-arrest_DZZQaXCTyj.jpg",
-      "images": [
-        "https://npcdn.ratopati.com/media/news/jail-arrest_DZZQaXCTyj.jpg"
-      ],
-      "description": "काठमाडौँ। काठमाडौँको थानकोटबाट प्रहरीले करिब ६० केजी चाँदी बरामद गरेको छ । उपत्यका अपराध अनुसन्धान कार्यालयबाट खटिएको प्रहरीले सोमबार भन्सार छलेर ल्याएको चाँदी बरामद गरेको हो । चाँदीको अवैध ओसारपसारमा संलग्न आरोपमा भारतीय नागरिक अमन सर्राफलाई"
-    },
-    {
-      "id": "66067dfeaf4cec89",
-      "title": "नेपाली श्रमिक भर्ना प्रक्रियाबारे मलेसियासँग संयुक्त बैठक गर्न प्रस्ताव",
-      "link": "https://www.ratopati.com/story/601433/proposal-to-hold-joint-meeting-with-malaysia-on-nepali-worker-recruitment-process",
-      "source": "Ratopati",
-      "sourceUrl": "https://ratopati.com/feed",
-      "pubDate": "2026-10-26T14:59:13+00:00",
-      "categories": [
-        "politics",
-        "sports"
-      ],
-      "image": "https://rpcdn.ratopati.com/media/albums/nepal-malesia_uMXuh95l55.PNG",
-      "images": [
-        "https://rpcdn.ratopati.com/media/albums/nepal-malesia_uMXuh95l55.PNG"
-      ],
-      "description": "काठमाडौँ। नेपाल सरकारले नेपाली श्रमिकको छनोट तथा भर्ना प्रक्रियासँग सम्बन्धित विषयमा मलेसियासँग द्विपक्षीय छलफल गर्न संयुक्त कार्यदल (ज्वाइन्ट वर्किङ ग्रुप–जेडब्लुजी) को बैठक काठमाडौँमा आयोजना गर्ने प्रस्ताव गरेको छ। नेपाल र मलेसियाबिच श्रमिक भर्ना प्रक्रियामा देखिएका समस्या"
-    },
-    {
       "id": "8edfc5337d725215",
       "title": "पोखरामा मापसे र लापसे गर्ने छ पक्राउ",
       "link": "https://himalpress.com/2026/10/six-drug-addicts-and-drug-addicts-arrested-in-pokhara/",
@@ -1437,23 +2338,6 @@
       "image": "",
       "images": [],
       "description": "पोखरा– पोखरामा मादक पदार्थ तथा लागुऔषध सेवन गरी सवारीसाधन चलाउने सातजना चालकलाई प्रहरीले नियन्त्रणमा लिएको छ । सोमबार पोखरा महानगरपालिका–३० पावरहाउस चोकमा पृथ्वीराजमार्ग भएर चल्ने सवारीसाधनका चालकलाई जाँच गर्दा सातजनालाई प्रहरीले नियन्त्रणमा लिएको हो । इलाका प्रहरी कार्यालय शिशुवा, वडा प्रहरी कार्यालय गगनगौँडा र जिल्ला ट्राफिक प्रहरी कार्यालय कास्कीबाट खटिएको प्रहरी टोलीले जाँचका क्रममा एकजना […]"
-    },
-    {
-      "id": "d3c9a68959d44007",
-      "title": "तस्बिरमा हेर्नुहाेस् एनपीएलकाे राैनक",
-      "link": "https://www.ratopati.com/story/601432/see-the-npls-performance-in-pictures",
-      "source": "Ratopati",
-      "sourceUrl": "https://ratopati.com/feed",
-      "pubDate": "2026-10-26T14:46:52+00:00",
-      "categories": [
-        "politics",
-        "sports"
-      ],
-      "image": "https://npcdn.ratopati.com/media/news/npll_81KCsJFg2e.webp",
-      "images": [
-        "https://npcdn.ratopati.com/media/news/npll_81KCsJFg2e.webp"
-      ],
-      "description": "काठमाडाैँ। नेपाल प्रिमियर लिग (एनपीएल) को तेस्रो संस्करणको उद्घाटन खेलमा दर्शकको उल्लेख्य उपस्थिति देखिएको छ। क्रिकेटप्रेमीहरूको बाक्लो उपस्थितिले मैदानमा एनपीएलको रौनक थपिएको छ। सोमबार भएको उद्घाटन खेलमा साविक विजेता लुम्बिनी लायन्सले साविक उपविजेता सुदूरपश्चिम रोयल्सलाई ७"
     },
     {
       "id": "5bf670e8b2cf5410",
@@ -1477,22 +2361,6 @@
       "description": "Kathmandu, October 26 Nepal Oil Corporation (NOC) is accelerating plans to build a cross-border LPG pipeline and a large storage facility in Sarlahi to address recurring cooking gas shortages caused by natural disasters, road blockages and transportation disruptions. The proposed project involves laying an approximately 131-kilometre LPG pipeline from Motihari in India to Sarlahi in […] The post Nepal plans Rs 30 billion LPG pipeline and storage project to end supply shortages appeared first on "
     },
     {
-      "id": "63c6b5e61a2580ec",
-      "title": "फुटबल प्रतियोगितामा विजेतालाई अलैँची पुरस्कार",
-      "link": "https://nepalnews.com/2026/10/26/cardamom-award-for-winner-of-football-competition/",
-      "source": "Nepal News",
-      "sourceUrl": "https://nepalnews.com/feed",
-      "pubDate": "2026-10-26T14:42:04+00:00",
-      "categories": [
-        "politics",
-        "business",
-        "world"
-      ],
-      "image": "",
-      "images": [],
-      "description": "ताप्लेजुङ। फुटबल प्रतियोगिताका विजेता तथा उपविजेता टोलीलाई नगदको सट्टा अलैँची पुरस्कार प्रदान गरिने भएको छ। मिक्वाखोला गाउँपालिकाले आगामी मङ्सिर २ देखि ६ गतेसम्म आयोजना गर्न गइरहेको फुटबल प्रतियोगिताका विजेता तथा उपविजेता टोलीलाई नगदको सट्टा अलैँची पुरस्कार दिन लागेको हो। फङ्फङ्देन झरना पर्यटन तथा सांस्कृतिक मेलालाई सफल बनाउने उद्देश्यले आयोजना हुन गइरहेको उक्त प्रतियोगितामा अलैँचीलाई प्रवर्द्धन […]"
-    },
-    {
       "id": "a0cebb015be2826c",
       "title": "सिद्धबाबा नजिकै बसको ठक्करले स्कुटरमा सवार महिलाको मृत्यु",
       "link": "https://www.onlinekhabar.com/2026/10/2044492/woman-riding-scooter-dies-after-being-hit-by-bus-near-siddhababa",
@@ -1509,54 +2377,6 @@
       "image": "",
       "images": [],
       "description": "मृत्यु हुनेमा गुल्मीको धुर्कोट गाउँपालिका ४ जैसीथोक निवासी ३७ वर्षीया माया कुवँर रहेको प्रहरीले जनाएको छ ।"
-    },
-    {
-      "id": "53c6f94c446d2b93",
-      "title": "चक्रवात ‘अर्नब’ शक्तिशाली हुने भन्दै तीन दिन उच्च सतर्कता अपनाउन सरकारको आग्रह",
-      "link": "https://nepallive.com/story/352329",
-      "source": "Nepal Live",
-      "sourceUrl": "https://nepallive.com/feed",
-      "pubDate": "2026-10-26T14:34:14+00:00",
-      "categories": [
-        "politics",
-        "technology"
-      ],
-      "image": "",
-      "images": [],
-      "description": "प्राधिकरणका अनुसार कात्तिक १३ गते शुक्रबार र १४ गते शनिबार कोसी, बागमती, मधेश, गण्डकी र लुम्बिनी प्रदेशमा चक्रवातको प्रभाव बढी पर्ने सम्भावना छ। ती प्रदेशका धेरै स्थानमा चट्याङ र हावाहुरीसहित मध्यम वर्षा तथा केही स्थानमा भारी वर्षा हुन सक्ने पूर्वानुमान गरिएको छ।"
-    },
-    {
-      "id": "9325fb104600e33d",
-      "title": "साविक बिजेता लुम्बिनी लायन्सको शानदार जित",
-      "link": "https://www.thahakhabar.com/detail/310909",
-      "source": "Thaha Khabar",
-      "sourceUrl": "https://www.thahakhabar.com/feed",
-      "pubDate": "2026-10-26T14:32:00+00:00",
-      "categories": [
-        "politics",
-        "business",
-        "sports"
-      ],
-      "image": "https://www.thahakhabar.com/uploads/posts/lu-1793025125.jpg",
-      "images": [
-        "https://www.thahakhabar.com/uploads/posts/lu-1793025125.jpg"
-      ],
-      "description": "उसको विजयी सुरुवातामा ओपनर डार्सी सर्टले सर्वाधिक ४० रन बनाए। आसिफ ३२ रनमा आउट भए। निरोशन डिक्वेला ७ रनमा बोल्ड भए भने शमिम हुसेन एक र कप्तान रोहित पौडेल ५ रनमा अविजित रहे।"
-    },
-    {
-      "id": "14896d08a0af718d",
-      "title": "नेपाली सेनाले किन गर्दैछ भूतपूर्व सैनिक सम्मेलन?",
-      "link": "https://nepallive.com/story/352328",
-      "source": "Nepal Live",
-      "sourceUrl": "https://nepallive.com/feed",
-      "pubDate": "2026-10-26T14:31:14+00:00",
-      "categories": [
-        "politics",
-        "technology"
-      ],
-      "image": "",
-      "images": [],
-      "description": "सम्मेलनमा सहभागी हुने भूतपूर्व सैनिक तथा पारिवारिक निवृत्तिभरणमा रहेका व्यक्तिलाई भ्रमण भत्ता, विभिन्न सामग्री, कर्जा सहायता तथा सम्मान प्रदान गरिने नेपाली सेनाले जनाएको छ।"
     },
     {
       "id": "05293b1d672641a4",
@@ -1596,23 +2416,6 @@
       "description": "Kathmandu, October 26 Nepal Oil Corporation (NOC) has directed LPG companies to ensure that VAT bills are issued for cooking gas sales through their dealers and retailers. The directive comes amid growing complaints that gas sellers have been failing to provide bills to consumers after selling LPG cylinders. The corporation’s LPG and Aviation Department sent […] The post Nepal Oil Corporation makes VAT bills mandatory for LPG sales appeared first on OnlineKhabar English News ."
     },
     {
-      "id": "5f004868443e4a5c",
-      "title": "NPL 2026: Lumbini Lions trounce Sudurpaschim Royals by 7 wickets",
-      "link": "https://risingnepaldaily.com/news/88076",
-      "source": "The Rising Nepal",
-      "sourceUrl": "https://risingnepaldaily.com/rss",
-      "pubDate": "2026-10-26T14:19:44+00:00",
-      "categories": [
-        "politics",
-        "business",
-        "world",
-        "sports"
-      ],
-      "image": "",
-      "images": [],
-      "description": "Kathmandu, Oct 26: Defending champions, Lumbini Lions, have made an impressive start to the defense of their 2025 NPL ti..."
-    },
-    {
       "id": "efdcfcfae7bf0ea4",
       "title": "NPL 2026: Lumbini Lions trounce Sudurpaschim Royals by seven wickets",
       "link": "https://english.khabarhub.com/2026/26/573271/",
@@ -1627,54 +2430,6 @@
       "image": "",
       "images": [],
       "description": "KATHMANDU: Defending champions Lumbini Lions have made an impressive start to their title defence in the 2026 Nepal Premier League (NPL), defeating Sudurpaschim Royals by seven wickets in the tournament’s inaugural match. At the TU International Cricket Ground in Kirtipur, Lumbini Lions, led by Rohit Paudel, won the toss and elected to field first, restricting […]"
-    },
-    {
-      "id": "c225df933da6762a",
-      "title": "एनपिएल ३ मा च्याम्पियन लुम्बिनी लायन्सको विजयी सुरुवात",
-      "link": "https://gorkhapatraonline.com/news/227326",
-      "source": "Gorkhapatra",
-      "sourceUrl": "https://gorkhapatraonline.com/rss",
-      "pubDate": "2026-10-26T14:12:50+00:00",
-      "categories": [
-        "politics",
-        "business"
-      ],
-      "image": "https://gorkhapatraonline.com/storage/media/389003/conversions/f22f9d7f-54ad-4759-84cb-f1ba3b5c3ebc-original.jpg",
-      "images": [
-        "https://gorkhapatraonline.com/storage/media/389003/conversions/f22f9d7f-54ad-4759-84cb-f1ba3b5c3ebc-original.jpg"
-      ],
-      "description": "काठमाडौँ, कात्तिक ९ गते । उपाधि रक्षा अभियानमा रहेको लुम्बिनी लाइन्सले सोमबार पहिलो खेलमा सुदूरपश्चिम रोयल्सलाई सात विकेटले हराएर तेस्रो नेपाल प्रिमियर लिग (एनपिएल) मा शानदार सुरुव..."
-    },
-    {
-      "id": "94255c9f640df77b",
-      "title": "लुम्बिनी लायन्सको शानदार सुरुवात, सुदूरपश्चिमलाई ७ विकेटले हरायो",
-      "link": "https://nepalnews.com/2026/10/26/lumbini-lions-make-a-brilliant-start-defeat-sudurpaschim-by-7-wickets/",
-      "source": "Nepal News",
-      "sourceUrl": "https://nepalnews.com/feed",
-      "pubDate": "2026-10-26T14:10:51+00:00",
-      "categories": [
-        "politics",
-        "business",
-        "world"
-      ],
-      "image": "",
-      "images": [],
-      "description": "काठमाडौं। नेपाल प्रिमियर लिग (एनपीएल) को तेस्रो संस्करणमा साविक विजेता लुम्बिनी लायन्सले विजयी सुरुवात गरेको छ। सोमबार भएको उद्घाटन खेलमा लुम्बिनीले साविक उपविजेता सुदूरपश्चिम रोयल्सलाई ७ विकेटले पराजित गरेको हो। कीर्तिपुरस्थित त्रिवि क्रिकेट मैदानमा टस हारेर ब्याटिङ गरेको सुदूरपश्चिम १७.२ ओभरमा ८७ रनमा समेटियो। सुदूरपश्चिमका लागि कप्तान दीपेन्द्रसिंह ऐरिले सर्वाधिक २७ रन बनाए। त्यस्तै अनिल […]"
-    },
-    {
-      "id": "d693580c990a0c4f",
-      "title": "गुल्मीमा स्कार्पियो दुर्घटना हुँदा ६ जनाको मृत्यु, ३ जना घाइते",
-      "link": "https://www.dainiknepal.com/2026/10/846728.html",
-      "source": "Dainik Nepal",
-      "sourceUrl": "https://dainiknepal.com/feed",
-      "pubDate": "2026-10-26T14:10:08+00:00",
-      "categories": [
-        "politics",
-        "sports"
-      ],
-      "image": "",
-      "images": [],
-      "description": "काठमाडौं । गुल्मीको कालीगण्डकी गाउँपालिका–२ दबौखानीमा स्कारपियो दुर्घटना हुँदा ६ जनाको मृत्यु भएको छ । तीन जना घाइते भएका छन् । सोमबार अपरान्ह ४ बजे स्याङ्जाको चिरकोटबाट गुल्मीको राक्सेतर्फ जाँदै गरेको बा ०२२० नम्बरको स्कारपियो कालीगण्डकी करिडोर सडकबाट करिब २५० मिटर तल खसेको थियो । दुर्घटनामा मृत्यु हुनेमा चालक स्याङ्जा वालिङ नगरपालिका–२ का ६७ वर्षीय […]"
     },
     {
       "id": "2264998784743fde",
@@ -1805,23 +2560,6 @@
       "description": "काठमाडौं । नेपाल प्रिमियर लिग (एनपिएल) सिजन ३ को पहिलो खेलमा साविक विजेता लुम्बिनीले विजयी सुरुवात गरेको छ । कीर्तिपुरस्थित त्रिवि मैदानमा सोमबार भएको खेलमा लुम्बिनीले सुदूरपश्चिम रोयल्सलाई सात विकेटले पराजित गरेको हो । टस जितेर पहिले बलिङ गर्ने निर्णय गरेको लुम्बिनीले सुदूरपश्चिमलाई १७ ओभरमा ८७ रनमै अलआउट गरेको थियो । जवाफी ब्याटिङमा उत्रिएको लुम्बिनीले ९.५ […] The post लुम्बिनी लायन्सले सुदूरपश्चिम रोयल्सलाई ७ विकेटले हरायो appeared first on राजधानी राष्ट्रिय दैनिक (लोकप्रिय राष्ट्रिय दैनिक)-R"
     },
     {
-      "id": "544fc374716ed656",
-      "title": "कालीगण्डकी बाढीले दोबा जोड्ने सडक पुल जोखिममा",
-      "link": "https://gorkhapatraonline.com/news/227325",
-      "source": "Gorkhapatra",
-      "sourceUrl": "https://gorkhapatraonline.com/rss",
-      "pubDate": "2026-10-26T14:03:15+00:00",
-      "categories": [
-        "politics",
-        "business"
-      ],
-      "image": "https://gorkhapatraonline.com/storage/media/388998/conversions/Doba-Bridge-1-original.jpg",
-      "images": [
-        "https://gorkhapatraonline.com/storage/media/388998/conversions/Doba-Bridge-1-original.jpg"
-      ],
-      "description": "म्याग्दी, कात्तिक ९ गते । दोबावासी जोखिमपूर्ण यात्रा गर्न बाध्य भएका छन् । म्याग्दीको अन्नपूर्ण गाउँपालिका–६ र १ को सिमानामा पर्ने दोबावासी आवतजावत गर्ने भीरकाटेपुल कालीगण्डकी नद..."
-    },
-    {
       "id": "b0cb23ff0cfbf75e",
       "title": "सुदूरपश्चिमलाई सजिलै हराउँदै लुम्बिनीको सानदार सुरुवात, ९.५ ओभरमै भेट्टायो लक्ष्य",
       "link": "https://bizmandu.com/content/20261026194604.html",
@@ -1897,21 +2635,6 @@
       "description": "त्रिवि क्रिकेट मैदानमा लुम्बिनीले ७ विकेटले सुदूरपश्चिम रोयल्सलाई हराएको हो ।"
     },
     {
-      "id": "24b070d9dd0a47ca",
-      "title": "आशिफ शेख र डी आर्सी सर्टको अर्धशतकीय साझेदारीमा लुम्बिनीको विजयी सुरुआत, सुदूरपश्चिम सात विकेटले पराजित",
-      "link": "https://nepallive.com/story/352327",
-      "source": "Nepal Live",
-      "sourceUrl": "https://nepallive.com/feed",
-      "pubDate": "2026-10-26T13:56:21+00:00",
-      "categories": [
-        "politics",
-        "technology"
-      ],
-      "image": "",
-      "images": [],
-      "description": "लुम्बिनीको जितम सर्टले सर्वाधिक ४० रन बनाए। १८ बल खेलेका उनले ४ चौका र ३ छक्का प्रहार गरे। आशिफले भने ३२ रन बनाए। उनले २५ बलमा २ चौका र २ छक्का प्रहार गरे। अन्यले भने राम्रो प्रदर्शन गर्न सकेनन्।"
-    },
-    {
       "id": "65184bf1f5646569",
       "title": "अर्थमन्त्री वाग्लेमाथि खनिए अभिनेता राजेश हमाल, भारतको चाकडी गरेको आरोप",
       "link": "https://rajdhanidaily.com/id/150536/",
@@ -1927,23 +2650,6 @@
         "https://rajdhanidaily.com/wp-content/uploads/2026/10/newskarkahna-news938600..jpg"
       ],
       "description": "काठमाडौं । अभिनेता राजेश हमाल हत्तपत्त कुनै पनि विषयमा सार्वजनिक रूपमा बोल्दैनन् । तर यसपटक भने उनी मुखर देखिएका छन् । अभिनेता हमालले अर्थमन्त्री डा. स्वर्णिम वाग्लेले मन्त्रीस्तरीय सीमा बाहिर गएर नेपाल भारत सम्बन्ध’bout अभिव्यक्ति दिएको टिप्पणी गरेका छन्। नेपाल–भारत सम्बन्ध र राष्ट्रवाद’bout अर्थमन्त्री वाग्लेको अभिव्यक्तिप्रति असन्तुष्टि जनाउँदै हमालले फेसबुकमा नेपालको सार्वभौमसत्ता, राष्ट्रिय स्वाभिमान र […] The post अर्थमन्त्री वाग्लेमाथि खनिए अभिनेता राजेश हमाल, भारतको चाकडी गरेको आरोप appe"
-    },
-    {
-      "id": "0f6ddc0769d89dd3",
-      "title": "Six dead, three injured in Gulmi jeep accident",
-      "link": "https://risingnepaldaily.com/news/88075",
-      "source": "The Rising Nepal",
-      "sourceUrl": "https://risingnepaldaily.com/rss",
-      "pubDate": "2026-10-26T13:50:54+00:00",
-      "categories": [
-        "politics",
-        "business",
-        "world",
-        "sports"
-      ],
-      "image": "",
-      "images": [],
-      "description": "By Ramesh Bishwakarma, Gulmi, Oct 26: Six persons died while three others got injured when a jeep veered some 250 meters..."
     },
     {
       "id": "f51030dc5c0d3558",
@@ -1962,29 +2668,6 @@
       "image": "",
       "images": [],
       "description": "९ कात्तिक, पोखरा । कास्कीको माछापुच्छ्रे गाउँपालिका–७ धम्पुस घिप्लेमा एक युवक मृत फेला परेका छन् । उनको मृत्यु प्रकरणमा प्रहरीले ६ जनालाई नियन्त्रणमा लिएर अनुसन्धान अघि बढाएको छ । प्रहरीका अनुसार २०८३ कात्तिक ९ गते बिहान करिब ८:२० बजे स्थानीय २२ वर्षीय राजेन्द्र पौडेल घरबाट करिब ५० मिटर पूर्वतर्फ रहेको बारीको पाटामा मृत अवस्थामा फेला […]"
-    },
-    {
-      "id": "4677cb47270fe8f2",
-      "title": "ठूलो पर्दामा एनपीएल हेर्न विराटनगरको पुरानो गुद्रीमा क्रिकेटप्रेमीको भीड (फोटो फिचर)",
-      "link": "https://nepalnews.com/2026/10/26/cricket-fans-throng-biratnagars-old-gudri-to-watch-npl-on-the-big-screen-photo-feature/",
-      "source": "Nepal News",
-      "sourceUrl": "https://nepalnews.com/feed",
-      "pubDate": "2026-10-26T13:41:47+00:00",
-      "categories": [
-        "politics",
-        "business",
-        "world"
-      ],
-      "image": "https://nepalnews.com/wp-content/uploads/2026/10/0a2c2222-5f0f-451a-a2cb-9a382b869254.jpeg",
-      "images": [
-        "https://nepalnews.com/wp-content/uploads/2026/10/0a2c2222-5f0f-451a-a2cb-9a382b869254.jpeg",
-        "https://nepalnews.com/wp-content/uploads/2026/10/3.jpeg",
-        "https://nepalnews.com/wp-content/uploads/2026/10/2-1.jpeg",
-        "https://nepalnews.com/wp-content/uploads/2026/10/e5c46637-b11c-4e0e-918e-ad2e003869d3.jpeg",
-        "https://nepalnews.com/wp-content/uploads/2026/10/1-7.jpeg",
-        "https://nepalnews.com/wp-content/uploads/2026/10/22-1.jpeg"
-      ],
-      "description": "विराटनगर। विराटनगरको पुरानो गुद्रीस्थित खाली मैदानमा ठूलो पर्दामार्फत नेपाल प्रिमियर लिग (एनपीएल) को प्रत्यक्ष प्रसारण हेर्न क्रिकेटप्रेमीको भीड लागेको छ। प्रतियोगिताको तेस्रो संस्करणअन्तर्गत सोमबारदेखि सुरु भएको खेल हेर्न सर्वसाधारण मैदानमा भेला भएका हुन्। उद्घाटन खेलमा गत संस्करणको उपविजेता सुदूरपश्चिम रोयल्स र लुम्बिनी लायन्सबीच प्रतिस्पर्धा भइरहेको छ। खेलको प्रत्यक्ष प्रसारण ठूलो पर्दामा हेर्न पुगेका दर्शकले सामूहिक […]"
     },
     {
       "id": "df074c4ff6ab030c",
@@ -2037,23 +2720,6 @@
       "description": "GULMI: Six people have died and three others have been injured in a Scorpio vehicle accident in Dabaukhani, Arbeni, Kaligandaki Rural Municipality-2, Gulmi. The deceased have been identified as driver Dilip Kumar Bagale, 67, of Waling Municipality-2, Syangja; Shiva Parajuli, 60, of Waling Municipality-10, Syangja; Loknath Pandey, 50, of Kaligandaki Rural Municipality-1, Sirkot, Gulmi; Sita […]"
     },
     {
-      "id": "5e70e02c3119b30b",
-      "title": "Call for caution over possibility of heavy rainfall",
-      "link": "https://risingnepaldaily.com/news/88074",
-      "source": "The Rising Nepal",
-      "sourceUrl": "https://risingnepaldaily.com/rss",
-      "pubDate": "2026-10-26T13:25:49+00:00",
-      "categories": [
-        "politics",
-        "business",
-        "world",
-        "sports"
-      ],
-      "image": "",
-      "images": [],
-      "description": "Kathmandu, Oct 26: The Department of Hydrology and Meteorology has stated rainfall and snowfall are expected to take pla..."
-    },
-    {
       "id": "bbe25c2deb809874",
       "title": "२४ घण्टामा विपतका कारण ६ जनाको मृत्यु, ३ बेपत्ता",
       "link": "https://himalpress.com/2026/10/6-dead-3-missing-due-to-disaster-in-24-hours/",
@@ -2102,31 +2768,6 @@
       "image": "",
       "images": [],
       "description": "९ कात्तिक, सिरहा । सिरहाको गोलबजारमा दुई समुदायबीच भएको घटनासँग सम्बन्धित सार्वजनिक शान्तिविरुद्धको कसुरमा राष्ट्रिय स्वतन्त्र पार्टी (रास्वपा) का गोलबजार नगरपालिका–११ का वडा सभापति दानिश खान पक्राउ परेका छन् । गत साउन १४ गते गोलबजारमा भएको तोडफोड तथा आगजनीको घटनामा खानको समेत मुख्य भूमिका रहेको आरोप लगाउँदै दुई महिनाअघि उनीविरुद्ध जाहेरी परेको थियो । जिल्ला […]"
-    },
-    {
-      "id": "492353cb8752c995",
-      "title": "ओलीको अड्भाङ्गे अस्तित्व",
-      "link": "https://nepalnews.com/2026/10/26/olis-strange-existence/",
-      "source": "Nepal News",
-      "sourceUrl": "https://nepalnews.com/feed",
-      "pubDate": "2026-10-26T13:15:29+00:00",
-      "categories": [
-        "politics",
-        "business",
-        "world"
-      ],
-      "image": "https://nepalnews.com/wp-content/uploads/2026/10/Bidhya-bhandari-sapath.jpg",
-      "images": [
-        "https://nepalnews.com/wp-content/uploads/2026/10/Bidhya-bhandari-sapath.jpg",
-        "https://nepalnews.com/wp-content/uploads/2025/12/KP_Oli_Banner.jpg",
-        "https://nepalnews.com/wp-content/uploads/2026/01/nabina.jpg",
-        "https://nepalnews.com/wp-content/uploads/2026/01/ushakiran.jpg",
-        "https://nepalnews.com/wp-content/uploads/2025/12/mahesh-1.jpg",
-        "https://nepalnews.com/wp-content/uploads/2026/08/ramkumari-jhakri.jpg",
-        "https://nepalnews.com/wp-content/uploads/2026/09/kp-oli-1.jpg",
-        "https://nepalnews.com/wp-content/uploads/2026/09/kp-oli.jpg"
-      ],
-      "description": "८ असोज २०८३ मा सम्पन्न एमाले केन्द्रीय कमिटी बैठकले पूर्वराष्ट्रपति विद्यादेवी भण्डारीलाई पार्टीको वरिष्ठ नेता बनाउने निर्णय गर्‍यो। अध्यक्ष केपी शर्मा ओलीले उनको नाम प्रस्ताव गरेका थिए। दुई सातापछि, २२ असोजमा भण्डारीले ओलीबाटै शपथ लिइन् र पार्टीको स्थायी कमिटी बैठकमा सहभागी भइन्। एक वर्षअघि भण्डारीलाई सक्रिय पार्टी राजनीतिमा फर्कन रोक लगाउने निर्णयमा निर्णायक भूमिका खेलेका […]"
     },
     {
       "id": "a4b8b7832a8db9d4",
@@ -2198,22 +2839,6 @@
       "description": "गुल्मी । एकादशीदेखी पूर्णिमासम्म गुल्मीका कोतघर एवं शक्तिपिठमा सरायको रौनक देखिएको छ । नौमती बाजा तालमा जिल्लाका विभिन्न शक्तिपिठहरुमा भक्तजनहरु सरायमा झुमेका छन् । नेपालका पश्चिमी जिल्लाहरुमा सराय नाँच्ने गरिन्छ । सराय एकादशीदेखि कोजाग्रत पूर्णिमासम्म नाँचिन्छ । सरायमा खुडा, भाला, तरबार, खुकुरी जस्ता युद्धमा प्रयोग हुने हतियार प्रदर्शन गरी ‘वाख्खै वा’ शब्द उच्चारण गरी गरिन्छ […] The post गुल्मीका कोतघरमा सरायको रौनक appeared first on राजधानी राष्ट्रिय दैनिक (लोकप्रिय राष्ट्रिय दैनिक)-RajdhaniDa"
     },
     {
-      "id": "5d7faf0a723acae8",
-      "title": "एनपीएल: लुम्बिनीलाई ८८ रनको सामान्य लक्ष्य, सुदूरपश्चिम ८७ रनमा समेटियो",
-      "link": "https://nepalnews.com/2026/10/26/npl-lumbini-set-a-modest-target-of-88-runs-sudurpaschim-were-bundled-out-for-87-runs/",
-      "source": "Nepal News",
-      "sourceUrl": "https://nepalnews.com/feed",
-      "pubDate": "2026-10-26T13:05:09+00:00",
-      "categories": [
-        "politics",
-        "business",
-        "world"
-      ],
-      "image": "",
-      "images": [],
-      "description": "काठमाडौं। नेपाल प्रिमियर लिग (एनपीएल) को जारी सिजनमा सुदूरपश्चिम रोयल्सले खराब सुरुवात गरेको छ। साविक विजेता लुम्बिनी लायन्सविरुद्धको खेलमा सुदूरपश्चिमले १७.२ ओभरमा सबै विकेट गुमाएर मात्र ८७ रन बनाउन सक्यो। टस जितेर पहिले बलिङ रोजेको लुम्बिनीले सुदूरपश्चिमलाई ८८ रनको सामान्य लक्ष्य दिएको छ। सुदूरपश्चिमको ब्याटिङ सुरुवाती चरणदेखि नै धर्मराएको थियो। टोलीले २४ रन जोड्दा पहिलो […]"
-    },
-    {
       "id": "8361fa6227b98d47",
       "title": "डिसहोम डीटीएच तथा आईपीटीभी मार्फत एनपीएल प्रत्यक्ष हेर्न पाउने सुविधा, अतिरिक्त शुल्क नलाग्ने",
       "link": "https://bizmandu.com/content/20261026184626.html",
@@ -2265,23 +2890,6 @@
       "description": "दुर्घटनामा परी घटनास्थलमै पाँच र उपचारका क्रममा एक जनाको मृत्यु भएको प्रहरीले जनाएको छ ।"
     },
     {
-      "id": "66b2b56af95f99bd",
-      "title": "NOC directs gas industries to issue VAT bill",
-      "link": "https://risingnepaldaily.com/news/88073",
-      "source": "The Rising Nepal",
-      "sourceUrl": "https://risingnepaldaily.com/rss",
-      "pubDate": "2026-10-26T12:59:04+00:00",
-      "categories": [
-        "politics",
-        "business",
-        "world",
-        "sports"
-      ],
-      "image": "",
-      "images": [],
-      "description": "Kathmandu, Oct 26: Nepal Oil Corporation (NOC) has directed the LP gas industries across the country to ensure that VAT..."
-    },
-    {
       "id": "bb22b41cd94834ee",
       "title": "गुल्मीमा स्कारपियो दुर्घटना : ६ जनाको मृत्यु, ३ जना घाइते",
       "link": "https://rajdhanidaily.com/id/150532/",
@@ -2313,23 +2921,6 @@
       "image": "",
       "images": [],
       "description": "काठमाडौँ– नेपाल प्रिमियर लिग (एनपीएल)को तेस्रो संस्करणको उद्घाटन खेलमा सुदूरपश्चिम रोयल्स ८७ रनमै अलआउट भएको छ । सोमबार कीर्तिपुरस्थित त्रिवि क्रिकेट रंगशालमा टस हारेर ब्याटिङमा आएको सुदूरपश्चिमले साविक विजेता लुम्बिनी लायन्सविरुद्ध १७.२ ओभरमा सबै विकेट गुमाएर ८७ रन मात्र जोड्न सक्यो । ओपनर सैफ जैबले १३ रन बनाउनु बाहेक अन्य ब्याटर चल्न सकेनन्। ब्रान्डन म्याकमुलेन […]"
-    },
-    {
-      "id": "23b72a3865ca73a4",
-      "title": "Country records 23 incidents of disaster in 24 hours, six deaths, three missing",
-      "link": "https://risingnepaldaily.com/news/88072",
-      "source": "The Rising Nepal",
-      "sourceUrl": "https://risingnepaldaily.com/rss",
-      "pubDate": "2026-10-26T12:55:09+00:00",
-      "categories": [
-        "politics",
-        "business",
-        "world",
-        "sports"
-      ],
-      "image": "",
-      "images": [],
-      "description": "Kathmandu, Oct 26: The country recorded 23 disaster-related incidents over the past 24 hours, with six fatalities. Three..."
     },
     {
       "id": "63df32a841741c35",
@@ -2490,23 +3081,6 @@
       "description": ""
     },
     {
-      "id": "c6b4031a3af54b23",
-      "title": "Prime Minister Shah inaugurates 3rd edition of NPL",
-      "link": "https://risingnepaldaily.com/news/88071",
-      "source": "The Rising Nepal",
-      "sourceUrl": "https://risingnepaldaily.com/rss",
-      "pubDate": "2026-10-26T12:33:49+00:00",
-      "categories": [
-        "politics",
-        "business",
-        "world",
-        "sports"
-      ],
-      "image": "",
-      "images": [],
-      "description": "Kathmandu, Oct 26: Prime Minister Balendra Shah has inaugurated the third edition of the Nepal Premier League (NPL). ..."
-    },
-    {
       "id": "4af5821be4f5e654",
       "title": "एनपीएल : सुदूरपश्चिमले गुमायो ९ विकेट, ऐरी र धामी पनि पवेलियन फर्किए",
       "link": "https://www.onlinekhabar.com/2026/10/2044381/npl-sudurpaschim-lost-9-wickets-airi-and-dhami-also-returned-to-the-palevian",
@@ -2558,22 +3132,6 @@
       "description": "उनले उपविजेता टोली सुदूरपश्चिम रोयल्ससँगको उद्घाटन खेलमा तीन ओभरमा १० रन खर्चेर तीन विकेट लिएका हुन् ।"
     },
     {
-      "id": "9393413495934b97",
-      "title": "कालीगण्डकी बाढीले दोबा जोड्ने पुल जोखिममा",
-      "link": "https://nepalnews.com/2026/10/26/bridge-connecting-doba-at-risk-due-to-kaligandaki-floods/",
-      "source": "Nepal News",
-      "sourceUrl": "https://nepalnews.com/feed",
-      "pubDate": "2026-10-26T12:27:09+00:00",
-      "categories": [
-        "politics",
-        "business",
-        "world"
-      ],
-      "image": "",
-      "images": [],
-      "description": "म्याग्दी।दोबावासी जोखिमपूर्ण यात्रा गर्न बाध्य भएका छन्। म्याग्दीको अन्नपूर्ण गाउँपालिका–६ र १ को सीमानामा पर्ने दोबावासी आवतजावत गर्ने भीरकाटे पुल कालीगण्डकी नदीले क्षति पुर्‍याएपछि स्थानीयवासी कष्टपूर्ण यात्रा गर्न वाध्य भएका हुन्। बेनी–जोमसोम–कोरला सडकको भीरकाटे हुँदै दोबा गाउँलाई यातायात सञ्चालमा जोड्न निर्माण भएको पुल जोखिममा परेको छ। पुलको भीरकाटेतर्फको पहुँचमार्ग नदी कटानले भत्काएपछि सवारीसाधन आवतजावतमा जोखिम […]"
-    },
-    {
       "id": "84222617a356f0a9",
       "title": "Four Indian nationals arrested over Dashain burglaries in Kathmandu",
       "link": "https://english.onlinekhabar.com/indian-arrested-dashain-theft.html",
@@ -2591,58 +3149,6 @@
         "http://english.onlinekhabar.com/wp-content/uploads/2026/10/chori-1.jpg"
       ],
       "description": "Kathmandu, October 26 Police have arrested four Indian nationals accused of stealing cash and gold and silver jewellery from two houses in Kathmandu during the Dashain festival. The suspects have been identified as Bikash Podar, 25, Raju Podar, 19, Rajendra Kumar, 23, and Bina Devi, all from Bihar, India. A team from the Kathmandu Valley […] The post Four Indian nationals arrested over Dashain burglaries in Kathmandu appeared first on OnlineKhabar English News ."
-    },
-    {
-      "id": "ffabfb9aae15ecfe",
-      "title": "गुल्मीमा स्कार्पियो दुर्घटना हुँदा ५ जनाको मृत्यु, ४ को अवस्था गम्भीर",
-      "link": "https://www.onlinekhabar.com/2026/10/2044374/5-dead-4-in-critical-condition-in-scorpio-accident-in-gulmi",
-      "source": "Online Khabar",
-      "sourceUrl": "https://www.onlinekhabar.com/feed",
-      "pubDate": "2026-10-26T12:24:26+00:00",
-      "categories": [
-        "politics",
-        "business",
-        "sports",
-        "technology",
-        "entertainment"
-      ],
-      "image": "",
-      "images": [],
-      "description": "घाइतेहरूलाई अस्पताल पुर्‍याइएको र घटनास्थलमा ज्यान गुमाएकाहरूको शव माथि ल्याउने काम भइरहेको डीएसपी विश्वकर्माले जानकारी दिए ।"
-    },
-    {
-      "id": "111b5ab3ac539acb",
-      "title": "अटो दुर्घटनामा ६ घाइते, एक जनाको अवस्था गम्भीर",
-      "link": "https://nepalnews.com/2026/10/26/6-injured-in-auto-accident-one-in-critical-condition/",
-      "source": "Nepal News",
-      "sourceUrl": "https://nepalnews.com/feed",
-      "pubDate": "2026-10-26T12:18:47+00:00",
-      "categories": [
-        "politics",
-        "business",
-        "world"
-      ],
-      "image": "",
-      "images": [],
-      "description": "पाल्पा।पाल्पाको रैनादेवी छहरा गाउँपालिका–३ बल्घामा अटो दुर्घटना हुँदा ६ जना घाइते भएका छन्। घाइतेमध्ये सोही गाउँपालिका–३ का ३८ वर्षीया यमकला खाम्चाको अवस्था गम्भीर रहेको जिल्ला प्रहरी कार्यालयका प्रहरी नायब उपरीक्षक भीमलाल भट्टराईले बताए। सबै घाइतेको तानसेनस्थित युनाइटेड मिसन अस्पतालमा उपचार भइरहेको प्रहरीले जनाएको छ। एक बालकसहित पाँच जना घाइतेको अवस्था सामान्य छ। बल्घाबाट कटौजेतर्फ गइरहेको […]"
-    },
-    {
-      "id": "c39f7e8e4e3c7891",
-      "title": "एनपीएल : चलेन सुदूरपश्चिमको ब्याट, १० ओभरमै गुमायो ७ विकेट",
-      "link": "https://www.onlinekhabar.com/2026/10/2044353/npl-sudurpaschims-batting-failed-they-lost-7-wickets-in-10-overs",
-      "source": "Online Khabar",
-      "sourceUrl": "https://www.onlinekhabar.com/feed",
-      "pubDate": "2026-10-26T12:17:31+00:00",
-      "categories": [
-        "politics",
-        "business",
-        "sports",
-        "technology",
-        "entertainment"
-      ],
-      "image": "",
-      "images": [],
-      "description": "नेपाल प्रिमियर लिग (एनपीएल) को तेस्रो संस्करणअन्तर्गतको उद्घाटन खेलमा गत वर्षको उपविजेता सुदूरपश्चिम रोयल्सले ७ विकेट गुमाएको छ ।"
     },
     {
       "id": "a76cfceaf889ac91",
@@ -2737,76 +3243,6 @@
       "description": "Kathmandu, October 26 Actor Rajesh Hamal has criticised Finance Minister Swarnim Wagle over his recent remarks on Nepali nationalism in India, saying the minister had exceeded the limits of his official position. Hamal said Wagle’s comments risked undermining the principles underpinning Nepal’s longstanding foreign policy. He also argued that relations between Nepal and India should […] The post Rajesh Hamal says Swarnim Wagle crossed the limits of his ministerial position appeared first on Onli"
     },
     {
-      "id": "2f2e50db54ba6e58",
-      "title": "१० ओभरमै लुम्बिनीविरुद्ध सुदूरपश्चिमले गुमायो ६ विकेट",
-      "link": "https://www.onlinekhabar.com/2026/10/2044340/sudurpaschim-lost-6-wickets-against-lumbini-in-10-overs",
-      "source": "Online Khabar",
-      "sourceUrl": "https://www.onlinekhabar.com/feed",
-      "pubDate": "2026-10-26T12:09:30+00:00",
-      "categories": [
-        "politics",
-        "business",
-        "sports",
-        "technology",
-        "entertainment"
-      ],
-      "image": "",
-      "images": [],
-      "description": "९ कात्तिक, काठमाडौं । नेपाल प्रिमियर लिग (एनपीएल) को तेस्रो संस्करणअन्तर्गतको उद्घाटन खेलमा गत वर्षको उपविजेता सुदूरपश्चिम रोयल्सले छैटौं विकेट गुमाएको छ । सुदूरपश्चिम रोयल्सले ९.२ लुम्बिनी लायन्सका शेर मल्लको बलमा शेरफन रदरफोर्ड गुमाएको हो। रदरफोर्ड ठूलो शटको प्रयासमा आउट भएका छन् । बल माथि मात्रै गयो । लङअनमा आसिफ शेखले क्याच लिएका हुन् ।अहिले […]"
-    },
-    {
-      "id": "46b104b040ef39a5",
-      "title": "दशैंको मौका पारेर चोरी : ठूलो मात्रामा सुनचाँदीका गरगहनासहित ४ भारतीय पक्राउ",
-      "link": "https://www.onlinekhabar.com/2026/10/2044338/theft-on-the-occasion-of-dashain-4-indians-arrested-with-a-large-amount-of-gold-and-silver-jewelry",
-      "source": "Online Khabar",
-      "sourceUrl": "https://www.onlinekhabar.com/feed",
-      "pubDate": "2026-10-26T12:08:15+00:00",
-      "categories": [
-        "politics",
-        "business",
-        "sports",
-        "technology",
-        "entertainment"
-      ],
-      "image": "",
-      "images": [],
-      "description": "९ कात्तिक, काठमाडौं । दशैंको मौकामा चोरी गर्ने चार जना भारतीय नागरिक पक्राउ परेका छन् । पक्राउ पर्नेमा भारत बिहारका २५ वर्षीय विकास पोदार, बिहारकै १९ वर्षीय राजु पोदार, सोही ठाउँका २३ वर्षीय राजेन्द्र कुमार र सोही ठाउँका विणा देवी छन् । उनीहरूलाई काठमाडौं उपत्यका अपराध अनुसन्धान कार्यालयको टोलीले पक्राउ गरेको हो । उनीहरूले कलंकीस्थित […]"
-    },
-    {
-      "id": "93dc3f04e87d7f47",
-      "title": "पाँचौं विकेटको रुपमा सुदूरपश्चिमले गुमायो पाण्डे",
-      "link": "https://www.onlinekhabar.com/2026/10/2044332/sudurpaschim-loses-pandey-as-the-fifth-wicket",
-      "source": "Online Khabar",
-      "sourceUrl": "https://www.onlinekhabar.com/feed",
-      "pubDate": "2026-10-26T12:03:49+00:00",
-      "categories": [
-        "politics",
-        "business",
-        "sports",
-        "technology",
-        "entertainment"
-      ],
-      "image": "",
-      "images": [],
-      "description": "नेपाल प्रिमियर लिग (एनपीएल) को तेस्रो संस्करणअन्तर्गतको उद्घाटन खेलमा गत वर्षको उपविजेता सुदूरपश्चिम रोयल्सले पाँचौं विकेट गुमाएको छ ।"
-    },
-    {
-      "id": "b083968e2427203b",
-      "title": "NEPSE slips 4.34 points on first trading day after Dashain",
-      "link": "https://english.khabarhub.com/2026/26/573247/",
-      "source": "Khabarhub",
-      "sourceUrl": "https://english.khabarhub.com/feed/",
-      "pubDate": "2026-10-26T11:58:21+00:00",
-      "categories": [
-        "politics",
-        "business",
-        "world"
-      ],
-      "image": "",
-      "images": [],
-      "description": "KATHMANDU: The Nepal Stock Exchange (NEPSE) recorded a slight decline on its first trading day after the Dashain holidays, with the benchmark index falling 4.34 points to close at 2,629.82. The market initially moved upward during the early trading hours but reversed its gains and ended the session in negative territory. A total of 10,343,709 […]"
-    },
-    {
       "id": "bf398396757f1ab5",
       "title": "सेयर बजार घट्नुपर्ने कारण छ र ?",
       "link": "https://arthasarokar.com/2026/10/is-there-a-reason-for-the-stock-market-to-fall.html",
@@ -2858,40 +3294,6 @@
       "description": ""
     },
     {
-      "id": "30f77082a2478bed",
-      "title": "PM Balen Shah at TU Cricket Stadium for NPL Opener",
-      "link": "https://english.khabarhub.com/2026/26/573243/",
-      "source": "Khabarhub",
-      "sourceUrl": "https://english.khabarhub.com/feed/",
-      "pubDate": "2026-10-26T11:55:31+00:00",
-      "categories": [
-        "politics",
-        "business",
-        "world"
-      ],
-      "image": "",
-      "images": [],
-      "description": "KATHMANDU: Prime Minister (PM) Balendra Shah arrived at the TU International Cricket Stadium in Kirtipur to watch the opening match of the third edition of the Nepal Premier League (NPL). Security has been tightened at the stadium following the Prime Minister’s arrival. More than 100 plainclothes security personnel have been mobilised for the tournament, which […]"
-    },
-    {
-      "id": "5176bd6d781458a7",
-      "title": "स्वर्णिम वाग्लेको विवादास्पद अभिव्यक्तिबारे राजेश हमालले भने- अर्थमन्त्रीले पदको सीमा नाघे",
-      "link": "https://www.onlinekhabar.com/2026/10/2044310/rajesh-hamal-said-about-swarnim-wagles-controversial-statement-the-finance-minister-has-exceeded-the-limits-of-his-position",
-      "source": "Online Khabar",
-      "sourceUrl": "https://www.onlinekhabar.com/feed",
-      "pubDate": "2026-10-26T11:53:48+00:00",
-      "categories": [
-        "politics",
-        "business",
-        "sports",
-        "technology",
-        "entertainment"
-      ],
-      "image": "",
-      "images": [],
-      "description": "अभिनेता राजेश हमामलले अर्थमन्त्री स्वर्णिम वाग्लेले भारतमा दिएको अभिव्यक्तिप्रति आपत्ति जनाउँदै उनले मन्त्री पदको सीमा नाघेको टिप्पणी गरेका छन् ।"
-    },
-    {
       "id": "e55e273c82619beb",
       "title": "राजेश हमाल भन्छन् : परराष्ट्र नीतिमा सम्झौता नगरियोस्",
       "link": "https://himalpress.com/2026/10/rajesh-hamal-says-there-should-be-no-compromise-on-foreign-policy/",
@@ -2906,24 +3308,6 @@
       "image": "",
       "images": [],
       "description": "काठमाडौँ- नेपाली फिल्म उद्योगका अभिनेता राजेश हमालले अर्थमन्त्री डा. स्वर्णिम वाग्लेको भारतसम्बन्धी अभिव्यक्तिमाथि टिप्पणी गर्दै नेपालको परराष्ट्र नीति राष्ट्रिय सार्वभौमसत्ता, गरिमा र दीर्घकालीन सिद्धान्तमा आधारित हुनुपर्ने बताएका छन्। सामाजिक सञ्जालमा सोमबार आफ्नो धारणा सार्वजनिक गर्दै हमालले अर्थमन्त्रीले आफ्नो मन्त्रालयको कार्यक्षेत्रको सीमासमेत नाघेर अभिव्यक्ति दिएको देखिएको उल्लेख गरेका छन्। उनका अनुसार यस्तो अभिव्यक्तिले नेपालको लामो समयदेखि […]"
-    },
-    {
-      "id": "f150e9015bf49b5b",
-      "title": "पावर प्लेमै सुदूरपश्चिमविरुद्ध लुम्बिनीले लियो ४ विकेट",
-      "link": "https://www.onlinekhabar.com/2026/10/2044305/lumbini-takes-4-wickets-against-sudurpaschim-in-powerplay",
-      "source": "Online Khabar",
-      "sourceUrl": "https://www.onlinekhabar.com/feed",
-      "pubDate": "2026-10-26T11:48:33+00:00",
-      "categories": [
-        "politics",
-        "business",
-        "sports",
-        "technology",
-        "entertainment"
-      ],
-      "image": "",
-      "images": [],
-      "description": "सुदूरपश्चिमका ब्रान्डन म्याकमुलेन, सैफ अली जैब, विनोद भण्डारी र आरिफ शेख आउट भएका हुन् । उनीहरू सबै पावर प्लेमै आउट भएका हुन् ।"
     },
     {
       "id": "cfafb60971738740",
@@ -2962,42 +3346,6 @@
         "http://english.onlinekhabar.com/wp-content/uploads/2026/10/Sudur-lumbini-1-1024x500-1.jpg"
       ],
       "description": "Kathmandu, October 26 Prime Minister Balen Shah inaugurated the third season of the Nepal Premier League (NPL) on Monday as the opening match between Sudurpaschim Royals and Lumbini Lions began at the Tribhuvan University Cricket Ground in Kirtipur. Lumbini Lions won the toss and elected to bowl first, sending Sudurpaschim Royals in to bat in […] The post Prime Minister Balen Shah inaugurates third season of Nepal Premier League appeared first on OnlineKhabar English News ."
-    },
-    {
-      "id": "fed8f7ae78e55fb9",
-      "title": "एनपीएल : डीआरएसबाट जोगिएका आरिफ क्याचआउट",
-      "link": "https://www.onlinekhabar.com/2026/10/2044299/npl-arif-caught-out-by-drs",
-      "source": "Online Khabar",
-      "sourceUrl": "https://www.onlinekhabar.com/feed",
-      "pubDate": "2026-10-26T11:42:28+00:00",
-      "categories": [
-        "politics",
-        "business",
-        "sports",
-        "technology",
-        "entertainment"
-      ],
-      "image": "",
-      "images": [],
-      "description": "८ कात्तिक, काठमाडौं । नेपाल प्रिमियर लिग (एनपीएल) को उद्घाटन खेलमा सुदूरपश्चिम रोयल्सले दोस्रो विकेट पनि गुमाएको छ । लुम्बिनीका किशोर महतोको बलमा सुदूरपश्चिमका आरिफ शेख आउट भएका हुन् । यसअघि तेस्रो ओभर चलिरहँदा एम्फायरले आरिफलाई आउटको संकेत गरेका थिए । उनले रिभ्यू लिए । र, डीआरएसमार्फत ब्याटमा एज नलागेको जानकारीसँग उनी नकआउट भएका थिए […]"
-    },
-    {
-      "id": "144a7afb50889443",
-      "title": "कर्णालीमा हवाई उडान समस्याबारे सरोकारवालाबीच छलफल",
-      "link": "https://www.onlinekhabar.com/2026/10/2044296/discussion-among-stakeholders-on-air-flight-problems-in-karnali",
-      "source": "Online Khabar",
-      "sourceUrl": "https://www.onlinekhabar.com/feed",
-      "pubDate": "2026-10-26T11:38:55+00:00",
-      "categories": [
-        "politics",
-        "business",
-        "sports",
-        "technology",
-        "entertainment"
-      ],
-      "image": "",
-      "images": [],
-      "description": "अहिले जहाज अभावले कर्णाली सहित देशभरिका पहाडी भेगका विमानस्थलमा यात्रु चाप भए पनि नियमित उडान हुन सकेको छैन ।"
     },
     {
       "id": "d9c5b1a809d13771",
@@ -3115,40 +3463,6 @@
       "description": "Bhojpur, October 26 Farmers in Bhojpur have become concerned after a pest locally known as “lai kira”, mealybug, was found infesting rice crops as the harvest season approaches. Farmers said the pest has damaged the base of rice plants, causing them to fall over, rice panicles to dry out, and straw to be damaged. Local […] The post Pest infestation damages rice crops near harvest in Bhojpur appeared first on OnlineKhabar English News ."
     },
     {
-      "id": "1c5721823812da96",
-      "title": "NC must reach out to people to regain lost trust: President Thapa",
-      "link": "https://risingnepaldaily.com/news/88069",
-      "source": "The Rising Nepal",
-      "sourceUrl": "https://risingnepaldaily.com/rss",
-      "pubDate": "2026-10-26T11:22:58+00:00",
-      "categories": [
-        "politics",
-        "business",
-        "world",
-        "sports"
-      ],
-      "image": "",
-      "images": [],
-      "description": "Waling (Syangja), Oct 26: Nepali Congress (NC) President Gagan Kumar Thapa has urged party leaders and cadres to reach o..."
-    },
-    {
-      "id": "4fc97e24181628a8",
-      "title": "Land ownership certificates a right, not political promise: Minister Rawal",
-      "link": "https://risingnepaldaily.com/news/88068",
-      "source": "The Rising Nepal",
-      "sourceUrl": "https://risingnepaldaily.com/rss",
-      "pubDate": "2026-10-26T11:22:56+00:00",
-      "categories": [
-        "politics",
-        "business",
-        "world",
-        "sports"
-      ],
-      "image": "",
-      "images": [],
-      "description": "Narayangadh (Chitwan), Oct 26: Minister for Land Management, Cooperatives, Federal Affairs and General Administration Pr..."
-    },
-    {
       "id": "ac1c276eacbbe0bf",
       "title": "एनपीएलमा डिफेन्डिङ च्याम्पियन लुम्बिनीले टस जित्यो, प्रधानमन्त्री बालेन त्रिवि मैदानमा (तस्वीरहरु)",
       "link": "https://bizmandu.com/content/20261026170059.html",
@@ -3185,23 +3499,6 @@
         "https://newsofnepal.com/wp-content/uploads/2022/08/barsa2-150x150.jpg"
       ],
       "description": "काठमाडौं | बंगालको खाडीमा विकसित चक्रवात ‘अर्नब’को प्रभावले नेपालका विभिन्न भागमा बिहीबारदेखि शनिबार बिहानसम्म वर्षा हुने सम्भावना रहेको जल तथा मौसम विज्ञान विभागले जनाएको छ। विभागका अनुसार बुधबारदेखि नै मौसम बदली हुने र हिमाली क्षेत्रका केही स्थानमा हल्का वर्षा तथा हिमपात हुन सक्नेछ। कुन क्षेत्रमा बढी असर पर्छ? कोशी, मधेश, बागमती र गण्डकी प्रदेश: बिहीबारदेखि […]"
-    },
-    {
-      "id": "abb31b736a0e53c8",
-      "title": "Communication Minister urges for making Film Development Board common body",
-      "link": "https://risingnepaldaily.com/news/88067",
-      "source": "The Rising Nepal",
-      "sourceUrl": "https://risingnepaldaily.com/rss",
-      "pubDate": "2026-10-26T11:15:08+00:00",
-      "categories": [
-        "politics",
-        "business",
-        "world",
-        "sports"
-      ],
-      "image": "",
-      "images": [],
-      "description": "Kathmandu, Oct 26: Minister for Information and Communications Dr Bikram Timilsina has urged the Film Development Board..."
     },
     {
       "id": "250fd3b97acd3442",
@@ -3287,24 +3584,6 @@
       "description": "मुक्कुमलुङ एउटा भौगोलिक पर्वत वा आर्थिक लाभ लिने केबलकार परियोजनास्थल नभएर लिम्बू समुदायको मुन्धुमी परम्परा, सांस्कृतिक स्मृति र प्रकृतिसँगको सम्बन्ध जोडिएको जीवित ऐतिहासिक धरोहर हो । मुन्धुमी आख्यानअनुसार यो पर्वत लिम्बू समुदायको आदिम पुर्खाकाे थलो (ओरिजिन प्लेस) र पहिचानको आधार हो, जहाँबाट लिम्बूहरू अन्यत्र विस्तार भएका थिए। यति ठूलो ऐतिहासिक र आध्यात्मिक महत्त्व बोकेको रैथाने समुदायको धरोहरमा उनीहरूको सहमतिविपरीत अघि बढाइएको यो विवादित केबलकार निर्माण कार्य सदाका लागि पूर्ण रूपमा रोकिनुपर्छ।"
     },
     {
-      "id": "277cba49b798b30d",
-      "title": "कांग्रेसले गुमेको विश्वास फर्काउन घरदैलोमा जानुपर्छ : सभापति थापा",
-      "link": "https://newsofnepal.com/2026/10/26/792192/",
-      "source": "News of Nepal",
-      "sourceUrl": "https://newsofnepal.com/feed/",
-      "pubDate": "2026-10-26T10:59:02+00:00",
-      "categories": [
-        "politics",
-        "business",
-        "sports"
-      ],
-      "image": "https://newsofnepal.com/wp-content/uploads/2026/01/Gagan_Thapa-150x150.png",
-      "images": [
-        "https://newsofnepal.com/wp-content/uploads/2026/01/Gagan_Thapa-150x150.png"
-      ],
-      "description": "काठमाडौँ। नेपाली कांग्रेसका सभापति गगनकुमार थापाले पार्टीले गुमाएको विश्वास पुनःस्थापित गर्न नेता तथा कार्यकर्ता जनताको घरदैलोमा पुग्नुपर्ने बताएका छन् । स्याङ्जाको पुतलीबजारमा आज आयोजित स्वागत तथा भेटघाट कार्यक्रममा उनले मतभन्दा पनि कांग्रेसले विश्वास गुमाएको बताए । “कांग्रेसले गुमाएको मत होइन, विश्वास हो,” उनले भने, “विश्वास पुनःस्थापित भयो भने मत त्यसलाई पछ्याउँदै आफैँ आउँछ ।” सभापति […]"
-    },
-    {
       "id": "d6f0de1936d9c5dc",
       "title": "‘कबड्डी ५ः आफ्टर द फाइनल म्याच’ले ३ दिनमा कति गर्यो कमाइ?",
       "link": "https://himalpress.com/2026/10/how-much-did-kabaddi-5-after-the-final-match-earn-in-3-days/",
@@ -3338,22 +3617,6 @@
         "http://english.onlinekhabar.com/wp-content/uploads/2026/10/ebola-virus-nepal-1-1024x501-1.jpg"
       ],
       "description": "Kinshasa, October 26 Health authorities in the Democratic Republic of the Congo (DR Congo) have announced the start of a trial of a new vaccine in an effort to contain the spread of Ebola. The trial will assess the vaccine’s safety and efficacy and identify the groups for whom it may be suitable for use. […] The post Ebola vaccine trial begins in DR Congo appeared first on OnlineKhabar English News ."
-    },
-    {
-      "id": "d6c33fd1cdc55b3d",
-      "title": "Land ownership certificates are a right, not political assurance: Minister Rawal",
-      "link": "https://english.khabarhub.com/2026/26/573238/",
-      "source": "Khabarhub",
-      "sourceUrl": "https://english.khabarhub.com/feed/",
-      "pubDate": "2026-10-26T10:51:36+00:00",
-      "categories": [
-        "politics",
-        "business",
-        "world"
-      ],
-      "image": "",
-      "images": [],
-      "description": "CHITWAN: Minister for Land Management, Cooperatives, Federal Affairs and General Administration Pratibha Rawal has said that land ownership certificates are a right, not a political assurance, for landless Dalits, squatters and unorganised settlers. During a visit to Chitwan to discuss land-related issues, the minister met locals at Ganeshsthan in Bharatpur Metropolitan City-11 on Monday to […]"
     },
     {
       "id": "4b59ad43ddc4d8a8",
@@ -3450,22 +3713,6 @@
       "description": "धनुषा- लोक आस्था र श्रद्धाको पर्व छठ नजिकिएसँगै धनुषासहित मधेशका जिल्लामा बजारको चहलपहल बढ्न थालेको छ। छठ पूजाका लागि आवश्यक सामग्री खरिद गर्न सर्वसाधारण बजार पुग्न थालेपछि व्यपारी उत्साहित देखिएका छन्। छठमा अस्ताउँदो र उदाउँदो सूर्यलाई अर्घ अर्पण गर्दा प्रयोग गरिने बाँसका ढाकी, सुप, नाङ्लो र कोनियालगायत सामग्रीको विशेष महत्त्व छ। पूजाका सामग्री, फलफूल, नरिवल, […]"
     },
     {
-      "id": "909d32f9d236764b",
-      "title": "Two missing girls found dead in Dailekh forest",
-      "link": "https://english.khabarhub.com/2026/26/573232/",
-      "source": "Khabarhub",
-      "sourceUrl": "https://english.khabarhub.com/feed/",
-      "pubDate": "2026-10-26T10:40:49+00:00",
-      "categories": [
-        "politics",
-        "business",
-        "world"
-      ],
-      "image": "",
-      "images": [],
-      "description": "DAILEKH: Two girls, aged 13 and 14, were found dead in a forest at Manghar, Bhagwatimai Rural Municipality-4, Dailekh, on Monday. According to the District Police Office, Dailekh, the girls were found dead at the same location in a forest near their home. The two were related as cousins, being the daughters of their maternal […]"
-    },
-    {
       "id": "ab66893d6bd18f06",
       "title": "Congress must reach out to people to regain lost trust: Thapa",
       "link": "https://english.onlinekhabar.com/congress-must-reach-out-to-people-to-regain-lost-trust-thapa.html",
@@ -3517,22 +3764,6 @@
       "image": "",
       "images": [],
       "description": "काठमाडौं। सरकारले स्वदेशी उत्पादनलाई प्रोत्साहन गर्न तरकारी आयातमा प्रतिबन्ध लगाउने तयारी गरेको छ। आयातित तरकारीका कारण देशभित्रका किसानले उचित मूल्य पाउन नसकेको निष्कर्षमा सरकारले आयात रोक्ने तयारी गरेको हो। तरकारीको आयात रोक्ने विषयमा सरकारका केही मन्त्रीबीच छलफल समेत भइसकेको छ। पूर्वाधार विकासमन्त्री सुनिल लम्साल, कानुनमन्त्री सोविता गौतम र कृषिमन्त्री गीता चौधरीबीच प्रारम्भिक छलफल भएको उच्च […] The post तरकारी आयातमा प्रतिबन्ध लगाउने तयारी, कानुनले रोक्न दिंदैन, जुक्ति खोज्दै बालेन सरकार app"
-    },
-    {
-      "id": "3bb0a8fcf5578791",
-      "title": "NC must reach out to people to regain lost trust: Gagan Thapa",
-      "link": "https://english.khabarhub.com/2026/26/573229/",
-      "source": "Khabarhub",
-      "sourceUrl": "https://english.khabarhub.com/feed/",
-      "pubDate": "2026-10-26T10:36:52+00:00",
-      "categories": [
-        "politics",
-        "business",
-        "world"
-      ],
-      "image": "",
-      "images": [],
-      "description": "WALING: Nepali Congress (NC) President Gagan Kumar Thapa has urged party leaders and cadres to reach out to people at their doorsteps to rebuild public trust in the party. Speaking at a welcome and interaction programme in Putalibazar, Syangja district, today, Thapa observed that the party had lost public trust, not merely votes. “The Congress […]"
     },
     {
       "id": "1a9262aefe962631",
@@ -3644,25 +3875,6 @@
       "description": "The wood of a khat does not distinguish between the shoulders of men and women. Yet, society has long made that distinction. When I placed my shoulder beneath a khat while restitution of Kumari Chhen Toran, Mahagauri and Buddha, I experienced something that cannot be fully explained through the language of cultural preservation. The physical […] The post The weight of tradition through a Herito-Feminism perspective appeared first on OnlineKhabar English News ."
     },
     {
-      "id": "4e5663ee827a23c6",
-      "title": "Stock market dips after Dashain, but manufacturing and trading groups draw buyers",
-      "link": "https://english.onlinekhabar.com/stock-market-dips-after-dashain.html",
-      "source": "Onlinekhabar English",
-      "sourceUrl": "https://english.onlinekhabar.com/feed",
-      "pubDate": "2026-10-26T10:06:25+00:00",
-      "categories": [
-        "politics",
-        "business",
-        "sports",
-        "technology"
-      ],
-      "image": "http://english.onlinekhabar.com/wp-content/uploads/2019/09/Stock-Market-Fall-nepse-.jpg",
-      "images": [
-        "http://english.onlinekhabar.com/wp-content/uploads/2019/09/Stock-Market-Fall-nepse-.jpg"
-      ],
-      "description": "Kathmandu, October 26 The stock market, which rose for seven straight trading days before Dashain, fell on the first trading day after the festival. On Monday, the NEPSE index fell 4.34 points. After the decline, NEPSE stands at 2,629 points. The prices of 99 companies rose, 171 fell and 6 remained unchanged. Turnover also fell. […] The post Stock market dips after Dashain, but manufacturing and trading groups draw buyers appeared first on OnlineKhabar English News ."
-    },
-    {
       "id": "068fb6344c0ec685",
       "title": "दसैं बिदापछिको पहिलो कारोबार दिन झन्डै साढे ४ अंकले घट्यो नेप्से",
       "link": "https://rajdhanidaily.com/id/150522/",
@@ -3762,24 +3974,6 @@
         "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/45d0/live/a57ec7e0-d10f-11f1-b441-2b33b063138f.jpg"
       ],
       "description": "'प्याच'को प्रयोग र परीक्षणपछि पुनः सञ्चालनमा ल्याइएका वेबसाइटहरूमा हाल देखिएको पीएचपीसम्बन्धी सुरक्षा जोखिम नरहे पनि अपनाइएका उपायले अन्य सम्भावित जोखिमलाई सम्बोधन नगर्ने अधिकारीहरू बताउँछन्।"
-    },
-    {
-      "id": "382880d4ed151f3b",
-      "title": "उदयपुरकाे कटारीमा बाेलेराे दुर्घटना, १५ जना घाइते",
-      "link": "https://newsofnepal.com/2026/10/26/792189/",
-      "source": "News of Nepal",
-      "sourceUrl": "https://newsofnepal.com/feed/",
-      "pubDate": "2026-10-26T09:42:05+00:00",
-      "categories": [
-        "politics",
-        "business",
-        "sports"
-      ],
-      "image": "https://newsofnepal.com/wp-content/uploads/2026/10/blacci-150x150.jpg",
-      "images": [
-        "https://newsofnepal.com/wp-content/uploads/2026/10/blacci-150x150.jpg"
-      ],
-      "description": "उदयपुर । उदयपुरकाे कटारी नगरपालिका वडा न ४ मरुवा खोला नजिक सिद्धिचरण लाेकमार्गमा साेमबार बिहान बाेलेराे दुर्घटना हुँदा १५जना घाइते भएका छन। उदयपुरकाे कटारी नगरपालिका ११ काे बेतिनी नजिककाे गहुबारीबाट कटारी बजारतिर आउँदै गरेकाे अवस्थामा यात्रु तथा अन्य मालसामान बाेकेर आउँदै गरेकाे प्रदेश ३-०१-०२३ च ६५०६ नम्बरकाे बाेलेराे ब्रेक फेल भएर दुर्घटना भएको प्रहरीले जनाएको […]"
     },
     {
       "id": "eb780ae266836872",
@@ -3925,24 +4119,6 @@
       "description": "How Nepal can continue with affordable and accessible medical care in a time of disasters"
     },
     {
-      "id": "8731b54c0a1fffbe",
-      "title": "क्रिकेट हेर्न र रमाउन ९ सहरमा एक्सट्रीमका १० फ्यान जोन, प्रवेश निःशुल्क",
-      "link": "https://newsofnepal.com/2026/10/26/792186/",
-      "source": "News of Nepal",
-      "sourceUrl": "https://newsofnepal.com/feed/",
-      "pubDate": "2026-10-26T09:14:33+00:00",
-      "categories": [
-        "politics",
-        "business",
-        "sports"
-      ],
-      "image": "https://newsofnepal.com/wp-content/uploads/2026/10/xt-150x150.jpg",
-      "images": [
-        "https://newsofnepal.com/wp-content/uploads/2026/10/xt-150x150.jpg"
-      ],
-      "description": "काठमाडौँ। नेपाल प्रिमियर लिग (एनपीएल) को तेस्रो संस्करणको रोमाञ्च देशका विभिन्न सहरमा पनि अनुभव गर्न पाइने भएको छ। एक्सट्रीम इनर्जी ड्रिङ्कले क्रिकेटप्रेमीलाई आफ्नै सहरमा बसेर प्रतियोगिताका खेल हेर्ने र मनोरञ्जन लिन सक्ने अवसर प्रदान गर्ने उद्देश्यले देशभरका ९ सहरका १० स्थानमा फ्यान जोन सञ्चालन गर्ने भएको हो। कात्तिक ९ गतेदेखि मंसिर ५ गतेसम्म आयोजना हुने […]"
-    },
-    {
       "id": "530530c1820cb8c1",
       "title": "सभामुखले अमेरिकी टोलीलाई भने- विपद्‍ सामना गर्न आर्थिक क्षमता भएका देशले सहयोग गर्नुपर्छ",
       "link": "https://bizmandu.com/content/20261026145759.html",
@@ -4040,24 +4216,6 @@
         "https://nepalviews.cdnsolution.net/en/media/setting/banner_FHsSzcWYKk.jpg"
       ],
       "description": ""
-    },
-    {
-      "id": "2a42a2316ab8fcb8",
-      "title": "डीएनए परीक्षण किट र एक करोड रुपैयाँ सरकारलाई हस्तान्तरण",
-      "link": "https://newsofnepal.com/2026/10/26/792183/",
-      "source": "News of Nepal",
-      "sourceUrl": "https://newsofnepal.com/feed/",
-      "pubDate": "2026-10-26T08:42:34+00:00",
-      "categories": [
-        "politics",
-        "business",
-        "sports"
-      ],
-      "image": "https://newsofnepal.com/wp-content/uploads/2026/10/pt55-150x150.jpg",
-      "images": [
-        "https://newsofnepal.com/wp-content/uploads/2026/10/pt55-150x150.jpg"
-      ],
-      "description": "काठमाडौँ। बेलायतमा बसोबास गर्दै आउनुभएका गैरआवासीय नेपाली संघका अध्यक्ष कुल आचार्य र उत्तम नेपालले नेपाल सरकारलाई डीएनए परीक्षण किट तथा आर्थिक सहयोग हस्तान्तरण गर्नुभएको छ। परराष्ट्र मन्त्रालयमा आयोजित कार्यक्रममा परराष्ट्रमन्त्री शिशिर खनालकाे उपस्थितमा आचार्य र नेपालले डीएनए परीक्षण किट सरकारलाई हस्तान्तरण गर्नुभएको हो। सोही अवसरमा उत्तम नेपालले मन्त्री खनालमार्फत सरकारलाई सहयाेग स्वरूप एक करोड रुपैयाँको […]"
     },
     {
       "id": "5fcdb7427ee63ec3",
@@ -4160,21 +4318,6 @@
         "https://media.arthasarokar.com/uploads/2026/08/Bhotekoshi-Baadhi-7.jpg"
       ],
       "description": "काठमाडौँ । रसुवा-भोटेकोशी नदीमा २०८३ भदौ १० गते आएको विनाशकारी बाढीबाट ७९ अर्ब १७ करोड रुपैयाँ बराबरको क्षति भएको प्रारम्भिक आकलन गरिएको छ । राष्ट्रिय योजना आयोगले गरेको सर्वेक्षणअनुसार बाढीबाट घरपरिवारतर्फ ६९ अर्ब ५७ करोड र व्यवसाय तथा प्रतिष्ठानतर्फ ९ अर्ब ६० करोड रुपैयाँ बराबरको क्षति भएको हो । बाढीबाट ४ जिल्लाका ६ हजार ८१७ Continue reading \"रसुवा-भोटेकोशी बाढीबाट ७९ अर्ब १७ करोडको क्षति, जग्गामा क्षति सबैभन्दा धेरै !\""
-    },
-    {
-      "id": "de9fede934f1e2c8",
-      "title": "चांगन नेभो क्यू०५ विद्युतीय एसयूभी कलाकारहरुको रोजाइमा, क-कसले लिए डेलिभरी?",
-      "link": "https://bizmandu.com/content/20261026135019.html",
-      "source": "Bizmandu",
-      "sourceUrl": "https://bizmandu.com/feed",
-      "pubDate": "2026-10-26T08:05:19+00:00",
-      "categories": [
-        "business",
-        "technology"
-      ],
-      "image": "",
-      "images": [],
-      "description": "काठमाडौं। सार्वजनिक भएको एक महिनामै चांगन नेभो क्यू०५ कलाकारहरुको रोजाइ बन्न थालेको छ। गायक स्वप्न सुमन तथा अभिनेत्रीहरु ज्योत्सना योगी, मिरुना मगर, आना शर्मा र जसिता गुरुङले गाडीको डेलिभरी लिएका छन्। एकपछि अर्को कलाकारको रोजाइका कारण नेभो क्यू०५ एसयूभीप्रति ग्राहकको थप चासो बढेको बिक्रेता कम्पनी एमएडब्लू वृद्धि अटोकर्पले जनाएको छ। चांगन नेभो क्यू०५ मा २,७३५ […] The post चांगन नेभो क्यू०५ विद्युतीय एसयूभी कलाकारहरुको रोजाइमा, क-कसले लिए डेलिभरी? appeared first on BIZMANDU ."
     },
     {
       "id": "dd2d4bb9d52bb9c3",
@@ -4364,21 +4507,6 @@
       "description": ""
     },
     {
-      "id": "4b19f318ac5f58e0",
-      "title": "एनपीएलमा ११ सय प्रहरी परिचालन, मैदानदेखि खेलाडी राखिएका होटेलसम्म २४सै घण्टा सुरक्षा",
-      "link": "https://bizmandu.com/content/20261026125533.html",
-      "source": "Bizmandu",
-      "sourceUrl": "https://bizmandu.com/feed",
-      "pubDate": "2026-10-26T07:10:33+00:00",
-      "categories": [
-        "business",
-        "technology"
-      ],
-      "image": "",
-      "images": [],
-      "description": "काठमाडौं। नेपाल प्रिमियम लिग (एनपीएल) खेललाई सुरक्षित बनाउन प्रहरीले चौबिसै घण्टा ग्राउन्डदेखि खेलाडीहरूको सुरक्षा प्रदान गर्ने भएको छ। विश्व चर्चित खेलाडीको आगमनसँगै अघिल्ला लिगभन्दा बढी प्रहरी खटाइएको हो। जिल्ला प्रहरी परिसर काठमाडौंले मात्र दैनिक १ हजारभन्दा बढी सुरक्षाकर्मी परिचालन गर्ने भएको छ। लिगको उद्घाटनको पहिलो दिन भने १ हजार १२५ सुरक्षाकर्मी परिचालन गरिने छ। त्यस्तै, काठमाडौं […] The post एनपीएलमा ११ सय प्रहरी परिचालन, मैदानदेखि खेलाडी राखिएका होटेलसम्म २४सै घण्टा सुरक्षा appeared fir"
-    },
-    {
       "id": "6b00a83e71f82a88",
       "title": "बाबुको हत्या आरोपमा छोरा पक्राउ",
       "link": "https://himalpress.com/2026/10/son-dies-on-charges-of-murdering-father/",
@@ -4529,22 +4657,6 @@
       "description": ""
     },
     {
-      "id": "77c8e8d6ad6b402c",
-      "title": "भूमिहीन र सहकारी पीडितका समस्या समाधान सरकारको प्राथमिकतामा : मन्त्री रावल",
-      "link": "https://himalpress.com/2026/10/solving-the-problems-of-landless-and-cooperative-victims-is-a-priority-for-the-government-minister-rawal/",
-      "source": "Himal Press",
-      "sourceUrl": "https://himalpress.com/feed/",
-      "pubDate": "2026-10-26T06:26:07+00:00",
-      "categories": [
-        "politics",
-        "business",
-        "society"
-      ],
-      "image": "",
-      "images": [],
-      "description": "चितवन- भूमि व्यवस्था, सहकारी, संघीय मामिला तथा सामान्य प्रशासनमन्त्री प्रतिभा रावलले जनता मन्त्रीलाई भेट्न आउने नभई मन्त्री जनतालाई भेट्न जानुपर्ने बताएकी छन्। भरतपुर विमानस्थलमा पत्रकारसँग कुराकानी गर्दै मन्त्री रावलले यस्तो बताएकी हुन्। भूमिहीन र सहकारी पीडितको समस्याका विषयमा सरकारले गरेका कामबारे जानकारी गराउन आफू चितवन आएको उनको भनाइ थियो। सरकारको प्राथमिकता भूमिहीन नागरिक र सहकारी […]"
-    },
-    {
       "id": "d74eae0a9ebe3689",
       "title": "प्रधानमन्त्री राहत कोषमा मौज्दात १८ अर्ब नाघ्यो",
       "link": "https://arthasarokar.com/2026/10/prime-ministers-relief-fund-crosses-rs-18-billion.html",
@@ -4579,58 +4691,6 @@
       "description": "काठमाडौँ । अन्तर्राष्ट्रिय बजारमा कच्चा तेलको मूल्य प्रतिब्यारेल ११५ डलर आसपास पुगेपछि नेपालमा पेट्रोलियम पदार्थको आयात लागत र समग्र मूल्यवृद्धिमा दबाब पर्ने जोखिम बढेको छ । पश्चिम एसियामा चर्किएको तनावका कारण तेल आपूर्ति प्रभावित हुने चिन्ता बढेसँगै मूल्य उकालो लागेको हो । सोमबार ब्रेन्ट क्रुडको मूल्य प्रतिब्यारेल ११५ डलर आसपास कारोबार भइरहेको छ । पछिल्लो Continue reading \"कच्चा तेलको मूल्य प्रतिब्यारेल ११५ डलर पुग्यो, नेपालमा महँगी बढ्ने जोखिम !\""
     },
     {
-      "id": "5bea0a04a61d7cf3",
-      "title": "विद्यार्थी आन्दोलनले सत्ताबाट ढलेका सर्बियाका नेता भुचिच",
-      "link": "https://www.nepalviews.com/story/427159/serbian-leader-vucic-who-was-ousted-from-power-by-student-protests",
-      "source": "Nepal Views",
-      "sourceUrl": "https://www.nepalviews.com/feed/",
-      "pubDate": "2026-10-26T06:02:53+00:00",
-      "categories": [
-        "politics",
-        "business",
-        "technology"
-      ],
-      "image": "https://nepalviews.cdnsolution.net/en/media/setting/banner_FHsSzcWYKk.jpg",
-      "images": [
-        "https://nepalviews.cdnsolution.net/en/media/setting/banner_FHsSzcWYKk.jpg"
-      ],
-      "description": ""
-    },
-    {
-      "id": "79ee131b00be26ed",
-      "title": "अर्थमन्त्री वाग्लेको अभिव्यक्ति गैरकूटनीतिक र राष्ट्रिय हितविपरीत : पूर्वपरराष्ट्रमन्त्री ज्ञवाली",
-      "link": "https://himalpress.com/2026/10/finance-minister-wagles-statement-is-undiplomatic-and-against-national-interest-pradeep-gyawali/",
-      "source": "Himal Press",
-      "sourceUrl": "https://himalpress.com/feed/",
-      "pubDate": "2026-10-26T06:00:33+00:00",
-      "categories": [
-        "politics",
-        "business",
-        "society"
-      ],
-      "image": "",
-      "images": [],
-      "description": "काठमाडौँ- पूर्वपरराष्ट्रमन्त्री प्रदीप ज्ञवालीले अर्थमन्त्री स्वर्णिम वाग्लेले नयाँ दिल्लीमा दिएको ‘नेपालमा भारत विरोधी राष्ट्रवादको युग सकियो’ भन्ने अभिव्यक्ति गैरकूटनीतिक, असान्दर्भिक र नेपालको स्वाभिमान तथा राष्ट्रिय हितमा आँच पुर्‍याउने खालको रहेको बताएका छन् । ज्ञवालीले विदेशी भूमिमा सरकारी पदाधिकारीले आफ्नो मुलुकको आन्तरिक राजनीतिक मतभिन्नताबारे बोल्नु उपयुक्त नहुने धारणा व्यक्त गरेका छन्। उनले नेपालमा कहिल्यै पनि ‘भारत […]"
-    },
-    {
-      "id": "1a246120d8f3d287",
-      "title": "गुरुले पढाएका चेला अहिले मुख्यमन्त्री, २९ वर्षपछि एउटै मञ्चमा",
-      "link": "https://www.nepalviews.com/story/427158/the-disciple-who-was-taught-by-the-guru-is-now-the-chief-minister-on-the-same-stage-after-29-years",
-      "source": "Nepal Views",
-      "sourceUrl": "https://www.nepalviews.com/feed/",
-      "pubDate": "2026-10-26T05:44:07+00:00",
-      "categories": [
-        "politics",
-        "business",
-        "technology"
-      ],
-      "image": "https://nepalviews.cdnsolution.net/en/media/setting/banner_FHsSzcWYKk.jpg",
-      "images": [
-        "https://nepalviews.cdnsolution.net/en/media/setting/banner_FHsSzcWYKk.jpg"
-      ],
-      "description": ""
-    },
-    {
       "id": "9462b08ac53cc728",
       "title": "सुनको मूल्य ३ हजारले बढ्यो, तोलाको कति ?",
       "link": "https://arthasarokar.com/2026/10/gold-price-soars-by-rs-3000-per-tola-3.html",
@@ -4646,40 +4706,6 @@
         "https://media.arthasarokar.com/uploads/2024/11/gold-shop-1.jpg"
       ],
       "description": "काठमाडौं । साताको कारोबारको दोश्रो दिन सोमबार सुनको मूल्य बढेको छ । कारोबारको अघिल्लो दिनको तुलनामा आज सुनको मूल्य प्रतितोला ३ हजार रुपैयाँले बढेको हो । कारोबारको अघिल्लो दिन प्रतितोला २ लाख ७८ हजार ५ सय रुपैयाँमा कारोबार भईरहेको छापावाला सुन, आज ३ हजार रुपैयाँले बढेर २ लाख ८१ हजार ५ सय रुपैयाँमा कारोबार भईरहेको Continue reading \"सुनको मूल्य ३ हजारले बढ्यो, तोलाको कति ?\""
-    },
-    {
-      "id": "147027da934dde90",
-      "title": "एनपीएलमा पाकिस्तानी खेलाडीको सहभागिता अनिश्चित, समस्या सुल्झाउन क्यानको पहल",
-      "link": "https://www.nepalviews.com/story/427157/participation-of-pakistani-players-in-npl-uncertain-can-takes-initiative-to-resolve-the-problem",
-      "source": "Nepal Views",
-      "sourceUrl": "https://www.nepalviews.com/feed/",
-      "pubDate": "2026-10-26T05:30:28+00:00",
-      "categories": [
-        "politics",
-        "business",
-        "technology"
-      ],
-      "image": "https://nepalviews.cdnsolution.net/en/media/setting/banner_FHsSzcWYKk.jpg",
-      "images": [
-        "https://nepalviews.cdnsolution.net/en/media/setting/banner_FHsSzcWYKk.jpg"
-      ],
-      "description": ""
-    },
-    {
-      "id": "b520a7e4eac3b5e2",
-      "title": "हिजो घटेको सुनको भाउ आज बढ्यो",
-      "link": "https://himalpress.com/2026/10/the-price-of-gold-which-fell-yesterday-increased-today/",
-      "source": "Himal Press",
-      "sourceUrl": "https://himalpress.com/feed/",
-      "pubDate": "2026-10-26T05:28:54+00:00",
-      "categories": [
-        "politics",
-        "business",
-        "society"
-      ],
-      "image": "",
-      "images": [],
-      "description": "काठमाडौँ– नेपाली बजारमा सोमबार सुनचाँदीको मूल्य बढेको छ । नेपाल सुनचाँदी व्यवसायी महासंघका अनुसार आज सुनको मूल्य प्रतितोला ३ हजार रुपैयाँले बढेको हो । महासंघका अनुसार सोमबार सुनको मूल्य प्रतितोला २ लाख ८१ हजार ५ सय रुपैयाँ कायम भएको छ । आइतबार सुन प्रतितोला २ लाख ७८ हजार ५ सय रुपैयाँमा कारोबार भएको थियो । […]"
     },
     {
       "id": "470f4c1b0a416734",
@@ -4700,74 +4726,6 @@
       "description": "श्रीलङ्काको विदेश मन्त्रालयका एक अधिकारीका अनुसार उद्धारको योजना कोलम्बोस्थित इरानी दूतावासले बनाएको हो।"
     },
     {
-      "id": "5a3cb9f1e8fbf2d6",
-      "title": "राहत शिक्षक केन्द्रीय समितिको पूर्ण बैठक शनिबार चितवनमा",
-      "link": "https://himalpress.com/2026/10/plenary-meeting-of-relief-teachers-central-committee-in-chitwan-on-saturday/",
-      "source": "Himal Press",
-      "sourceUrl": "https://himalpress.com/feed/",
-      "pubDate": "2026-10-26T05:13:13+00:00",
-      "categories": [
-        "politics",
-        "business",
-        "society"
-      ],
-      "image": "",
-      "images": [],
-      "description": "काठमाडौँ- नेपाल राहत शिक्षक केन्द्रीय समितिको पूर्ण भौतिक बैठक आगामी शनिबार चितवनमा बस्ने भएको छ। समितिले समसामयिक विषयवस्तु, भावी कार्यदिशा तथा सांगठनिक सुदृढीकरणका विषयमा छलफल गरी आवश्यक निर्णय लिन बैठक आयोजना गर्न लागेको हो। समितिले जारी गरेको सूचनाअनुसार बैठक शनिबार बिहान ११ बजे भरतपुर महानगरपालिका-१० स्थित नारायणी नमुना माध्यमिक विद्यालयमा बस्नेछ। समितिका अनुसार गत कात्तिक ८ […]"
-    },
-    {
-      "id": "69702865563c1983",
-      "title": "सिरहाका गोलबजार–११ का वडाध्यक्ष सोहेब अनवर पक्राउ",
-      "link": "https://www.nepalviews.com/story/427156/ward-chairman-of-golbazar-11-siraha-soheb-anwar-arrested",
-      "source": "Nepal Views",
-      "sourceUrl": "https://www.nepalviews.com/feed/",
-      "pubDate": "2026-10-26T05:09:54+00:00",
-      "categories": [
-        "politics",
-        "business",
-        "technology"
-      ],
-      "image": "https://nepalviews.cdnsolution.net/en/media/setting/banner_FHsSzcWYKk.jpg",
-      "images": [
-        "https://nepalviews.cdnsolution.net/en/media/setting/banner_FHsSzcWYKk.jpg"
-      ],
-      "description": ""
-    },
-    {
-      "id": "3edc67c25f303518",
-      "title": "खोटाङमा धारिलो हतियार प्रहारबाट चारजना घाइते",
-      "link": "https://himalpress.com/2026/10/four-injured-in-sharp-weapon-attack-in-khotang/",
-      "source": "Himal Press",
-      "sourceUrl": "https://himalpress.com/feed/",
-      "pubDate": "2026-10-26T04:55:03+00:00",
-      "categories": [
-        "politics",
-        "business",
-        "society"
-      ],
-      "image": "",
-      "images": [],
-      "description": "काठमाडौँ– खोटाङमा धारिलो हतियार प्रहारबाट चारजना घाइते भएका छन् । हलेसी तुवाचुङ नगरपालिका–३, आहालेमा एक व्यक्तिले धारिलो हतियार प्रहार गरी चारजनालाई घाइते बनाएका हुन् । स्थानीय ४३ वर्षीय नइन्द्रकुमार राईले आफ्नै ससुरालीमा गई धारिलो हतियार प्रहार गर्दा उनकी श्रीमतीसहित चारजना घाइते भएका हुन् । धारिलो हतियार प्रहारबाट हलेसी तुवाचुङ नगरपालिका–३ बस्ने ४० वर्षीया अन्जना राईको […]"
-    },
-    {
-      "id": "0f750d9e2fa11a98",
-      "title": "आदिनाथ मन्दिरमा एकमहिने मेला सुरु",
-      "link": "https://www.nepalviews.com/story/427155/month-long-fair-begins-at-adinath-temple",
-      "source": "Nepal Views",
-      "sourceUrl": "https://www.nepalviews.com/feed/",
-      "pubDate": "2026-10-26T04:54:57+00:00",
-      "categories": [
-        "politics",
-        "business",
-        "technology"
-      ],
-      "image": "https://nepalviews.cdnsolution.net/en/media/setting/banner_FHsSzcWYKk.jpg",
-      "images": [
-        "https://nepalviews.cdnsolution.net/en/media/setting/banner_FHsSzcWYKk.jpg"
-      ],
-      "description": ""
-    },
-    {
       "id": "e3d0b6a566fef991",
       "title": "एशियन लाइफका सिइओले दिए राजीनामा, कामु सिइओको जिम्मेवारी होमबहादुरलाई",
       "link": "https://arthasarokar.com/2026/10/hom-bahadur-resigns-as-acting-ceo-of-asian-life.html",
@@ -4783,24 +4741,6 @@
         "https://media.arthasarokar.com/uploads/2026/10/Asian-CEO-Rajinama.jpg"
       ],
       "description": "काठमाडौँ । एशियन लाइफ इन्स्योरेन्सका प्रमुख कार्यकारी अधिकृत (सिइओ)ले राजीनामा दिएका छन् । कम्पनीका सिइओ दिनेशलाल श्रेष्ठले पदबाट राजीनामा दिएका हुन् । श्रेष्ठको राजीनामा कात्तिक ५ गते बसेको सञ्चालक समितिको २३३औँ बैठकले स्वीकृत गर्ने निर्णय गरेको छ । कम्पनीका एक सञ्चालकका अनुसार श्रेष्ठको राजीनामा कात्तिक १० गतेदेखि लागू हुनेछ । श्रेष्ठको राजीनामासँगै सञ्चालक समितिले अर्को Continue reading \"एशियन लाइफका सिइओले दिए राजीनामा, कामु सिइओको जिम्मेवारी होमबहादुरलाई\""
-    },
-    {
-      "id": "b9196f0785ffef34",
-      "title": "इलाममा सवारी साधन दुर्घटनामा चालकको मृत्यु",
-      "link": "https://www.nepalviews.com/story/427154/driver-dies-in-vehicle-accident-in-ilam",
-      "source": "Nepal Views",
-      "sourceUrl": "https://www.nepalviews.com/feed/",
-      "pubDate": "2026-10-26T04:38:46+00:00",
-      "categories": [
-        "politics",
-        "business",
-        "technology"
-      ],
-      "image": "https://nepalviews.cdnsolution.net/en/media/setting/banner_FHsSzcWYKk.jpg",
-      "images": [
-        "https://nepalviews.cdnsolution.net/en/media/setting/banner_FHsSzcWYKk.jpg"
-      ],
-      "description": ""
     },
     {
       "id": "4fabf150e60cfa73",
@@ -4876,23 +4816,6 @@
         "https://media.arthasarokar.com/uploads/2026/09/nepse-final.jpg"
       ],
       "description": "काठमाडौँ । नेपालीहरुको महान् चाड दशैँको बिदा आज (कात्तिक ९ गते) देखि सकिएको छ । आइतबार कोजाग्रत पूर्णिमा मनाइएसँगै दशैँको समापन भएको छ भने दशैँ बिदा पनि सकिएको छ । बिदा सकिएसँगै आज (सोमबार) देखि देशभरका सरकारी कार्यालय, विद्यालय, संघसंस्था, बैंक तथा वित्तीय संस्थाहरु पनि खुल्दैछन् । विभिन्न कार्यालयहरुसँगै सोमबारदेखि सेयर बजार पनि खुल्दैछ । Continue reading \"सकियो दशैँ बिदा, ९ दिनपछि खुल्दै सेयर बजार, के होला ?\""
-    },
-    {
-      "id": "83f4b9bef22d67a7",
-      "title": "क्रिकेट हेर्न र रमाउन देशभरका ९ सहरमा एक्सट्रीमका १० ‘फ्यान जोन’, प्रवेश निःशुल्क",
-      "link": "https://arthasarokar.com/2026/10/extreme-to-show-npl-live-in-10-locations-in-9-cities-across-the-country.html",
-      "source": "Artha Sarokar",
-      "sourceUrl": "https://arthasarokar.com/feed",
-      "pubDate": "2026-10-26T01:51:16+00:00",
-      "categories": [
-        "business",
-        "technology"
-      ],
-      "image": "https://media.arthasarokar.com/uploads/2026/10/FAN-Park-Xtream.jpg",
-      "images": [
-        "https://media.arthasarokar.com/uploads/2026/10/FAN-Park-Xtream.jpg"
-      ],
-      "description": "काठमाडौँ । एक्सट्रिम इनर्जी ड्रिङ्कसले विभिन्न सहरमा नेपाल प्रिमियर लिग (एनपीएल)को प्रत्यक्ष प्रशारण (लाइभ) देखाउने भएको छ । आज (कात्तिक ९ गते) देखि सुरु हुने एनपीएल सिजन–३ का खेलहरु एक्सट्रिमले लाइभ देखाउने भएको हो । एनपीएलको रौनक रंगशालामा मात्र सीमित नराखेर गाउँ सहरसम्मै पुर्याउने उद्धेश्यले एनपीएलको लाइभ देखाउने तयारी गरिएको एक्सट्रिमले जनाएको छ । एक्सट्रिमका Continue reading \"क्रिकेट हेर्न र रमाउन देशभरका ९ सहरमा एक्सट्रीमका १० ‘फ्यान जोन’, प्रवेश निःशुल्क\""
     },
     {
       "id": "4c072c1142c8b8f1",
@@ -5056,24 +4979,6 @@
         "https://media.nepalitimes.com/library/2026%20Central%20Nepal%20flood%2020.jpg"
       ],
       "description": "Nepal is pledged $20 million for its August catastrophe, but it covers only 0.4% of the damage, and conditions apply"
-    },
-    {
-      "id": "ebcaa1d65e04dad8",
-      "title": "टाइगर श्राफमाथि भएको हमलाले कसरी बलिवूडको विगतलाई सम्झाउँछ",
-      "link": "https://www.bbc.com/nepali/articles/cmkgqkpwvrl8o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News नेपाली",
-      "sourceUrl": "http://feeds.bbci.co.uk/nepali/rss.xml",
-      "pubDate": "2026-10-24T07:29:56+00:00",
-      "categories": [
-        "politics",
-        "business",
-        "technology"
-      ],
-      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/06e9/live/fea58430-cf66-11f1-93e1-3b657b665bcf.jpg",
-      "images": [
-        "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/06e9/live/fea58430-cf66-11f1-93e1-3b657b665bcf.jpg"
-      ],
-      "description": "सन् २०२४ मा सलमान खानको घरबाहिर र यसै वर्षको शुरूतिर चलचित्र निर्माता रोहित शेट्टीको घरमा भएको गोलीकाण्डसहित बलिवूडका धेरै जनाले धम्की एवं आक्रमणको सामना गर्नुपरेको घटनापछि टाइगर श्राफ निशानामा परेका हुन्।"
     },
     {
       "id": "28362ab11666a88d",
@@ -5746,24 +5651,6 @@
         "https://media.nepalitimes.com/cover/Turkish-3.jpg"
       ],
       "description": "Turkish Airlines carried 9 million passengers in September with a total load factor of 86.8%. The total number of passengers increased by 5.2%…"
-    },
-    {
-      "id": "f5072b5d1410da24",
-      "title": "रुसी ड्रोन बज्रिन लागेको देख्नासाथ भाग्दा ज्यान जोगियो",
-      "link": "https://www.bbc.com/nepali/watch/c83vqwy1kxk2o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News नेपाली",
-      "sourceUrl": "http://feeds.bbci.co.uk/nepali/rss.xml",
-      "pubDate": "2026-10-12T08:18:59+00:00",
-      "categories": [
-        "politics",
-        "business",
-        "technology"
-      ],
-      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/0440/live/86321990-c611-11f1-bc2e-018d645d8d21.jpg",
-      "images": [
-        "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/0440/live/86321990-c611-11f1-bc2e-018d645d8d21.jpg"
-      ],
-      "description": "गत साता स्भियातोत्रिभ्स्के गाउँस्थित एउटा उद्यान र खेलमैदाननजिकै ड्रोन बज्रिँदा ठूलो विस्फोटन भएको थियो।"
     }
   ]
 }
