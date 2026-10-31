@@ -1,10 +1,1209 @@
 {
-  "generatedAt": "2026-10-30T22:43:48.939339+00:00",
+  "generatedAt": "2026-10-31T01:50:34.852659+00:00",
   "feedCount": 41,
   "healthyFeeds": 24,
   "failedFeeds": 17,
-  "itemCount": 329,
+  "itemCount": 330,
   "items": [
+    {
+      "id": "68cee22b35d09db9",
+      "title": "Three killed, seven injured in Salyan jeep accident",
+      "link": "https://english.khabarhub.com/2026/31/573809/",
+      "source": "Khabarhub",
+      "sourceUrl": "https://english.khabarhub.com/feed/",
+      "pubDate": "2026-10-31T01:50:18+00:00",
+      "categories": [
+        "politics",
+        "business",
+        "world"
+      ],
+      "image": "",
+      "images": [],
+      "description": "SALYAN: Three people have died and seven others have been injured after a jeep plunged into a river in Salyan on Friday evening. The jeep (Lu. 1 Ja. 2368), travelling from Srinagar to Takura village, fell into a river approximately 150 metres below the road at Ratamate in Siddha Kumakh Rural Municipality-2. The accident occurred […]"
+    },
+    {
+      "id": "a68fb70bb6c72012",
+      "title": "पहिरोले बीपी राजमार्ग अवरुद्ध",
+      "link": "https://www.nepalviews.com/story/427389/landslide-blocks-bp-highway",
+      "source": "Nepal Views",
+      "sourceUrl": "https://www.nepalviews.com/feed/",
+      "pubDate": "2026-10-31T01:49:52+00:00",
+      "categories": [
+        "politics",
+        "business",
+        "technology"
+      ],
+      "image": "https://nepalviews.cdnsolution.net/en/media/setting/banner_FHsSzcWYKk.jpg",
+      "images": [
+        "https://nepalviews.cdnsolution.net/en/media/setting/banner_FHsSzcWYKk.jpg"
+      ],
+      "description": ""
+    },
+    {
+      "id": "9a2469370038f3e9",
+      "title": "भोटेकोसीको भेलबाढी र दसैँ",
+      "link": "https://baahrakhari.com/detail/506170",
+      "source": "Baahrakhari",
+      "sourceUrl": "https://baahrakhari.com/feed",
+      "pubDate": "2026-10-31T01:47:10+00:00",
+      "categories": [
+        "politics",
+        "business",
+        "society"
+      ],
+      "image": "",
+      "images": [],
+      "description": ""
+    },
+    {
+      "id": "66045627bf7449b9",
+      "title": "उपत्यकामा २४ घण्टामा ३१४ सवारीसाधनमाथि कारबाही",
+      "link": "https://nepallive.com/story/352496",
+      "source": "Nepal Live",
+      "sourceUrl": "https://nepallive.com/feed",
+      "pubDate": "2026-10-31T01:46:53+00:00",
+      "categories": [
+        "politics",
+        "technology"
+      ],
+      "image": "",
+      "images": [],
+      "description": "काठमाडौं उपत्यकामा ट्राफिक नियम उल्लङ्घन गर्ने ३१४ सवारीसाधनमाथि कारबाही गरिएको छ।"
+    },
+    {
+      "id": "b5fa1d5732a85cfd",
+      "title": "समाचार कक्षमै प्रवेश गरेर पत्रकार पक्राउ गर्नु प्रेस स्वतन्त्रताको गम्भीर उल्लङ्घन : बराल",
+      "link": "https://www.dainiknepal.com/2026/10/847602.html",
+      "source": "Dainik Nepal",
+      "sourceUrl": "https://dainiknepal.com/feed",
+      "pubDate": "2026-10-31T01:45:15+00:00",
+      "categories": [
+        "politics",
+        "sports"
+      ],
+      "image": "",
+      "images": [],
+      "description": "काठमाडौं । पत्रकार शोभराज बरालले समाचार कक्षमै प्रवेश गरेर पत्रकारलाई पक्राउ गर्नु तथा समाचार सम्प्रेषणमा अवरोध पुर्‍याउनु प्रेस तथा अभिव्यक्ति स्वतन्त्रताको गम्भीर उल्लङ्घन भएको बताएका छन् । शुक्रबार करिब पाँच घण्टा प्रहरी नियन्त्रणमा बसेर रिहा भएपछि सामाजिक सञ्जालमा लेख्दै उनले आफ्नो पक्राउप्रति चिन्ता व्यक्त गर्दै रिहाइका लागि पहल गर्ने नेपाल पत्रकार महासंघ, अनलाइन टिभी पत्रकार […]"
+    },
+    {
+      "id": "9a607d2abc002129",
+      "title": "उपल्लो मुस्ताङमा भारी हिमपात",
+      "link": "https://gorkhapatraonline.com/news/227769",
+      "source": "Gorkhapatra",
+      "sourceUrl": "https://gorkhapatraonline.com/rss",
+      "pubDate": "2026-10-31T01:43:54+00:00",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "image": "https://gorkhapatraonline.com/storage/media/389656/conversions/Himpat_mustang-original.jpg",
+      "images": [
+        "https://gorkhapatraonline.com/storage/media/389656/conversions/Himpat_mustang-original.jpg"
+      ],
+      "description": "मुस्ताङ (मुक्तिनाथ), कात्तिक १४ गते । बंगालको खाडीमा विकसित चक्रवात ‘अर्णव’को प्रभाव गएरातिदेखि मुस्ताङमा हिमपात भएको छ । उपल्लो मुस्ताङको लोमान्थाङ र लोघेकर दामोदर कुण्ड गाउँपालिक..."
+    },
+    {
+      "id": "6853b2c734f89a2b",
+      "title": "कर्णालीमा ८ वर्ष पुराना आयोजना रुग्ण, जिम्मेवारी पूरा नगर्ने ठेकदारलाई कडाइ गर्दै सरकार",
+      "link": "https://www.ratopati.com/story/602364/8-year-old-projects-in-karnali-are-sick-government-is-taking-strict-action-against-contractors-who-do-not-fulfill-their-responsibilities",
+      "source": "Ratopati",
+      "sourceUrl": "https://ratopati.com/feed",
+      "pubDate": "2026-10-31T01:42:33+00:00",
+      "categories": [
+        "politics",
+        "sports"
+      ],
+      "image": "https://npcdn.ratopati.com/media/news/karnali_wGE3VNSE5Y.webp",
+      "images": [
+        "https://npcdn.ratopati.com/media/news/karnali_wGE3VNSE5Y.webp"
+      ],
+      "description": "सुर्खेत । कर्णाली सरकारले ८ वर्ष पहिले ल्याएका कतिपय सडक पूर्वाधारका ठुला आयोजना अहिले पनि रुग्ण अवस्थामा छन् । महेन्द्रबहादुर शाही नेतृत्वको तत्कालीन सरकारले आफ्नो रणनीतिक योजना भन्दै २०७७ सालमा ल्याएको रानीघाट–तेलपानी भुरीगाउँ सडकको काम सुरु"
+    },
+    {
+      "id": "6ae57f8d8d0c8d4e",
+      "title": "अमेरिकी निर्वाचनमा नेपाली",
+      "link": "https://gorkhapatraonline.com/news/227768",
+      "source": "Gorkhapatra",
+      "sourceUrl": "https://gorkhapatraonline.com/rss",
+      "pubDate": "2026-10-31T01:41:58+00:00",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "image": "https://gorkhapatraonline.com/storage/media/389655/conversions/11-original.jpg",
+      "images": [
+        "https://gorkhapatraonline.com/storage/media/389655/conversions/11-original.jpg"
+      ],
+      "description": "औपचारिक रूपमा नेपाल र अमेरिकाबिच कूटनीतिक सम्बन्ध स्थापनाको आठ दशक हुँदै छ भने नेपालीले पाइला टेकेको १०७ वर्ष पुगेको छ । अमेरिका बेलायतपछि नेपालले कूटनीतिक सम्बन्ध कायम गरेको दोस्..."
+    },
+    {
+      "id": "3af18cffe72a158f",
+      "title": "आजको लागि विदेशी मुद्राको विनिमयदर",
+      "link": "https://www.nepalviews.com/story/427388/foreign-exchange-rates-for-today",
+      "source": "Nepal Views",
+      "sourceUrl": "https://www.nepalviews.com/feed/",
+      "pubDate": "2026-10-31T01:41:08+00:00",
+      "categories": [
+        "politics",
+        "business",
+        "technology"
+      ],
+      "image": "https://nepalviews.cdnsolution.net/en/media/setting/banner_FHsSzcWYKk.jpg",
+      "images": [
+        "https://nepalviews.cdnsolution.net/en/media/setting/banner_FHsSzcWYKk.jpg"
+      ],
+      "description": ""
+    },
+    {
+      "id": "c043dbd447e687f8",
+      "title": "चीनको १४ सदस्यीय साहित्यक टोली काठमाडौंमा",
+      "link": "https://www.thahakhabar.com/detail/311134",
+      "source": "Thaha Khabar",
+      "sourceUrl": "https://www.thahakhabar.com/feed",
+      "pubDate": "2026-10-31T01:39:29+00:00",
+      "categories": [
+        "politics",
+        "business",
+        "sports"
+      ],
+      "image": "https://www.thahakhabar.com/uploads/posts/China-1793410747.jpg",
+      "images": [
+        "https://www.thahakhabar.com/uploads/posts/China-1793410747.jpg"
+      ],
+      "description": ""
+    },
+    {
+      "id": "28ba5c7d6d67b436",
+      "title": "डोल्पाको खदाङ पुल निर्माणमा विवाद, सम्झौताको ५ वर्ष पुग्दा पनि सुरु भएन काम",
+      "link": "https://www.onlinekhabar.com/2026/10/2047695/dispute-over-construction-of-khadang-bridge-in-dolpa-work-has-not-started-even-after-5-years-of-contract",
+      "source": "Online Khabar",
+      "sourceUrl": "https://www.onlinekhabar.com/feed",
+      "pubDate": "2026-10-31T01:38:57+00:00",
+      "categories": [
+        "politics",
+        "business",
+        "sports",
+        "technology",
+        "entertainment"
+      ],
+      "image": "",
+      "images": [],
+      "description": "१४ कात्तिक, डोल्पा । भेरी करिडोरअन्तर्गत जाजरकोट–डोल्पा सडकखण्डमा पर्ने डोल्पाको त्रिपुरासुन्दरी नगरपालिका–५ खदाङस्थित पुल निर्माणमा विवाद देखिएको छ। २०७८ सालमा ठेक्का सम्झौता भएको पुलको निर्माण कार्य सम्झौताअनुसारको समयसीमा सकिँदासमेत सुरु हुन सकेको छैन। पुल निर्माणमा देखिएको विवाद समाधानका लागि मंगलबार जिल्ला प्रशासन कार्यालय डोल्पाकी प्रमुख जिल्ला अधिकारी जुनु हमाल ढकालको नेतृत्वमा पुल सेक्टरका प्रमुख तथा […]"
+    },
+    {
+      "id": "f34159671080c913",
+      "title": "302 ropanis of public land comes under govt ownership",
+      "link": "https://risingnepaldaily.com/news/88250",
+      "source": "The Rising Nepal",
+      "sourceUrl": "https://risingnepaldaily.com/rss",
+      "pubDate": "2026-10-31T01:36:32+00:00",
+      "categories": [
+        "politics",
+        "business",
+        "world",
+        "sports"
+      ],
+      "image": "",
+      "images": [],
+      "description": "By A Staff Reporter, Kathmandu, Oct. 31: A total of 302 ropanis of land in seven wards of Kathmandu Metropolitan City (K..."
+    },
+    {
+      "id": "d506c474fbce3d6c",
+      "title": "बिपी राजमार्ग अवरुद्ध",
+      "link": "https://www.thahakhabar.com/detail/311133",
+      "source": "Thaha Khabar",
+      "sourceUrl": "https://www.thahakhabar.com/feed",
+      "pubDate": "2026-10-31T01:36:06+00:00",
+      "categories": [
+        "politics",
+        "business",
+        "sports"
+      ],
+      "image": "https://www.thahakhabar.com/uploads/posts/bp-rajmarg-1777168803.jpg",
+      "images": [
+        "https://www.thahakhabar.com/uploads/posts/bp-rajmarg-1777168803.jpg"
+      ],
+      "description": ""
+    },
+    {
+      "id": "0d06537b09b11c81",
+      "title": "एनपीएल फिवर -३",
+      "link": "https://www.nepalviews.com/story/427387/npl-fever-3",
+      "source": "Nepal Views",
+      "sourceUrl": "https://www.nepalviews.com/feed/",
+      "pubDate": "2026-10-31T01:34:42+00:00",
+      "categories": [
+        "politics",
+        "business",
+        "technology"
+      ],
+      "image": "https://nepalviews.cdnsolution.net/en/media/setting/banner_FHsSzcWYKk.jpg",
+      "images": [
+        "https://nepalviews.cdnsolution.net/en/media/setting/banner_FHsSzcWYKk.jpg"
+      ],
+      "description": ""
+    },
+    {
+      "id": "35b8b359a07ac78d",
+      "title": "चक्रवात ‘अर्नब’को प्रभावले तीन प्रदेशमा भारी वर्षाको सम्भावना",
+      "link": "https://nepalnews.com/2026/10/31/heavy-rains-likely-in-three-provinces-due-to-the-impact-of-cyclone-arnab/",
+      "source": "Nepal News",
+      "sourceUrl": "https://nepalnews.com/feed",
+      "pubDate": "2026-10-31T01:29:46+00:00",
+      "categories": [
+        "politics",
+        "business",
+        "world"
+      ],
+      "image": "",
+      "images": [],
+      "description": "काठमाडौँ। बङ्गालको खाडीमा विकसित चक्रवात ‘अर्नब’को अवशेष र पश्चिमी वायुको आंशिक प्रभाव हाल देशभर रहेको जनाउँदै मौसम पूर्वानुमान महाशाखाले देशभर अधिकांश स्थानमा बादल लागेको बताएको छ। अहिले कोशी, मधेस, बागमती, गण्डकी र लुम्बिनी प्रदेशका धेरै स्थानमा मध्यम वर्षा भइरहेको छ भने कर्णाली र सुदूरपश्चिम प्रदेशका केही स्थानमा हल्का वर्षा भइरहेको छ। आज दिउँसो सबै प्रदेशमा बादल […]"
+    },
+    {
+      "id": "37f04ebc06d0de79",
+      "title": "दिल्लीस्थित एक जुत्ता कारखानामा आगलागी, चार जनाको मृत्यु",
+      "link": "https://www.onlinekhabar.com/2026/10/2047690/fire-breaks-out-at-a-shoe-factory-in-delhi-four-dead",
+      "source": "Online Khabar",
+      "sourceUrl": "https://www.onlinekhabar.com/feed",
+      "pubDate": "2026-10-31T01:26:38+00:00",
+      "categories": [
+        "politics",
+        "business",
+        "sports",
+        "technology",
+        "entertainment"
+      ],
+      "image": "",
+      "images": [],
+      "description": "१४ कात्तिक, काठमाडौं । दिल्लीको मंगोलपुरीमा रहेको जुत्ता कारखानामा आगलागी हुँदा कम्तीमा चार जनाको मृत्यु भएको छ। प्रहरी अधिकारीहरूका अनुसार घटना शुक्रबार राति साढे ९ बजे मंगोलपुरी औद्योगिक क्षेत्र, फेज-१ को बी-२९३/२९४ मा भएको थियो। एक वरिष्ठ प्रहरी अधिकारीका अनुसार कारखाना भित्र छ जना बेहोस अवस्थामा फेला परेका थिए । सबैलाई तुरुन्तै उद्धार गरी उपचारका […]"
+    },
+    {
+      "id": "090289b5b807c4e1",
+      "title": "दिनभर वर्षाको सम्भावना, एनपीएलका दुवै खेल प्रभावित हुने जोखिम",
+      "link": "https://nepallive.com/story/352495",
+      "source": "Nepal Live",
+      "sourceUrl": "https://nepallive.com/feed",
+      "pubDate": "2026-10-31T01:26:18+00:00",
+      "categories": [
+        "politics",
+        "technology"
+      ],
+      "image": "",
+      "images": [],
+      "description": "काठमाडौं उपत्यकामा शनिबार दिनभर वर्षाको सम्भावना रहेपछि नेपाल प्रिमियर लिग (एनपीएल) क्रिकेटका दुई खेल प्रभावित हुने जोखिम बढेको छ।"
+    },
+    {
+      "id": "c18bc4e359bc7431",
+      "title": "खानेपानी तथा सरसफाइ अवस्थाको प्रतिवेदन सार्वजनिक",
+      "link": "https://nepalnews.com/2026/10/31/report-on-water-supply-and-sanitation-status-made-public/",
+      "source": "Nepal News",
+      "sourceUrl": "https://nepalnews.com/feed",
+      "pubDate": "2026-10-31T01:26:12+00:00",
+      "categories": [
+        "politics",
+        "business",
+        "world"
+      ],
+      "image": "",
+      "images": [],
+      "description": "ललितपुर। राष्ट्रिय तथ्याङ्क कार्यालयले देशभरका ७५३ वटै स्थानीय तहको खानेपानी, सरसफाइ तथा स्वच्छता (वास) अवस्थाको विश्लेषण गरी तयार पारेको सूचकाङ्क सहितको तथ्याङ्क प्रतिवेदन सार्वजनिक गरेको छ। राष्ट्रिय तथ्याङ्क कार्यालयले शुक्रबार ललितपुरमा आयोजना गरेको कार्यक्रममा नेपालमा खानेपानी तथा सरसफाइको अवस्था विषयक प्रतिवेदन सार्वजनिक गर्दै राष्ट्रिय तथ्याङ्क कार्यालयका प्रमुख तथ्याङ्क अधिकारी लक्ष्मी बस्नेतले खानेपानी तथा सरसफाइका क्षेत्रमा […]"
+    },
+    {
+      "id": "8da6aabf52f4091f",
+      "title": "Nepal-India agree to strengthen border security",
+      "link": "https://risingnepaldaily.com/news/88249",
+      "source": "The Rising Nepal",
+      "sourceUrl": "https://risingnepaldaily.com/rss",
+      "pubDate": "2026-10-31T01:25:20+00:00",
+      "categories": [
+        "politics",
+        "business",
+        "world",
+        "sports"
+      ],
+      "image": "",
+      "images": [],
+      "description": "By A Staff Reporter,Kathmandu, Oct. 31: Nepal and India have agreed to strengthen border security, enhance technology-ba..."
+    },
+    {
+      "id": "90552c90ca23ce58",
+      "title": "फूल महोत्सवले निम्त्याउँदै तिहार",
+      "link": "https://gorkhapatraonline.com/news/227767",
+      "source": "Gorkhapatra",
+      "sourceUrl": "https://gorkhapatraonline.com/rss",
+      "pubDate": "2026-10-31T01:23:19+00:00",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "image": "https://gorkhapatraonline.com/storage/media/389654/conversions/godabari-expo-pic-bya-shiva-tamang-(1)-original.jpg",
+      "images": [
+        "https://gorkhapatraonline.com/storage/media/389654/conversions/godabari-expo-pic-bya-shiva-tamang-(1)-original.jpg"
+      ],
+      "description": "गोरखापत्र समाचारदाता ललितपुर, कात्तिक १४ गते । नेपाली चाडपर्व तिहार तथा छठपर्वका अवसरमा १९ औँ गोदावरी फूल प्रतियोगितात्मक प्रदर्शनी सुरु भएको छ । ललितपुरको जावलाखेल खेल मैदानमा बिह..."
+    },
+    {
+      "id": "ec57f6407a80e9ff",
+      "title": "लगातार दोस्रो जितको लक्ष्यसहित लुम्बिनी र चितवन भिड्दै",
+      "link": "https://www.onlinekhabar.com/2026/10/2047617/lumbini-and-chitwan-clash-with-the-goal-of-a-second-consecutive-win",
+      "source": "Online Khabar",
+      "sourceUrl": "https://www.onlinekhabar.com/feed",
+      "pubDate": "2026-10-31T01:21:00+00:00",
+      "categories": [
+        "politics",
+        "business",
+        "sports",
+        "technology",
+        "entertainment"
+      ],
+      "image": "",
+      "images": [],
+      "description": "पहिलो खेल जितेका दुवै टोली लगातार दोस्रो जितको लक्ष्यसहित मैदान उत्रनेछन्। तर खेलमा वर्षा बाधक बन्ने सम्भावना छ।"
+    },
+    {
+      "id": "ffe23edb2511de77",
+      "title": "निरुतालाई मानार्थ उपाधि",
+      "link": "https://gorkhapatraonline.com/news/227766",
+      "source": "Gorkhapatra",
+      "sourceUrl": "https://gorkhapatraonline.com/rss",
+      "pubDate": "2026-10-31T01:20:02+00:00",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "image": "https://gorkhapatraonline.com/storage/media/389653/conversions/222-original.jpg",
+      "images": [
+        "https://gorkhapatraonline.com/storage/media/389653/conversions/222-original.jpg"
+      ],
+      "description": "काठमाडौँ, कात्तिक १४ गते । नेपाली फिल्म क्षेत्रकी लोकप्रिय अभिनेतृ निरुता सिंहलाई मानार्थ मिसेस नेपाल वर्ल्ड–२०२६ को उपाधिबाट सम्मानित गरिने भएको छ । रिबन इन्टरटेनमेन्ट प्रालिले शन..."
+    },
+    {
+      "id": "15e713fd7ab48758",
+      "title": "RSP calls Secretariat meeting following arrest of journalists",
+      "link": "https://english.khabarhub.com/2026/31/573806/",
+      "source": "Khabarhub",
+      "sourceUrl": "https://english.khabarhub.com/feed/",
+      "pubDate": "2026-10-31T01:19:33+00:00",
+      "categories": [
+        "politics",
+        "business",
+        "world"
+      ],
+      "image": "",
+      "images": [],
+      "description": "KATHMANDU: The ruling Rastriya Swatantra Party (RSP) has called a Secretariat meeting following the arrest of several journalists by plainclothes police personnel. Party Chair Rabi Lamichhane has convened the meeting for 11 am today (Saturday). A party leader said a message was sent to Secretariat members on Friday night, asking them to attend the meeting […]"
+    },
+    {
+      "id": "d1ce00494bcf3ed5",
+      "title": "सात तालको लयमा गुन्जियो भैरव नाच",
+      "link": "https://gorkhapatraonline.com/news/227765",
+      "source": "Gorkhapatra",
+      "sourceUrl": "https://gorkhapatraonline.com/rss",
+      "pubDate": "2026-10-31T01:16:30+00:00",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "image": "https://gorkhapatraonline.com/storage/media/389652/conversions/bhairab-original.jpg",
+      "images": [
+        "https://gorkhapatraonline.com/storage/media/389652/conversions/bhairab-original.jpg"
+      ],
+      "description": "अर्घाखाँची समाचारदाताअर्घाखाँची, कात्तिक १४ गते । पुस्तौँदेखिको सांस्कृतिक विरासतसँग जोडिएको भैरव नाचले अर्घाखाँचीका हजारौँ दर्शकलाई मन्त्रमुग्ध बनाएको छ । सात वटा फरक ताल, परम्परा..."
+    },
+    {
+      "id": "9e5288581103bb63",
+      "title": "त्यो अनौठो माकुरो",
+      "link": "https://nepalnews.com/2026/10/31/that-strange-spider/",
+      "source": "Nepal News",
+      "sourceUrl": "https://nepalnews.com/feed",
+      "pubDate": "2026-10-31T01:15:01+00:00",
+      "categories": [
+        "politics",
+        "business",
+        "world"
+      ],
+      "image": "https://nepalnews.com/wp-content/uploads/2026/10/Cover-Makuro.jfif_.jpeg",
+      "images": [
+        "https://nepalnews.com/wp-content/uploads/2026/10/Cover-Makuro.jfif_.jpeg"
+      ],
+      "description": "तमिना विद्यालय जाँदै थिइन्। छेवैमा एउटा बडेमानको बगैँचा थियो। बालबालिकादेखि वृद्धवृद्धासम्म सडक र बगैँचामा यताउता गरिरहेका थिए। उनका पाइला पनि अघि बढ्दै थिए। सडकको कुनामा एउटा पर्खाल थियो। पुरानो पर्खालमा झारहरू उम्रिएका थिए। त्यहाँ उनले एउटा चम्किलो वस्तु देखिन्। तमिना टक्क रोकिएर हेर्न थालिन्। उनका आँखा अचम्मले ठूला भए। त्यहाँ एउटा ठूलो जालो थियो। जालो […]"
+    },
+    {
+      "id": "097fa2454b4252b7",
+      "title": "पछिल्लो २४ घण्टामा सबैभन्दा धेरै वर्षा मनाङमा",
+      "link": "https://www.ratopati.com/story/602362/manang-receives-the-most-rainfall-in-the-last-24-hours",
+      "source": "Ratopati",
+      "sourceUrl": "https://ratopati.com/feed",
+      "pubDate": "2026-10-31T01:13:58+00:00",
+      "categories": [
+        "politics",
+        "sports"
+      ],
+      "image": "https://npcdn.ratopati.com/media/news/02-rain-541_qUs9IJUX0q.webp",
+      "images": [
+        "https://npcdn.ratopati.com/media/news/02-rain-541_qUs9IJUX0q.webp"
+      ],
+      "description": "काठमाडौँ । बङ्गालको खाडीमा विकसित चक्रवात “अर्नब” को अवशेष र पश्चिमी वायुको आंशिक प्रभावका कारण पछिल्लो २४ घण्टामा सबैभन्दा धेरै वर्षा मनाङमा भएको छ । मौसम पूर्वानुमान महाशाखाका अनुसार यो अवधिमा सबैभन्दा धेरै वर्षा मनाङ जिल्लाको"
+    },
+    {
+      "id": "a42c2d6bcd2251a7",
+      "title": "NRB issues today’s foreign currency exchange rates",
+      "link": "https://english.khabarhub.com/2026/31/573804/",
+      "source": "Khabarhub",
+      "sourceUrl": "https://english.khabarhub.com/feed/",
+      "pubDate": "2026-10-31T01:13:34+00:00",
+      "categories": [
+        "politics",
+        "business",
+        "world"
+      ],
+      "image": "",
+      "images": [],
+      "description": "KATHMANDU: Nepal Rastra Bank (NRB) has announced the foreign currency exchange rates for today, fixing the buying and selling rates of major international currencies against the Nepali rupee. According to the central bank, the buying rate of one US dollar has been fixed at Rs 151.63, while the selling rate stands at Rs 152.23. Similarly, […]"
+    },
+    {
+      "id": "8eedca0ecdb26e47",
+      "title": "चक्रवात ‘अर्नब’को प्रभाव, केही प्रदेशमा भारी वर्षाको सम्भावना",
+      "link": "https://newsofnepal.com/2026/10/31/792725/",
+      "source": "News of Nepal",
+      "sourceUrl": "https://newsofnepal.com/feed/",
+      "pubDate": "2026-10-31T01:13:32+00:00",
+      "categories": [
+        "politics",
+        "business",
+        "sports"
+      ],
+      "image": "https://newsofnepal.com/wp-content/uploads/2024/09/mausam-2-150x150.jpg",
+      "images": [
+        "https://newsofnepal.com/wp-content/uploads/2024/09/mausam-2-150x150.jpg"
+      ],
+      "description": "काठमाडौँ । बङ्गालको खाडीमा विकसित चक्रवात ‘अर्नब’को अवशेष र पश्चिमी वायुको प्रभावले देशका विभिन्न स्थानमा वर्षा भइरहेको छ। मौसम पूर्वानुमान महाशाखाका अनुसार आज अपराह्नदेखि मौसममा क्रमिक सुधार हुँदै जानेछ। आज कोशी, मधेस र बागमती प्रदेशका केही स्थानमा भारी वर्षा तथा हिमपातको सम्भावना रहेको छ। त्यस्तै, गण्डकी, लुम्बिनी, कर्णाली र सुदूरपश्चिम प्रदेशका पहाडी तथा हिमाली क्षेत्रमा […]"
+    },
+    {
+      "id": "0f3277d686cfee80",
+      "title": "कर्णाली र सुदूरपश्चिमको आर्थिक गतिविधि सुस्त",
+      "link": "https://gorkhapatraonline.com/news/227764",
+      "source": "Gorkhapatra",
+      "sourceUrl": "https://gorkhapatraonline.com/rss",
+      "pubDate": "2026-10-31T01:12:42+00:00",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "image": "https://gorkhapatraonline.com/storage/media/389651/conversions/nrb-NEw-original.jpg",
+      "images": [
+        "https://gorkhapatraonline.com/storage/media/389651/conversions/nrb-NEw-original.jpg"
+      ],
+      "description": "गोरखापत्र समाचारदाताकाठमाडौँ, कात्तिक १४ गते । कर्णाली र सुदूरपश्चिम प्रदेशमा आर्थिक गतिविधि अपेक्षाकृत विस्तार हुन नसक्दा गत आर्थिक वर्ष २०८२/८३ मा प्रदेशहरूको आर्थिक वृद्धिदर राष..."
+    },
+    {
+      "id": "aa9a12f93c49dc26",
+      "title": "Nepal finish 163rd at FIFA U-15 World Cup",
+      "link": "https://risingnepaldaily.com/news/88247",
+      "source": "The Rising Nepal",
+      "sourceUrl": "https://risingnepaldaily.com/rss",
+      "pubDate": "2026-10-31T01:12:03+00:00",
+      "categories": [
+        "politics",
+        "business",
+        "world",
+        "sports"
+      ],
+      "image": "",
+      "images": [],
+      "description": "By A Staff Reporter, Kathmandu, Oct. 31: Nepal finished 163rd overall at the FIFA U-15 World Cup & Festival 2026 aft..."
+    },
+    {
+      "id": "b5b1f00c94a48431",
+      "title": "अलपत्र तरकारी बजार सञ्चालनको तयारी",
+      "link": "https://gorkhapatraonline.com/news/227763",
+      "source": "Gorkhapatra",
+      "sourceUrl": "https://gorkhapatraonline.com/rss",
+      "pubDate": "2026-10-31T01:08:58+00:00",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "image": "https://gorkhapatraonline.com/storage/media/389650/conversions/Untitled-1-original.jpg",
+      "images": [
+        "https://gorkhapatraonline.com/storage/media/389650/conversions/Untitled-1-original.jpg"
+      ],
+      "description": "सर्लाही समाचारदातासर्लाही, कात्तिक १४ गते । सर्लाहीको लालबन्दी नगरपालिका–१७, रानीगन्जस्थित महेन्द्र राजमार्गको आडैमा निर्माण गरिएको तरकारी बजार सञ्चालनमा ल्याउने तयारी गरिएको छ । ब..."
+    },
+    {
+      "id": "673f4e0e66baa7ed",
+      "title": "BP Highway blocked by landslides",
+      "link": "https://english.khabarhub.com/2026/31/573801/",
+      "source": "Khabarhub",
+      "sourceUrl": "https://english.khabarhub.com/feed/",
+      "pubDate": "2026-10-31T01:08:56+00:00",
+      "categories": [
+        "politics",
+        "business",
+        "world"
+      ],
+      "image": "",
+      "images": [],
+      "description": "KAVREPALANCHOK: The BP Highway has been completely blocked following landslides at Pinthali in Roshi Rural Municipality-9 and Gimdibesi in Roshi Rural Municipality-8. Rabin Bista, information officer at the District Police Office, said the road would not be reopened immediately as rainfall continues. He urged the general public to check the condition of the highway before […]"
+    },
+    {
+      "id": "2d15537da1013e5d",
+      "title": "शनिबारका लागि विदेशी मुद्राको विनिमयदर निर्धारण",
+      "link": "https://nepalnews.com/2026/10/31/foreign-currency-exchange-rates-for-saturday/",
+      "source": "Nepal News",
+      "sourceUrl": "https://nepalnews.com/feed",
+      "pubDate": "2026-10-31T01:04:55+00:00",
+      "categories": [
+        "politics",
+        "business",
+        "world"
+      ],
+      "image": "",
+      "images": [],
+      "description": "काठमाडौँ। नेपाल राष्ट्र बैंकले आज (शनिबार)का लागि विदेशी मुद्राको विनिमयदर निर्धारण गरेको छ। राष्ट्र बैंकका अनुसार अमेरिकी डलर एकको खरिददर १५१ रुपैयाँ ६३ पैसा र बिक्रीदर १५२ रुपैयाँ २३ पैसा निर्धारण गरिएको छ। युरोपियन युरो एकको खरिददर १६९ रुपैयाँ ८६ पैसा र बिक्रीदर १७० रुपैयाँ ५४ पैसा, युके पाउन्ड स्ट्रलिङ एकको खरिददर २०३ रुपैयाँ ६६ […]"
+    },
+    {
+      "id": "31dbc36055567350",
+      "title": "Cyclone Arnab brings heavy rain, weather to improve tomorrow",
+      "link": "https://english.khabarhub.com/2026/31/573799/",
+      "source": "Khabarhub",
+      "sourceUrl": "https://english.khabarhub.com/feed/",
+      "pubDate": "2026-10-31T01:04:34+00:00",
+      "categories": [
+        "politics",
+        "business",
+        "world"
+      ],
+      "image": "",
+      "images": [],
+      "description": "KATHMANDU: The remnants of Cyclone Arnab, combined with the influence of westerly winds, are likely to bring heavy rain and snowfall to parts of three provinces, prompting authorities to urge farmers and tourists to exercise caution. The weather is expected to improve from tomorrow afternoon. Moderate rainfall is currently being reported in many places across […]"
+    },
+    {
+      "id": "5440455f3f57152b",
+      "title": "सातै प्रदेशमा वर्षा र हिमपातको सम्भावना, कोशी–मधेश–बागमतीमा भारी वर्षा हुन सक्ने",
+      "link": "https://nepallive.com/story/352494",
+      "source": "Nepal Live",
+      "sourceUrl": "https://nepallive.com/feed",
+      "pubDate": "2026-10-31T01:04:21+00:00",
+      "categories": [
+        "politics",
+        "technology"
+      ],
+      "image": "",
+      "images": [],
+      "description": "बङ्गालको खाडीमा विकसित चक्रवात ‘अर्नब’ को अवशेष र पश्चिमी वायुको आंशिक प्रभावका कारण शनिबार देशका अधिकांश स्थानमा वर्षा हुने भएको छ।"
+    },
+    {
+      "id": "18bdbd7832772390",
+      "title": "Panche Baja, Hudke dance gaining popularity",
+      "link": "https://risingnepaldaily.com/news/88246",
+      "source": "The Rising Nepal",
+      "sourceUrl": "https://risingnepaldaily.com/rss",
+      "pubDate": "2026-10-31T01:03:14+00:00",
+      "categories": [
+        "politics",
+        "business",
+        "world",
+        "sports"
+      ],
+      "image": "",
+      "images": [],
+      "description": "By Prem raj Simkhada, Kalikot, Oct. 31: Panche Baja, a traditional musical ensemble, and the Hudke dance, once popular i..."
+    },
+    {
+      "id": "24896333bc5dd195",
+      "title": "थप छ हिमाललाई अन्तर्राष्ट्रिय मान्यता दिलाउन पहल",
+      "link": "https://gorkhapatraonline.com/news/227762",
+      "source": "Gorkhapatra",
+      "sourceUrl": "https://gorkhapatraonline.com/rss",
+      "pubDate": "2026-10-31T01:02:19+00:00",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "image": "https://gorkhapatraonline.com/storage/media/389649/conversions/thap-himal-original.jpg",
+      "images": [
+        "https://gorkhapatraonline.com/storage/media/389649/conversions/thap-himal-original.jpg"
+      ],
+      "description": "गोरखापत्र समाचारदाताकाठमाडौँ, कात्तिक १४ गते । नेपालले आठ हजार मिटरभन्दा अग्ला थप छ वटा हिमाललाई छुट्टै हिमालका रूपमा अन्तर्राष्ट्रिय मान्यता दिलाउन औपचारिक प्रस्ताव अघि सारेको छ ।..."
+    },
+    {
+      "id": "700ec1f216fa4e4a",
+      "title": "सल्यानमा जीप दुर्घटना हुँदा तीनजनाको मृत्यु",
+      "link": "https://himalpress.com/2026/10/three-killed-in-jeep-accident-in-salyan/",
+      "source": "Himal Press",
+      "sourceUrl": "https://himalpress.com/feed/",
+      "pubDate": "2026-10-31T01:01:37+00:00",
+      "categories": [
+        "politics",
+        "business",
+        "society"
+      ],
+      "image": "",
+      "images": [],
+      "description": "काठमाडौँ- सल्यानमा जीप दुर्घटना हुँदा तीनजनाको मृत्यु भएको छ भने सातजना घाइते भएका छन् । प्रहरीका अनुसार सल्यानको सिद्ध कुमाख गाउँपालिका–२, रातामाटेस्थित भित्री कच्ची सडकखण्डमा उक्त दुर्घटना भएको हो । शुक्रबार साँझ करिब ६:३५ बजे श्रीनगरबाट टाकुरा गाउँतर्फ जाँदै गरेको लु.१ ज २३६८ नम्बरको जीप सडकबाट करिब १५० मिटर तल खोलामा खसेर दुर्घटना भएको प्रहरीले […]"
+    },
+    {
+      "id": "abe62662cd0fc356",
+      "title": "वर्षापछि बिपी राजमार्ग अवरुद्ध",
+      "link": "https://www.onlinekhabar.com/2026/10/2047680/bp-highway-blocked-after-rain",
+      "source": "Online Khabar",
+      "sourceUrl": "https://www.onlinekhabar.com/feed",
+      "pubDate": "2026-10-31T01:01:00+00:00",
+      "categories": [
+        "politics",
+        "business",
+        "sports",
+        "technology",
+        "entertainment"
+      ],
+      "image": "",
+      "images": [],
+      "description": "१४ कात्तिक, काभ्रेपलाञ्चोक । रोशी गाउँपालिका-९ पिन्थलीमा पहिरो खसेपछि बिपी राजमार्ग अवरुद्ध भएको छ । जिल्ला प्रहरी कार्यालयले रोशी गाउँपालिका–८ गिम्दीबेँसीमा पनि पहिरो खसेको जनाउँदै उक्त राजमार्ग पूर्ण रूपमा अवरुद्ध भएको बताएको छ । वर्षा जारी रहेकाले तत्काल बाटो खोल्न सहज नहुने उक्त कार्यालयका सूचना अधिकारी रविन विष्टले राससलाई बताउनुभयो । राजमार्गको अवस्था बुझेर मात्र […]"
+    },
+    {
+      "id": "c5f00fd6dc8c0440",
+      "title": "चक्रवात ‘अर्णव’को प्रभावले तीन प्रदेशमा भारी वर्षाको सम्भावना, भोलिदेखि मौसममा केही सुधार हुने",
+      "link": "https://gorkhapatraonline.com/news/227761",
+      "source": "Gorkhapatra",
+      "sourceUrl": "https://gorkhapatraonline.com/rss",
+      "pubDate": "2026-10-31T01:00:10+00:00",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "image": "https://gorkhapatraonline.com/storage/media/389648/conversions/day_2_1793362258565-original.jpg",
+      "images": [
+        "https://gorkhapatraonline.com/storage/media/389648/conversions/day_2_1793362258565-original.jpg"
+      ],
+      "description": "काठमाडौँ, कात्तिक १४ गते । बङ्गालको खाडीमा विकसित चक्रवात ‘अर्णव’को अवशेष र पश्चिमी वायुको आंशिक प्रभाव हाल देशभर रहेको जनाउँदै मौसम पूर्वानुमान महाशाखाले देशभर अधिकांश स्थानमा बाद..."
+    },
+    {
+      "id": "7341ca3356ae14db",
+      "title": "लुम्बिनी र चितवन तथा विराटनगर र सुदूरपश्चिम भिड्दै, दुवै खेलमा वर्षाको जोखिम",
+      "link": "https://www.ratopati.com/story/602361/lumbini-and-chitwan-and-biratnagar-and-sudurpaschim-clash-risk-of-rain-in-both-matches",
+      "source": "Ratopati",
+      "sourceUrl": "https://ratopati.com/feed",
+      "pubDate": "2026-10-31T00:59:53+00:00",
+      "categories": [
+        "politics",
+        "sports"
+      ],
+      "image": "https://npcdn.ratopati.com/media/news/tu-ground_jPtSNSsEil.webp",
+      "images": [
+        "https://npcdn.ratopati.com/media/news/tu-ground_jPtSNSsEil.webp"
+      ],
+      "description": "काठमाडौँ । नेपाल प्रिमियर लिग (एनपीएल)को तेस्रो संस्करणअन्तर्गत शनिबार कीर्तिपुरस्थित त्रिवि अन्तर्राष्ट्रिय क्रिकेट मैदानमा दुई खेल हुँदैछन् । पहिलो खेलमा साविक विजेता लुम्बिनी लायन्सले चितवन राइनोजको सामना गर्दा दोस्रो खेलमा सुदूरपश्चिम रोयल्स र विराटनगर किङ्स"
+    },
+    {
+      "id": "aa314c21432eb8b9",
+      "title": "सभापति रवि लामिछानेलाई रक्षा बमको सुझाव– अब पार्टीले सुशासनको नारा नलगाउँदा हुन्छ",
+      "link": "https://nepallive.com/story/352493",
+      "source": "Nepal Live",
+      "sourceUrl": "https://nepallive.com/feed",
+      "pubDate": "2026-10-31T00:59:04+00:00",
+      "categories": [
+        "politics",
+        "technology"
+      ],
+      "image": "",
+      "images": [],
+      "description": "जेनजी अगुवा रक्षा बमले राष्ट्रिय स्वतन्त्र पार्टीका सभापति रवि लामिछानेलाई अब पार्टीले सुशासनको नारा नलगाउन सुझाव दिएकी छन् ।"
+    },
+    {
+      "id": "f3a8dfcb014f9077",
+      "title": "आगामी सातादेखि धान खरिद",
+      "link": "https://gorkhapatraonline.com/news/227760",
+      "source": "Gorkhapatra",
+      "sourceUrl": "https://gorkhapatraonline.com/rss",
+      "pubDate": "2026-10-31T00:57:42+00:00",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "image": "https://gorkhapatraonline.com/storage/media/389647/conversions/Dhan-kharid-original.jpg",
+      "images": [
+        "https://gorkhapatraonline.com/storage/media/389647/conversions/Dhan-kharid-original.jpg"
+      ],
+      "description": "गोरखापत्र समाचारदाता काठमाडौँ, कात्तिक १४ गते । खाद्य व्यवस्था तथा व्यापार कम्पनीले आउँदो सातादेखि धान खरिद गर्ने तयारी गरेको जनाएको छ । सरकारले चालु आर्थिक वर्ष २०८३/८४ का लागि तो..."
+    },
+    {
+      "id": "b04091be2a0a37fb",
+      "title": "Earthen lamps bring income to rural women",
+      "link": "https://risingnepaldaily.com/news/88245",
+      "source": "The Rising Nepal",
+      "sourceUrl": "https://risingnepaldaily.com/rss",
+      "pubDate": "2026-10-31T00:55:12+00:00",
+      "categories": [
+        "politics",
+        "business",
+        "world",
+        "sports"
+      ],
+      "image": "",
+      "images": [],
+      "description": "By Dhirendra Prasad Sah,Rajbiraj, Oct. 31: The sale of earthen lamps has picked up in Rajbiraj Bazaar with Deepawali app..."
+    },
+    {
+      "id": "db3a6726fde46898",
+      "title": "पत्रकारमाथिको प्रहरी हस्तक्षेप लोकतन्त्रमाथिकै प्रहार : जवाफदेहिता निगरानी समिति",
+      "link": "https://www.onlinekhabar.com/2026/10/2047686/police-interference-in-journalists-is-an-attack-on-democracy-accountability-monitoring-committee",
+      "source": "Online Khabar",
+      "sourceUrl": "https://www.onlinekhabar.com/feed",
+      "pubDate": "2026-10-31T00:53:13+00:00",
+      "categories": [
+        "politics",
+        "business",
+        "sports",
+        "technology",
+        "entertainment"
+      ],
+      "image": "",
+      "images": [],
+      "description": "१४ कात्तिक, काठमाडौं । जवाफदेहिता निगरानी समिति (एडब्लूसी) ले पत्रकारहरूको गिरफ्तारी, धरपकड तथा प्रेस स्वतन्त्रताको उपभोगमा अवरोध पुर्‍याउने गरी भएका प्रहरी हस्तक्षेपका घटनाप्रति गम्भीर आपत्ति जनाउँदै त्यसको निन्दा गरेको छ। जवाफदेहिता समितिका तर्फबाट राजुप्रसाद चापागाई (संयोजक), राजन कुईंकेल (सहसंयोजक), रुकमनी महर्जन (सहसंयोजक) लगायतले विज्ञप्ति जारी गर्दै प्रेस स्वतन्त्रतामाथिको हस्तक्षेप लोकतन्त्रमाथिकै प्रहार भएको जनाएका छन् । […]"
+    },
+    {
+      "id": "9125c72cc3eae5d0",
+      "title": "पूर्वानुमान विपरीत पश्चिम नेपालमा बढी वर्षा भयो : मौसमविद् पोखरेल",
+      "link": "https://baahrakhari.com/detail/506162",
+      "source": "Baahrakhari",
+      "sourceUrl": "https://baahrakhari.com/feed",
+      "pubDate": "2026-10-31T00:52:00+00:00",
+      "categories": [
+        "politics",
+        "business",
+        "society"
+      ],
+      "image": "",
+      "images": [],
+      "description": ""
+    },
+    {
+      "id": "c833386d56c6a5ec",
+      "title": "कार्तिक १४ गते शनिबार ,यस्तो छ तपाईंको राशिफल",
+      "link": "https://newsofnepal.com/2026/10/31/792720/",
+      "source": "News of Nepal",
+      "sourceUrl": "https://newsofnepal.com/feed/",
+      "pubDate": "2026-10-31T00:49:42+00:00",
+      "categories": [
+        "politics",
+        "business",
+        "sports"
+      ],
+      "image": "https://newsofnepal.com/wp-content/uploads/2018/06/rashifal-150x150.jpg",
+      "images": [
+        "https://newsofnepal.com/wp-content/uploads/2018/06/rashifal-150x150.jpg"
+      ],
+      "description": "मेष : समय शुभ छ । आर्थिक लाभ, इज्जत–प्रतिष्ठा बढ्ने, अधुरा कार्य पूरा हुने देखिन्छ । वृष : धन हानि, अनुपलब्धिमूलक खर्च, काममा बाधा हुन सक्छ । सजगता अपनाउनुहोला । मिथुन : थोरै मेहनतमा उपहार–कोसेली मिल्ने, पेसाबाट सन्तुष्टि, पैसा लाभ हुन सक्छ । कर्कट : दिन शुभ देखिँदैन । रोगव्याधिको भय, कार्यमा बाधा, धन नाश […]"
+    },
+    {
+      "id": "b826054923b04e2c",
+      "title": "Cyclone Arnab relents from today",
+      "link": "https://risingnepaldaily.com/news/88244",
+      "source": "The Rising Nepal",
+      "sourceUrl": "https://risingnepaldaily.com/rss",
+      "pubDate": "2026-10-31T00:48:27+00:00",
+      "categories": [
+        "politics",
+        "business",
+        "world",
+        "sports"
+      ],
+      "image": "",
+      "images": [],
+      "description": "Kathmandu, Oct. 31: The remnants of Cyclone Arnab, which developed over the Bay of Bengal, along with the partial influe..."
+    },
+    {
+      "id": "0c3ec55dc87f149d",
+      "title": "प्रेस तथा अभिव्यक्ति स्वतन्त्रता संरक्षणका लागि पत्रकार महासंघले माइतीघरमा मौन धर्ना दिने",
+      "link": "https://www.onlinekhabar.com/2026/10/2047682/the-federation-of-nepali-journalists-will-hold-a-silent-sit-in-at-maitighar-to-protect-freedom-of-the-press-and-expression",
+      "source": "Online Khabar",
+      "sourceUrl": "https://www.onlinekhabar.com/feed",
+      "pubDate": "2026-10-31T00:43:05+00:00",
+      "categories": [
+        "politics",
+        "business",
+        "sports",
+        "technology",
+        "entertainment"
+      ],
+      "image": "",
+      "images": [],
+      "description": "१४ कात्तिक, काठमाडौं । नेपाल पत्रकार महासंघ केन्द्रीय समितिले प्रेस तथा अभिव्यक्ति स्वतन्त्रताको संरक्षणका लागि आज शनिबार काठमाडौंको माइतीघर मण्डलामा मौन धर्ना आयोजना गर्ने भएको छ। सरकारले सञ्चारगृहमा प्रवेश गरी पत्रकारहरूमा भय र आतंकको वातावरण सिर्जना गरेको तथा स्वतन्त्र पत्रकारितामाथि प्रत्यक्ष हस्तक्षेप गर्दै प्रेस तथा अभिव्यक्ति स्वतन्त्रता कुण्ठित गरेको भन्दै महासंघले धर्ना दिन लागेको हो। […]"
+    },
+    {
+      "id": "9dee5e86c3a48fd8",
+      "title": "पिन्थलीमा पहिरो खसेपछि बीपी राजमार्ग अवरुद्ध",
+      "link": "https://www.ratopati.com/story/602360/bp-highway-blocked-after-landslide-in-pinthali",
+      "source": "Ratopati",
+      "sourceUrl": "https://ratopati.com/feed",
+      "pubDate": "2026-10-31T00:42:53+00:00",
+      "categories": [
+        "politics",
+        "sports"
+      ],
+      "image": "https://npcdn.ratopati.com/media/news/bp-highway-(1)_35i8dgh3SR.jpg",
+      "images": [
+        "https://npcdn.ratopati.com/media/news/bp-highway-(1)_35i8dgh3SR.jpg"
+      ],
+      "description": "काभ्रेपलाञ्चोक । रोशी गाउँपालिका–९ पिन्थलीमा पहिरो खसेपछि बीपी राजमार्ग अवरुद्ध भएको छ । जिल्ला प्रहरी कार्यालयले रोशी गाउँपालिका–८ गिम्दीबेँसीमा पनि पहिरो खसेको जनाउँदै उक्त राजमार्ग पूर्ण रूपमा अवरुद्ध भएको बताएको छ । वर्षा जारी रहेकाले तत्काल"
+    },
+    {
+      "id": "dc678ad3d61a62e6",
+      "title": "मौसमविद् उपाध्याय भन्छन्– गण्डकी प्रदेशमा ठूलो वर्षा भइरहेको छ",
+      "link": "https://baahrakhari.com/detail/506161",
+      "source": "Baahrakhari",
+      "sourceUrl": "https://baahrakhari.com/feed",
+      "pubDate": "2026-10-31T00:39:09+00:00",
+      "categories": [
+        "politics",
+        "business",
+        "society"
+      ],
+      "image": "",
+      "images": [],
+      "description": ""
+    },
+    {
+      "id": "fe8b415836de3d30",
+      "title": "सल्यानमा जिप दुर्घटना, तीन जनाको मृत्यु, सात घाइते",
+      "link": "https://www.onlinekhabar.com/2026/10/2047679/jeep-accident-in-salyan-three-dead-seven-injured",
+      "source": "Online Khabar",
+      "sourceUrl": "https://www.onlinekhabar.com/feed",
+      "pubDate": "2026-10-31T00:37:04+00:00",
+      "categories": [
+        "politics",
+        "business",
+        "sports",
+        "technology",
+        "entertainment"
+      ],
+      "image": "",
+      "images": [],
+      "description": "१४ कात्तिक, सल्यान । सल्यानमा जिप दुर्घटना हुँदा तीन जनाको मृत्यु भएको छ भने अन्य सात जना घाइते भएका छन् । सिद्ध कुमाख गाउँपालिका–२ रातामाटेस्थित भित्री कच्ची सडकखण्डमा शुक्रबार साँझ श्रीनगरबाट टाकुरा गाउँतर्फ जाँदै गरेको लु.१ ज २३६८ नम्बरको जिप सडकबाट करिब १५० मिटर तल खोलामा खसेर दुर्घटना भएको हो । दुर्घटनामा घाइते भएका १० […]"
+    },
+    {
+      "id": "58353e27604a81ba",
+      "title": "आजपनि भारी वर्षा र हिमपातको सम्भावना",
+      "link": "https://www.thahakhabar.com/detail/311132",
+      "source": "Thaha Khabar",
+      "sourceUrl": "https://www.thahakhabar.com/feed",
+      "pubDate": "2026-10-31T00:35:44+00:00",
+      "categories": [
+        "politics",
+        "business",
+        "sports"
+      ],
+      "image": "https://www.thahakhabar.com/uploads/posts/ktm-jhari-1783644644.jpg",
+      "images": [
+        "https://www.thahakhabar.com/uploads/posts/ktm-jhari-1783644644.jpg"
+      ],
+      "description": ""
+    },
+    {
+      "id": "a5f259347655a7a5",
+      "title": "रास्वपाले बोलायो सचिवालय बैठक",
+      "link": "https://himalpress.com/2026/10/rsp-calls-secretariat-meeting-3/",
+      "source": "Himal Press",
+      "sourceUrl": "https://himalpress.com/feed/",
+      "pubDate": "2026-10-31T00:35:12+00:00",
+      "categories": [
+        "politics",
+        "business",
+        "society"
+      ],
+      "image": "",
+      "images": [],
+      "description": "काठमाडौँ– सत्तारूढ दल राष्ट्रिय स्वतन्त्र पार्टी (रास्वपा) ले सचिवालय बैठक बाेलाएकाे छ। रास्वपा सभापति रवि लामिछानेले आज शनिबार बिहान ११ बजे बस्नेगरी पार्टीको सचिवालय बैठक आह्वान गरेका हुन्। समसामयिक विषयमा छलफल गर्न भन्दै शुक्रबार राति नेताहरूलाई शनिबार बस्ने सचिवालय बैठकमा सहभागी हुन पार्टीका तर्फबाट म्यासेज पठाइएको रास्वपाका एक नेताले जानकारी दिए। यसअघि शुक्रबार साँझ सभापति […]"
+    },
+    {
+      "id": "0b6894714c4901cf",
+      "title": "चक्रवात ‘अर्नब’को प्रभाव : ६ प्रदेशमा वर्षा र हिमपात",
+      "link": "https://www.nepalviews.com/story/427386/impact-of-cyclone-arnab-rain-and-snowfall-in-6-provinces",
+      "source": "Nepal Views",
+      "sourceUrl": "https://www.nepalviews.com/feed/",
+      "pubDate": "2026-10-31T00:34:16+00:00",
+      "categories": [
+        "politics",
+        "business",
+        "technology"
+      ],
+      "image": "https://nepalviews.cdnsolution.net/en/media/setting/banner_FHsSzcWYKk.jpg",
+      "images": [
+        "https://nepalviews.cdnsolution.net/en/media/setting/banner_FHsSzcWYKk.jpg"
+      ],
+      "description": ""
+    },
+    {
+      "id": "10fa2f1cd2ccfd1e",
+      "title": "अर्नब चक्रवात र पश्चिमी वायुको प्रभाव कायमै, आज यी तीन प्रदेशमा भारी वर्षाको सम्भावना",
+      "link": "https://www.ratopati.com/story/602359/cyclone-arnab-and-the-effects-of-the-westerly-winds-continue-with-heavy-rain-likely-in-these-three-provinces-today",
+      "source": "Ratopati",
+      "sourceUrl": "https://ratopati.com/feed",
+      "pubDate": "2026-10-31T00:31:00+00:00",
+      "categories": [
+        "politics",
+        "sports"
+      ],
+      "image": "https://npcdn.ratopati.com/media/news/rain_iJHWHN6CP1.webp",
+      "images": [
+        "https://npcdn.ratopati.com/media/news/rain_iJHWHN6CP1.webp"
+      ],
+      "description": "काठमाडौँ । हाल देशमा बङ्गालको खाडीमा विकसित चक्रवात “अर्नब” को अवशेषका साथै पश्चिमी वायुको पनि आंशिक प्रभाव रहेको छ। आज अपराह्नदेखि भने यसको प्रभाव क्रमिक रुपमा कम हुने मौसम पूर्वानुमान महाशाखाले जनाएको छ । हाल देशभर"
+    },
+    {
+      "id": "22f3513b6f50ae8b",
+      "title": "कति छ विदेशी मुद्राको विनिमय दर?",
+      "link": "https://himalpress.com/2026/10/what-is-the-foreign-exchange-rate-66/",
+      "source": "Himal Press",
+      "sourceUrl": "https://himalpress.com/feed/",
+      "pubDate": "2026-10-31T00:27:15+00:00",
+      "categories": [
+        "politics",
+        "business",
+        "society"
+      ],
+      "image": "",
+      "images": [],
+      "description": "काठमाडौँ- नेपाल राष्ट्र बैंकले आजका लागि विदेशी मुद्राको विनिमयदर निर्धारण गरेको छ । राष्ट्र बैंकका अनुसार अमेरिकी डलर एकको खरिददर १५१ रुपैयाँ ६३ पैसा र बिक्रीदर १५२ रुपैयाँ २३ पैसा निर्धारण गरिएको छ । युरोपियन युरो एकको खरिददर १६९ रुपैयाँ ८६ पैसा र बिक्रीदर १७० रुपैयाँ ५४ पैसा, युके पाउन्ड स्ट्रलिङ एकको खरिददर २०३ रुपैयाँ […]"
+    },
+    {
+      "id": "0b8011bd3c2ce758",
+      "title": "यी प्रदेश र स्थानमा हुनेछ आज भारी वर्षा",
+      "link": "https://baahrakhari.com/detail/506160",
+      "source": "Baahrakhari",
+      "sourceUrl": "https://baahrakhari.com/feed",
+      "pubDate": "2026-10-31T00:26:50+00:00",
+      "categories": [
+        "politics",
+        "business",
+        "society"
+      ],
+      "image": "",
+      "images": [],
+      "description": ""
+    },
+    {
+      "id": "7dba1b571e4bbb5d",
+      "title": "अर्नब’ चक्रवातको प्रभावले देशभर वर्षा, आज दिउँसोदेखि कम हुने अनुमान",
+      "link": "https://himalpress.com/2026/10/rainfall-across-the-country-due-to-the-impact-of-cyclone-arnab-is-expected-to-decrease-from-this-afternoon/",
+      "source": "Himal Press",
+      "sourceUrl": "https://himalpress.com/feed/",
+      "pubDate": "2026-10-31T00:24:23+00:00",
+      "categories": [
+        "politics",
+        "business",
+        "society"
+      ],
+      "image": "",
+      "images": [],
+      "description": "काठमाडौँ– बंगालको खाडीमा उत्पन्न ‘अर्नब’ चक्रवातको प्रभावले अहिले पनि देशका धेरै ठाउँमा पानी परेको छ । उच्च हिमाली भेगमा बाक्लो हिमपात भएको छ । धेरै ठाउँमा अस्ति बिहीबार बेलुकीदेखि नै लगातार झरी परिरहेको हो । अहिले पूर्वमा भन्दा मध्य र पश्चिमी भेगमा पानी पर्ने क्रम बढेको छ । गण्डकी, लुम्बिनी र कर्णाली प्रदेशका धेरै ठाउँमा, […]"
+    },
+    {
+      "id": "63ae4151b29148aa",
+      "title": "पत्रकार धरपकडबारे प्रहरी : प्रधानमन्त्री कार्यालयको चासोपछि साइबर ब्युरोमा बोलाइएको हो",
+      "link": "https://www.onlinekhabar.com/2026/10/2047677/police-on-journalist-arrest-cyber-bureau-called-after-prime-ministers-offices-concern",
+      "source": "Online Khabar",
+      "sourceUrl": "https://www.onlinekhabar.com/feed",
+      "pubDate": "2026-10-31T00:18:20+00:00",
+      "categories": [
+        "politics",
+        "business",
+        "sports",
+        "technology",
+        "entertainment"
+      ],
+      "image": "",
+      "images": [],
+      "description": "उक्त प्रकरणमा प्रधानमन्त्रीको सचिवालय र सत्तारुढ दल रास्वपाले अनभिज्ञता प्रकट गरेको थियो । तर प्रहरीले राति वक्तव्य जारी गर्दै प्रधानमन्त्री कार्यालयकै चासो पछि खटिएको प्रस्ट्याएको हो ।"
+    },
+    {
+      "id": "9dbbf92d3ea4434d",
+      "title": "From Silent Cry to Strategic Voice",
+      "link": "https://english.khabarhub.com/2026/31/573736/",
+      "source": "Khabarhub",
+      "sourceUrl": "https://english.khabarhub.com/feed/",
+      "pubDate": "2026-10-31T00:15:29+00:00",
+      "categories": [
+        "politics",
+        "business",
+        "world"
+      ],
+      "image": "",
+      "images": [],
+      "description": "Nepal has survived for centuries in one of the world’s most difficult geopolitical environments. Its survival has never been accidental. Geography, diplomacy, political adaptability and the ability to manage asymmetry have all played a role. Yet survival has also carried a cost. At critical moments in its history, Nepal has struggled to translate geopolitical survival […]"
+    },
+    {
+      "id": "e5e0506571429aa2",
+      "title": "यस्तो छ आजका लागि विदेशी मुद्राको विनिमयदर",
+      "link": "https://www.onlinekhabar.com/2026/10/2047674/this-is-the-foreign-exchange-rate-for-today-29",
+      "source": "Online Khabar",
+      "sourceUrl": "https://www.onlinekhabar.com/feed",
+      "pubDate": "2026-10-31T00:13:41+00:00",
+      "categories": [
+        "politics",
+        "business",
+        "sports",
+        "technology",
+        "entertainment"
+      ],
+      "image": "",
+      "images": [],
+      "description": "१४ कात्तिक, काठमाडौं । नेपाल राष्ट्र बैंकले आजका लागि विदेशी मुद्राको विनिमयदर निर्धारण गरेको छ । राष्ट्र बैंकका अनुसार अमेरिकी डलर एकको खरिददर १५१ रुपैयाँ ६३ पैसा र बिक्रीदर १५२ रुपैयाँ २३ पैसा निर्धारण गरिएको छ । युरोपियन युरो एकको खरिददर १६९ रुपैयाँ ८६ पैसा र बिक्रीदर १७० रुपैयाँ ५४ पैसा, युके पाउन्ड स्ट्रलिङ एकको […]"
+    },
+    {
+      "id": "8957e4376cadea12",
+      "title": "Nepal to push dedicated mountain agenda",
+      "link": "https://risingnepaldaily.com/news/88243",
+      "source": "The Rising Nepal",
+      "sourceUrl": "https://risingnepaldaily.com/rss",
+      "pubDate": "2026-10-31T00:02:17+00:00",
+      "categories": [
+        "politics",
+        "business",
+        "world",
+        "sports"
+      ],
+      "image": "",
+      "images": [],
+      "description": "By A Staff Reporter, Kathmandu, Oct. 31: Nepal is preparing to formally propose a dedicated mountain agenda at the 31st..."
+    },
+    {
+      "id": "b8a6273653fde1cb",
+      "title": "Unified command key to effective disaster response: Nepali Army",
+      "link": "https://risingnepaldaily.com/news/88242",
+      "source": "The Rising Nepal",
+      "sourceUrl": "https://risingnepaldaily.com/rss",
+      "pubDate": "2026-10-30T23:59:52+00:00",
+      "categories": [
+        "politics",
+        "business",
+        "world",
+        "sports"
+      ],
+      "image": "",
+      "images": [],
+      "description": "By A Staff Reporter, Kathmandu, Oct. 31: The Nepali Army has called for a unified chain of command in disaster managemen..."
+    },
+    {
+      "id": "ee33a2058832c13c",
+      "title": "कञ्चनपुरमा धान उत्पादनमा वृद्धि हुने प्रक्षेपण",
+      "link": "https://www.ratopati.com/story/602358/paddy-production-projected-to-increase-in-kanchanpur",
+      "source": "Ratopati",
+      "sourceUrl": "https://ratopati.com/feed",
+      "pubDate": "2026-10-30T23:54:39+00:00",
+      "categories": [
+        "politics",
+        "sports"
+      ],
+      "image": "https://npcdn.ratopati.com/media/news/dhan_Zif4ys3f2f.webp",
+      "images": [
+        "https://npcdn.ratopati.com/media/news/dhan_Zif4ys3f2f.webp"
+      ],
+      "description": "कञ्चनपुर । कञ्चनपुरमा यस वर्ष धान उत्पादनमा वृद्धि वृद्धि हुने प्रक्षेपण गरिएको छ । कृषि ज्ञान केन्द्रका सूचना अधिकारी धर्मबहादुर साउँदले यस वर्ष कञ्चनपुरमा १ दशमलव १९ प्रतिशतले धान उत्पादनमा वृद्धि भएको जानकारी दिए । गत"
+    },
+    {
+      "id": "89aad5e25315a11f",
+      "title": "सिँचाइ गर्न विद्युत् सेवा विस्तार",
+      "link": "https://www.ratopati.com/story/602357/expanding-electricity-service-for-irrigation",
+      "source": "Ratopati",
+      "sourceUrl": "https://ratopati.com/feed",
+      "pubDate": "2026-10-30T23:45:43+00:00",
+      "categories": [
+        "politics",
+        "sports"
+      ],
+      "image": "https://npcdn.ratopati.com/media/news/Op3Bh9j0gH.jpg",
+      "images": [
+        "https://npcdn.ratopati.com/media/news/Op3Bh9j0gH.jpg"
+      ],
+      "description": "सुनसरी । सुनसरीको देवानगञ्ज गाउँपालिकाले किसानलाई सिँचाइमा सहज पहुँच पुर्‍याउँदै कृषि उत्पादनको लागत घटाउने उद्देश्यले खेतखेतमा विद्युत् विस्तारको कामलाई अन्तिम चरणमा पुर्‍याएको छ । नेपाल विद्युत् प्राधिकरण र गाउँपालिकाको साझेदारीमा करिब रु ३० करोडको लगानीमा सञ्चालन"
+    },
+    {
+      "id": "f4384540c1c1629b",
+      "title": "शनिबार यस्तो छ विदेशी मुद्राको विनिमयदर",
+      "link": "https://www.ratopati.com/story/602356/this-is-the-foreign-exchange-rate-on-saturday",
+      "source": "Ratopati",
+      "sourceUrl": "https://ratopati.com/feed",
+      "pubDate": "2026-10-30T23:45:00+00:00",
+      "categories": [
+        "politics",
+        "sports"
+      ],
+      "image": "https://rpcdn.ratopati.com/media/albums/forex_3HNlavACP4.jpg",
+      "images": [
+        "https://rpcdn.ratopati.com/media/albums/forex_3HNlavACP4.jpg"
+      ],
+      "description": "काठमाडौँ । नेपाल राष्ट्र बैंकले आजका लागि विदेशी मुद्राको विनिमय दर निर्धारण गरेको छ । राष्ट्र बैंकका अनुसार अमेरिकी डलर एकको खरिददर १५१ रुपैयाँ ६३ पैसा र बिक्रीदर १५२ रुपैयाँ २३ पैसा निर्धारण गरिएको छ"
+    },
+    {
+      "id": "13b991daa4003828",
+      "title": "निरन्तर वर्षाले खेतमा पाकेको धान ढलेपछि...",
+      "link": "https://www.ratopati.com/story/602355/after-the-continuous-rains-caused-the-ripe-rice-to-fall-in-the-fields",
+      "source": "Ratopati",
+      "sourceUrl": "https://ratopati.com/feed",
+      "pubDate": "2026-10-30T23:23:51+00:00",
+      "categories": [
+        "politics",
+        "sports"
+      ],
+      "image": "https://npcdn.ratopati.com/media/news/dhan-bhijeko_7DAUmTbyXz.webp",
+      "images": [
+        "https://npcdn.ratopati.com/media/news/dhan-bhijeko_7DAUmTbyXz.webp"
+      ],
+      "description": "भोजपुर । धान पाकेर भित्राउने समयमा मौसम प्रतिकूल बनेर निरन्तर वर्षा हुन थालेपछि जिल्लाका किसान चिन्तित बनेका छन् । खेतमा धान पाकेर पहेँलपुर भएको अवस्थामा वर्षा र असिनाको जोखिम बढेपछि किसानलाई समयमै बाली काटेर सुरक्षित"
+    },
+    {
+      "id": "1873d795dc21682e",
+      "title": "शनिबार कुन राशिका लागि शुभ ? हेर्नुहोस् राशिफल",
+      "link": "https://www.ratopati.com/story/602352/which-zodiac-sign-is-auspicious-on-saturday-see-horoscope",
+      "source": "Ratopati",
+      "sourceUrl": "https://ratopati.com/feed",
+      "pubDate": "2026-10-30T23:15:00+00:00",
+      "categories": [
+        "politics",
+        "sports"
+      ],
+      "image": "https://npcdn.ratopati.com/media/news/horoscope_yWVgb1BJAO.jpg",
+      "images": [
+        "https://npcdn.ratopati.com/media/news/horoscope_yWVgb1BJAO.jpg"
+      ],
+      "description": "आजको पञ्चाङ्ग वि.सं.२०८३ साल कार्तिक १४ गते । शनिबार । इस्वी सन् २०२६ अक्टोबर ३१ तारिख । नेपाल संवत् ११४६ । रौद्र संवत्सर । दक्षिणायन । शरद ऋतु । श्रीशाके १९४८ । कार्तिक कृष्णपक्ष । तिथि–षष्ठी,"
+    },
+    {
+      "id": "251f9afc8ca4cf30",
+      "title": "धनकुटामा मौरीपालनतर्फ बढ्दो आकर्षण: कम मिहिनेतमै लाखौँ आम्दानी",
+      "link": "https://www.ratopati.com/story/602354/growing-attraction-towards-beekeeping-in-dhankuta-earn-lakhs-of-rupees-with-little-effort",
+      "source": "Ratopati",
+      "sourceUrl": "https://ratopati.com/feed",
+      "pubDate": "2026-10-30T22:58:56+00:00",
+      "categories": [
+        "politics",
+        "sports"
+      ],
+      "image": "https://npcdn.ratopati.com/media/news/0ZaXDiLzGY.jpg",
+      "images": [
+        "https://npcdn.ratopati.com/media/news/0ZaXDiLzGY.jpg"
+      ],
+      "description": "धनकुटा । कुनै समय खेतीपातीका लागि उपयोग हुन नसकेर त्यत्तिकै छाडिएका जङ्गलका बिचका चट्टानी भूभाग अहिले धनकुटाका केही किसानका लागि आम्दानीको नयाँ आधार बनेका छन् । जहाँ अन्नबाली उत्पादनको सम्भावना कम छ, त्यहीँ अहिले मौरीका"
+    },
+    {
+      "id": "c9e62a84c5deaa7e",
+      "title": "आवासीय विद्यालय सञ्चालन गर्न महायज्ञ आयोजना",
+      "link": "https://www.ratopati.com/story/602353/mahayagya-organized-to-run-residential-schools",
+      "source": "Ratopati",
+      "sourceUrl": "https://ratopati.com/feed",
+      "pubDate": "2026-10-30T22:54:32+00:00",
+      "categories": [
+        "politics",
+        "sports"
+      ],
+      "image": "https://rpcdn.ratopati.com/media/albums/myagdi_Yxx1IewRfU.jpg",
+      "images": [
+        "https://rpcdn.ratopati.com/media/albums/myagdi_Yxx1IewRfU.jpg"
+      ],
+      "description": "म्याग्दी । जिल्लाको मंगला गाउँपालिका–१ कुहुँमा रहेको दिपशिखा माध्यमिक विद्यालयलाई आवासीयमा रूपान्तरण गर्ने उद्देश्यले आर्थिक स्रोत जुटाउन महायज्ञ आयोजना गरिएको छ । यही कात्तिक २६ देखि आगामी मङ्सिर ३ गतेसम्म कुहुँस्थित विद्यालय परिसरमा सञ्चालन हुने ‘म्याग्दी"
+    },
     {
       "id": "c049c778262c5785",
       "title": "‘अब नारायणीमा मोटरबोट सञ्चालनको शैली बदल्नुपर्छ ’",
@@ -142,23 +1341,6 @@
       "description": "सुदूरपश्चिम । सुदूरपश्चिममा कार्यरत विभिन्न वन उपभोक्ता समूहले वन क्षेत्रमा देखिएका समस्या समाधानका लागि प्रदेश सरकारको ध्यानाकर्षण गराएका छन् । ती समूहको सुदूरपश्चिम प्रदेशस्तरीय आन्दोलन परिचालन समन्वय समितिका पदाधिकारीले शुक्रबार मुख्यमन्त्री खगराज भट्टलाई २४बुँदे ज्ञापनपत्र बुझाउँदै"
     },
     {
-      "id": "45acc7599a8f3c76",
-      "title": "खानेपानी तथा सरसफाइ अवस्थाको प्रतिवेदन सार्वजनिक",
-      "link": "https://www.ratopati.com/story/602343/report-on-water-supply-and-sanitation-status-made-public",
-      "source": "Ratopati",
-      "sourceUrl": "https://ratopati.com/feed",
-      "pubDate": "2026-10-30T18:23:47+00:00",
-      "categories": [
-        "politics",
-        "sports"
-      ],
-      "image": "https://npcdn.ratopati.com/media/news/rastriya-tathyank-karyalaya_1KDrSncyuT.jpg",
-      "images": [
-        "https://npcdn.ratopati.com/media/news/rastriya-tathyank-karyalaya_1KDrSncyuT.jpg"
-      ],
-      "description": "ललितपुर । राष्ट्रिय तथ्याङ्क कार्यालयले देशभरका ७५३ वटै स्थानीय तहको खानेपानी, सरसफाइ तथा स्वच्छता (वास) अवस्थाको विश्लेषण गरी तयार पारेको सूचकाङ्क सहितको तथ्याङ्क प्रतिवेदन सार्वजनिक गरेको छ । राष्ट्रिय तथ्याङ्क कार्यालयले शुक्रबार ललितपुरमा आयोजना गरेको कार्यक्रममा"
-    },
-    {
       "id": "a776f93036d9d320",
       "title": "१२ बजे १२ समाचार : प्रहरी विज्ञप्तिको भोलिपल्टै पत्रकारमाथि धावा, सीमा नाका खुलाउन चीनको आनाकानी",
       "link": "https://www.ratopati.com/story/602342/12-oclock-12-news-attack-on-journalists-the-day-after-police-statement-chinas-reluctance-to-open-border-with-nepal",
@@ -176,22 +1358,6 @@
       "description": "काठमाडौँ । आज दिनभरका मुख्य १२ घटनाक्रम रातोपाटी डटकमको नियमित प्रस्तुति ‘१२ बजे १२ समाचार’मा प्रस्तुत गरेका छौँ– १. सुनकोशी–मरिनका आयोजना प्रमुख र महानिर्देशक सुरक्षा नियन्त्रणमा राष्ट्रिय गौरवको आयोजनाका रूपमा रहेको सुनकोशी–मरिन डाइभर्सन बहुउद्देश्यीय आयोजनाको ठेक्का प्रक्रिया"
     },
     {
-      "id": "9092bb681e0b5fdc",
-      "title": "तापक्रम वृद्धिका विषयमा नेपाल–भुटानको संयुक्त प्रस्ताव",
-      "link": "https://baahrakhari.com/detail/506158",
-      "source": "Baahrakhari",
-      "sourceUrl": "https://baahrakhari.com/feed",
-      "pubDate": "2026-10-30T18:11:15+00:00",
-      "categories": [
-        "politics",
-        "business",
-        "society"
-      ],
-      "image": "",
-      "images": [],
-      "description": ""
-    },
-    {
       "id": "13a14b644ced493a",
       "title": "शरद् ऋतुमा हिमाल आरोहणबाट ३२ करोड बढी राजस्व सङ्कलन",
       "link": "https://www.ratopati.com/story/602341/over-rs-320-million-in-revenue-collected-from-mountain-climbing-in-autumn",
@@ -207,70 +1373,6 @@
         "https://npcdn.ratopati.com/media/news/paryatan-bibhag_9n532R9qqU.jpg"
       ],
       "description": "काठमाडौँ । शरद् ऋतुमा नेपालका विभिन्न हिमाल आरोहण अनुमति प्रदान गरेबापत सरकारले रु ३२ करोड ३७ लाख ८८ हजार ९९० राजस्व सङ्कलन गरेको छ । पर्यटन विभागले दिएको जानकारीअनुसार सन् २०२६ को शरद् ऋतुमा नेपालका ४६"
-    },
-    {
-      "id": "c5a9b898a42026ea",
-      "title": "शरद् ऋतुमा हिमाल आरोहणबाट ३२ करोड बढी राजस्व संकलन",
-      "link": "https://baahrakhari.com/detail/506157",
-      "source": "Baahrakhari",
-      "sourceUrl": "https://baahrakhari.com/feed",
-      "pubDate": "2026-10-30T18:03:25+00:00",
-      "categories": [
-        "politics",
-        "business",
-        "society"
-      ],
-      "image": "",
-      "images": [],
-      "description": ""
-    },
-    {
-      "id": "86ac8123341efd92",
-      "title": "नेपालका आठ हजार मिटरमाथिका हिमाललाई अन्तर्राष्ट्रिय मान्यता दिलाउन पहल",
-      "link": "https://baahrakhari.com/detail/506156",
-      "source": "Baahrakhari",
-      "sourceUrl": "https://baahrakhari.com/feed",
-      "pubDate": "2026-10-30T17:57:58+00:00",
-      "categories": [
-        "politics",
-        "business",
-        "society"
-      ],
-      "image": "",
-      "images": [],
-      "description": ""
-    },
-    {
-      "id": "950162194bd569d3",
-      "title": "हेटौँडामा भारतीय नम्बरको गाडीबाट ९० किलो गाँजा बरामद",
-      "link": "https://baahrakhari.com/detail/506155",
-      "source": "Baahrakhari",
-      "sourceUrl": "https://baahrakhari.com/feed",
-      "pubDate": "2026-10-30T17:51:26+00:00",
-      "categories": [
-        "politics",
-        "business",
-        "society"
-      ],
-      "image": "",
-      "images": [],
-      "description": ""
-    },
-    {
-      "id": "46dc015c65bcb899",
-      "title": "पत्रकारमाथि र धरपकड बढेको भन्दै नेपाली कम्युनिस्ट पार्टीद्वारा भर्त्सना",
-      "link": "https://baahrakhari.com/detail/506154",
-      "source": "Baahrakhari",
-      "sourceUrl": "https://baahrakhari.com/feed",
-      "pubDate": "2026-10-30T17:40:56+00:00",
-      "categories": [
-        "politics",
-        "business",
-        "society"
-      ],
-      "image": "",
-      "images": [],
-      "description": ""
     },
     {
       "id": "5938d3c643aafc9e",
@@ -340,6 +1442,22 @@
       "description": "काठमाडौँ । ऊर्जा, जलस्रोत तथा सिँचाइ मन्त्रालय अन्तर्गतको जलस्रोत तथा सिँचाइ विभागले चालु आर्थिक वर्ष २०८३-८४ को सुरुवाती महिनामै सिँचाइ विस्तार, नदी नियन्त्रण र जल उत्पन्न विपद् व्यवस्थापनका काममा उल्लेखनीय गति लिएको छ । विभागको प्रगति विवरण अनुसार भदौ मसान्तसम्म राष्ट्रिय गौरवका आयोजना, सिँचाइ तथा जलस्रोत व्यवस्थापन आयोजना, सिँचाइ व्यवस्थापन कार्यालय र भूमिगत जल सिँचाइ […]"
     },
     {
+      "id": "29cd08fe2547c3df",
+      "title": "तापक्रम वृद्धिका विषयमा नेपाल–भुटानको संयुक्त प्रस्ताव",
+      "link": "https://nepalnews.com/2026/10/30/nepal-bhutan-joint-proposal-on-global-warming/",
+      "source": "Nepal News",
+      "sourceUrl": "https://nepalnews.com/feed",
+      "pubDate": "2026-10-30T17:11:36+00:00",
+      "categories": [
+        "politics",
+        "business",
+        "world"
+      ],
+      "image": "",
+      "images": [],
+      "description": "काठमाडौं । नेपाल र भुटानले हिमाली क्षेत्रमा जलवायु परिवर्तनका कारण उत्पन्न जोखिमलाई अन्तरराष्ट्रिय जलवायु वार्ताको प्रमुख विषय बनाउन संयुक्त प्रस्ताव अघि सारेका छन् । आगामी नोभेम्बर ९ देखि २० सम्म टर्कीको अन्ताल्यामा आयोजना हुने जलवायु परिवर्तनसम्बन्धी संयुक्त राष्ट्रसङ्घीय सम्मेलन (कोप–३१) मा ‘हिमाली क्षेत्रमा १.५ डिग्री तापक्रम वृद्धि’ शीर्षकको छुट्टै एजेन्डा समावेश गर्न दुई देशले प्रस्ताव […]"
+    },
+    {
       "id": "bec7c4c643e7c167",
       "title": "रुसी आक्रमणका कारण मध्य युक्रेनमा दुई लाखभन्दा बढी मानिस विद्युत् विहीन: अधिकारी",
       "link": "https://www.ratopati.com/story/602337/more-than-200000-people-in-central-ukraine-without-power-due-to-russian-attack-official",
@@ -405,40 +1523,6 @@
       "image": "",
       "images": [],
       "description": "मुस्ताङ। प्रतिकूल मौसमका कारण नेपाल–चीन सीमाको कोरला नाका क्षेत्रमा ५०० बढी कन्टेनर भन्सार जाँचपास तथा मालसामान ढुवानीका लागि थन्किएका छन् । ती कन्टेनर दसैँपछि बेनी–जोमसोम–कोरला सडकमार्ग हुँदै चिनियाँ मालवस्तु ढुवानी गर्न कोरला नाका क्षेत्र पुगेका हुन् । कोरला नाका क्षेत्र समुन्द्री सतहदेखि चार हजार ६१० मिटरको उचाइमा छ । यसैगरी कोरलास्थित मुस्ताङ भन्सार कार्यालय, क्वारेन्टाइन, […]"
-    },
-    {
-      "id": "96822c5bbd4cfcb5",
-      "title": "युक्रेनी राष्ट्रपति जेलेन्स्कीले शनिबार टर्की भ्रमण गर्ने",
-      "link": "https://www.ratopati.com/story/602334/ukrainian-president-zelensky-to-visit-turkey-on-saturday",
-      "source": "Ratopati",
-      "sourceUrl": "https://ratopati.com/feed",
-      "pubDate": "2026-10-30T16:43:30+00:00",
-      "categories": [
-        "politics",
-        "sports"
-      ],
-      "image": "https://npcdn.ratopati.com/media/news/zelensky_auroOcZbmd.webp",
-      "images": [
-        "https://npcdn.ratopati.com/media/news/zelensky_auroOcZbmd.webp"
-      ],
-      "description": "काठमाडौँ । युक्रेनी राष्ट्रपति भोलोदिमिर जेलेन्स्की शनिबार टर्कीको राजकीय भ्रमण गरी आफ्ना टर्कीका समकक्षी रेसेप तैयप एर्दोगानसँग रुससँगको युद्ध र ‘ब्ल्याक सी’ को सुरक्षा स्थितिका बारेमा वार्ता गर्ने कार्यक्रम तय भएको टर्कीको राष्ट्रपतिको कार्यालयले जनाएको"
-    },
-    {
-      "id": "e07ed5fb6182310c",
-      "title": "भारततर्फ लैजाँदै गरेका २५ बालबालिकाको उद्धार",
-      "link": "https://www.ratopati.com/story/602332/25-children-rescued-while-being-taken-to-india",
-      "source": "Ratopati",
-      "sourceUrl": "https://ratopati.com/feed",
-      "pubDate": "2026-10-30T16:38:44+00:00",
-      "categories": [
-        "politics",
-        "sports"
-      ],
-      "image": "https://rpcdn.ratopati.com/media/albums/humla_BmvbKDRvti.jpg",
-      "images": [
-        "https://rpcdn.ratopati.com/media/albums/humla_BmvbKDRvti.jpg"
-      ],
-      "description": "हुम्ला । भारतमा अध्ययन गराउने भन्दै लैजाँदै गरेका हुम्लाको सिमकोट गाउँपालिका–८ का २५ बालबालिकालाई सकुशल उद्धार गरी घर फर्काइएको छ । कञ्चनपुरको गड्डाचौकी नाकाबाट फर्काइएका बालबालिकालाई हुम्ला ल्याएर अभिभावकको जिम्मा लगाइएको छ । भारततर्फ लैजाँदै गर्दा"
     },
     {
       "id": "8578bbebf274875e",
@@ -524,23 +1608,6 @@
       "description": ""
     },
     {
-      "id": "bb9aab7274ca712c",
-      "title": "तीन महिनामा सात अर्ब १३ करोड राजस्व सङ्कलन",
-      "link": "https://www.ratopati.com/story/602331/revenue-collection-of-713-billion-crores-in-three-months",
-      "source": "Ratopati",
-      "sourceUrl": "https://ratopati.com/feed",
-      "pubDate": "2026-10-30T16:28:08+00:00",
-      "categories": [
-        "politics",
-        "sports"
-      ],
-      "image": "https://npcdn.ratopati.com/media/news/tax_office_-bharatpur_ZPNBBwd9Oi.jpg",
-      "images": [
-        "https://npcdn.ratopati.com/media/news/tax_office_-bharatpur_ZPNBBwd9Oi.jpg"
-      ],
-      "description": "चितवन । आन्तरिक राजस्व कार्यालय भरतपुरले चालु आर्थिक वर्ष २०८३/८४ को पहिलो तीन महिनामा रु सात अर्ब १३ करोड ७६ लाख ८० हजार राजस्व सङ्कलन गरेको छ । कार्यालयले असोज मसान्तसम्म रु सात अर्ब ५० करोड"
-    },
-    {
       "id": "85ad351c1d319e72",
       "title": "आठ हजार मिटरमाथिका नेपालका थप ६ वटा हिमाललाई अन्ताराष्ट्रिय मान्यता दिलाउन पहल",
       "link": "https://www.thahakhabar.com/detail/311131",
@@ -574,40 +1641,6 @@
         "https://nepalsamaya.com/uploads/posts/photo-1_f6a10089-1793377599.jpg"
       ],
       "description": ""
-    },
-    {
-      "id": "10b04f2923a98806",
-      "title": "अघिल्लो दिन प्रहरीको ‘चेतावनीयुक्त’ विज्ञप्ति, भोलिपल्ट कसको निर्देशनमा भयो पत्रकारमाथि धरपकड ?",
-      "link": "https://www.ratopati.com/story/602329/the-police-issued-a-warning-statement-the-previous-day-and-on-whose-instructions-was-the-journalist-arrested-the-next-day",
-      "source": "Ratopati",
-      "sourceUrl": "https://ratopati.com/feed",
-      "pubDate": "2026-10-30T16:25:46+00:00",
-      "categories": [
-        "politics",
-        "sports"
-      ],
-      "image": "https://npcdn.ratopati.com/media/news/jouranlist-arrest-cover_kdJbtXbd2K.webp",
-      "images": [
-        "https://npcdn.ratopati.com/media/news/jouranlist-arrest-cover_kdJbtXbd2K.webp"
-      ],
-      "description": "काठमाडौँ । समाचार लेखेकै आधारमा नेपाल प्रहरीले शुक्रबार केही सञ्चारमाध्यमका सञ्चारकर्मीमाथि एकाएक धरपकड गरेपछि उक्त कार्यको चर्को आलोचना भएको छ । यो धरपकड यस्तो बेला भयो, बिहीबारमात्रै प्रहरी प्रधान कार्यालयले प्रहरी नेतृत्व र सङ्गठनमाथि भ्रम"
-    },
-    {
-      "id": "81fb4b8c0d2c15fe",
-      "title": "पत्रकार पक्राउ गर्न समाचार कक्षमै प्रहरी, महासङ्घले दियो आन्दोलनको चेतावनी",
-      "link": "https://www.ratopati.com/story/602330/police-in-newsroom-to-arrest-journalists-federation-warns-of-protest",
-      "source": "Ratopati",
-      "sourceUrl": "https://ratopati.com/feed",
-      "pubDate": "2026-10-30T16:23:06+00:00",
-      "categories": [
-        "politics",
-        "sports"
-      ],
-      "image": "https://npcdn.ratopati.com/media/news/fnj_LVvvFEZOof.webp",
-      "images": [
-        "https://npcdn.ratopati.com/media/news/fnj_LVvvFEZOof.webp"
-      ],
-      "description": "काठमाडौँ। नेपाल पत्रकार महासङ्घले समाचार कक्षमै प्रवेश गरी पत्रकारहरूलाई पक्राउ गरेको घटनाप्रति घोर आपत्ति जनाउँदै प्रहरीको उक्त कार्यको निन्दा र भर्त्सना गरेको छ । महासङ्घका महासचिव रामप्रसाद दाहालद्वारा शुक्रबार जारी विज्ञप्तिमा प्रेस स्वतन्त्रताको संरक्षण र पत्रकारमाथिको"
     },
     {
       "id": "2bd63b525c3c16f3",
@@ -644,57 +1677,6 @@
       "image": "",
       "images": [],
       "description": "संस्थानलाई आर्थिक हानि पुर्‍याएर १२ करोड १३ लाख ४३ हजार ५३० रुपैयाँ गैरकानुनी लाभ लिएको प्रारम्भिक अनुसन्धानबाट खुलेको सीआईबीले जनाएको छ ।"
-    },
-    {
-      "id": "0ae17cd729fa89fc",
-      "title": "१० बजे १० समाचार : प्रेस स्वतन्त्रतामाथि सरकारी हस्तक्षेप, ‘नयाँ–पुराना’ भाष्यले द्वन्द्वकाे खतरा",
-      "link": "https://www.ratopati.com/story/602327/10-news-at-10-government-interference-in-press-freedom-new-old-commentary-risks-conflict",
-      "source": "Ratopati",
-      "sourceUrl": "https://ratopati.com/feed",
-      "pubDate": "2026-10-30T16:14:27+00:00",
-      "categories": [
-        "politics",
-        "sports"
-      ],
-      "image": "https://npcdn.ratopati.com/media/news/bbb_fUPrj0ALGn.webp",
-      "images": [
-        "https://npcdn.ratopati.com/media/news/bbb_fUPrj0ALGn.webp"
-      ],
-      "description": "काठमाडौँ । आज २०८३ साल कात्तिक १३ गते शुक्रबार । आज दिनभरका मुख्य १० घटनाक्रम रातोपाटी डटकमको नियमित प्रस्तुति ‘१० बजे १० समाचार’मा प्रस्तुत गरेका छौँ– प्रेस स्वतन्त्रतामाथि सरकारी हस्तक्षेप समाचार कक्षबाट पक्राउ परेका सबै पत्रकार रिहा"
-    },
-    {
-      "id": "97b4687525bd8286",
-      "title": "राज्यका गतिविधिले ‘सत्ता कब्जा’ को सङ्केत देखियो : रवीन्द्र मिश्र",
-      "link": "https://www.ratopati.com/story/602326/state-activities-show-signs-of-power-grab-rabindra-mishra",
-      "source": "Ratopati",
-      "sourceUrl": "https://ratopati.com/feed",
-      "pubDate": "2026-10-30T16:13:04+00:00",
-      "categories": [
-        "politics",
-        "sports"
-      ],
-      "image": "https://npcdn.ratopati.com/media/news/rabindra-mishra_AkBka2yYSm.jpg",
-      "images": [
-        "https://npcdn.ratopati.com/media/news/rabindra-mishra_AkBka2yYSm.jpg"
-      ],
-      "description": "काठमाडौँ । राप्रपाका पूर्वउपाध्यक्ष रवीन्द्र मिश्रले हालै देशमा घटेका विभिन्न घटनाक्रमप्रति गम्भीर असन्तुष्टि व्यक्त गर्दै राज्यका गतिविधिले ‘सत्ता कब्जा’ को सङ्केत देखाएको बताएका छन्। शुक्रबार केही पत्रकार पक्राउ परेर रिहा भए लगत्तै सामाजिक सञ्जाल फेसबुकमा"
-    },
-    {
-      "id": "51f8616488880cf5",
-      "title": "लक्षण नदेखिँदै ठुलो आन्द्राको क्यान्सर पत्ता लगाउन सकिन्छ ? कोलोनोस्कोपीबारे जान्नैपर्ने कुरा",
-      "link": "https://www.ratopati.com/story/602325/can-colon-cancer-be-detected-without-symptoms-what-you-need-to-know-about-colonoscopy",
-      "source": "Ratopati",
-      "sourceUrl": "https://ratopati.com/feed",
-      "pubDate": "2026-10-30T16:11:25+00:00",
-      "categories": [
-        "politics",
-        "sports"
-      ],
-      "image": "https://npcdn.ratopati.com/media/news/yukt-narayan-regmi_KvT7YnjuRc.webp",
-      "images": [
-        "https://npcdn.ratopati.com/media/news/yukt-narayan-regmi_KvT7YnjuRc.webp"
-      ],
-      "description": "काठमाडौँ। हामीमध्ये धेरैलाई पेट दुख्ने, ग्यास्ट्रिक हुने, कब्जियत हुने वा दिसामा रगत देखिने समस्या सामान्य लाग्छ। विशेष गरी दिसामा रगत देखिएमा धेरैले यसलाई पाइल्स (अर्श) को समस्या ठानेर आफैँ औषधि खाने वा लामो समयसम्म उपचार"
     },
     {
       "id": "c4882ac407bb6525",
@@ -945,23 +1927,6 @@
       "description": "दुवै तर्फका उच्च स्रोतका अनुसार प्रदेश सरकारमा सहकार्य गर्दा नै आगामी स्थानीय र प्रदेश सभा चुनावमा सहकार्य गर्ने सैद्धान्तिक सहमति जुटिसकेको छ ।"
     },
     {
-      "id": "793495ddedfab144",
-      "title": "वनमा लुकाइएको भरुवा बन्दुक बरामद",
-      "link": "https://www.ratopati.com/story/602324/a-loaded-gun-hidden-in-the-forest-was-recovered",
-      "source": "Ratopati",
-      "sourceUrl": "https://ratopati.com/feed",
-      "pubDate": "2026-10-30T15:58:37+00:00",
-      "categories": [
-        "politics",
-        "sports"
-      ],
-      "image": "https://rpcdn.ratopati.com/media/albums/kapilbastu_hpUAuzFK1J.jpg",
-      "images": [
-        "https://rpcdn.ratopati.com/media/albums/kapilbastu_hpUAuzFK1J.jpg"
-      ],
-      "description": "कपिलवस्तु । कपिलवस्तुको वाणगङ्गा नगरपालिका–९ स्थित सामुदायिक वनबाट प्रहरीले चार नाल भरुवा बन्दुक बरामद गरेको छ । वाणगङ्गा नगरपालिका–९ भर्लावासस्थित खुतखुते सामुदायिक वनको लहरे उकालीमा लुकाइछिपाइ राखिएको अवस्थामा प्रहरीले बन्दुक बरामद गरेको हो । जिल्ला प्रहरी"
-    },
-    {
       "id": "81416e921dcc47d8",
       "title": "दुई समूहको समानान्तर गतिविधिले निलम्बनमा पर्‍यो एनप्याब्सन",
       "link": "https://www.onlinekhabar.com/2026/10/2047447/npabson-suspended-due-to-parallel-activities-of-two-groups",
@@ -1124,23 +2089,6 @@
       "description": "अहिले नयाँ ठेक्काका लागि प्राविधिक मूल्यांकन सकेर आर्थिक प्रस्ताव खोल्ने तयारी भइरहेको थियो । यही मेसोमा सिँचाइ विभागका महानिर्देशक र आयोजना प्रमुखलाई प्रहरीले नियन्त्रणमा लिएर प्रधानमन्त्री कार्यालयमा बुझाइदिएको हो ।"
     },
     {
-      "id": "a2ab8210072b3ef3",
-      "title": "नावा खोलामा पानीको बहाव बढेपछि तमोर कोरिडोर अवरुद्ध",
-      "link": "https://www.ratopati.com/story/602323/tamor-corridor-blocked-after-water-flow-increases-in-nawa-river",
-      "source": "Ratopati",
-      "sourceUrl": "https://ratopati.com/feed",
-      "pubDate": "2026-10-30T15:47:37+00:00",
-      "categories": [
-        "politics",
-        "sports"
-      ],
-      "image": "https://npcdn.ratopati.com/media/news/pachtaar-_9tzrt0gkje_qgva0pbajj_XJ2GAoeG33.webp",
-      "images": [
-        "https://npcdn.ratopati.com/media/news/pachtaar-_9tzrt0gkje_qgva0pbajj_XJ2GAoeG33.webp"
-      ],
-      "description": "पाँचथर । निरन्तरको वर्षापछि पाँचथरको नावा खोलामा पानीको बहाव बढेसँगै तमोर कोरिडोरअन्तर्गतको सडक अवरुद्ध भएको छ । सडकमाथि पुल निर्माण हुन बाँकी रहेकामा यसअघि खोलाबाट सवारीसाधन पार गरिन्थ्यो । निरन्तरको वर्षाका कारण खोलामा पानीको बहाव"
-    },
-    {
       "id": "07be227e23306ba2",
       "title": "Today’s News in a Nutshell",
       "link": "https://english.khabarhub.com/2026/30/573719/",
@@ -1190,23 +2138,6 @@
       "description": "By TRN Online, Kathmandu, Oct 30: Three members of the French Military High Mountain Group (GMHM), based in Chamonix (Fr..."
     },
     {
-      "id": "e4fd2c8853bd9ac6",
-      "title": "बाढीमा यात्रुबाहक बस फस्यो, ३० यात्रुको सकुशल उद्धार",
-      "link": "https://www.ratopati.com/story/602322/passenger-bus-gets-stuck-in-flood-30-passengers-rescued-safely",
-      "source": "Ratopati",
-      "sourceUrl": "https://ratopati.com/feed",
-      "pubDate": "2026-10-30T15:40:40+00:00",
-      "categories": [
-        "politics",
-        "sports"
-      ],
-      "image": "https://npcdn.ratopati.com/media/news/EpNo9okGcb.png",
-      "images": [
-        "https://npcdn.ratopati.com/media/news/EpNo9okGcb.png"
-      ],
-      "description": "धनकुटा । ताप्लेजुङबाट काठमाडौँका लागि छुटेको यात्रुबाहक बस शुक्रबार अपराह्न तमोर करिडोरअन्तर्गत पाँचथर र धनकुटाको सीमावर्ती क्षेत्र नावा खोलामा फसेको छ । निरन्तरको वर्षाका कारण खोलामा बाढी आएपछि जोखिम मोलेर खोला पार गर्न खोज्दा बस बीचमै"
-    },
-    {
       "id": "22ffe5b805d94700",
       "title": "Newsroom raids revive memories of the royal regime’s press crackdown",
       "link": "https://english.onlinekhabar.com/newsroom-raid-memories-king.html",
@@ -1243,24 +2174,6 @@
         "https://himalpress.com/wp-content/uploads/2026/10/Indian-emb-1-600x270.jpg"
       ],
       "description": "काठमाडौँ- नेपाल र भारतबीचको सांस्कृतिक सम्बन्ध थप प्रगाढ बनाउने उद्देश्यसहित लैनचौरस्थित भारतीय राजदूतावासले दसैँ, तिहार तथा छठ पर्वका अवसरमा सांगीतिक साँझ आयोजना गरेको छ। दूतावासको प्रेस सूचना तथा स‌ंस्कृति प्रभागले बिहीबार दूतावास परिसरमा आयोजना गरेको कार्यक्रममा नेपाली र भारतीय लोकसंगीतका विविध प्रस्तुति समेटिएका थिए। दुवै देशका मौलिक संगीत, संस्कृति र परम्परालाई एउटै मञ्चमा प्रस्तुत गरिएको […]"
-    },
-    {
-      "id": "e1afb1b517aa826c",
-      "title": "कन्टेन्ट क्रियटरमार्फत पर्यटन प्रवर्द्धन गर्दै पर्टन बोर्ड",
-      "link": "https://www.thahakhabar.com/detail/311130",
-      "source": "Thaha Khabar",
-      "sourceUrl": "https://www.thahakhabar.com/feed",
-      "pubDate": "2026-10-30T15:31:03+00:00",
-      "categories": [
-        "politics",
-        "business",
-        "sports"
-      ],
-      "image": "https://www.thahakhabar.com/uploads/posts/Tourism-Board-1793374256.jpg",
-      "images": [
-        "https://www.thahakhabar.com/uploads/posts/Tourism-Board-1793374256.jpg"
-      ],
-      "description": ""
     },
     {
       "id": "24d2e73e0e8e2d2a",
@@ -1347,37 +2260,6 @@
       "description": "Hetauda, Oct 30: Vehicular movement has been suspended on the Kanti Highway for two consecutive nights bearing in mind a..."
     },
     {
-      "id": "3480734284caf0ce",
-      "title": "डीडीसीका तत्कालीन महाप्रबन्धकसहित ८ जना पक्राउ",
-      "link": "https://nepalnews.com/2026/10/30/8-people-arrested-including-the-then-general-manager-of-ddc/",
-      "source": "Nepal News",
-      "sourceUrl": "https://nepalnews.com/feed",
-      "pubDate": "2026-10-30T15:25:55+00:00",
-      "categories": [
-        "politics",
-        "business",
-        "world"
-      ],
-      "image": "",
-      "images": [],
-      "description": "काठमाडौं। दुग्ध विकास संस्थान (डीडीसी) मा १२ करोड १३ लाख ४३ हजार ५३० रुपैयाँ बराबरको आर्थिक अनियमितता गरेको आरोपमा तत्कालीन महाप्रबन्धकसहित ८ जना पक्राउ परेका छन्। नेपाल प्रहरीको केन्द्रीय अनुसन्धान ब्यूरो (सीआईबी) ले उनीहरूलाई पक्राउ गरेको हो। सीआईबीका अनुसार संस्थानका तत्कालीन महाप्रबन्धक, उच्च तहका कर्मचारी, चिस्यान केन्द्रका प्रमुख र अन्य कर्मचारीको मिलेमतोमा संगठित सञ्जाल खडा […]"
-    },
-    {
-      "id": "b7472e0c4ff886ef",
-      "title": "पत्रकारमाथिको धरपकड ‘फासिवादी प्रवृत्ति’ : एमाले",
-      "link": "https://www.dainiknepal.com/2026/10/847587.html",
-      "source": "Dainik Nepal",
-      "sourceUrl": "https://dainiknepal.com/feed",
-      "pubDate": "2026-10-30T15:25:41+00:00",
-      "categories": [
-        "politics",
-        "sports"
-      ],
-      "image": "",
-      "images": [],
-      "description": "काठमाडौं । सञ्चारगृहमा प्रहरी प्रवेश गरी पत्रकारलाई नियन्त्रणमा लिने घटनाप्रति नेकपा (एमाले) ले कडा आपत्ति जनाएको छ। पार्टीले सरकारको यस्तो गतिविधि लोकतान्त्रिक मूल्य र प्रेस स्वतन्त्रताविरुद्ध रहेको टिप्पणी गर्दै पक्राउ परेका सञ्चारकर्मीलाई विनासर्त रिहा गर्न माग गरेको हो। एमालेका प्रचार तथा प्रकाशन विभाग प्रमुख निरज आचार्यले शुक्रबार जारी गरेको विज्ञप्तिमा सञ्चारगृहमा छापा मार्ने, पत्रकारलाई पक्राउ […]"
-    },
-    {
       "id": "afb24c7bf24c4a4d",
       "title": "पत्रकार पक्राउबारे रास्वपाका सचेतक भन्छन् : प्रहरीको जंगे शैली",
       "link": "https://www.onlinekhabar.com/2026/10/2047648/rashtriya-swayamsevak-sangh-rss-whip-says-about-journalist-arrest-polices-warlike-style",
@@ -1394,40 +2276,6 @@
       "image": "",
       "images": [],
       "description": "राष्ट्रिय स्वतन्त्र पार्टी संसदीय दलका सचेतक प्रकाशचन्द्र परियारले पत्रकारहरू पक्राउ गरिएको घटनालाई जंगे शैलीको संज्ञा दिएका छन् ।"
-    },
-    {
-      "id": "6182fc8ee710a0eb",
-      "title": "Bilateral commitment to bolster border security, cooperation",
-      "link": "https://risingnepaldaily.com/news/88238",
-      "source": "The Rising Nepal",
-      "sourceUrl": "https://risingnepaldaily.com/rss",
-      "pubDate": "2026-10-30T15:23:36+00:00",
-      "categories": [
-        "politics",
-        "business",
-        "world",
-        "sports"
-      ],
-      "image": "",
-      "images": [],
-      "description": "Kathmandu, Oct 30: The border security leaderships of Nepal and India have agreed to bolster bilateral cooperation to co..."
-    },
-    {
-      "id": "150cc17a6e8a17c3",
-      "title": "‘पत्रकार पक्राउमा प्रधानमन्त्री कार्यालयको संलग्न छैन’",
-      "link": "https://gorkhapatraonline.com/news/227751",
-      "source": "Gorkhapatra",
-      "sourceUrl": "https://gorkhapatraonline.com/rss",
-      "pubDate": "2026-10-30T15:19:38+00:00",
-      "categories": [
-        "politics",
-        "business"
-      ],
-      "image": "https://gorkhapatraonline.com/storage/media/389638/conversions/pm-mantralay-original.jpg",
-      "images": [
-        "https://gorkhapatraonline.com/storage/media/389638/conversions/pm-mantralay-original.jpg"
-      ],
-      "description": "काठमाडौँ, कात्तिक १३ गते । प्रधानमन्त्रीका प्रेस तथा अनुसन्धान विज्ञ दीपा दाहालले पत्रकार पक्राउ प्रकरणमा प्रधानमन्त्री, उहाँको सचिवालय र प्रधानमन्त्री तथा मन्त्रिपरिषद्को कार्यालय..."
     },
     {
       "id": "6d3960d6366657b6",
@@ -1460,24 +2308,6 @@
         "https://rajdhanidaily.com/wp-content/uploads/2026/10/Bikram-Timilsena.jpg"
       ],
       "description": "काठमाडौँ । सूचना तथा सञ्चार मन्त्री डा. विक्रम तिमील्सीनाले शुक्रबार पक्राउ परेका सबै पत्रकार रिहा भएको बताएका छन्। विभिन्न सञ्चारमाध्यममा कार्यरत पत्रकारलाई प्रहरीले नियन्त्रणमा लिएको तथा पत्रकारको खोजी गर्दै सञ्चारगृहमा पुगेको घटनाप्रति विरोध भइरहेका बेला उनले सामाजिक सञ्जालमार्फत रिहाइको जानकारी दिएका हुन्। ‘पक्राउ परेका सबै पत्रकारहरू रिहा भएका छन्,’ सञ्चारमन्त्रीले लेखेका छन्। उनले सरकार प्रेस […] The post प्रधानमन्त्रीको निर्देशनपछि पक्राउ परेका सबै पत्रकार रिहा appeared first on राजधानी र"
-    },
-    {
-      "id": "a159c04fc3f12f74",
-      "title": "दुग्ध विकास संस्थानका तत्कालीन महाप्रबन्धकसहित आठजना पक्राउ",
-      "link": "https://www.thahakhabar.com/detail/311129",
-      "source": "Thaha Khabar",
-      "sourceUrl": "https://www.thahakhabar.com/feed",
-      "pubDate": "2026-10-30T15:16:00+00:00",
-      "categories": [
-        "politics",
-        "business",
-        "sports"
-      ],
-      "image": "https://www.thahakhabar.com/uploads/posts/CIB-1793373362.jpg",
-      "images": [
-        "https://www.thahakhabar.com/uploads/posts/CIB-1793373362.jpg"
-      ],
-      "description": ""
     },
     {
       "id": "17d58df5b4cb4437",
@@ -1559,27 +2389,6 @@
       "description": "काठमाडौं। आपराधिक विश्वासघात तथा संगठित अपराधको कसुरमा संलग्न रहेको आरोपमा दुग्ध विकास संस्थानका तत्कालीन महाप्रबन्धकसहित ८ जनालाई प्रहरीले पक्राउ गरेको छ। गैरकानूनी रूपमा आर्थिक लाभ लिई संस्थानलाई हानि नोक्सानी पुर्‍याउने कार्य गरेको आरोपमा उनीहरूलाई प्रहरीले पक्राउ गरेको हो। पक्राउ पर्नेमा सर्लाही बलरा घर भई हाल कागेश्वरी मनहरा ६ काठमाडौं बस्ने संस्थानका तत्कालीन महाप्रबन्धक सञ्जीव झा […] The post दुग्ध विकास संस्थानका तत्कालीन महाप्रबन्धकसहित ८ जना पक्राउ, संगठित अपराधको आरोप appeared first o"
     },
     {
-      "id": "ea34f149233862d3",
-      "title": "समाचार कक्षमा प्रहरी किन?",
-      "link": "https://nepalnews.com/2026/10/30/why-are-there-police-in-the-newsroom/",
-      "source": "Nepal News",
-      "sourceUrl": "https://nepalnews.com/feed",
-      "pubDate": "2026-10-30T15:07:06+00:00",
-      "categories": [
-        "politics",
-        "business",
-        "world"
-      ],
-      "image": "https://nepalnews.com/wp-content/uploads/2026/10/cover-patrakar-pakrau.png",
-      "images": [
-        "https://nepalnews.com/wp-content/uploads/2026/10/cover-patrakar-pakrau.png",
-        "https://nepalnews.com/wp-content/uploads/2026/10/matrika.jpg",
-        "https://nepalnews.com/wp-content/uploads/2025/09/fnj.jpg",
-        "https://nepalnews.com/wp-content/uploads/2026/10/raswpa-bigyapti.jpg"
-      ],
-      "description": "आज (१३ कात्तिक) दिउँसो सादा पोसाकका प्रहरी नयाँ बानेश्वरस्थित नेपाल प्रेसको कार्यालय पुगे। सुरक्षागार्डलाई साथी भेट्न आएको बताएर भित्र पसेका उनीहरूले काम गरिरहेका पत्रकार विश्वमणि सुवेदीलाई आफूसँग जान भने। त्यहाँका पत्रकारहरूका अनुसार प्रहरीले पक्राउ पुर्जी देखाएका थिएनन्। सुवेदी आफैँ मोटरसाइकलमा जान तयार हुँदा पनि उनलाई प्रहरीको गाडीमा राखेर लगियो। पछि उनी साइबर ब्युरोमा पुर्‍याइएको खुल्यो। […]"
-    },
-    {
       "id": "8378b8ff1d2e63fd",
       "title": "PM Balen Shah directs authorities to release detained journalists, stop newsroom raids",
       "link": "https://english.onlinekhabar.com/balen-shah-release-detained-journalist.html",
@@ -1649,41 +2458,6 @@
       "description": "KATHMANDU: The Prime Minister’s Office has expressed serious concern over the arrest of journalists from various media outlets. The office clarified that Prime Minister Balendra Shah and his secretariat had no involvement in the incident and that the Prime Minister was not informed of the arrests beforehand. In a social media post, the Prime Minister’s […]"
     },
     {
-      "id": "5da64cbccd91e144",
-      "title": "सल्यानमा जिप दुर्घटना हुँदा आठ जना घाइते",
-      "link": "https://gorkhapatraonline.com/news/227748",
-      "source": "Gorkhapatra",
-      "sourceUrl": "https://gorkhapatraonline.com/rss",
-      "pubDate": "2026-10-30T14:52:11+00:00",
-      "categories": [
-        "politics",
-        "business"
-      ],
-      "image": "https://gorkhapatraonline.com/storage/media/389633/conversions/Accident1-original.jpg",
-      "images": [
-        "https://gorkhapatraonline.com/storage/media/389633/conversions/Accident1-original.jpg"
-      ],
-      "description": "प्रतीक इच्छुक शर्मासल्यान, कात्तिक १३ गते । सल्यानको सिद्धकुमाख गाउँपालिका–२ रातामाटे खोलामा जिप दुर्घटना हुँदा आठ जना घाइते भएका छन् ।शुक्रबार साँझ श्रीनगरबाट टाकुरा गाउँतर्फ जाँद..."
-    },
-    {
-      "id": "604acec5788175f0",
-      "title": "पक्राउ परेका सबै पत्रकार रिहा",
-      "link": "https://www.thahakhabar.com/detail/311128",
-      "source": "Thaha Khabar",
-      "sourceUrl": "https://www.thahakhabar.com/feed",
-      "pubDate": "2026-10-30T14:51:00+00:00",
-      "categories": [
-        "politics",
-        "business",
-        "sports"
-      ],
-      "image": "https://www.thahakhabar.com/uploads/posts/Vikram-Timilsena-1793371855.jpg",
-      "images": [
-        "https://www.thahakhabar.com/uploads/posts/Vikram-Timilsena-1793371855.jpg"
-      ],
-      "description": ""
-    },
-    {
       "id": "881a976459174ea7",
       "title": "नियन्त्रणमा लिइएका पत्रकार छुटे",
       "link": "https://www.nepalviews.com/story/427385/detained-journalists-released",
@@ -1700,54 +2474,6 @@
         "https://nepalviews.cdnsolution.net/en/media/setting/banner_FHsSzcWYKk.jpg"
       ],
       "description": ""
-    },
-    {
-      "id": "039fc08aeb72f14f",
-      "title": "पक्राउ परेका सबै पत्रकार रिहा भए : सञ्चारमन्त्री",
-      "link": "https://nepalnews.com/2026/10/30/all-arrested-journalists-released-communications-minister/",
-      "source": "Nepal News",
-      "sourceUrl": "https://nepalnews.com/feed",
-      "pubDate": "2026-10-30T14:48:51+00:00",
-      "categories": [
-        "politics",
-        "business",
-        "world"
-      ],
-      "image": "",
-      "images": [],
-      "description": "काठमाडौं। सूचना तथा सञ्चारमन्त्री डा. विक्रम तिमिल्सिनाले शुक्रबार पक्राउ परेका सबै पत्रकार रिहा भएको जानकारी दिएका छन्। मन्त्री तिमिल्सिनाले शुक्रबार साँझ सामाजिक सञ्जाल फेसबुकमार्फत पक्राउ परेका सबै पत्रकार रिहा भइसकेको बताएका हुन्। ‘पक्राउ परेका सबै पत्रकारहरू रिहा भएका छन्,’ उनले लेखेका छन्, ‘सरकार प्रेस स्वतन्त्रताप्रति पूर्ण प्रतिबद्ध छ । प्रेस स्वतन्त्रता र जिम्मेवार पत्रकारिता लोकतन्त्रका […]"
-    },
-    {
-      "id": "942e39d952ca7e4b",
-      "title": "तीन जना कर्मचारीको बिदाइ",
-      "link": "https://gorkhapatraonline.com/news/227747",
-      "source": "Gorkhapatra",
-      "sourceUrl": "https://gorkhapatraonline.com/rss",
-      "pubDate": "2026-10-30T14:45:17+00:00",
-      "categories": [
-        "politics",
-        "business"
-      ],
-      "image": "https://gorkhapatraonline.com/storage/media/389635/conversions/DSC00807-(1)-original.jpg",
-      "images": [
-        "https://gorkhapatraonline.com/storage/media/389635/conversions/DSC00807-(1)-original.jpg"
-      ],
-      "description": "गोरखापत्र समाचारदाताकाठमाडौँ, कात्तिक १३ गते । गोरखापत्र संस्थानबाट सेवानिवृत्त र स्वेच्छाले राजीनामा दिनुभएका तीन जना कर्मचारीको शुक्रबार औपचारिक बिदाइ गरिएको छ । संस्थानका महाप्र..."
-    },
-    {
-      "id": "21fd4b96ca001854",
-      "title": "रास्वपाले भन्यो ‘पुलिस स्टेट’ बन्द गर : पत्रकार पक्राउ प्रकरणको छानबिन होस्",
-      "link": "https://nepallive.com/story/352491",
-      "source": "Nepal Live",
-      "sourceUrl": "https://nepallive.com/feed",
-      "pubDate": "2026-10-30T14:45:00+00:00",
-      "categories": [
-        "politics",
-        "technology"
-      ],
-      "image": "",
-      "images": [],
-      "description": "परियारले पत्रकार विश्वमणि सुवेदी पक्राउ परेको घटना र नयाँ पत्रिकाको कार्यालयमा सादा पोसाकका प्रहरी पुगेको घटनाप्रति आपत्ति जनाउँदै यसलाई ‘पुलिस स्टेट’ अर्थात् ‘प्रहरी राज’ उन्मुख शैलीको संज्ञा दिएका छन्।"
     },
     {
       "id": "9f2cae667c93f76f",
@@ -1800,6 +2526,24 @@
       "description": "काठमाडौँ– प्रधानमन्त्री वालेन्द्र शाह बालेनले पक्राउ परेका पत्रकार तत्काल रिहा गर्न निर्देशन दिएका छन् । प्रधानमन्त्रीका अनुसन्धान तथा प्रेस विज्ञ दीपा दाहालले सामाजिक सञ्जालमार्फत् दिएको जानकारीअनुसार प्रधानमन्त्रीले नियन्त्रणमा लिइएका पत्रकारहरुलाई तत्काल रिहा गर्न तथा समाचार कक्षमा प्रवेश गरी कुनै पनि प्रकारको धरपकड नगर्न सम्बन्धित निकायलाई स्पष्ट निर्देशन दिइसकेका छन् । यसअघि प्रहरीले नेपाल प्रेससहित विभिन्न […]"
     },
     {
+      "id": "948194800e0861ed",
+      "title": "पक्राउ परेका सबै पत्रकार रिहा भए : सञ्चारमन्त्री",
+      "link": "https://www.onlinekhabar.com/2026/10/2047614/all-arrested-journalists-released-communications-minister",
+      "source": "Online Khabar",
+      "sourceUrl": "https://www.onlinekhabar.com/feed",
+      "pubDate": "2026-10-30T14:31:48+00:00",
+      "categories": [
+        "politics",
+        "business",
+        "sports",
+        "technology",
+        "entertainment"
+      ],
+      "image": "",
+      "images": [],
+      "description": "मन्त्री तिमिल्सिनाले लेखेका छन्, ‘सरकार प्रेस स्वतन्त्रताप्रति पूर्ण प्रतिबद्ध छ । प्रेस स्वतन्त्रता र जिम्मेवार पत्रकारिता लोकतन्त्रका आधारस्तम्भ हुन् ।’"
+    },
+    {
       "id": "eadfe6e16a68f10f",
       "title": "समाचार कक्षमै प्रवेश गरेर पत्रकार नियन्त्रणमा लिएको घटनाप्रति प्रेस काउन्सिलको भर्त्सना",
       "link": "https://newsofnepal.com/2026/10/30/792711/",
@@ -1816,23 +2560,6 @@
         "https://newsofnepal.com/wp-content/uploads/2026/10/press-councile-nepal-1024x614-1-150x150.jpg"
       ],
       "description": "काठमाडौँ। प्रेस काउन्सिल नेपालले विभिन्न सञ्चारमाध्यमका समाचार कक्षमै प्रवेश गरी सादा पोसाकका प्रहरीले पत्रकारलाई नियन्त्रणमा लिएको तथा पक्राउ गर्ने प्रयास गरेको घटनाप्रति गम्भीर आपत्ति जनाएको छ। काउन्सिलले शुक्रबार प्रेस विज्ञप्ति जारी गर्दै सञ्चारगृहभित्रै प्रवेश गरेर पत्रकारलाई नियन्त्रणमा लिने प्रहरीको कार्यको कडा शब्दमा भर्त्सना गरेको हो। कार्यालय समय सकिएपछि समाचार कक्षमै प्रवेश गरी प्रहरीले गरेको यस्तो […]"
-    },
-    {
-      "id": "78c5d92868e13732",
-      "title": "कालीगण्डकी बाढीले क्षतिग्रस्त पक्की पर्खाल पुननिर्माणको तयारी",
-      "link": "https://gorkhapatraonline.com/news/227746",
-      "source": "Gorkhapatra",
-      "sourceUrl": "https://gorkhapatraonline.com/rss",
-      "pubDate": "2026-10-30T14:27:49+00:00",
-      "categories": [
-        "politics",
-        "business"
-      ],
-      "image": "https://gorkhapatraonline.com/storage/media/389628/conversions/beni-parkhal--(2)-original.jpg",
-      "images": [
-        "https://gorkhapatraonline.com/storage/media/389628/conversions/beni-parkhal--(2)-original.jpg"
-      ],
-      "description": "ठाकुरप्रसाद आचार्य म्याग्दी (बेनी) कात्तिक १३ गते । असोज दोस्रो साता कालीगण्डकी नदीमा आएको बाढीले बेनी बजार संरक्षणका लागि निर्माण गरिएको क्षतिग्रस्त पक्की पर्खाल र रिङरोड पुनर्निर..."
     },
     {
       "id": "7a882244543f7b8e",
@@ -1870,21 +2597,6 @@
       "description": "काठमाडौं । प्रधानमन्त्री बालेन्द्र शाहकी प्रेस विज्ञ दीपा दाहालले हालै पत्रकार पक्राउ परेको घटनाप्रति प्रधानमन्त्रीको कार्यालय र सचिवालयको कुनै पनि किसिमको संलग्नता नरहेको स्पष्ट पारेकी छिन । उनले एक जानकारी जारी गर्दै यस घटना’bout प्रधानमन्त्रीको कार्यालयलाई कुनै पनि पूर्वजानकारी समेत प्राप्त नभएको प्रष्ट पारेकी छिन । घटना’bout जानकारी प्राप्त हुनासाथ प्रधानमन्त्री बालेन्द्र शाहले नियन्त्रणमा लिइएका पत्रकारहरूलाई […] The post पक्राउ पत्रकारलाई रिहा गर्न प्रधानमन्त्री शाहकाे निर्देशन गएकाे छः प्"
     },
     {
-      "id": "b7eecfb310e4fe88",
-      "title": "समाचारको स्रोत नखोलेपछि पक्राउ परेका पत्रकार सुवेदी रिहा",
-      "link": "https://nepallive.com/story/352490",
-      "source": "Nepal Live",
-      "sourceUrl": "https://nepallive.com/feed",
-      "pubDate": "2026-10-30T14:21:52+00:00",
-      "categories": [
-        "politics",
-        "technology"
-      ],
-      "image": "",
-      "images": [],
-      "description": "नेपाल प्रेसमा प्रकाशित समाचारको स्रोत खुलाउन दबाब दिँदै प्रहरीले सुवेदीलाई नियन्त्रणमा लिएको थियो । यसै विषयमा नेपाल प्रेसका प्रधान सम्पादक मातृका पौडेल र अध्यक्ष विन्दुराज लम्साललाई समेत ब्यूरोमा बोलाएर सोधपुछ गरिएको थियो ।"
-    },
-    {
       "id": "41145f9ced1b575e",
       "title": "IS THE WORLD BUILDING AN AI BUBBLE ?",
       "link": "https://www.nepalviews.com/story/427382/is-the-world-building-an-ai-bubble",
@@ -1919,37 +2631,6 @@
       "description": "KATHMANDU: Press Council Nepal (PCN) has expressed serious concern over reports that plainclothes police personnel entered the newsrooms of several media outlets, detained journalists and attempted to arrest them. The Council strongly objected to the actions, which reportedly took place after office hours on Friday, ahead of two consecutive public holidays. It said taking journalists […]"
     },
     {
-      "id": "8b9fd3a0c6b330cb",
-      "title": "नियन्त्रणमा लिइएका पत्रकारलाई तत्काल रिहा गर्न प्रधानमन्त्रीको निर्देशन",
-      "link": "https://nepalnews.com/2026/10/30/prime-minister-directs-immediate-release-of-detained-journalists/",
-      "source": "Nepal News",
-      "sourceUrl": "https://nepalnews.com/feed",
-      "pubDate": "2026-10-30T14:15:50+00:00",
-      "categories": [
-        "politics",
-        "business",
-        "world"
-      ],
-      "image": "",
-      "images": [],
-      "description": "काठमाडौं। प्रधानमन्त्री वालेन्द्र शाहले नियन्त्रणमा लिइएका पत्रकारहरूलाई तत्काल रिहा गर्न सम्बन्धित निकायलाई निर्देशन दिएका छन्। समाचार कक्षमा प्रवेश गरी धरपकड नगर्न पनि प्रधानमन्त्रीले स्पष्ट निर्देशन दिएको प्रधानमन्त्रीको प्रेस तथा अनुसन्धान विज्ञ दीपा दाहालले जानकारी दिइन्। पत्रकार पक्राउ परेको घटनाप्रति प्रधानमन्त्री, उनको सचिवालय तथा प्रधानमन्त्रीको कार्यालयको कुनै संलग्नता नरहेको र यसबारे पूर्वजानकारी समेत नभएको दाहालले स्पष्ट […]"
-    },
-    {
-      "id": "54fde4496bb3a109",
-      "title": "सञ्चारगृहमा प्रहरी प्रवेश र पत्रकार धरपकडप्रति एमालेको आपत्ति",
-      "link": "https://nepallive.com/story/352489",
-      "source": "Nepal Live",
-      "sourceUrl": "https://nepallive.com/feed",
-      "pubDate": "2026-10-30T14:15:16+00:00",
-      "categories": [
-        "politics",
-        "technology"
-      ],
-      "image": "",
-      "images": [],
-      "description": "एमाले प्रचार विभाग प्रमुख निरज आचार्यले विज्ञप्ति जारी गर्दै सञ्चारगृहमा छापा मार्ने, सञ्चारकर्मीमाथि धरपकड गर्ने र भयको वातावरण सिर्जना गर्ने सरकारी कदमको भर्त्सना गरेका हुन् ।"
-    },
-    {
       "id": "a7eef5c6ab7c347b",
       "title": "नियन्त्रणमा रहेका पत्रकारलाई रिहा गर्न प्रधानमन्त्रीको निर्देशन",
       "link": "https://www.onlinekhabar.com/2026/10/2047611/prime-minister-directs-to-release-detained-journalists",
@@ -1966,38 +2647,6 @@
       "image": "",
       "images": [],
       "description": "सञ्चारगृहमा प्रहरी प्रवेश गरेर पत्रकारलाई नियन्त्रणमा लिएको विषयमा प्रधानमन्त्री बालेन शाहले चासो दिएका छन्।"
-    },
-    {
-      "id": "fa9381b4d6be44e5",
-      "title": "सैनिक न्याय प्रणालीलाई प्रभावकारी बनाउन जोड",
-      "link": "https://gorkhapatraonline.com/news/227745",
-      "source": "Gorkhapatra",
-      "sourceUrl": "https://gorkhapatraonline.com/rss",
-      "pubDate": "2026-10-30T14:13:52+00:00",
-      "categories": [
-        "politics",
-        "business"
-      ],
-      "image": "https://gorkhapatraonline.com/storage/media/389627/conversions/7e3410df-8364-4116-8d69-f1246a825723-original.jpg",
-      "images": [
-        "https://gorkhapatraonline.com/storage/media/389627/conversions/7e3410df-8364-4116-8d69-f1246a825723-original.jpg"
-      ],
-      "description": "गोरखापत्र समाचारदाताकाठमाडौँ, कात्तिक १३ गते । सैनिक ऐनको प्रभावकारी कार्यान्वयन, सैनिक न्याय प्रणालीको सुदृढीकरण तथा न्यायिक प्रक्रियामा एकरूपता कायम गर्ने उद्देश्यसहित नेपाली सेन..."
-    },
-    {
-      "id": "f1667c13403a17ea",
-      "title": "पत्रकार पक्राउको विरोधमा महासंघका पूर्वपदाधिकारीले माइतीघरमा मौन धर्ना दिने",
-      "link": "https://nepallive.com/story/352488",
-      "source": "Nepal Live",
-      "sourceUrl": "https://nepallive.com/feed",
-      "pubDate": "2026-10-30T14:12:22+00:00",
-      "categories": [
-        "politics",
-        "technology"
-      ],
-      "image": "",
-      "images": [],
-      "description": "महासंघका पूर्वपदाधिकारीहरूले शुक्रबार विज्ञप्ति जारी गर्दै शनिबार बिहान ८ बजेदेखि एक घण्टा काठमाडौंको माइतीघर मण्डलामा मौन धर्ना आयोजना गर्ने घोषणा गरेका हुन् ।"
     },
     {
       "id": "ee2befd058eed5b5",
@@ -2031,22 +2680,6 @@
       "image": "",
       "images": [],
       "description": "काठमाडौं। भूमि व्यवस्था, सहकारी, संघीय मामिला तथा सामान्य प्रशासन मन्त्रालयले तीन पालिकाका प्रमुख प्रशासकीय अधिकृतको आर्थिक तथा प्रशासनिक जिम्मेवारी रद्द गरेको छ। सरुवा गरिएको कार्यालयमा जान अटेर गरेको र नयाँ खटाइएका प्रमुख प्रशासकीय अधिकृतलाई समेत हाजिर गर्न नदिएको भन्दै मन्त्रालयले तीन पालिकाका प्रमुख प्रशासकीय अधिकृतको आर्थिक तथा प्रशासनिक जिम्मेवारी रद्द गरेको हो। जुम्लाको कनकासुन्दरी गाउँपालिका, […] The post सरुवाको निर्णय कार्यान्वयन गर्न अटेर गर्ने तीन स्थानीय तहको आर्थिक र प्रशासनिक अधिक"
-    },
-    {
-      "id": "a0e9e6f05b861b59",
-      "title": "समाचार कक्षमै छिरेर बिनापुर्जी पत्रकार पक्राउ गरिएकोमा प्रेस काउन्सिलको आपत्ति",
-      "link": "https://nepalnews.com/2026/10/30/press-council-objects-to-arrest-of-undocumented-journalist-after-entering-newsroom/",
-      "source": "Nepal News",
-      "sourceUrl": "https://nepalnews.com/feed",
-      "pubDate": "2026-10-30T14:09:57+00:00",
-      "categories": [
-        "politics",
-        "business",
-        "world"
-      ],
-      "image": "",
-      "images": [],
-      "description": "काठमाडौं । सञ्चारमाध्यमको समाचार कक्षमै प्रवेश गरी सादा पोशाकका प्रहरीले पत्रकारलाई नियन्त्रणमा लिएको घटनाप्रति प्रेस काउन्सिल नेपालले आपत्ति जनाएको छ । अदालतको अनुमतिसमेत नलिएको अवस्थामा पत्रकारलाई नियन्त्रणमा लिनु गम्भीर आपत्तिको विषय भएको काउन्सीलले जनाएको छ । काउन्सिलका वरिष्ठ प्रशासकीय अधिकृत एवं प्रवक्ता दीपक खनालले विज्ञप्ति जारी गर्दै घटनाबारे ध्यानाकर्षण भएको जनाएका छन् । विज्ञप्तिमा पक्राउको […]"
     },
     {
       "id": "d24243db67cd7e3d",
@@ -2083,23 +2716,6 @@
       "image": "",
       "images": [],
       "description": "रक्षाले फेसबुकमा लेखेकी छन्, ‘तपाईंको पार्टीले नेतृत्व गरेको सरकारबाट पञ्चायती गन्ध आइरहेको छ ।’"
-    },
-    {
-      "id": "a7e2616f828a27b9",
-      "title": "उद्धार गरिएका बालबालिका अभिभावकको जिम्मामा",
-      "link": "https://gorkhapatraonline.com/news/227744",
-      "source": "Gorkhapatra",
-      "sourceUrl": "https://gorkhapatraonline.com/rss",
-      "pubDate": "2026-10-30T14:04:39+00:00",
-      "categories": [
-        "politics",
-        "business"
-      ],
-      "image": "https://gorkhapatraonline.com/storage/media/389626/conversions/05-(1)-original.jpg",
-      "images": [
-        "https://gorkhapatraonline.com/storage/media/389626/conversions/05-(1)-original.jpg"
-      ],
-      "description": "हुम्ला समाचारदाताहुम्ला, कात्तिक १३ गते । कन्चनपुर जिल्लाको गड्डा चौकीबाट भारत लैजाने क्रममा उद्धार गरिएका बालबालिकाहरुलाई जिल्ला प्रहरी कार्यालय हुम्लाले अभिभावकको जिम्मा लगाएको छ..."
     },
     {
       "id": "9a2aceb5c127fd7d",
@@ -2274,24 +2890,6 @@
       "description": "काठमाडौं । नेपाल पत्रकार महासंघले सञ्चारमाध्यमका कार्यालय तथा समाचार कक्षबाटै पत्रकारलाई पक्राउ गर्ने घटनाप्रति गम्भीर आपत्ति जनाएको छ। महासंघले यस्ता गतिविधि तत्काल रोक्न सरकारसँग माग गरेको छ। महासंघका कार्यवाहक अध्यक्ष दीपक आचार्यले समाचार कक्षबाट पत्रकार पक्राउ गर्नु संविधान, प्रेस स्वतन्त्रता र अन्तर्राष्ट्रिय कानुनविपरीत भएको बताएका छन्। उनले यस्तो कार्यले प्रेस स्वतन्त्रतामाथि गम्भीर हस्तक्षेप गरेको उल्लेख […]"
     },
     {
-      "id": "ccf41fbb4d5deae9",
-      "title": "कानुनी आधारबिना नियन्त्रणमा राखिएका पत्रकारलाई रिहा गर : प्रेस काउन्सिल",
-      "link": "https://www.onlinekhabar.com/2026/10/2047584/if-you-disagree-with-the-news-come-to-us-press-council",
-      "source": "Online Khabar",
-      "sourceUrl": "https://www.onlinekhabar.com/feed",
-      "pubDate": "2026-10-30T13:41:28+00:00",
-      "categories": [
-        "politics",
-        "business",
-        "sports",
-        "technology",
-        "entertainment"
-      ],
-      "image": "",
-      "images": [],
-      "description": "शुक्रबार सरकारी कार्यालय समय सकिएपछि विभिन्न सञ्चारमाध्यमका समाचार कक्षमै प्रवेश गरी सादा पोशाकका प्रहरीले पत्रकारहरूलाई नियन्त्रणमा लिएको तथा पक्राउ गर्ने प्रयास गरेको घटनाप्रति प्रेस काउन्सिल नेपालको गम्भीर ध्यानाकर्षण भएको जनाएको छ।"
-    },
-    {
       "id": "ab601e852834d3fd",
       "title": "Two journalists arrested for questioning over report on police chief",
       "link": "https://english.khabarhub.com/2026/30/573769/",
@@ -2308,94 +2906,6 @@
       "description": "KATHMANDU: Police have detained two journalists, including Bishwa Mani Subedi of Nepal Press, for questioning over a news report concerning Nepal Police Inspector General Dan Bahadur Karki. Subedi was arrested from the Nepal Press office in New Baneshwar, Kathmandu. An official at the Kathmandu Valley Crime Investigation Office said the arrest was made on the […]"
     },
     {
-      "id": "599512f1d68a972d",
-      "title": "पत्रकारहरूको गिरफ्तारीले शाही शासनकालको झल्को दियो : बार अध्यक्ष मिश्र",
-      "link": "https://www.onlinekhabar.com/2026/10/2047582/arrest-of-journalists-reflects-royal-rule-bar-president-mishra",
-      "source": "Online Khabar",
-      "sourceUrl": "https://www.onlinekhabar.com/feed",
-      "pubDate": "2026-10-30T13:37:28+00:00",
-      "categories": [
-        "politics",
-        "business",
-        "sports",
-        "technology",
-        "entertainment"
-      ],
-      "image": "",
-      "images": [],
-      "description": "१३ कात्तिक, काठमाडौं । नेपाल बार एसोसिएसनका अध्यक्ष डा. विजयप्रसाद मिश्रले विभिन्न सञ्चारमाध्यमका समाचार कक्षमा प्रवेश गरेर पत्रकारहरूलाई पक्राउ गरिएको घटनाले शाही शासनकालको झल्को दिएको बताएका छन्। प्रहरीले विभिन्न सञ्चारमाध्यमका समाचार कक्षमा पुगेर संवाददाता तथा अन्य पत्रकारहरूलाई पक्राउ गरेको घटनाप्रति प्रतिक्रिया दिँदै अध्यक्ष मिश्रले यस्तो कार्य उचित नभएको बताएका हुन्। उनले प्रेसमा गलत सामग्री प्रकाशित […]"
-    },
-    {
-      "id": "549e500b1fbf61c3",
-      "title": "हिमाली क्षेत्रमा १.५ डिग्री तापक्रम वृद्धिको विषय ‘कोप-३१’ को एजेन्डामा राख्न नेपाल र भुटानको संयुक्त प्रस्ताव",
-      "link": "https://www.onlinekhabar.com/2026/10/2047579/nepal-and-bhutan-jointly-propose-to-put-the-issue-of-1-5-degree-temperature-increase-in-the-himalayan-region-on-the-agenda-of-cop-31",
-      "source": "Online Khabar",
-      "sourceUrl": "https://www.onlinekhabar.com/feed",
-      "pubDate": "2026-10-30T13:36:08+00:00",
-      "categories": [
-        "politics",
-        "business",
-        "sports",
-        "technology",
-        "entertainment"
-      ],
-      "image": "",
-      "images": [],
-      "description": "कृषिमन्त्री गीता चौधरीले नेपाल र भुटानका तर्फबाट सम्मेलनको मस्यौदा कार्यविधिको नियम १२ अन्तर्गत उक्त प्रस्ताव पेस गरेकी हुन् ।"
-    },
-    {
-      "id": "b41acc57219e9615",
-      "title": "Nighttime traffic suspended on Kanti Lokpath for two days",
-      "link": "https://english.khabarhub.com/2026/30/573765/",
-      "source": "Khabarhub",
-      "sourceUrl": "https://english.khabarhub.com/feed/",
-      "pubDate": "2026-10-30T13:32:51+00:00",
-      "categories": [
-        "politics",
-        "business",
-        "world"
-      ],
-      "image": "",
-      "images": [],
-      "description": "KATHMANDU: Vehicle movement along the Kanti Lokpath, which connects Kathmandu with Makwanpur, has been restricted during nighttime for two days due to the increased risk of floods and landslides triggered by heavy rainfall. The District Administration Office, Makwanpur, has prohibited vehicular movement along the highway from 5:00 pm to 5:00 am on October 29 and […]"
-    },
-    {
-      "id": "5bcaeca2eb32751b",
-      "title": "पत्रकार नियन्त्रणबारे प्रधानमन्त्री सचिवालयको दाबी- यसबारे कुनै जानकारी छैन",
-      "link": "https://www.onlinekhabar.com/2026/10/2047572/prime-ministers-secretariat-claims-to-have-no-information-about-journalists-arrest",
-      "source": "Online Khabar",
-      "sourceUrl": "https://www.onlinekhabar.com/feed",
-      "pubDate": "2026-10-30T13:32:04+00:00",
-      "categories": [
-        "politics",
-        "business",
-        "sports",
-        "technology",
-        "entertainment"
-      ],
-      "image": "",
-      "images": [],
-      "description": "यी घटनाक्रमहरूमा सम्माननीय प्रधानमन्त्रीज्यू, सचिवालय र प्रधानमन्त्री तथा मन्त्रिपरिषद् कार्यालयको कुनै पनि संलग्नता छैन । हामीलाई यसबारे कुनै जानकारी छैन- दीपा दाहाल"
-    },
-    {
-      "id": "fd4f52cb68c823d9",
-      "title": "समाचारकै आधारमा पत्रकार पक्राउ गर्नु पार्टी नीति र संविधान विपरीत : जगदीश खरेल",
-      "link": "https://www.onlinekhabar.com/2026/10/2047571/arresting-journalists-based-on-news-is-against-party-policy-and-the-constitution-jagdish-kharel",
-      "source": "Online Khabar",
-      "sourceUrl": "https://www.onlinekhabar.com/feed",
-      "pubDate": "2026-10-30T13:30:34+00:00",
-      "categories": [
-        "politics",
-        "business",
-        "sports",
-        "technology",
-        "entertainment"
-      ],
-      "image": "",
-      "images": [],
-      "description": "रास्वपाका प्रवक्ता जगदीश खरेलले समाचार लेखेकै आधारमा पत्रकारलाई पक्राउ गर्ने, धरपकड गर्ने वा समाचार कक्षमा प्रवेश गरेर दबाब दिने कार्य पार्टीको नीति र सिद्धान्तविपरीत रहेको बताएका छन्।"
-    },
-    {
       "id": "1d65212501e0d108",
       "title": "हिमाली हाइड्रो फण्डको आईपीओ निष्कासन तथा बिक्री प्रबन्धकमा सानिमा क्यापिटल नियुक्त",
       "link": "https://bizmandu.com/content/20261030191431.html",
@@ -2409,42 +2919,6 @@
       "image": "",
       "images": [],
       "description": "काठमाडौं । सोना खोला जलविद्युत् आयोजना प्रवर्धित ९ मेगावाटको प्रबर्द्धक कम्पनी हिमाली हाइड्रो फण्ड लिमिटेडको साधारण सेयर (आईपीओ) निष्कासन तथा बिक्री प्रबन्धकमा सानिमा क्यापिटल लिमिटेड नियुक्त भएको छ। आईपीओ निष्कासन तथा बिक्री व्यवस्थापनसम्बन्धी कार्यका लागि हिमाली हाइड्रो फण्ड लिमिटेडका तर्फबाट प्रबन्ध सञ्चालक सोमनाथ कँडेल र सानिमा क्यापिटलका तर्फबाट प्रमुख कार्यकारी अधिकृत विकास खनालबीच २०८३ कात्तिक […] The post हिमाली हाइड्रो फण्डको आईपीओ निष्कासन तथा बिक्री प्रबन्धकमा सानिमा क्यापिटल नियुक्त "
-    },
-    {
-      "id": "5d8e3f9955a3d007",
-      "title": "नयाँ वित्तीय उपकरण विकास गर्न धितोपत्र बोर्डले गठन गर्‍यो ७ सदस्यीय समिति",
-      "link": "https://www.onlinekhabar.com/2026/10/2047568/securities-board-forms-7-member-committee-to-develop-new-financial-instruments",
-      "source": "Online Khabar",
-      "sourceUrl": "https://www.onlinekhabar.com/feed",
-      "pubDate": "2026-10-30T13:29:27+00:00",
-      "categories": [
-        "politics",
-        "business",
-        "sports",
-        "technology",
-        "entertainment"
-      ],
-      "image": "",
-      "images": [],
-      "description": "१३ कात्तिक, काठमाडौं । नेपाल धितोपत्र बोर्डले पूँजी बजारमा नयाँ वित्तीय उपकरणको विकास तथा सञ्चालन व्यवस्थापनसम्बन्धी समिति गठन गरेको छ। नेपालको पूँजी बजारलाई थप पारदर्शी, विश्वसनीय र लगानीकर्तामैत्री बनाउँदै बजारको गहिराइ तथा विविधीकरण गर्ने उद्देश्यले विविध उपकरणको विकास गर्न समिति गठन गरिएको बोर्डले जनाएको छ । कार्यवाहक कार्यकारी निर्देशकको संयोजकत्वमा सात सदस्यीय समिति गठन गरिएको […]"
-    },
-    {
-      "id": "9248e07354c4b12d",
-      "title": "सञ्चारगृहमा सादा प्रहरीको छापा निन्दनीय छ : नेकपा",
-      "link": "https://www.onlinekhabar.com/2026/10/2047566/ordinary-police-raid-on-media-house-is-condemnable-ncp",
-      "source": "Online Khabar",
-      "sourceUrl": "https://www.onlinekhabar.com/feed",
-      "pubDate": "2026-10-30T13:27:34+00:00",
-      "categories": [
-        "politics",
-        "business",
-        "sports",
-        "technology",
-        "entertainment"
-      ],
-      "image": "",
-      "images": [],
-      "description": "नेपाली कम्युनिस्ट पार्टीले संचारगृहहरूमा प्रहरीले छापा मार्नुलाई निन्दनीय भनेको छ ।"
     },
     {
       "id": "92cf5241722f11f1",
@@ -2464,42 +2938,6 @@
         "http://english.onlinekhabar.com/wp-content/uploads/2026/10/Home-ministry-1024x500-1.jpg"
       ],
       "description": "Kathmandu, October 30 Home Ministry spokesperson Anand Kafle has said he needs to gather further information about the detention of journalists by police from their newsrooms. Asked by Onlinekhabar what the ministry’s position was on journalists being taken into custody from newsrooms simply for writing news reports, Kafle said he needed to look into the […] The post Home Ministry spokesperson declines to give clear response on journalists’ arrests appeared first on OnlineKhabar English News ."
-    },
-    {
-      "id": "3d3e10c716e4e7c1",
-      "title": "समाचारको स्रोत पत्ता लगाउन समाचारकक्षमा प्रहरी छिरेको हो भने मुलुकमा संविधान सकियो : गाउँले",
-      "link": "https://www.onlinekhabar.com/2026/10/2047562/if-the-police-entered-the-newsroom-to-find-out-the-source-of-the-news-then-the-constitution-of-the-country-is-finished-villager",
-      "source": "Online Khabar",
-      "sourceUrl": "https://www.onlinekhabar.com/feed",
-      "pubDate": "2026-10-30T13:23:00+00:00",
-      "categories": [
-        "politics",
-        "business",
-        "sports",
-        "technology",
-        "entertainment"
-      ],
-      "image": "",
-      "images": [],
-      "description": "नेपाल पत्रकार महासंघका पूर्वअध्यक्ष शिव गाउँलेले समाचारको स्रोत पत्ता लगाउने नाममा प्रहरीले समाचार कक्षमै प्रवेश गरेर पत्रकार पक्राउ गर्न थालेको भन्दै चिन्ता व्यक्त गरेका छन्।"
-    },
-    {
-      "id": "512fcf4b2dd07661",
-      "title": "‘चौथो तिहार फ्लोरा एक्स्पो’ १७ कात्तिकमा, १ करोड कारोबार अपेक्षा",
-      "link": "https://www.onlinekhabar.com/2026/10/2047560/fourth-tihar-flora-expo-on-17-kartik-turnover-expected-to-be-rs-10-million",
-      "source": "Online Khabar",
-      "sourceUrl": "https://www.onlinekhabar.com/feed",
-      "pubDate": "2026-10-30T13:22:23+00:00",
-      "categories": [
-        "politics",
-        "business",
-        "sports",
-        "technology",
-        "entertainment"
-      ],
-      "image": "",
-      "images": [],
-      "description": "नर्सरी व्यवसायी संघ नेपालको आयोजनामा १७ देखि २१ कात्तिकसम्म पाँच दिने राष्ट्रियस्तरको पुष्प प्रदर्शनी तथा मेला हुन लागेको हो ।"
     },
     {
       "id": "752a79d0b4812254",
@@ -2668,22 +3106,6 @@
       "description": ""
     },
     {
-      "id": "bbbbbc3cd909ddb3",
-      "title": "Govt suspends N-PABSAN activities until further notice",
-      "link": "https://english.khabarhub.com/2026/30/573761/",
-      "source": "Khabarhub",
-      "sourceUrl": "https://english.khabarhub.com/feed/",
-      "pubDate": "2026-10-30T12:31:49+00:00",
-      "categories": [
-        "politics",
-        "business",
-        "world"
-      ],
-      "image": "",
-      "images": [],
-      "description": "KATHMANDU: The government has suspended the activities of the National Private and Boarding Schools’ Association Nepal (N-PABSAN) until further notice, citing its repeated failure to comply with government directives. In a public notice issued on Friday, the Ministry of Home Affairs said the decision was taken under Clause 2 of the National Directive Act, 2018 […]"
-    },
-    {
       "id": "1244c117eae95417",
       "title": "एनपीएलको हरेक चौका र छक्कामा रेड पान्डा संरक्षणका लागि इसेवाको योगदान",
       "link": "https://www.nepalviews.com/story/427378/esewas-contribution-to-red-panda-conservation-in-every-four-and-six-of-npl",
@@ -2723,23 +3145,6 @@
         "https://rajdhanidaily.com/wp-content/uploads/2026/10/6-1024x544.jpg"
       ],
       "description": "चापागाउँ (ललितपुर) । जंगलका अग्ला रूख । चराचुरुंगीका चिरबिर । प्रकृतिको शान्त वातावरण । रूखका हाँगामा झुन्डिएका रंगीविरंगी चित्र । कुनैमा प्राकृति, कुनैमा परम्परागत घरका आकृति त कतै नेपाली जनजीवन झल्काउने कलाकृति । मन्दिर दर्शनार्थ आएका श्रद्धालु एकैछिन टहलिन्छन् चित्र नियाल्दै । अनि, कलासँग साक्षात्कार गर्छन् । बज्रबाराही धार्मिक वनमा हरेक वर्ष विजया दशमीका दिन […] The post प्रकृतिको काखमा कला उत्सव, रूखका हाँगामा मोहक चित्र appeared first on राजधानी राष्ट्रिय दैनिक (लोकप्रिय राष्ट्रिय दैनिक)-R"
-    },
-    {
-      "id": "5aa326ddf7bf134c",
-      "title": "त्रिवि दीक्षान्त समारोह: अनलाइन फाराम भर्ने समय थप",
-      "link": "https://gorkhapatraonline.com/news/227743",
-      "source": "Gorkhapatra",
-      "sourceUrl": "https://gorkhapatraonline.com/rss",
-      "pubDate": "2026-10-30T12:16:34+00:00",
-      "categories": [
-        "politics",
-        "business"
-      ],
-      "image": "https://gorkhapatraonline.com/storage/media/389625/conversions/tu-original.jpg",
-      "images": [
-        "https://gorkhapatraonline.com/storage/media/389625/conversions/tu-original.jpg"
-      ],
-      "description": "काठमाडौं, कात्तिक १३ गते । त्रिभुवन विश्वविद्यालयले आयोजना गर्न लागेको ५२ औं दिक्षान्त समारोहमा सहभागी हुन अनलाइन फाराम भर्ने समय अवधि थप गरेको छ । त्रिवि,परीक्षा नियन्त्रण कार्याल..."
     },
     {
       "id": "8e4f47c09ed87213",
@@ -2814,24 +3219,6 @@
       "description": "Kathmandu, October 30 Police have arrived at the office of Naya Patrika daily, with five plainclothes officers reportedly asking to take its correspondent, Navaraj Mainali, to the Cyber Bureau. The five officers, who identified themselves as being from the Crime Investigation Office in Teku, arrived at the newspaper’s office a short while ago. According to […] The post Police reach Naya Patrika office seeking to take journalist to Cyber Bureau appeared first on OnlineKhabar English News ."
     },
     {
-      "id": "7e6989f95325ffeb",
-      "title": "बद्रीनाथबाट देहरादून आउँदै गरेको हेलिकप्टर दुर्घटनाग्रस्त, पाइलटसहित ६ जना सवार",
-      "link": "https://newsofnepal.com/2026/10/30/792683/",
-      "source": "News of Nepal",
-      "sourceUrl": "https://newsofnepal.com/feed/",
-      "pubDate": "2026-10-30T12:07:53+00:00",
-      "categories": [
-        "politics",
-        "business",
-        "sports"
-      ],
-      "image": "https://newsofnepal.com/wp-content/uploads/2026/10/heli2-150x150.webp",
-      "images": [
-        "https://newsofnepal.com/wp-content/uploads/2026/10/heli2-150x150.webp"
-      ],
-      "description": "काठमाडौँ। भारतको उत्तराखण्डस्थित बद्रीनाथबाट देहरादूनका लागि उडेको एक हेलिकप्टरदुर्घटनाग्रस्त भएको छ। ट्रान्स भारत एभिएसनको उक्त हेलिकप्टरमा पाइलटसहित ६ जना सवार रहेको बताइएको छ। उत्तराखण्डको चमोली जिल्लास्थित बद्रीनाथबाट देहरादूनको सहस्त्रधाराका लागि उडान भरेको हेलिकप्टर जोशीमठ उपत्यकामाथि पुगेपछि सम्पर्कविहीन भएको हो। उत्तराखण्डका मुख्यमन्त्री पुष्कर सिंह धामीले सामाजिक सञ्जालमार्फत जोशीमठको चाई गाउँनजिक हेलिकप्टर दुर्घटना भएको प्रारम्भिक खबर प्राप्त […]"
-    },
-    {
       "id": "1ae5d0790bf6b299",
       "title": "पत्रकार विश्वमणि सुवेदी कार्यकक्षबाट पक्राउ, नयाँ पत्रिकाको कार्यालयमा पनि पुग्यो प्रहरी",
       "link": "https://bizmandu.com/content/20261030175224.html",
@@ -2883,23 +3270,6 @@
       "description": "काठमाडौं । अनलाइन समाचार पोर्टल ‘नेपाल प्रेस’को कार्यालयभित्रै प्रवेश गरेर पत्रकार विश्वमणि सुवेदीलाई प्रहरीले नियन्त्रणमा लिएको छ। सुवेदी समाचार कक्षमा कार्यरत रहेका बेला सादा पोसाकमा आएका प्रहरीहरू कार्यालयभित्रै प्रवेश गरी उनलाई नियन्त्रणमा लिएका हुन्। प्रहरीको भ्यानमा आएका उनीहरूले गेटमा रहेका सुरक्षागार्डलाई ‘साथी भेट्न आएको’ बताएर भित्र प्रवेश गरेको थियाे । नेपाल प्रेसका अनुसार प्रहरीले पक्राउ पुर्जी बिना […] The post ‘नेपाल प्रेस’को कार्यालयबाटै पत्रकार विश्वमणि सुवेदी पक्राउ appeared fir"
     },
     {
-      "id": "034164a9265b91af",
-      "title": "एक सय २० फर्म तथा कम्पनी कालोसूचीमा",
-      "link": "https://gorkhapatraonline.com/news/227742",
-      "source": "Gorkhapatra",
-      "sourceUrl": "https://gorkhapatraonline.com/rss",
-      "pubDate": "2026-10-30T12:00:49+00:00",
-      "categories": [
-        "politics",
-        "business"
-      ],
-      "image": "https://gorkhapatraonline.com/storage/media/389623/conversions/PPMO-original.jpg",
-      "images": [
-        "https://gorkhapatraonline.com/storage/media/389623/conversions/PPMO-original.jpg"
-      ],
-      "description": "काठमाडौँ, कात्तिक १३ गते । सार्वजनिक खरिद प्रक्रियालाई जवाफदेही र विश्वसनीय बनाउने नेपाल सरकारको लक्ष्यअनुरुप सार्वजनिक खरिद अनुगमन कार्यालयले गत चैत १३ यता एक सय २० वटा फर्म तथा क..."
-    },
-    {
       "id": "8ddda8b8b3673945",
       "title": "बालेन सरकार बनेपछि १२० कम्पनी सार्वजनिक खरिद अनुगमन कार्यालयको कालोसूचीमा",
       "link": "https://bizmandu.com/content/20261030174053.html",
@@ -2931,24 +3301,6 @@
       "description": "दाङ- नेपाल विद्यालय कर्मचारी परिषद्ले सामुदायिक विद्यालयमा कार्यरत विद्यालय कर्मचारीलाई दरबन्दीमा समायोजन गरी स्थायी नियुक्ति, सामाजिक सुरक्षा र सम्मानजनक सेवा सुविधाको व्यवस्था गर्न सरकारसँग माग गरेको छ। परिषद्को सातौँ राष्ट्रिय महाधिवेशनको पूर्वसन्ध्यामा दाङमा आयोजित पत्रकार सम्मेलनमा केन्द्रीय पदाधिकारीहरूले विद्यालय कर्मचारीका हकहित, सेवा सुरक्षा र वृत्ति विकासका विषयमा सरकारको ध्यानाकर्षण गराएका हुन्। २०४७ साल फागुन २६ गते […]"
     },
     {
-      "id": "64fbc5d9e7a3a47d",
-      "title": "एनआईसी एशिया बैंकद्वारा जाल्पा जन माध्यमिक विद्यालयलाई स्मार्ट डिजिटल बोर्ड सहयोग",
-      "link": "https://newsofnepal.com/2026/10/30/792680/",
-      "source": "News of Nepal",
-      "sourceUrl": "https://newsofnepal.com/feed/",
-      "pubDate": "2026-10-30T11:49:18+00:00",
-      "categories": [
-        "politics",
-        "business",
-        "sports"
-      ],
-      "image": "https://newsofnepal.com/wp-content/uploads/2026/10/nc-150x150.jpg",
-      "images": [
-        "https://newsofnepal.com/wp-content/uploads/2026/10/nc-150x150.jpg"
-      ],
-      "description": "काठमाडौँ। एनआईसी एशिया बैंकले संस्थागत सामाजिक उत्तरदायित्व (सीएसआर) अन्तर्गत उदयपुरको चौदण्डीगढी नगरपालिका–४, बसाहा, अजिंगरेस्थित श्री जाल्पा जन माध्यमिक विद्यालयलाई स्मार्ट डिजिटल बोर्ड सहयोग गरेको छ। विद्यार्थीहरूको पठनपाठनलाई सहज, सरल र प्रविधिमैत्री बनाउँदै गुणस्तरीय शैक्षिक वातावरण निर्माण गर्ने उद्देश्यले बैंकले विद्यालयलाई एक थान स्मार्ट डिजिटल बोर्ड उपलब्ध गराएको हो। बैंकका अनुसार कात्तिक १२ गते आयोजित विशेष […]"
-    },
-    {
       "id": "6f2d038a95f06661",
       "title": "इरानसँग वार्ता कि फेरि युद्ध ? ट्रम्प प्रशासनका दुई विपरीत संकेत",
       "link": "https://www.nepalviews.com/story/427376/talks-with-iran-or-war-again-two-conflicting-signals-from-the-trump-administration",
@@ -2967,40 +3319,6 @@
       "description": ""
     },
     {
-      "id": "278ff8c8d808006c",
-      "title": "Rs 8.99 billion concessional agriculture loan disbursed in Madhes province",
-      "link": "https://risingnepaldaily.com/news/88237",
-      "source": "The Rising Nepal",
-      "sourceUrl": "https://risingnepaldaily.com/rss",
-      "pubDate": "2026-10-30T11:43:47+00:00",
-      "categories": [
-        "politics",
-        "business",
-        "world",
-        "sports"
-      ],
-      "image": "",
-      "images": [],
-      "description": "Dhanusha, Oct 30: A total of Rs 8.99 billion concessional agricultural loans have been invested in Madhes province in a..."
-    },
-    {
-      "id": "d8430b35145bbc1b",
-      "title": "There should be brief chain-of-command in disaster response: CoAS Sigdel",
-      "link": "https://risingnepaldaily.com/news/88236",
-      "source": "The Rising Nepal",
-      "sourceUrl": "https://risingnepaldaily.com/rss",
-      "pubDate": "2026-10-30T11:40:46+00:00",
-      "categories": [
-        "politics",
-        "business",
-        "world",
-        "sports"
-      ],
-      "image": "",
-      "images": [],
-      "description": "Kathmandu, Oct 30: Chief of the Army Staff (CoAS) Ashok Raj Sigdel has said that based on the disaster response experien..."
-    },
-    {
       "id": "dc1648ae3919adb9",
       "title": "गृह मन्त्रालयद्वारा एन-प्याब्सन निलम्बन, सरकारी निर्देशनविपरीत गतिविधि गरेको ठहर !",
       "link": "https://arthasarokar.com/2026/10/home-ministry-suspends-n-pabson.html",
@@ -3016,22 +3334,6 @@
         "https://media.arthasarokar.com/uploads/2026/04/Sudan-Gurung-7.jpg"
       ],
       "description": "काठमाडौँ । सरकारले निजी विद्यालय सञ्चालकहरुको संस्था राष्ट्रिय निजी तथा आवासीय विद्यालय एसोसिएसन नेपाल (एन-प्याब्सन) निलम्बन गरेको छ । दिइएको निर्देशन पालना नगरेको भन्दै गृह मन्त्रालयले अर्को निर्णय नभएसम्मका लागि एन-प्याब्सनलाई निलम्बन गरेको हो । गृह मन्त्रालयले ‘संगठन निलम्बनसम्बन्धी सार्वजनिक सूचना’ जारी गर्दै ‘राष्ट्रिय निर्देशन ऐन, २०१८’ को दफा ६ को उपदफा (२) बमोजिम एन-प्याब्सन Continue reading \"गृह मन्त्रालयद्वारा एन-प्याब्सन निलम्बन, सरकारी निर्देशनविपरीत गतिविधि गरेको ठहर !\""
-    },
-    {
-      "id": "0042eb77b4188ec6",
-      "title": "Karnali’s economic growth stands at 2.94 percent in FY 2082/83",
-      "link": "https://english.khabarhub.com/2026/30/573759/",
-      "source": "Khabarhub",
-      "sourceUrl": "https://english.khabarhub.com/feed/",
-      "pubDate": "2026-10-30T11:38:47+00:00",
-      "categories": [
-        "politics",
-        "business",
-        "world"
-      ],
-      "image": "",
-      "images": [],
-      "description": "KATHMANDU: Karnali Province recorded an economic growth rate of 2.94 percent in fiscal year 2082/83, below the national growth projection of 3.89 percent, according to a study conducted by Nepal Rastra Bank (NRB). Karnali accounts for just 4.20 percent of Nepal’s national economy, making it the smallest contributor among the seven provinces. Its gross domestic […]"
     },
     {
       "id": "9dd8e5df57a70cf5",
@@ -3123,23 +3425,6 @@
         "https://nepalviews.cdnsolution.net/en/media/setting/banner_FHsSzcWYKk.jpg"
       ],
       "description": ""
-    },
-    {
-      "id": "b084423d7b2c9599",
-      "title": "Kathmandu Horror Film Fest Opens",
-      "link": "https://risingnepaldaily.com/news/88235",
-      "source": "The Rising Nepal",
-      "sourceUrl": "https://risingnepaldaily.com/rss",
-      "pubDate": "2026-10-30T11:11:32+00:00",
-      "categories": [
-        "politics",
-        "business",
-        "world",
-        "sports"
-      ],
-      "image": "",
-      "images": [],
-      "description": "By TRN Online, Kathmandu, Oct. 30: The second edition of Kathmandu Horror Film Fest (KHFF) opened today, bringing togeth..."
     },
     {
       "id": "385631269c364d70",
@@ -3260,22 +3545,6 @@
         "http://english.onlinekhabar.com/wp-content/uploads/2026/09/Ministry-of-Finance-1024x683-1.jpg"
       ],
       "description": "Kathmandu, October 30 The government has extended the grace period for inactive companies wishing to resume operations or cancel their registration. According to the Ministry of Finance, companies registered under the Companies Act, 2006, that have failed to submit details, renew their registration or pay applicable taxes, fees, charges, interest or fines within the deadlines […] The post Govt extends deadline for inactive companies to renew or cancel registration appeared first on OnlineKhabar "
-    },
-    {
-      "id": "23d4e2982dc80a3b",
-      "title": "NEPSE slips 5.45 points as turnover reaches Rs 8.89 billion",
-      "link": "https://english.khabarhub.com/2026/30/573757/",
-      "source": "Khabarhub",
-      "sourceUrl": "https://english.khabarhub.com/feed/",
-      "pubDate": "2026-10-30T10:45:16+00:00",
-      "categories": [
-        "politics",
-        "business",
-        "world"
-      ],
-      "image": "",
-      "images": [],
-      "description": "KATHMANDU: The Nepal Stock Exchange (NEPSE) edged down by 5.45 points, or 0.20 percent, to close at 2,690.15 on Friday, reversing some of the gains recorded in the previous session, when the benchmark index had risen by 31.54 points. The market opened at 2,693.55 and fluctuated throughout the trading session, reaching an intraday high of […]"
     },
     {
       "id": "0f30aad49fd5dabf",
@@ -3459,22 +3728,6 @@
       "description": "काठमाडौँ- सर्वोच्च अदालतको पूर्ण बैठक (फुलकोर्ट) मा न्यायालयमामाथि पछिल्ला दिनमा उठाइएका विविध प्रश्नहरूका विषयमा छलफल भएको छ। प्रधानन्यायाधीश मनोजकुमार शर्मासहित न्यायाधीशहरूको सो बैठकमा शुक्रबार समसामयिक विषयमा छलफल भएको सर्वोच्च अदालतका प्रवक्ता अशोकुमार क्षेत्रीले जानकारी दिए। प्रधानन्यायाधीश शर्मा, न्यायाधीशहरू हरिप्रसाद फुयाँल र श्रीकान्त पौडेलले आफूहरूसँग जोडिएर विभिन्न सञ्चारमाध्यमा प्रकाशित भएका विषय भ्रामक भएको उल्लेख गर्दै प्रेस […]"
     },
     {
-      "id": "b9be6142032d98ff",
-      "title": "Nepal, US explore cooperation in education and sports",
-      "link": "https://english.khabarhub.com/2026/30/573753/",
-      "source": "Khabarhub",
-      "sourceUrl": "https://english.khabarhub.com/feed/",
-      "pubDate": "2026-10-30T10:17:02+00:00",
-      "categories": [
-        "politics",
-        "business",
-        "world"
-      ],
-      "image": "",
-      "images": [],
-      "description": "KATHMANDU: US Chargé d’Affaires Megan Bouldin met Education and Sports Minister Sasmit Pokharel on Friday to discuss strengthening bilateral cooperation in education and sports, with a particular focus on expanding US exchange programmes and advancing sports diplomacy. During the meeting, Bouldin highlighted the valuable contributions of Nepali participants in US exchange programmes, including the Fulbright […]"
-    },
-    {
       "id": "25ed08c22c25194e",
       "title": "डेभलपमेन्ट बैंकर्स एसोसिएसनको अध्यक्षमा दिनेश थकाली निर्वाचित",
       "link": "https://arthasarokar.com/2026/10/dinesh-thakali-elected-president-of-development-bankers-association.html",
@@ -3490,22 +3743,6 @@
         "https://media.arthasarokar.com/uploads/2026/10/Dinesh-Thakali.jpg"
       ],
       "description": "काठमाडौँ । डेभलपमेन्ट बैंकर्स एसोसिएसन नेपालको अध्यक्षमा दिनेश थकाली निर्वाचित भएका छन् । संघको २१औँ वार्षिक साधारण सभाले कामना सेवा विकास बैंकका सिइओ समेत रहेका थकालीलाई सर्वसम्मतले अध्यक्षमा निर्वाचित गरेको हो । सभाले थकालीको नेतृत्वमा ९ सदस्यीय नयाँ कार्यसमितिसमेत निर्विरोध चयन गरेको छ । संघको उपाध्यक्षमा गरिमा विकास बैंकका सिइओ माधव प्रसाद उपाध्याय, सचिवमा ज्योति Continue reading \"डेभलपमेन्ट बैंकर्स एसोसिएसनको अध्यक्षमा दिनेश थकाली निर्वाचित\""
-    },
-    {
-      "id": "ed01ad64a9b09301",
-      "title": "MoFA intensifies efforts to reopen China border crossings",
-      "link": "https://english.khabarhub.com/2026/30/573749/",
-      "source": "Khabarhub",
-      "sourceUrl": "https://english.khabarhub.com/feed/",
-      "pubDate": "2026-10-30T10:10:13+00:00",
-      "categories": [
-        "politics",
-        "business",
-        "world"
-      ],
-      "image": "",
-      "images": [],
-      "description": "KATHMANDU: The Ministry of Foreign Affairs (MoFA) has intensified inter-ministerial coordination and diplomatic initiatives to reconstruct the flood-damaged Rasuwagadhi border crossing in Rasuwa and restore regular operations at the Tatopani border crossing in Sindhupalchowk. The ministry shared the information during its regular press briefing on Friday. Speaking at the briefing, Foreign Ministry Spokesperson Lok Bahadur […]"
     },
     {
       "id": "014069afa49e73a0",
@@ -3597,23 +3834,6 @@
       "description": "काठमाडौँ- सरकारले राष्ट्रिय निजी तथा आवासीय विद्यालय एसोसिएसन नेपाल (एनप्याब्सन) लाई अर्को निर्णय नभएसम्मका लागि निलम्बन गरेको छ। गृह मन्त्रालयले शुक्रबार सार्वजनिक सूचना जारी गर्दै राष्ट्रिय निर्देशन ऐन, २०१८ बमोजिम नेपाल सरकारबाट स्वीकृति लिई सञ्चालनमा रहेको एनप्याब्सनले मन्त्रालयबाट जारी निर्देशन पालना नगरेको भन्दै निलम्बन गरिएको जनाएको हो। मन्त्रालयका अनुसार संस्थाका पदाधिकारीहरूले सरकारबाट स्वीकृत विधान तथा […]"
     },
     {
-      "id": "b41a919fefa13dd4",
-      "title": "Supreme Court full court meeting zeroes in on judiciary-related questions",
-      "link": "https://risingnepaldaily.com/news/88234",
-      "source": "The Rising Nepal",
-      "sourceUrl": "https://risingnepaldaily.com/rss",
-      "pubDate": "2026-10-30T09:59:48+00:00",
-      "categories": [
-        "politics",
-        "business",
-        "world",
-        "sports"
-      ],
-      "image": "",
-      "images": [],
-      "description": "Kathmandu, Oct 30: The full court of the Supreme Court today discussed the various questions that have come up regarding..."
-    },
-    {
       "id": "5a2550835d7d28d1",
       "title": "नेपाली सेनाले भन्योः सुरुङभित्र ३७ जनाको शव भेटिएको थियो",
       "link": "https://rajdhanidaily.com/id/150720/",
@@ -3648,23 +3868,6 @@
         "http://english.onlinekhabar.com/wp-content/uploads/2026/08/sherbahadur-deuwa-11-1024x500-1.jpg"
       ],
       "description": "Kathmandu, October 30 The faction led by former Nepali Congress president Sher Bahadur Deuba has decided to hold its 15th general convention at Khulamanch in Kathmandu from December 7 to 9. Amrit Karki, member-secretary of the central election committee formed by the Deuba faction, said Khulamanch had already been booked for the convention. According to […] The post Deuba faction to hold Nepali Congress 15th general convention at Khulamanch appeared first on OnlineKhabar English News ."
-    },
-    {
-      "id": "426eb1d20da3fad1",
-      "title": "New bridge to be constructed over Saptakoshi river with ADB support",
-      "link": "https://risingnepaldaily.com/news/88233",
-      "source": "The Rising Nepal",
-      "sourceUrl": "https://risingnepaldaily.com/rss",
-      "pubDate": "2026-10-30T09:57:11+00:00",
-      "categories": [
-        "politics",
-        "business",
-        "world",
-        "sports"
-      ],
-      "image": "",
-      "images": [],
-      "description": "Saptari, Oct 30: A three-kilometer long bridge connecting Kanchanpur of Saptari to Rajabas of Sunsari is going to be con..."
     },
     {
       "id": "c93de520427b7398",
@@ -3774,23 +3977,6 @@
         "http://english.onlinekhabar.com/wp-content/uploads/2024/07/nepse-stock-market-nepal.jpg"
       ],
       "description": "Kathmandu, October 30 The stock market stayed above the 2,700-point mark for most of Friday’s trading session. The benchmark Nepse index touched 2,712 points at around 12:30 pm. At the close, however, it settled at 2,690 points, down 5.45 points from the previous day. On the previous day, Nepse had risen 31 points to close […] The post Stock market fails to hold above 2,700, trading highest in seven months appeared first on OnlineKhabar English News ."
-    },
-    {
-      "id": "b327e2a2c730199b",
-      "title": "KMC's support to Valmeeki Vidyapeeth for promotion of Sanskrit education",
-      "link": "https://risingnepaldaily.com/news/88232",
-      "source": "The Rising Nepal",
-      "sourceUrl": "https://risingnepaldaily.com/rss",
-      "pubDate": "2026-10-30T09:36:43+00:00",
-      "categories": [
-        "politics",
-        "business",
-        "world",
-        "sports"
-      ],
-      "image": "",
-      "images": [],
-      "description": "Kathmandu, Oct 30: The Kathmandu Metropolitan City (KMC) has provided two million rupees to the Valmeeki Vidyapeeth unde..."
     },
     {
       "id": "72e69e514acf83e8",
@@ -3933,23 +4119,6 @@
         "https://nepalviews.cdnsolution.net/en/media/setting/banner_FHsSzcWYKk.jpg"
       ],
       "description": ""
-    },
-    {
-      "id": "10893b881673c8ae",
-      "title": "Agreement signed with Dr KC in implementation process: Education Ministry",
-      "link": "https://risingnepaldaily.com/news/88231",
-      "source": "The Rising Nepal",
-      "sourceUrl": "https://risingnepaldaily.com/rss",
-      "pubDate": "2026-10-30T08:37:17+00:00",
-      "categories": [
-        "politics",
-        "business",
-        "world",
-        "sports"
-      ],
-      "image": "",
-      "images": [],
-      "description": "Kathmandu, Oct 30: The Ministry of Education and Sports has shared that necessary process has been put forward by formin..."
     },
     {
       "id": "b715549385528352",
@@ -4143,24 +4312,6 @@
       "description": ""
     },
     {
-      "id": "15903747338db8cc",
-      "title": "कालीकोटका तीन पालिका जोड्ने सडकका लागि नदी वाधक",
-      "link": "https://www.nepalviews.com/story/427359/river-barrier-for-road-connecting-three-municipalities-in-kalikot",
-      "source": "Nepal Views",
-      "sourceUrl": "https://www.nepalviews.com/feed/",
-      "pubDate": "2026-10-30T07:24:40+00:00",
-      "categories": [
-        "politics",
-        "business",
-        "technology"
-      ],
-      "image": "https://nepalviews.cdnsolution.net/en/media/setting/banner_FHsSzcWYKk.jpg",
-      "images": [
-        "https://nepalviews.cdnsolution.net/en/media/setting/banner_FHsSzcWYKk.jpg"
-      ],
-      "description": ""
-    },
-    {
       "id": "39e600be3724bd8c",
       "title": "नेपाल र बंगलादेशको एलडिसी स्तरोन्नति तयारी अवधि सन् २०२९ सम्म थप",
       "link": "https://himalpress.com/2026/10/nepal-and-bangladeshs-ldc-upgrade-preparation-period-extended-until-2029/",
@@ -4192,24 +4343,6 @@
         "https://media.arthasarokar.com/uploads/2026/10/TIKTOK-Video-Delete.jpg"
       ],
       "description": "काठमाडौँ । सन् २०२६ को दोस्रो त्रैमास (अप्रिलदेखि जुनसम्म)मा टिकटकले २० लाख भन्दा बढी नेपाली भिडियो हटाएको छ । कम्युनिटी गाइडलाइन्स उल्लंघन गर्ने २० लाख ३६ हजार १ सय ९१ नेपाली भिडियोहरु टिकटकले हटाएको हो । टिकटकले सार्वजनिक गरेको प्रतिवेदन अनुसार हटाइएका भिडियोमध्ये ९९.५ प्रतिशत भिडियोहरु प्रयोगकर्ताले रिपोर्ट गर्नुअघि नै पहिचान गरी हटाइएको छ । Continue reading \"३ महिनामा टिकटकले २० लाख बढी नेपाली भिडियो हटायो, विश्वव्यापी रुपमा झण्डै १९ करोड भिडियो ‘डिलिट’ !\""
-    },
-    {
-      "id": "f26656a359f7925a",
-      "title": "आधुनिक उपचारको अभावमा उपल्लो डोल्पाबासीलाई ‘आम्ची’को भर",
-      "link": "https://www.nepalviews.com/story/427358/in-the-absence-of-modern-treatment-residents-of-upper-dolpa-rely-on-aamchi",
-      "source": "Nepal Views",
-      "sourceUrl": "https://www.nepalviews.com/feed/",
-      "pubDate": "2026-10-30T07:13:37+00:00",
-      "categories": [
-        "politics",
-        "business",
-        "technology"
-      ],
-      "image": "https://nepalviews.cdnsolution.net/en/media/setting/banner_FHsSzcWYKk.jpg",
-      "images": [
-        "https://nepalviews.cdnsolution.net/en/media/setting/banner_FHsSzcWYKk.jpg"
-      ],
-      "description": ""
     },
     {
       "id": "8fa0d7385093f524",
@@ -4260,24 +4393,6 @@
         "https://media.arthasarokar.com/uploads/2026/06/Egg.jpg"
       ],
       "description": "काठमाडौँ । चाडपर्वसँगै अण्डाको माग बढेपछि समर्थन होलसेल मूल्य वृद्धि भएको छ । चाडपर्व र जाडोयाम सुरु भएसँगै बजारमा माग बढेपछि नेपाल लेयर्स कुखुरापालक सङ्घले अण्डाको समर्थन मूल्य बढाएको हो । यसअघि ६ कात्तिकमा काठमाडौँमा बसेको बैठकले तय गरेको मूल्यलाई छ दिनपछि नै परिमार्जन गर्दै सङ्घले बिहीबार पोखरामा बसेको बैठकबाट अण्डाको नयाँ समर्थन मूल्य तोकेको Continue reading \"अण्डाको होलसेल मूल्य बढ्यो, उपभोक्ता मूल्य यथावत\""
-    },
-    {
-      "id": "93e97f56437fefb0",
-      "title": "एनपीएल : नेपाली खेलाडी चम्किँदै, सबै खेलमा ‘म्याच विनर’ बने",
-      "link": "https://www.nepalviews.com/story/427357/npl-nepali-players-shine-becoming-match-winners-in-all-matches",
-      "source": "Nepal Views",
-      "sourceUrl": "https://www.nepalviews.com/feed/",
-      "pubDate": "2026-10-30T06:44:28+00:00",
-      "categories": [
-        "politics",
-        "business",
-        "technology"
-      ],
-      "image": "https://nepalviews.cdnsolution.net/en/media/setting/banner_FHsSzcWYKk.jpg",
-      "images": [
-        "https://nepalviews.cdnsolution.net/en/media/setting/banner_FHsSzcWYKk.jpg"
-      ],
-      "description": ""
     },
     {
       "id": "379ede31422d689d",
@@ -4352,24 +4467,6 @@
         "https://media.arthasarokar.com/uploads/2026/10/Jhari-9.jpg"
       ],
       "description": "काठमाडौँ । काठमाडौँ उपत्यकासहित देशका विभिन्न स्थानमा वर्षा भइरहेको छ । शुक्रबार बिहानैदेखि काठमाडौँसहित देशभरका विभिन्न ठाउँमा वर्षा भइरहेको हो । बंगालको खाडीमा विकसित चक्रवात ‘अर्नब’ र पश्चिमी वायुको आंशिक प्रभावका कारण काठमाडौँ उपत्यकामा झरी परिरहेको छ । वर्षासँगै मौसम चिसोसमेत बनेको छ । झरी र चिसोका कारण काठमाडौँको जनजीवन प्रभावित भएको छ । बाँकी Continue reading \"चक्रवात ‘अर्नब’को प्रभावः काठमाडौँमा झरी, जनजीवन प्रभावित ! (तस्वीरहरु)\""
-    },
-    {
-      "id": "ea44513a44eb89e2",
-      "title": "उपकरण जडान गरेर निगरानीमा थियो भुटानमा विस्फोट भएको हिमताल",
-      "link": "https://www.nepalviews.com/story/427356/the-glacial-lake-that-exploded-in-bhutan-was-under-surveillance-with-equipment-installed",
-      "source": "Nepal Views",
-      "sourceUrl": "https://www.nepalviews.com/feed/",
-      "pubDate": "2026-10-30T06:21:32+00:00",
-      "categories": [
-        "politics",
-        "business",
-        "technology"
-      ],
-      "image": "https://nepalviews.cdnsolution.net/en/media/setting/banner_FHsSzcWYKk.jpg",
-      "images": [
-        "https://nepalviews.cdnsolution.net/en/media/setting/banner_FHsSzcWYKk.jpg"
-      ],
-      "description": ""
     },
     {
       "id": "6fbcdda53725b904",
@@ -4731,70 +4828,6 @@
       "description": "बिहीबार साँझ लिएको विश्व सम्पदा सूचीमा सूचीकृत काठमाडौँको वसन्तपुर दरबार स्क्वायरको दृश्य।"
     },
     {
-      "id": "16908b46f544c28b",
-      "title": "प्रहरीको पोसाक खरिदमा अनियमितता छानबिन गर्न उपसमितिको कार्यतालिका तयार",
-      "link": "https://himalpress.com/2026/10/subcommittee-to-investigate-irregularities-in-police-uniform-procurement-prepared/",
-      "source": "Himal Press",
-      "sourceUrl": "https://himalpress.com/feed/",
-      "pubDate": "2026-10-30T02:03:43+00:00",
-      "categories": [
-        "politics",
-        "business",
-        "society"
-      ],
-      "image": "",
-      "images": [],
-      "description": "काठमाडौँ- निर्वाचन प्रहरी (म्यादी) को पोसाक खरिदबारे अध्ययन गर्न गठित उपसमितिले समयसीमासहित अध्ययनको कार्यसूचीलाई अन्तिमरूप दिएको छ। सिंहदरबारमा बिहीबार भएको उपसमितिको बैठकले यही कात्तिकसम्म विभिन्न दस्तावेजको अध्ययन गर्ने निर्णय गरेको हो। आगामी मंसिर १ देखि १५ गतेसम्म सम्बन्धित पक्षको बयान र अन्तर्वार्ता तथा विषयविज्ञसँग छलफल गर्ने तथा अन्तिम पाँच दिन प्रतिवेदन लेखनका लागि छुट्याउने बारेमा […]"
-    },
-    {
-      "id": "d068ac7f6af623f8",
-      "title": "एनपीएलमा आज विश्राम, शनिबार दुई खेल",
-      "link": "https://himalpress.com/2026/10/npl-rest-day-today-two-games-on-saturday/",
-      "source": "Himal Press",
-      "sourceUrl": "https://himalpress.com/feed/",
-      "pubDate": "2026-10-30T01:54:13+00:00",
-      "categories": [
-        "politics",
-        "business",
-        "society"
-      ],
-      "image": "",
-      "images": [],
-      "description": "काठमाडौँ- तेस्रो संस्करणको नेपाल प्रिमियर लिग (एनपीएल) अन्तर्गत आज शुक्रबार कुनै पनि खेल हुने छैनन्। प्रतियोगितामा आज एक दिन विश्राम दिइएको छ। भोलि शनिबार भने त्रिवि क्रिकेट मैदान कीर्तिपुरमा दुई खेल हुँदैछन्। शनिबार हुने पहिलो खेलमा लुम्बिनी लायन्स र चितवन राइनोजबीच प्रतिस्पर्धा हुनेछ। खेल दिउँसो साढे १२ बजे सुरु हुनेछ। त्यस्तै, शनिबारकै दोस्रो खेलमा सुदूरपश्चिम […]"
-    },
-    {
-      "id": "754728389789c064",
-      "title": "जुम्लाको स्याउ स्याङ्जाका घरघरमा",
-      "link": "https://himalpress.com/2026/10/jumla-apples-in-every-household-in-syangja/",
-      "source": "Himal Press",
-      "sourceUrl": "https://himalpress.com/feed/",
-      "pubDate": "2026-10-30T01:46:10+00:00",
-      "categories": [
-        "politics",
-        "business",
-        "society"
-      ],
-      "image": "",
-      "images": [],
-      "description": "स्याङ्जा- जुम्लाको स्याउ उपभोक्ताको रोजाइमा पर्ने गरेको छ। बिक्रीका लागि जुम्लाबाट ल्याइएको स्याउ स्याङ्जाका विभिन्न टोलटोलमा, घरघरमा उपलब्ध छ। बजारमा पाइने विदेशी स्याउभन्दा सस्तो, स्वच्छ, स्वादिलो र स्वदेशी उत्पादन भएकाले पनि उपभोक्ता खुसी भएका छन्। गाडीमार्फत टोलटोलमा स्याउ पुर्याउँदा उपभोक्ताले निकै उत्साहकासाथ खरिद गर्ने गरेको व्यावसायी गौरीलाल सञ्ज्यालले बताए। सञ्ज्यालसहितको टोलीले जुम्लामा उत्पादन भएको स्याउ […]"
-    },
-    {
-      "id": "119edf8e5687c656",
-      "title": "चाडपर्व खर्च जुटाउन घाटा सहेरै धान बेच्दै किसान",
-      "link": "https://himalpress.com/2026/10/farmers-are-selling-paddy-at-a-loss-to-cover-festival-expenses/",
-      "source": "Himal Press",
-      "sourceUrl": "https://himalpress.com/feed/",
-      "pubDate": "2026-10-30T01:30:04+00:00",
-      "categories": [
-        "politics",
-        "business",
-        "society"
-      ],
-      "image": "",
-      "images": [],
-      "description": "बाँके- नजिकिँदो तिहारलगायतका चाडपर्व मनाउन किसानले व्यापारीलाई सस्तो दरमा धान बेच्न बाध्य भएका छन्। खाद्य व्यवस्था तथा व्यापार कम्पनी लिमिटेडले यस वर्ष मोटा धानको मूल्य प्रतिक्विन्टल रु तीन हजार ६६० र मध्यमको रु तीन हजार ८६० निर्धारण गरेको छ। तर, व्यापारीले कम्पनीले निर्धारण गरेको मूल्यभन्दा रु पाँच सय देखि एक हजारसम्म सस्तो दरमा धान खरिद […]"
-    },
-    {
       "id": "3b067ead4766f6ba",
       "title": "नयाँ व्यवस्थाले आयोजनाहरूको लागत बढ्ने, सरकारलाई विज्ञका सुझाव कस्ता",
       "link": "https://www.bbc.com/nepali/articles/crje54np1w8po?at_medium=RSS&at_campaign=rss",
@@ -4811,22 +4844,6 @@
         "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/e698/live/cf919180-d389-11f1-a701-fddedf244c16.jpg"
       ],
       "description": "सोलोडोलो सबै आयोजनाको हकमा मूल्य समायोजन गरिएमा राज्यमाथि थप आर्थिक भार पर्ने जानकारहरूको तर्क छ।"
-    },
-    {
-      "id": "12f3e369d690ea82",
-      "title": "स्याफ्रुबेँसी-खाम्जिङ जोड्न बनाइयो यस्तो पुल",
-      "link": "https://himalpress.com/2026/10/such-a-bridge-was-built-to-connect-syafrubesi-khamjing/",
-      "source": "Himal Press",
-      "sourceUrl": "https://himalpress.com/feed/",
-      "pubDate": "2026-10-30T01:18:47+00:00",
-      "categories": [
-        "politics",
-        "business",
-        "society"
-      ],
-      "image": "",
-      "images": [],
-      "description": "रसुवा- भोटेकोशी बाढीले सडक सञ्जाल टुटेपछि अवरुद्ध रसुवाको स्याफ्रुबेँसीबाट गोसाइँकुण्ड गाउँपालिकाका विभिन्न वडालाई जोड्ने काठेपुल सञ्चालनमा आएका छन्। स्थानीयवासीको आवतजावतलाई सहज बनाउन निर्माण गरिएको अस्थायी काठेपुल बिहीबारदेखि सञ्चालनमा आएको हो। गोसाइँकुण्ड गाउँपालिका-३ का वडाध्यक्ष मिङमार छिरिङ तामाङका अनुसार बाढीले सडक अवरुद्ध पारेपछि वडा कार्यालय र स्थानीयवासीको संयुक्त अगुवाइ तथा व्यवस्थापनमा लगातार तीन दिन लगाएर सो […]"
     },
     {
       "id": "49ddba539c55982f",
