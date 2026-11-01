@@ -1,8 +1,364 @@
 {
-  "generatedAt": "2026-10-31T21:29:26.212650+00:00",
-  "sourceItemCount": 331,
-  "storyCount": 322,
+  "generatedAt": "2026-11-01T00:18:11.166985+00:00",
+  "sourceItemCount": 332,
+  "storyCount": 323,
   "stories": [
+    {
+      "id": "a00c08bf8e23e321",
+      "title": "Nepal must turn climate commitments into credible leadership",
+      "summary": "‘From Sagarmatha to the Sea’, the challenge is no longer simply to raise the world’s attention to the climate crisis in the Himalayas, but to demonstrate that Nepal can turn its vulnerability into a platform for regional cooperation, investment and action. Nepal has long been recognized internationally as one of the countries most vulnerable to […]",
+      "publishedAt": "2026-11-01T00:15:08+00:00",
+      "updatedAt": "2026-11-01T00:15:08+00:00",
+      "sourceCount": 1,
+      "languageCount": 1,
+      "sources": [
+        "Khabarhub"
+      ],
+      "categories": [
+        "business",
+        "politics",
+        "world"
+      ],
+      "items": [
+        {
+          "id": "83af776d4c1bfac5",
+          "title": "Nepal must turn climate commitments into credible leadership",
+          "link": "https://english.khabarhub.com/2026/01/573774/",
+          "source": "Khabarhub",
+          "sourceUrl": "https://english.khabarhub.com/feed/",
+          "pubDate": "2026-11-01T00:15:08+00:00",
+          "categories": [
+            "politics",
+            "business",
+            "world"
+          ],
+          "image": "",
+          "images": [],
+          "description": "‘From Sagarmatha to the Sea’, the challenge is no longer simply to raise the world’s attention to the climate crisis in the Himalayas, but to demonstrate that Nepal can turn its vulnerability into a platform for regional cooperation, investment and action. Nepal has long been recognized internationally as one of the countries most vulnerable to […]"
+        }
+      ]
+    },
+    {
+      "id": "3017b9aca578ed97",
+      "title": "NTB to mobilise content creators to promote new destinations",
+      "summary": "By A Staff Reporter, Kathmandu, Nov,1: Nepal Tourism Board (NTB) is planning to mobilise more than 200 content creators...",
+      "publishedAt": "2026-11-01T00:10:31+00:00",
+      "updatedAt": "2026-11-01T00:10:31+00:00",
+      "sourceCount": 1,
+      "languageCount": 1,
+      "sources": [
+        "The Rising Nepal"
+      ],
+      "categories": [
+        "business",
+        "politics",
+        "sports",
+        "world"
+      ],
+      "items": [
+        {
+          "id": "0827828d7ae13dd0",
+          "title": "NTB to mobilise content creators to promote new destinations",
+          "link": "https://risingnepaldaily.com/news/88269",
+          "source": "The Rising Nepal",
+          "sourceUrl": "https://risingnepaldaily.com/rss",
+          "pubDate": "2026-11-01T00:10:31+00:00",
+          "categories": [
+            "politics",
+            "business",
+            "world",
+            "sports"
+          ],
+          "image": "",
+          "images": [],
+          "description": "By A Staff Reporter, Kathmandu, Nov,1: Nepal Tourism Board (NTB) is planning to mobilise more than 200 content creators..."
+        }
+      ]
+    },
+    {
+      "id": "6752116c91bed56d",
+      "title": "आजका लागि तोकियो विदेशी मुद्राको विनिमयदर",
+      "summary": "राष्ट्र बैंकका अनुसार, अमेरिकी डलर एकको खरिददर १५१ रुपैयाँ ६३ पैसा र बिक्रीदर १५२ रुपैयाँ २३ पैसा निर्धारण गरिएको छ ।",
+      "publishedAt": "2026-11-01T00:03:24+00:00",
+      "updatedAt": "2026-11-01T00:03:24+00:00",
+      "sourceCount": 1,
+      "languageCount": 1,
+      "sources": [
+        "Baahrakhari"
+      ],
+      "categories": [
+        "business",
+        "politics",
+        "society"
+      ],
+      "items": [
+        {
+          "id": "af86ef487092e41b",
+          "title": "आजका लागि तोकियो विदेशी मुद्राको विनिमयदर",
+          "link": "https://baahrakhari.com/detail/506228",
+          "source": "Baahrakhari",
+          "sourceUrl": "https://baahrakhari.com/feed",
+          "pubDate": "2026-11-01T00:03:24+00:00",
+          "categories": [
+            "politics",
+            "business",
+            "society"
+          ],
+          "image": "",
+          "images": [],
+          "description": "राष्ट्र बैंकका अनुसार, अमेरिकी डलर एकको खरिददर १५१ रुपैयाँ ६३ पैसा र बिक्रीदर १५२ रुपैयाँ २३ पैसा निर्धारण गरिएको छ ।"
+        }
+      ]
+    },
+    {
+      "id": "b4e2d98bcfb782af",
+      "title": "People pursue Ayurveda for healthcare in Mugu",
+      "summary": "By Harikrishna Aidi, Mugu, Nov,1: The number of people seeking healthcare services through the Ayurvedic system of me di...",
+      "publishedAt": "2026-10-31T23:56:30+00:00",
+      "updatedAt": "2026-10-31T23:56:30+00:00",
+      "sourceCount": 1,
+      "languageCount": 1,
+      "sources": [
+        "The Rising Nepal"
+      ],
+      "categories": [
+        "business",
+        "politics",
+        "sports",
+        "world"
+      ],
+      "items": [
+        {
+          "id": "a4bc533b8c2773bd",
+          "title": "People pursue Ayurveda for healthcare in Mugu",
+          "link": "https://risingnepaldaily.com/news/88268",
+          "source": "The Rising Nepal",
+          "sourceUrl": "https://risingnepaldaily.com/rss",
+          "pubDate": "2026-10-31T23:56:30+00:00",
+          "categories": [
+            "politics",
+            "business",
+            "world",
+            "sports"
+          ],
+          "image": "",
+          "images": [],
+          "description": "By Harikrishna Aidi, Mugu, Nov,1: The number of people seeking healthcare services through the Ayurvedic system of me di..."
+        }
+      ]
+    },
+    {
+      "id": "da42908ae132059f",
+      "title": "From Baitadi to Kirtipur NPL still grounded at one address",
+      "summary": "BY BIBEK SHRESTHA Kathmandu, Nov, 1 : “We are on holiday amid the Dashain–Tihar vacation, while the NPL has become anoth...",
+      "publishedAt": "2026-10-31T23:52:19+00:00",
+      "updatedAt": "2026-10-31T23:52:19+00:00",
+      "sourceCount": 1,
+      "languageCount": 1,
+      "sources": [
+        "The Rising Nepal"
+      ],
+      "categories": [
+        "business",
+        "politics",
+        "sports",
+        "world"
+      ],
+      "items": [
+        {
+          "id": "8dd415dee435aa56",
+          "title": "From Baitadi to Kirtipur NPL still grounded at one address",
+          "link": "https://risingnepaldaily.com/news/88267",
+          "source": "The Rising Nepal",
+          "sourceUrl": "https://risingnepaldaily.com/rss",
+          "pubDate": "2026-10-31T23:52:19+00:00",
+          "categories": [
+            "politics",
+            "business",
+            "world",
+            "sports"
+          ],
+          "image": "",
+          "images": [],
+          "description": "BY BIBEK SHRESTHA Kathmandu, Nov, 1 : “We are on holiday amid the Dashain–Tihar vacation, while the NPL has become anoth..."
+        }
+      ]
+    },
+    {
+      "id": "d768e7ab0a0effc6",
+      "title": "अनावश्यक विलम्ब हट्दै",
+      "summary": "काठमाडौँ, कात्तिक १५ गते । सबै सरकारी कार्यालयहरूमा यस अगाडि हुने ढिलासुस्ती, निर्णय प्रक्रियामा हुने अनावश्यक विलम्ब र नागरिकले भोग्नुपर्ने समस्या क्रमिक रूपमा न्यूनीकरण हुँदै गएक...",
+      "publishedAt": "2026-10-31T23:48:31+00:00",
+      "updatedAt": "2026-10-31T23:48:31+00:00",
+      "sourceCount": 1,
+      "languageCount": 1,
+      "sources": [
+        "Gorkhapatra"
+      ],
+      "categories": [
+        "business",
+        "politics"
+      ],
+      "items": [
+        {
+          "id": "fa6fcfb41d9fb20f",
+          "title": "अनावश्यक विलम्ब हट्दै",
+          "link": "https://gorkhapatraonline.com/news/227856",
+          "source": "Gorkhapatra",
+          "sourceUrl": "https://gorkhapatraonline.com/rss",
+          "pubDate": "2026-10-31T23:48:31+00:00",
+          "categories": [
+            "politics",
+            "business"
+          ],
+          "image": "https://gorkhapatraonline.com/storage/media/389780/conversions/karmachari-sketch-2-original.jpg",
+          "images": [
+            "https://gorkhapatraonline.com/storage/media/389780/conversions/karmachari-sketch-2-original.jpg"
+          ],
+          "description": "काठमाडौँ, कात्तिक १५ गते । सबै सरकारी कार्यालयहरूमा यस अगाडि हुने ढिलासुस्ती, निर्णय प्रक्रियामा हुने अनावश्यक विलम्ब र नागरिकले भोग्नुपर्ने समस्या क्रमिक रूपमा न्यूनीकरण हुँदै गएक..."
+        }
+      ]
+    },
+    {
+      "id": "983b7f383e420c1e",
+      "title": "आइतबार कुन राशिका लागि शुभ ? हेर्नुहोस् राशिफल",
+      "summary": "आजको पञ्चाङ्ग वि.सं.२०८३ साल कार्तिक १५ गते । आइतबार । इस्वी सन् २०२६ नोभेम्बर १ तारिख । नेपाल संवत् ११४६ । रौद्र संवत्सर । दक्षिणायन । शरद ऋतु । श्रीशाके १९४८ । कार्तिक कृष्णपक्ष । तिथि–सप्तमी,",
+      "publishedAt": "2026-10-31T23:15:00+00:00",
+      "updatedAt": "2026-10-31T23:15:00+00:00",
+      "sourceCount": 1,
+      "languageCount": 1,
+      "sources": [
+        "Ratopati"
+      ],
+      "categories": [
+        "politics",
+        "sports"
+      ],
+      "items": [
+        {
+          "id": "8060a0ea1a9c5d5e",
+          "title": "आइतबार कुन राशिका लागि शुभ ? हेर्नुहोस् राशिफल",
+          "link": "https://www.ratopati.com/story/602545/which-zodiac-sign-is-auspicious-for-sunday-see-horoscope",
+          "source": "Ratopati",
+          "sourceUrl": "https://ratopati.com/feed",
+          "pubDate": "2026-10-31T23:15:00+00:00",
+          "categories": [
+            "politics",
+            "sports"
+          ],
+          "image": "https://npcdn.ratopati.com/media/news/horoscope_68mF8G6CaS.jpg",
+          "images": [
+            "https://npcdn.ratopati.com/media/news/horoscope_68mF8G6CaS.jpg"
+          ],
+          "description": "आजको पञ्चाङ्ग वि.सं.२०८३ साल कार्तिक १५ गते । आइतबार । इस्वी सन् २०२६ नोभेम्बर १ तारिख । नेपाल संवत् ११४६ । रौद्र संवत्सर । दक्षिणायन । शरद ऋतु । श्रीशाके १९४८ । कार्तिक कृष्णपक्ष । तिथि–सप्तमी,"
+        }
+      ]
+    },
+    {
+      "id": "19bec77f6ee187a6",
+      "title": "नापी कार्यालयद्वारा ४८ लाख राजस्व सङ्कलन",
+      "summary": "दाङ । दाङस्थित नापी कार्यालय तुलसीपुरले एक वर्षमा ४८ लाख बढी राजस्व सङ्कलन गरेको छ । कार्यालयका सूचना अधिकारी प्रेमबहादुर खड्काका अनुसार गत आर्थिक वर्ष २०८२/८३ मा रु ४८ लाख सात हजार ४६५ राजस्व सङ्कलन",
+      "publishedAt": "2026-10-31T23:00:00+00:00",
+      "updatedAt": "2026-10-31T23:00:00+00:00",
+      "sourceCount": 1,
+      "languageCount": 1,
+      "sources": [
+        "Ratopati"
+      ],
+      "categories": [
+        "politics",
+        "sports"
+      ],
+      "items": [
+        {
+          "id": "2b0cad68d296ed57",
+          "title": "नापी कार्यालयद्वारा ४८ लाख राजस्व सङ्कलन",
+          "link": "https://www.ratopati.com/story/602546/survey-office-collects-rs-48-million-in-revenue",
+          "source": "Ratopati",
+          "sourceUrl": "https://ratopati.com/feed",
+          "pubDate": "2026-10-31T23:00:00+00:00",
+          "categories": [
+            "politics",
+            "sports"
+          ],
+          "image": "https://npcdn.ratopati.com/media/news/dang-map_yCoTeipd67.jpg",
+          "images": [
+            "https://npcdn.ratopati.com/media/news/dang-map_yCoTeipd67.jpg"
+          ],
+          "description": "दाङ । दाङस्थित नापी कार्यालय तुलसीपुरले एक वर्षमा ४८ लाख बढी राजस्व सङ्कलन गरेको छ । कार्यालयका सूचना अधिकारी प्रेमबहादुर खड्काका अनुसार गत आर्थिक वर्ष २०८२/८३ मा रु ४८ लाख सात हजार ४६५ राजस्व सङ्कलन"
+        }
+      ]
+    },
+    {
+      "id": "f8d64fbb989ecaf2",
+      "title": "नेपालगन्ज भन्सारबाट तीन महिनामा पाँच अर्ब २४ करोड राजस्व",
+      "summary": "बाँके । नेपालगन्ज भन्सार कार्यालयले चालु आर्थिक वर्षको पहिलो तीन महिनामा रु पाँच अर्ब २४ करोड बढी राजस्व सङ्कलन गरेको छ । चालु आर्थिक वर्ष २०८३/८४ को साउन, भदौ र असोज गरी तीन महिनामा रु पाँच",
+      "publishedAt": "2026-10-31T22:38:15+00:00",
+      "updatedAt": "2026-10-31T22:38:15+00:00",
+      "sourceCount": 1,
+      "languageCount": 1,
+      "sources": [
+        "Ratopati"
+      ],
+      "categories": [
+        "politics",
+        "sports"
+      ],
+      "items": [
+        {
+          "id": "5bdd807aaf7e13f8",
+          "title": "नेपालगन्ज भन्सारबाट तीन महिनामा पाँच अर्ब २४ करोड राजस्व",
+          "link": "https://www.ratopati.com/story/602544/nepalgunj-customs-generates-rs-524-billion-in-revenue-in-three-months",
+          "source": "Ratopati",
+          "sourceUrl": "https://ratopati.com/feed",
+          "pubDate": "2026-10-31T22:38:15+00:00",
+          "categories": [
+            "politics",
+            "sports"
+          ],
+          "image": "https://npcdn.ratopati.com/media/news/7nepalgunj-bhansar-2_hvomwzt9rl_H8Q0p6Bvur.jpg",
+          "images": [
+            "https://npcdn.ratopati.com/media/news/7nepalgunj-bhansar-2_hvomwzt9rl_H8Q0p6Bvur.jpg"
+          ],
+          "description": "बाँके । नेपालगन्ज भन्सार कार्यालयले चालु आर्थिक वर्षको पहिलो तीन महिनामा रु पाँच अर्ब २४ करोड बढी राजस्व सङ्कलन गरेको छ । चालु आर्थिक वर्ष २०८३/८४ को साउन, भदौ र असोज गरी तीन महिनामा रु पाँच"
+        }
+      ]
+    },
+    {
+      "id": "2156085d4851fe78",
+      "title": "अलाभेसमाथि बार्सिलोनाको फराकिलो जित, शीर्ष स्थान कायमै",
+      "summary": "काठमाडौँ । स्पेनिस ला लिगा फुटबलमा बार्सिलोनाले डिपोर्टिभो अलाभेसमाथि ६–१ गोलको शानदार र फराकिलो जित हात पारेको छ । बार्सिलोनाको जितमा राफिन्हा र लामीन यामालले दुई–दुई गोल गरे भने फर्मीन लोपेज र एन्थोनी गोर्डनले एकरएक गोलको",
+      "publishedAt": "2026-10-31T22:35:13+00:00",
+      "updatedAt": "2026-10-31T22:35:13+00:00",
+      "sourceCount": 1,
+      "languageCount": 1,
+      "sources": [
+        "Ratopati"
+      ],
+      "categories": [
+        "politics",
+        "sports"
+      ],
+      "items": [
+        {
+          "id": "16325e8a568fbb31",
+          "title": "अलाभेसमाथि बार्सिलोनाको फराकिलो जित, शीर्ष स्थान कायमै",
+          "link": "https://www.ratopati.com/story/602543/barcelonas-comprehensive-win-over-alaves-keeps-them-at-the-top",
+          "source": "Ratopati",
+          "sourceUrl": "https://ratopati.com/feed",
+          "pubDate": "2026-10-31T22:35:13+00:00",
+          "categories": [
+            "politics",
+            "sports"
+          ],
+          "image": "https://npcdn.ratopati.com/media/news/barca_ykMoNOXZGz.webp",
+          "images": [
+            "https://npcdn.ratopati.com/media/news/barca_ykMoNOXZGz.webp"
+          ],
+          "description": "काठमाडौँ । स्पेनिस ला लिगा फुटबलमा बार्सिलोनाले डिपोर्टिभो अलाभेसमाथि ६–१ गोलको शानदार र फराकिलो जित हात पारेको छ । बार्सिलोनाको जितमा राफिन्हा र लामीन यामालले दुई–दुई गोल गरे भने फर्मीन लोपेज र एन्थोनी गोर्डनले एकरएक गोलको"
+        }
+      ]
+    },
     {
       "id": "cae1b560a9f124f7",
       "title": "कस्तो रहला यो साताको तपाईंको भाग्य ?",
@@ -1736,41 +2092,6 @@
       ]
     },
     {
-      "id": "90cfedd868ee977d",
-      "title": "सुदूरपश्चिमलाई विराटनगरले दियो १०६ रनको चुनौतीपूर्ण लक्ष्य",
-      "summary": "",
-      "publishedAt": "2026-10-31T16:19:00+00:00",
-      "updatedAt": "2026-10-31T16:19:00+00:00",
-      "sourceCount": 1,
-      "languageCount": 1,
-      "sources": [
-        "Baahrakhari"
-      ],
-      "categories": [
-        "business",
-        "politics",
-        "society"
-      ],
-      "items": [
-        {
-          "id": "1cabd3c2f6e47c15",
-          "title": "सुदूरपश्चिमलाई विराटनगरले दियो १०६ रनको चुनौतीपूर्ण लक्ष्य",
-          "link": "https://baahrakhari.com/detail/506223",
-          "source": "Baahrakhari",
-          "sourceUrl": "https://baahrakhari.com/feed",
-          "pubDate": "2026-10-31T16:19:00+00:00",
-          "categories": [
-            "politics",
-            "business",
-            "society"
-          ],
-          "image": "",
-          "images": [],
-          "description": ""
-        }
-      ]
-    },
-    {
       "id": "21ee15ec6c09d72e",
       "title": "पाँच ओभरको खेलमा विराटनगरले दियो सुदूरपश्चिमलाई १०६ रनको विशाल लक्ष्य",
       "summary": "वर्षातका कारण खेल ढिलो सुरु भएपछि खेल पाँच ओभरमा झारिएको थियो । विराटनगरका लागि १० बलमा सहान जयसूर्याले ३९ रन बनाए । उनले पहिलो ओभरमै ३० रन जोडेका थिए ।",
@@ -2617,41 +2938,6 @@
       ]
     },
     {
-      "id": "24b552ea1e065eb4",
-      "title": "पत्रकार पक्राउ गर्नु प्रेस स्वतन्त्रता विरोधी काम हो",
-      "summary": "गोरखापत्र समाचारदाताकाठमाडौँ, कात्तिक १४ गते । राष्ट्रिय स्वतन्त्र पार्टी (रास्वपा) ले समाचार लेखेकै आधारमा पत्रकारलाई पक्राउ गरिएको विषयमा छलफल गर्दै छानबिन गर्न आग्रह गरेको छ । श...",
-      "publishedAt": "2026-10-31T15:46:24+00:00",
-      "updatedAt": "2026-10-31T15:46:24+00:00",
-      "sourceCount": 1,
-      "languageCount": 1,
-      "sources": [
-        "Gorkhapatra"
-      ],
-      "categories": [
-        "business",
-        "politics"
-      ],
-      "items": [
-        {
-          "id": "b3bd36606eaf3514",
-          "title": "पत्रकार पक्राउ गर्नु प्रेस स्वतन्त्रता विरोधी काम हो",
-          "link": "https://gorkhapatraonline.com/news/227846",
-          "source": "Gorkhapatra",
-          "sourceUrl": "https://gorkhapatraonline.com/rss",
-          "pubDate": "2026-10-31T15:46:24+00:00",
-          "categories": [
-            "politics",
-            "business"
-          ],
-          "image": "https://gorkhapatraonline.com/storage/media/389768/conversions/RSP-1-original.jpg",
-          "images": [
-            "https://gorkhapatraonline.com/storage/media/389768/conversions/RSP-1-original.jpg"
-          ],
-          "description": "गोरखापत्र समाचारदाताकाठमाडौँ, कात्तिक १४ गते । राष्ट्रिय स्वतन्त्र पार्टी (रास्वपा) ले समाचार लेखेकै आधारमा पत्रकारलाई पक्राउ गरिएको विषयमा छलफल गर्दै छानबिन गर्न आग्रह गरेको छ । श..."
-        }
-      ]
-    },
-    {
       "id": "a4bbe0d8903e71b5",
       "title": "अमेरिका र इजरायललाई इरानको चेतावनी- फेरि युद्धको कल्पना नगर्नू",
       "summary": "तेहरान। इरानका सर्वोच्च नेता मोजतबा खामेनीले अमेरिका र इजरायललाई पुनः युद्धमा नफर्कन चेतावनी दिएका छन्। इरानको वर्तमान प्रशासनको आलोचना गर्दै आएका अमेरिका र इजरायलले सम्भावित सैन्य आक्रमणको धम्की दिएपछि खामेनीले यस्तो चेतावनी दिएका हुन् । शनिबार उनको आधिकारिक वेबसाइटमा प्रकाशित लिखित वक्तव्यमा शत्रु राष्ट्रले पुनः सैन्य वा आतङ्कवादी आक्रमण गरे त्यसको जवाफ दिने समय र […]",
@@ -2796,41 +3082,6 @@
       ]
     },
     {
-      "id": "ba99bbdbc255ce21",
-      "title": "आर्थिक लेखक तथा पत्रकार रिसव गौतम ‘शब्दयात्रा हरिगोपाल प्रधान कदरपत्र’बाट सम्मानित",
-      "summary": "काठमाडौँ । शब्दयात्रा प्रकाशनले लेखन तथा पत्रकारिताको क्षेत्रमा योगदान दिएबापत आर्थिक लेखक, विश्लेषक तथा पत्रकार रिसव गौतमलाई २०८३ सालको ‘शब्दयात्रा हरिगोपाल प्रधान कदरपत्र’ प्रदान गरेको छ। शब्दयात्रा प्रकाशनले शनिबार बनेपास्थित आफ्नै सभाकक्षमा आयोजना गरेको ‘शब्द साधना प्रस्तुतिकरण,",
-      "publishedAt": "2026-10-31T15:35:16+00:00",
-      "updatedAt": "2026-10-31T15:35:16+00:00",
-      "sourceCount": 1,
-      "languageCount": 1,
-      "sources": [
-        "Ratopati"
-      ],
-      "categories": [
-        "politics",
-        "sports"
-      ],
-      "items": [
-        {
-          "id": "a8c4d53d50b47dc2",
-          "title": "आर्थिक लेखक तथा पत्रकार रिसव गौतम ‘शब्दयात्रा हरिगोपाल प्रधान कदरपत्र’बाट सम्मानित",
-          "link": "https://www.ratopati.com/story/602516/economic-writer-and-journalist-rishab-gautam-honored-with-shabdyatra-harigopal-pradhan-commendation",
-          "source": "Ratopati",
-          "sourceUrl": "https://ratopati.com/feed",
-          "pubDate": "2026-10-31T15:35:16+00:00",
-          "categories": [
-            "politics",
-            "sports"
-          ],
-          "image": "https://npcdn.ratopati.com/media/news/samman2_0krtLspxTt.webp",
-          "images": [
-            "https://npcdn.ratopati.com/media/news/samman2_0krtLspxTt.webp"
-          ],
-          "description": "काठमाडौँ । शब्दयात्रा प्रकाशनले लेखन तथा पत्रकारिताको क्षेत्रमा योगदान दिएबापत आर्थिक लेखक, विश्लेषक तथा पत्रकार रिसव गौतमलाई २०८३ सालको ‘शब्दयात्रा हरिगोपाल प्रधान कदरपत्र’ प्रदान गरेको छ। शब्दयात्रा प्रकाशनले शनिबार बनेपास्थित आफ्नै सभाकक्षमा आयोजना गरेको ‘शब्द साधना प्रस्तुतिकरण,"
-        }
-      ]
-    },
-    {
       "id": "4dc61799ae00c623",
       "title": "सुदूरपश्चिम रोयल्सले टस जित्यो, विराटनगर किंग्सलाई ब्याटिङको निम्तो",
       "summary": "",
@@ -2930,76 +3181,6 @@
             "https://nepalviews.cdnsolution.net/en/media/setting/banner_FHsSzcWYKk.jpg"
           ],
           "description": ""
-        }
-      ]
-    },
-    {
-      "id": "c4685c78b450a712",
-      "title": "व्यक्तिगत घटना दर्ता प्रणालीबाट मतदाता नामावली अद्यावधिक गरिने",
-      "summary": "काठमाडौँ । निर्वाचन आयोगले राष्ट्रिय परिचयपत्र तथा पञ्जीकरण विभागबाट विवरण लिएर मतदाता नामावली अद्यावधिक तथा विवरण प्रमाणीकरण गर्ने भएको छ । निर्वाचन आयोग र विभागबीच व्यक्तिगत घटना दर्ता तथा सामाजिक सुरक्षा व्यवस्थापन सूचना प्रणालीमा रहेका विवरण",
-      "publishedAt": "2026-10-31T15:24:46+00:00",
-      "updatedAt": "2026-10-31T15:24:46+00:00",
-      "sourceCount": 1,
-      "languageCount": 1,
-      "sources": [
-        "Ratopati"
-      ],
-      "categories": [
-        "politics",
-        "sports"
-      ],
-      "items": [
-        {
-          "id": "fb093e105080dc0f",
-          "title": "व्यक्तिगत घटना दर्ता प्रणालीबाट मतदाता नामावली अद्यावधिक गरिने",
-          "link": "https://www.ratopati.com/story/602514/voter-rolls-will-be-updated-through-the-personal-incident-registration-system",
-          "source": "Ratopati",
-          "sourceUrl": "https://ratopati.com/feed",
-          "pubDate": "2026-10-31T15:24:46+00:00",
-          "categories": [
-            "politics",
-            "sports"
-          ],
-          "image": "https://npcdn.ratopati.com/media/news/narayan-prasad-bhattarai_M30cVyr2Yq.jpg",
-          "images": [
-            "https://npcdn.ratopati.com/media/news/narayan-prasad-bhattarai_M30cVyr2Yq.jpg"
-          ],
-          "description": "काठमाडौँ । निर्वाचन आयोगले राष्ट्रिय परिचयपत्र तथा पञ्जीकरण विभागबाट विवरण लिएर मतदाता नामावली अद्यावधिक तथा विवरण प्रमाणीकरण गर्ने भएको छ । निर्वाचन आयोग र विभागबीच व्यक्तिगत घटना दर्ता तथा सामाजिक सुरक्षा व्यवस्थापन सूचना प्रणालीमा रहेका विवरण"
-        }
-      ]
-    },
-    {
-      "id": "ae60412e8f4a5401",
-      "title": "सुदूरपश्चिमले जित्यो टस, पहिला बलिङ गर्ने",
-      "summary": "काठमाडौँ । नेपाल प्रिमियर लिग (एनपीएल) को तेस्रो संस्करणमा शनिबार हुने खेलमा सुदूरपश्चिमले टस जितेको छ । कीर्तिपुरस्थित त्रिवि क्रिकेट अन्तर्राष्ट्रिय क्रिकेट मैदानमा हुने विराटनगरसँगको खेलमा सुदूरपश्चिमले टस जितेर बलिङ राजेको छ । विराटनगर किङ्स र सुदूरपश्चिम",
-      "publishedAt": "2026-10-31T15:24:22+00:00",
-      "updatedAt": "2026-10-31T15:24:22+00:00",
-      "sourceCount": 1,
-      "languageCount": 1,
-      "sources": [
-        "Ratopati"
-      ],
-      "categories": [
-        "politics",
-        "sports"
-      ],
-      "items": [
-        {
-          "id": "4cff5610cdc008d1",
-          "title": "सुदूरपश्चिमले जित्यो टस, पहिला बलिङ गर्ने",
-          "link": "https://www.ratopati.com/story/602513/sudurpaschim-won-the-toss-and-elected-to-bowl-first",
-          "source": "Ratopati",
-          "sourceUrl": "https://ratopati.com/feed",
-          "pubDate": "2026-10-31T15:24:22+00:00",
-          "categories": [
-            "politics",
-            "sports"
-          ],
-          "image": "https://npcdn.ratopati.com/media/news/npl-darshak1-2_fvaLaLCgxs.webp",
-          "images": [
-            "https://npcdn.ratopati.com/media/news/npl-darshak1-2_fvaLaLCgxs.webp"
-          ],
-          "description": "काठमाडौँ । नेपाल प्रिमियर लिग (एनपीएल) को तेस्रो संस्करणमा शनिबार हुने खेलमा सुदूरपश्चिमले टस जितेको छ । कीर्तिपुरस्थित त्रिवि क्रिकेट अन्तर्राष्ट्रिय क्रिकेट मैदानमा हुने विराटनगरसँगको खेलमा सुदूरपश्चिमले टस जितेर बलिङ राजेको छ । विराटनगर किङ्स र सुदूरपश्चिम"
         }
       ]
     },
@@ -6626,41 +6807,6 @@
       ]
     },
     {
-      "id": "38329526dd40f84a",
-      "title": "Policy reforms planned to help Nepali IT firms become global unicorns: PM Shah",
-      "summary": "KATHMANDU: Prime Minister (PM) Balendra Shah has said the government will introduce necessary policy and regulatory reforms to promote Nepal’s game development and information technology (IT) sectors, creating an environment for domestic companies to expand internationally and emerge as global unicorns. In a social media post on Friday, Prime Minister Shah said the government would […]",
-      "publishedAt": "2026-10-31T08:07:45+00:00",
-      "updatedAt": "2026-10-31T08:07:45+00:00",
-      "sourceCount": 1,
-      "languageCount": 1,
-      "sources": [
-        "Khabarhub"
-      ],
-      "categories": [
-        "business",
-        "politics",
-        "world"
-      ],
-      "items": [
-        {
-          "id": "de59abadb68f9344",
-          "title": "Policy reforms planned to help Nepali IT firms become global unicorns: PM Shah",
-          "link": "https://english.khabarhub.com/2026/31/573846/",
-          "source": "Khabarhub",
-          "sourceUrl": "https://english.khabarhub.com/feed/",
-          "pubDate": "2026-10-31T08:07:45+00:00",
-          "categories": [
-            "politics",
-            "business",
-            "world"
-          ],
-          "image": "",
-          "images": [],
-          "description": "KATHMANDU: Prime Minister (PM) Balendra Shah has said the government will introduce necessary policy and regulatory reforms to promote Nepal’s game development and information technology (IT) sectors, creating an environment for domestic companies to expand internationally and emerge as global unicorns. In a social media post on Friday, Prime Minister Shah said the government would […]"
-        }
-      ]
-    },
-    {
       "id": "51f8648a7d382c26",
       "title": "आज साँझदेखि घट्दै वर्षा, भोलि र पर्सि मौसम थप खुल्ने",
       "summary": "",
@@ -7353,43 +7499,6 @@
       ]
     },
     {
-      "id": "a843413b120adc31",
-      "title": "Heavy rainfall likely in three provinces; Weather to slightly improve from tomorrow",
-      "summary": "Kathmandu, Oct 31: The Meteorological Forecasting Division has reported that most parts of the country are currently clo...",
-      "publishedAt": "2026-10-31T05:23:32+00:00",
-      "updatedAt": "2026-10-31T05:23:32+00:00",
-      "sourceCount": 1,
-      "languageCount": 1,
-      "sources": [
-        "The Rising Nepal"
-      ],
-      "categories": [
-        "business",
-        "politics",
-        "sports",
-        "world"
-      ],
-      "items": [
-        {
-          "id": "9156511752772d19",
-          "title": "Heavy rainfall likely in three provinces; Weather to slightly improve from tomorrow",
-          "link": "https://risingnepaldaily.com/news/88259",
-          "source": "The Rising Nepal",
-          "sourceUrl": "https://risingnepaldaily.com/rss",
-          "pubDate": "2026-10-31T05:23:32+00:00",
-          "categories": [
-            "politics",
-            "business",
-            "world",
-            "sports"
-          ],
-          "image": "",
-          "images": [],
-          "description": "Kathmandu, Oct 31: The Meteorological Forecasting Division has reported that most parts of the country are currently clo..."
-        }
-      ]
-    },
-    {
       "id": "54638e89ce991897",
       "title": "डोल्पाको शे–फोक्सुण्डोमा हिमपात, नाङखोङ आसपास एक फिट हिउँ जम्यो",
       "summary": "",
@@ -7865,43 +7974,6 @@
       ]
     },
     {
-      "id": "68b2cdc5261fb727",
-      "title": "Nepal-India agree to strengthen border security",
-      "summary": "By A Staff Reporter,Kathmandu, Oct. 31: Nepal and India have agreed to strengthen border security, enhance technology-ba...",
-      "publishedAt": "2026-10-31T03:49:13+00:00",
-      "updatedAt": "2026-10-31T03:49:13+00:00",
-      "sourceCount": 1,
-      "languageCount": 1,
-      "sources": [
-        "The Rising Nepal"
-      ],
-      "categories": [
-        "business",
-        "politics",
-        "sports",
-        "world"
-      ],
-      "items": [
-        {
-          "id": "d6e7a6061cf55cc5",
-          "title": "Nepal-India agree to strengthen border security",
-          "link": "https://risingnepaldaily.com/news/88258",
-          "source": "The Rising Nepal",
-          "sourceUrl": "https://risingnepaldaily.com/rss",
-          "pubDate": "2026-10-31T03:49:13+00:00",
-          "categories": [
-            "politics",
-            "business",
-            "world",
-            "sports"
-          ],
-          "image": "",
-          "images": [],
-          "description": "By A Staff Reporter,Kathmandu, Oct. 31: Nepal and India have agreed to strengthen border security, enhance technology-ba..."
-        }
-      ]
-    },
-    {
       "id": "f7c7a3a7f742c216",
       "title": "Heavy rain in Manang; rainfall to ease across the country from today afternoon",
       "summary": "Kathmandu, October 31 Manang district received very heavy rainfall over the past 24 hours. According to data from 6:24 am today, the Tal weather station in Manang recorded 104.4 millimetres of rain. The Department of Hydrology and Meteorology classifies rainfall of more than 100 mm and less than 200 mm within 24 hours as very […] The post Heavy rain in Manang; rainfall to ease across the country from today afternoon appeared first on OnlineKhabar English News .",
@@ -8044,43 +8116,6 @@
             "https://nepalviews.cdnsolution.net/en/media/setting/banner_FHsSzcWYKk.jpg"
           ],
           "description": ""
-        }
-      ]
-    },
-    {
-      "id": "e60c126a6eb261c7",
-      "title": "Rain damages paddy crops",
-      "summary": "By Our Correspondent, Kalikot, Oct. 31: Paddy crops in several parts of Kalikot district have been damaged by rainfall a...",
-      "publishedAt": "2026-10-31T03:00:31+00:00",
-      "updatedAt": "2026-10-31T03:00:31+00:00",
-      "sourceCount": 1,
-      "languageCount": 1,
-      "sources": [
-        "The Rising Nepal"
-      ],
-      "categories": [
-        "business",
-        "politics",
-        "sports",
-        "world"
-      ],
-      "items": [
-        {
-          "id": "e7c9a0b6ebf71e12",
-          "title": "Rain damages paddy crops",
-          "link": "https://risingnepaldaily.com/news/88257",
-          "source": "The Rising Nepal",
-          "sourceUrl": "https://risingnepaldaily.com/rss",
-          "pubDate": "2026-10-31T03:00:31+00:00",
-          "categories": [
-            "politics",
-            "business",
-            "world",
-            "sports"
-          ],
-          "image": "",
-          "images": [],
-          "description": "By Our Correspondent, Kalikot, Oct. 31: Paddy crops in several parts of Kalikot district have been damaged by rainfall a..."
         }
       ]
     },
@@ -11088,45 +11123,6 @@
             "https://media.nepalitimes.com/cover/UNWFP.png"
           ],
           "description": "Thirty-five retired employees of the UN's World Food Programme (WFP) have gathered in Kathmandu this week for their annual get-together. Former…"
-        }
-      ]
-    },
-    {
-      "id": "ec17e9a5278bb355",
-      "title": "Websites still down",
-      "summary": "Websites across the globe including Nepal's, went down due to a security vulnerability in the PHP coding system used to build them. Banks,…",
-      "publishedAt": "2026-10-29T07:16:33+00:00",
-      "updatedAt": "2026-10-29T07:16:33+00:00",
-      "sourceCount": 1,
-      "languageCount": 1,
-      "sources": [
-        "Nepali Times"
-      ],
-      "categories": [
-        "business",
-        "politics",
-        "society",
-        "technology"
-      ],
-      "items": [
-        {
-          "id": "f47e84969e6bd5df",
-          "title": "Websites still down",
-          "link": "https://nepalitimes.com/websites-still-down",
-          "source": "Nepali Times",
-          "sourceUrl": "https://www.nepalitimes.com/feed/",
-          "pubDate": "2026-10-29T07:16:33+00:00",
-          "categories": [
-            "politics",
-            "business",
-            "society",
-            "technology"
-          ],
-          "image": "https://media.nepalitimes.com/cover/website%20down.jpg",
-          "images": [
-            "https://media.nepalitimes.com/cover/website%20down.jpg"
-          ],
-          "description": "Websites across the globe including Nepal's, went down due to a security vulnerability in the PHP coding system used to build them. Banks,…"
         }
       ]
     }
