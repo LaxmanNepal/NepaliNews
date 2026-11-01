@@ -1,8 +1,113 @@
 {
-  "generatedAt": "2026-11-01T18:40:42.108818+00:00",
-  "sourceItemCount": 331,
-  "storyCount": 322,
+  "generatedAt": "2026-11-01T22:25:23.368088+00:00",
+  "sourceItemCount": 332,
+  "storyCount": 323,
   "stories": [
+    {
+      "id": "30adfd067a1fdd69",
+      "title": "राष्ट्रिय गौरवका सिँचाइ आयोजनाबाट थप १५० हेक्टर जमिन सिँचाइ",
+      "summary": "",
+      "publishedAt": "2026-11-01T19:07:00+00:00",
+      "updatedAt": "2026-11-01T19:07:00+00:00",
+      "sourceCount": 1,
+      "languageCount": 1,
+      "sources": [
+        "Nepal Samaya"
+      ],
+      "categories": [
+        "entertainment",
+        "politics"
+      ],
+      "items": [
+        {
+          "id": "049a17b32d33b5ea",
+          "title": "राष्ट्रिय गौरवका सिँचाइ आयोजनाबाट थप १५० हेक्टर जमिन सिँचाइ",
+          "link": "https://nepalsamaya.com/detail/147461",
+          "source": "Nepal Samaya",
+          "sourceUrl": "https://nepalsamaya.com/feed",
+          "pubDate": "2026-11-01T19:07:00+00:00",
+          "categories": [
+            "politics",
+            "entertainment"
+          ],
+          "image": "https://nepalsamaya.com/uploads/posts/Sikta1783220177-1793519651.jpg",
+          "images": [
+            "https://nepalsamaya.com/uploads/posts/Sikta1783220177-1793519651.jpg"
+          ],
+          "description": ""
+        }
+      ]
+    },
+    {
+      "id": "dd1413064169f4f6",
+      "title": "वैदिक विश्वविद्यालयको आवश्यकतामा जोड",
+      "summary": "काठमाडौँ । ऋषिमुनिको तपोभूमि नेपालमा वैदिक विश्वविद्यालय स्थापनाको सङ्कल्प सान्दर्भिक भएकाले कार्यान्वयनमा लैजानुपर्नेमा जोड दिइएको छ । श्री गजेन्द्रमोक्ष वैदिक विश्वविद्यालय स्थापनाका लागि नवलपरासीस्थित गजेन्द्रमोक्षधाममा आगामी मङ्सिर १ गतेदेखि २९ गतेसम्म गजेन्द्रमोक्ष नारायण वैभव विराट महायज्ञ",
+      "publishedAt": "2026-11-01T19:00:00+00:00",
+      "updatedAt": "2026-11-01T19:00:00+00:00",
+      "sourceCount": 1,
+      "languageCount": 1,
+      "sources": [
+        "Ratopati"
+      ],
+      "categories": [
+        "politics",
+        "sports"
+      ],
+      "items": [
+        {
+          "id": "b4cf72f58e9c7b7e",
+          "title": "वैदिक विश्वविद्यालयको आवश्यकतामा जोड",
+          "link": "https://www.ratopati.com/story/602734/emphasis-on-the-need-for-a-vedic-university",
+          "source": "Ratopati",
+          "sourceUrl": "https://ratopati.com/feed",
+          "pubDate": "2026-11-01T19:00:00+00:00",
+          "categories": [
+            "politics",
+            "sports"
+          ],
+          "image": "https://npcdn.ratopati.com/media/setting/banner-image_sPOGzj8QHe.jpg",
+          "images": [
+            "https://npcdn.ratopati.com/media/setting/banner-image_sPOGzj8QHe.jpg"
+          ],
+          "description": "काठमाडौँ । ऋषिमुनिको तपोभूमि नेपालमा वैदिक विश्वविद्यालय स्थापनाको सङ्कल्प सान्दर्भिक भएकाले कार्यान्वयनमा लैजानुपर्नेमा जोड दिइएको छ । श्री गजेन्द्रमोक्ष वैदिक विश्वविद्यालय स्थापनाका लागि नवलपरासीस्थित गजेन्द्रमोक्षधाममा आगामी मङ्सिर १ गतेदेखि २९ गतेसम्म गजेन्द्रमोक्ष नारायण वैभव विराट महायज्ञ"
+        }
+      ]
+    },
+    {
+      "id": "ac6d80c1788f72bb",
+      "title": "२४ घण्टामा देशभर सवारी दुर्घटनामा ४ को मृत्यु, १०९ जना घाइते",
+      "summary": "",
+      "publishedAt": "2026-11-01T18:52:00+00:00",
+      "updatedAt": "2026-11-01T18:52:00+00:00",
+      "sourceCount": 1,
+      "languageCount": 1,
+      "sources": [
+        "Nepal Samaya"
+      ],
+      "categories": [
+        "entertainment",
+        "politics"
+      ],
+      "items": [
+        {
+          "id": "d6243c29028a537f",
+          "title": "२४ घण्टामा देशभर सवारी दुर्घटनामा ४ को मृत्यु, १०९ जना घाइते",
+          "link": "https://nepalsamaya.com/detail/147460",
+          "source": "Nepal Samaya",
+          "sourceUrl": "https://nepalsamaya.com/feed",
+          "pubDate": "2026-11-01T18:52:00+00:00",
+          "categories": [
+            "politics",
+            "entertainment"
+          ],
+          "image": "https://nepalsamaya.com/uploads/posts/Accident9848-1785827438.jpg",
+          "images": [
+            "https://nepalsamaya.com/uploads/posts/Accident9848-1785827438.jpg"
+          ],
+          "description": ""
+        }
+      ]
+    },
     {
       "id": "174debdc7c8f692b",
       "title": "कुनैपनि राजनीतिक दलको सदस्य नभएर मैंले ठूलो गल्ती गरें : डा.सुरेन्द्र केसी",
@@ -424,41 +529,6 @@
       ]
     },
     {
-      "id": "30bf3164d9276b2c",
-      "title": "नबिल बैंकको खुद नाफा ४५ प्रतिशत बढ्यो",
-      "summary": "",
-      "publishedAt": "2026-11-01T17:48:48+00:00",
-      "updatedAt": "2026-11-01T17:48:48+00:00",
-      "sourceCount": 1,
-      "languageCount": 1,
-      "sources": [
-        "Nepal Samaya"
-      ],
-      "categories": [
-        "entertainment",
-        "politics"
-      ],
-      "items": [
-        {
-          "id": "b7bcd1148fe3fd68",
-          "title": "नबिल बैंकको खुद नाफा ४५ प्रतिशत बढ्यो",
-          "link": "https://nepalsamaya.com/detail/147457",
-          "source": "Nepal Samaya",
-          "sourceUrl": "https://nepalsamaya.com/feed",
-          "pubDate": "2026-11-01T17:48:48+00:00",
-          "categories": [
-            "politics",
-            "entertainment"
-          ],
-          "image": "https://nepalsamaya.com/uploads/posts/Nabil-Bank-logo1679917105.jpg",
-          "images": [
-            "https://nepalsamaya.com/uploads/posts/Nabil-Bank-logo1679917105.jpg"
-          ],
-          "description": ""
-        }
-      ]
-    },
-    {
       "id": "3294714dd62bddd1",
       "title": "आँबुखैरेनीमा माइक्रो दुर्घटना, चालकसहित ११ जना घाइते",
       "summary": "",
@@ -489,41 +559,6 @@
           ],
           "image": "",
           "images": [],
-          "description": ""
-        }
-      ]
-    },
-    {
-      "id": "628c63d9d4854d11",
-      "title": "न्यायको कठघरामा न्यायालय",
-      "summary": "",
-      "publishedAt": "2026-11-01T17:40:10+00:00",
-      "updatedAt": "2026-11-01T17:40:10+00:00",
-      "sourceCount": 1,
-      "languageCount": 1,
-      "sources": [
-        "Nepal Samaya"
-      ],
-      "categories": [
-        "entertainment",
-        "politics"
-      ],
-      "items": [
-        {
-          "id": "1d59bf5c8c298da5",
-          "title": "न्यायको कठघरामा न्यायालय",
-          "link": "https://nepalsamaya.com/detail/147455",
-          "source": "Nepal Samaya",
-          "sourceUrl": "https://nepalsamaya.com/feed",
-          "pubDate": "2026-11-01T17:40:10+00:00",
-          "categories": [
-            "politics",
-            "entertainment"
-          ],
-          "image": "https://nepalsamaya.com/uploads/posts/webpost_404a94c3-1793516072.png",
-          "images": [
-            "https://nepalsamaya.com/uploads/posts/webpost_404a94c3-1793516072.png"
-          ],
           "description": ""
         }
       ]
@@ -3438,41 +3473,6 @@
           "image": "",
           "images": [],
           "description": "BANEPA: Traffic along the BP Highway resumed on Sunday evening after landslide debris was cleared from several sections of the road following days of incessant rainfall. Traffic had remained disrupted since Saturday morning after heavy rainfall on Friday and Saturday triggered landslides at multiple locations between Chaukidanda and Nepalthok in Kavrepalanchok district. According to Deputy […]"
-        }
-      ]
-    },
-    {
-      "id": "fca08b0dc68e618e",
-      "title": "इरानका अझै पनि ‘एकाध लक्ष्य’ नियन्त्रणमा लिन बाँकी : डाेनाल्ड ट्रम्प",
-      "summary": "काठमाडाैँ। अमेरिकाले इरानको धेरै सैन्य क्षमता नष्ट गरेको तर अझै एक–दुई लक्ष्य ‘सम्हाल्न’ बाँकी रहेको राष्ट्रपति डोनाल्ड ट्रम्पले शनिबार बताएका छन्। तेहरानले आक्रमण भएमा जवाफी कारबाही गर्ने चेतावनी दिएको छ । राष्ट्रपति ट्रम्पले फेब्रुअरीमा अमेरिका र",
-      "publishedAt": "2026-11-01T14:51:31+00:00",
-      "updatedAt": "2026-11-01T14:51:31+00:00",
-      "sourceCount": 1,
-      "languageCount": 1,
-      "sources": [
-        "Ratopati"
-      ],
-      "categories": [
-        "politics",
-        "sports"
-      ],
-      "items": [
-        {
-          "id": "3f886c951ba4bced",
-          "title": "इरानका अझै पनि ‘एकाध लक्ष्य’ नियन्त्रणमा लिन बाँकी : डाेनाल्ड ट्रम्प",
-          "link": "https://www.ratopati.com/story/602696/iran-still-has-a-dozen-or-so-targets-to-take-control-of-donald-trump",
-          "source": "Ratopati",
-          "sourceUrl": "https://ratopati.com/feed",
-          "pubDate": "2026-11-01T14:51:31+00:00",
-          "categories": [
-            "politics",
-            "sports"
-          ],
-          "image": "https://npcdn.ratopati.com/media/news/donald-trump_b38Op3spB6.webp",
-          "images": [
-            "https://npcdn.ratopati.com/media/news/donald-trump_b38Op3spB6.webp"
-          ],
-          "description": "काठमाडाैँ। अमेरिकाले इरानको धेरै सैन्य क्षमता नष्ट गरेको तर अझै एक–दुई लक्ष्य ‘सम्हाल्न’ बाँकी रहेको राष्ट्रपति डोनाल्ड ट्रम्पले शनिबार बताएका छन्। तेहरानले आक्रमण भएमा जवाफी कारबाही गर्ने चेतावनी दिएको छ । राष्ट्रपति ट्रम्पले फेब्रुअरीमा अमेरिका र"
         }
       ]
     },
@@ -9121,6 +9121,43 @@
       ]
     },
     {
+      "id": "39b2dd23ad09b3c4",
+      "title": "नबिल बैंकको खुद नाफा ४५ प्रतिशत बढ्यो",
+      "summary": "",
+      "publishedAt": "2026-11-01T07:00:50+00:00",
+      "updatedAt": "2026-11-01T07:00:50+00:00",
+      "sourceCount": 1,
+      "languageCount": 1,
+      "sources": [
+        "Nepal Views"
+      ],
+      "categories": [
+        "business",
+        "politics",
+        "technology"
+      ],
+      "items": [
+        {
+          "id": "284b56d8702d87a3",
+          "title": "नबिल बैंकको खुद नाफा ४५ प्रतिशत बढ्यो",
+          "link": "https://www.nepalviews.com/story/427442/nabil-banks-net-profit-increases-by-45-percent",
+          "source": "Nepal Views",
+          "sourceUrl": "https://www.nepalviews.com/feed/",
+          "pubDate": "2026-11-01T07:00:50+00:00",
+          "categories": [
+            "politics",
+            "business",
+            "technology"
+          ],
+          "image": "https://nepalviews.cdnsolution.net/en/media/setting/banner_FHsSzcWYKk.jpg",
+          "images": [
+            "https://nepalviews.cdnsolution.net/en/media/setting/banner_FHsSzcWYKk.jpg"
+          ],
+          "description": ""
+        }
+      ]
+    },
+    {
       "id": "4e536839033794ce",
       "title": "भेनेजुएलाको सैन्य आक्रमणमा ९ कोलम्बियाली विद्रोहीको मृत्यु",
       "summary": "काराकास- भेनेजुएलाको सेनाले सीमा क्षेत्रमा रहेको कोलम्बियाली वामपन्थी विद्रोही समूहको शिविरमा आक्रमण गर्दा ९ जनाको मृत्यु भएको एक गैरसरकारी संस्थाले जनाएको छ। फन्डारेड्स नामक गैरसरकारी संस्थाका निर्देशक जेभियर टाराजोनाले शनिबार एएफपीलाई बताएअनुसार शुक्रबार भेनेजुएलाको अपुरे राज्यस्थित ग्रामीण क्षेत्रमा रहेको विद्रोही शिविरमा सेनाले आक्रमण गरेको थियो। सन् २०१६ मा कोलम्बियाली विद्रोही समूहसँग भएको शान्ति सम्झौतापछि भेनेजुएलामा […]",
@@ -11064,45 +11101,6 @@
             "https://media.nepalitimes.com/cover/flood%20warning.jpg"
           ],
           "description": "The government is planning to invest $49.9 million for flood early warning and glacial lake risk reduction from 2026-2033. Tso Rolpa, Imja, and…"
-        }
-      ]
-    },
-    {
-      "id": "97634501c6dfc4ac",
-      "title": "Nepal ranks 103rd",
-      "summary": "With its GDP crossing $45.59 billion, Nepal is ranked 103rd amongst the world’s countries in economic output. The United States tops the ranking…",
-      "publishedAt": "2026-10-29T07:21:25+00:00",
-      "updatedAt": "2026-10-29T07:21:25+00:00",
-      "sourceCount": 1,
-      "languageCount": 1,
-      "sources": [
-        "Nepali Times"
-      ],
-      "categories": [
-        "business",
-        "politics",
-        "society",
-        "technology"
-      ],
-      "items": [
-        {
-          "id": "457f4fb6c0cf437e",
-          "title": "Nepal ranks 103rd",
-          "link": "https://nepalitimes.com/nepal-ranks-103rd",
-          "source": "Nepali Times",
-          "sourceUrl": "https://www.nepalitimes.com/feed/",
-          "pubDate": "2026-10-29T07:21:25+00:00",
-          "categories": [
-            "politics",
-            "business",
-            "society",
-            "technology"
-          ],
-          "image": "https://media.nepalitimes.com/cover/Nepal%20ranking.jpg",
-          "images": [
-            "https://media.nepalitimes.com/cover/Nepal%20ranking.jpg"
-          ],
-          "description": "With its GDP crossing $45.59 billion, Nepal is ranked 103rd amongst the world’s countries in economic output. The United States tops the ranking…"
         }
       ]
     }
