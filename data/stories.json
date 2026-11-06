@@ -1,8 +1,657 @@
 {
-  "generatedAt": "2026-11-06T17:01:01.183869+00:00",
-  "sourceItemCount": 328,
-  "storyCount": 314,
+  "generatedAt": "2026-11-06T22:04:36.169343+00:00",
+  "sourceItemCount": 325,
+  "storyCount": 310,
   "stories": [
+    {
+      "id": "df09090e50784915",
+      "title": "घरेलु मदिराको बिक्री वितरणमा संलग्न नहुन अनुरोध",
+      "summary": "पर्सा । प्रहरीले अवैध घरेलु मदिरा उत्पादन गर्ने भट्टी नष्ट गरेको छ । वीरगन्ज महानगरपालिका–१५ भिष्वाडाँडामा सञ्चालित अवैध घरेलु मदिरा उत्पादन गर्ने भट्टी आज नष्ट गरिएको हो । जिल्ला प्रहरी कार्यालयबाट खटिएको प्रहरी टोलीले मदिरा बनाउने",
+      "publishedAt": "2026-11-06T18:30:00+00:00",
+      "updatedAt": "2026-11-06T18:30:00+00:00",
+      "sourceCount": 1,
+      "languageCount": 1,
+      "sources": [
+        "Ratopati"
+      ],
+      "categories": [
+        "politics",
+        "sports"
+      ],
+      "items": [
+        {
+          "id": "c797e324c27c7c70",
+          "title": "घरेलु मदिराको बिक्री वितरणमा संलग्न नहुन अनुरोध",
+          "link": "https://www.ratopati.com/story/603853/request-not-to-engage-in-the-sale-and-distribution-of-domestic-liquor",
+          "source": "Ratopati",
+          "sourceUrl": "https://ratopati.com/feed",
+          "pubDate": "2026-11-06T18:30:00+00:00",
+          "categories": [
+            "politics",
+            "sports"
+          ],
+          "image": "https://npcdn.ratopati.com/media/news/parsa-district-map_0ZIfD6x5iq.jpg",
+          "images": [
+            "https://npcdn.ratopati.com/media/news/parsa-district-map_0ZIfD6x5iq.jpg"
+          ],
+          "description": "पर्सा । प्रहरीले अवैध घरेलु मदिरा उत्पादन गर्ने भट्टी नष्ट गरेको छ । वीरगन्ज महानगरपालिका–१५ भिष्वाडाँडामा सञ्चालित अवैध घरेलु मदिरा उत्पादन गर्ने भट्टी आज नष्ट गरिएको हो । जिल्ला प्रहरी कार्यालयबाट खटिएको प्रहरी टोलीले मदिरा बनाउने"
+        }
+      ]
+    },
+    {
+      "id": "e30bf33bc3c41ec2",
+      "title": "१२ बजे १२ समाचार : यस्ता छन् आजका प्रमुख समाचार",
+      "summary": "काठमाडौँ । आज दिनभरका मुख्यमुख्य घटनाक्रमसहित रातोपाटीको रात्रिकालीन प्रस्तुति रातोपाटी ब्रिफिङमा १२ बजे १२ समाचार लिएर आएका छौँ- १. सरकारको माइण्ड गेम पछिल्लो ४८ घण्टामा सिंहदरबारदेखि सानेपासम्म राजनीतिक तापक्रम ह्वात्तै बढ्यो । त्यसको केन्द्रमा एउटा विवादास्पद अडियो",
+      "publishedAt": "2026-11-06T18:15:00+00:00",
+      "updatedAt": "2026-11-06T18:15:00+00:00",
+      "sourceCount": 1,
+      "languageCount": 1,
+      "sources": [
+        "Ratopati"
+      ],
+      "categories": [
+        "politics",
+        "sports"
+      ],
+      "items": [
+        {
+          "id": "b33cb71a61953aa6",
+          "title": "१२ बजे १२ समाचार : यस्ता छन् आजका प्रमुख समाचार",
+          "link": "https://www.ratopati.com/story/603852/12-news-at-12-these-are-todays-top-news-stories",
+          "source": "Ratopati",
+          "sourceUrl": "https://ratopati.com/feed",
+          "pubDate": "2026-11-06T18:15:00+00:00",
+          "categories": [
+            "politics",
+            "sports"
+          ],
+          "image": "https://npcdn.ratopati.com/media/news/12-am-final_viqawbfig2_epxbu1cpos_Fcr2kOI51t.jpg",
+          "images": [
+            "https://npcdn.ratopati.com/media/news/12-am-final_viqawbfig2_epxbu1cpos_Fcr2kOI51t.jpg"
+          ],
+          "description": "काठमाडौँ । आज दिनभरका मुख्यमुख्य घटनाक्रमसहित रातोपाटीको रात्रिकालीन प्रस्तुति रातोपाटी ब्रिफिङमा १२ बजे १२ समाचार लिएर आएका छौँ- १. सरकारको माइण्ड गेम पछिल्लो ४८ घण्टामा सिंहदरबारदेखि सानेपासम्म राजनीतिक तापक्रम ह्वात्तै बढ्यो । त्यसको केन्द्रमा एउटा विवादास्पद अडियो"
+        }
+      ]
+    },
+    {
+      "id": "fcc4ff4c73970863",
+      "title": "काठमाडौं २४ घण्टा खुलाउने तयारी",
+      "summary": "",
+      "publishedAt": "2026-11-06T18:11:03+00:00",
+      "updatedAt": "2026-11-06T18:11:03+00:00",
+      "sourceCount": 1,
+      "languageCount": 1,
+      "sources": [
+        "Baahrakhari"
+      ],
+      "categories": [
+        "business",
+        "politics",
+        "society"
+      ],
+      "items": [
+        {
+          "id": "850c2cb554a535b3",
+          "title": "काठमाडौं २४ घण्टा खुलाउने तयारी",
+          "link": "https://baahrakhari.com/detail/506817",
+          "source": "Baahrakhari",
+          "sourceUrl": "https://baahrakhari.com/feed",
+          "pubDate": "2026-11-06T18:11:03+00:00",
+          "categories": [
+            "politics",
+            "business",
+            "society"
+          ],
+          "image": "",
+          "images": [],
+          "description": ""
+        }
+      ]
+    },
+    {
+      "id": "3348e9fff5201932",
+      "title": "पोखरा ११ बन्यो नागार्जुन भेट्रान्स फुटबलको च्याम्पियन",
+      "summary": "२० कात्तिक, काठमाडौं । पोखरा ११ ले तेस्रो नागार्जुन भेट्रान्स फुटबल प्रतियोगिताको उपाधि जितेको छ। शुक्रबार मध्यपुर थिमि मैदानमा भएको फाइनलमा विभागीय टोली त्रिभुवन आर्मी फुटबल क्लबलाई ४–० गोलले पराजित गर्दै पोखरा च्याम्पियन बनेको हो। पोखराको जितमा डेनिम राई, सुवीनकुमार श्रेष्ठ र सुरेन्द्र तामाङले पहिलो हाफमा गोल गरे। दोस्रो हाफमा गंगाबहादुर तामाङले थप एक गोल […]",
+      "publishedAt": "2026-11-06T17:53:30+00:00",
+      "updatedAt": "2026-11-06T17:53:30+00:00",
+      "sourceCount": 1,
+      "languageCount": 1,
+      "sources": [
+        "Online Khabar"
+      ],
+      "categories": [
+        "business",
+        "entertainment",
+        "politics",
+        "sports",
+        "technology"
+      ],
+      "items": [
+        {
+          "id": "e7c732677f3fdebf",
+          "title": "पोखरा ११ बन्यो नागार्जुन भेट्रान्स फुटबलको च्याम्पियन",
+          "link": "https://www.onlinekhabar.com/2026/11/2053086/pokhara-11-becomes-champion-of-nagarjuna-veterans-football",
+          "source": "Online Khabar",
+          "sourceUrl": "https://www.onlinekhabar.com/feed",
+          "pubDate": "2026-11-06T17:53:30+00:00",
+          "categories": [
+            "politics",
+            "business",
+            "sports",
+            "technology",
+            "entertainment"
+          ],
+          "image": "",
+          "images": [],
+          "description": "२० कात्तिक, काठमाडौं । पोखरा ११ ले तेस्रो नागार्जुन भेट्रान्स फुटबल प्रतियोगिताको उपाधि जितेको छ। शुक्रबार मध्यपुर थिमि मैदानमा भएको फाइनलमा विभागीय टोली त्रिभुवन आर्मी फुटबल क्लबलाई ४–० गोलले पराजित गर्दै पोखरा च्याम्पियन बनेको हो। पोखराको जितमा डेनिम राई, सुवीनकुमार श्रेष्ठ र सुरेन्द्र तामाङले पहिलो हाफमा गोल गरे। दोस्रो हाफमा गंगाबहादुर तामाङले थप एक गोल […]"
+        }
+      ]
+    },
+    {
+      "id": "a581c41c487db82a",
+      "title": "बालबालिकाका हरेक 'हठ' पूरा गर्ने कि उचित सीमामा 'हुन्न' भन्ने ?",
+      "summary": "",
+      "publishedAt": "2026-11-06T17:50:49+00:00",
+      "updatedAt": "2026-11-06T17:50:49+00:00",
+      "sourceCount": 1,
+      "languageCount": 1,
+      "sources": [
+        "Baahrakhari"
+      ],
+      "categories": [
+        "business",
+        "politics",
+        "society"
+      ],
+      "items": [
+        {
+          "id": "cf9faa5e86baf0c8",
+          "title": "बालबालिकाका हरेक 'हठ' पूरा गर्ने कि उचित सीमामा 'हुन्न' भन्ने ?",
+          "link": "https://baahrakhari.com/detail/506809",
+          "source": "Baahrakhari",
+          "sourceUrl": "https://baahrakhari.com/feed",
+          "pubDate": "2026-11-06T17:50:49+00:00",
+          "categories": [
+            "politics",
+            "business",
+            "society"
+          ],
+          "image": "",
+          "images": [],
+          "description": ""
+        }
+      ]
+    },
+    {
+      "id": "8f48fa3bed83af91",
+      "title": "धान जोनमा पाँच हजार मेट्रिक टन उत्पादन बढ्ने अनुमान",
+      "summary": "शालिग्राम नेपाल चितवन, कात्तिक २० गते । चितवनको धान जोनमा यस वर्ष धान उत्पादन पाँच हजार मेट्रिक टनले बढ्ने अनुमान गरिएको छ । गत वर्ष आठ हजार ५०० हेक्टर क्षेत्रफलमा ४५ हजार मेट्रिक...",
+      "publishedAt": "2026-11-06T17:48:54+00:00",
+      "updatedAt": "2026-11-06T17:48:54+00:00",
+      "sourceCount": 1,
+      "languageCount": 1,
+      "sources": [
+        "Gorkhapatra"
+      ],
+      "categories": [
+        "business",
+        "politics"
+      ],
+      "items": [
+        {
+          "id": "9705d0b377099c4e",
+          "title": "धान जोनमा पाँच हजार मेट्रिक टन उत्पादन बढ्ने अनुमान",
+          "link": "https://gorkhapatraonline.com/news/228556",
+          "source": "Gorkhapatra",
+          "sourceUrl": "https://gorkhapatraonline.com/rss",
+          "pubDate": "2026-11-06T17:48:54+00:00",
+          "categories": [
+            "politics",
+            "business"
+          ],
+          "image": "https://gorkhapatraonline.com/storage/media/390779/conversions/dhan-1-original.jpg",
+          "images": [
+            "https://gorkhapatraonline.com/storage/media/390779/conversions/dhan-1-original.jpg"
+          ],
+          "description": "शालिग्राम नेपाल चितवन, कात्तिक २० गते । चितवनको धान जोनमा यस वर्ष धान उत्पादन पाँच हजार मेट्रिक टनले बढ्ने अनुमान गरिएको छ । गत वर्ष आठ हजार ५०० हेक्टर क्षेत्रफलमा ४५ हजार मेट्रिक..."
+        }
+      ]
+    },
+    {
+      "id": "ecb787f13f5ef100",
+      "title": "प्रस्तावित सर्वोच्च अदालतका न्यायाधीशविरुद्धका उजुरीमाथि संसदीय सुनुवाइ समितिमा छलफल",
+      "summary": "",
+      "publishedAt": "2026-11-06T17:38:49+00:00",
+      "updatedAt": "2026-11-06T17:38:49+00:00",
+      "sourceCount": 2,
+      "languageCount": 1,
+      "sources": [
+        "Nepal Live",
+        "Nepal Samaya"
+      ],
+      "categories": [
+        "entertainment",
+        "politics",
+        "technology"
+      ],
+      "items": [
+        {
+          "id": "17b7e54a95d342a0",
+          "title": "प्रस्तावित सर्वोच्च अदालतका न्यायाधीशविरुद्धका उजुरीमाथि संसदीय सुनुवाइ समितिमा छलफल",
+          "link": "https://nepalsamaya.com/detail/147652",
+          "source": "Nepal Samaya",
+          "sourceUrl": "https://nepalsamaya.com/feed",
+          "pubDate": "2026-11-06T17:38:49+00:00",
+          "categories": [
+            "politics",
+            "entertainment"
+          ],
+          "image": "https://nepalsamaya.com/uploads/posts/photo-15_77b0fe76-1793985703.jpg",
+          "images": [
+            "https://nepalsamaya.com/uploads/posts/photo-15_77b0fe76-1793985703.jpg"
+          ],
+          "description": ""
+        },
+        {
+          "id": "60af197137fa9c10",
+          "title": "प्रस्तावित सर्वोच्च अदालतका न्यायाधीशविरुद्धका उजुरी, संसदीय सुनुवाइ समितिमा छलफल",
+          "link": "https://nepallive.com/story/352714",
+          "source": "Nepal Live",
+          "sourceUrl": "https://nepallive.com/feed",
+          "pubDate": "2026-11-06T15:25:25+00:00",
+          "categories": [
+            "politics",
+            "technology"
+          ],
+          "image": "",
+          "images": [],
+          "description": "मितिको बैठकमा सर्वोच्च अदालतका प्रस्तावित न्यायाधीशद्वय डा. रत्नबहादुर बागचन्द र चन्द्रबहादुर सारूलाई आमन्त्रण गरी उजुरीकर्तासँग छलफल गरिएको हो ।"
+        }
+      ]
+    },
+    {
+      "id": "bf6c8f750a4038f6",
+      "title": "बजेट गतिरोधपछि बेल्जियमका प्रधानमन्त्रीद्वारा राजासँग भेट्दै, पद जोखिममा",
+      "summary": "काठमाडौँ । बेल्जियमका प्रधानमन्त्री बार्ट डे वेभरल शुक्रबार बिहान राजा फिलिपसँग भेट गर्ने भएका छन् । यस भेटबाट उनी पदमा रहन सक्ने वा नरहने निर्णय लिन सक्ने अपेक्षा विश्लेषकहरूले गरेका छन् । उनले राजासँगको परामर्शमा सार्वजनिक घाटा",
+      "publishedAt": "2026-11-06T17:29:27+00:00",
+      "updatedAt": "2026-11-06T17:29:27+00:00",
+      "sourceCount": 1,
+      "languageCount": 1,
+      "sources": [
+        "Ratopati"
+      ],
+      "categories": [
+        "politics",
+        "sports"
+      ],
+      "items": [
+        {
+          "id": "ab98ab041ed64917",
+          "title": "बजेट गतिरोधपछि बेल्जियमका प्रधानमन्त्रीद्वारा राजासँग भेट्दै, पद जोखिममा",
+          "link": "https://www.ratopati.com/story/603851/belgian-pm-meets-king-after-budget-impasse-post-at-risk",
+          "source": "Ratopati",
+          "sourceUrl": "https://ratopati.com/feed",
+          "pubDate": "2026-11-06T17:29:27+00:00",
+          "categories": [
+            "politics",
+            "sports"
+          ],
+          "image": "https://npcdn.ratopati.com/media/news/belguim_OBnXNzic1P.webp",
+          "images": [
+            "https://npcdn.ratopati.com/media/news/belguim_OBnXNzic1P.webp"
+          ],
+          "description": "काठमाडौँ । बेल्जियमका प्रधानमन्त्री बार्ट डे वेभरल शुक्रबार बिहान राजा फिलिपसँग भेट गर्ने भएका छन् । यस भेटबाट उनी पदमा रहन सक्ने वा नरहने निर्णय लिन सक्ने अपेक्षा विश्लेषकहरूले गरेका छन् । उनले राजासँगको परामर्शमा सार्वजनिक घाटा"
+        }
+      ]
+    },
+    {
+      "id": "983863f50f838ddd",
+      "title": "पदक वितरणमा मनपरी गरेको भन्दै गण्डकी प्रदेश खेलकुद परिषद् सदस्यसचिव बर्खास्त",
+      "summary": "२० कात्तिक, काठमाडौं । खेलकुद पदक वितरणमा मनपरी गरेको आरोप लागेका गण्डकी प्रदेश खेलकुद परिषद्का सदस्य सचिव श्रीधर शर्मा बर्खास्तमा परेका छन् । गण्डकी प्रदेश सरकारको बुधबार बसेको मन्त्रिपरिषद् बैठकले सदस्य सचिव शर्मालाई बर्खास्त गर्ने निर्णय गरेको हो । ३० असारमा वितरण गरिएको पदक विवादित भएपछि सामाजिक विकास, युवा तथा खेलकुद मन्त्री रेखा गुरुङले मन्त्रालयका […]",
+      "publishedAt": "2026-11-06T17:29:20+00:00",
+      "updatedAt": "2026-11-06T17:29:20+00:00",
+      "sourceCount": 1,
+      "languageCount": 1,
+      "sources": [
+        "Online Khabar"
+      ],
+      "categories": [
+        "business",
+        "entertainment",
+        "politics",
+        "sports",
+        "technology"
+      ],
+      "items": [
+        {
+          "id": "c443e52656cccc92",
+          "title": "पदक वितरणमा मनपरी गरेको भन्दै गण्डकी प्रदेश खेलकुद परिषद् सदस्यसचिव बर्खास्त",
+          "link": "https://www.onlinekhabar.com/2026/11/2053083/gandaki-provincial-sports-council-member-secretary-dismissed-for-arbitrary-medal-distribution",
+          "source": "Online Khabar",
+          "sourceUrl": "https://www.onlinekhabar.com/feed",
+          "pubDate": "2026-11-06T17:29:20+00:00",
+          "categories": [
+            "politics",
+            "business",
+            "sports",
+            "technology",
+            "entertainment"
+          ],
+          "image": "",
+          "images": [],
+          "description": "२० कात्तिक, काठमाडौं । खेलकुद पदक वितरणमा मनपरी गरेको आरोप लागेका गण्डकी प्रदेश खेलकुद परिषद्का सदस्य सचिव श्रीधर शर्मा बर्खास्तमा परेका छन् । गण्डकी प्रदेश सरकारको बुधबार बसेको मन्त्रिपरिषद् बैठकले सदस्य सचिव शर्मालाई बर्खास्त गर्ने निर्णय गरेको हो । ३० असारमा वितरण गरिएको पदक विवादित भएपछि सामाजिक विकास, युवा तथा खेलकुद मन्त्री रेखा गुरुङले मन्त्रालयका […]"
+        }
+      ]
+    },
+    {
+      "id": "08bde7649f1ccdf0",
+      "title": "तिहार बिदामा निगमको डिपो खुला रहने",
+      "summary": "",
+      "publishedAt": "2026-11-06T17:28:05+00:00",
+      "updatedAt": "2026-11-06T17:28:05+00:00",
+      "sourceCount": 2,
+      "languageCount": 1,
+      "sources": [
+        "Baahrakhari",
+        "Online Khabar"
+      ],
+      "categories": [
+        "business",
+        "entertainment",
+        "politics",
+        "society",
+        "sports",
+        "technology"
+      ],
+      "items": [
+        {
+          "id": "7797e4ad458a0690",
+          "title": "तिहार बिदामा निगमको डिपो खुला रहने",
+          "link": "https://baahrakhari.com/detail/506816",
+          "source": "Baahrakhari",
+          "sourceUrl": "https://baahrakhari.com/feed",
+          "pubDate": "2026-11-06T17:28:05+00:00",
+          "categories": [
+            "politics",
+            "business",
+            "society"
+          ],
+          "image": "",
+          "images": [],
+          "description": ""
+        },
+        {
+          "id": "6b78bf4b8516c1d5",
+          "title": "तिहार बिदामा आयल निगमको डिपो खुला रहने",
+          "link": "https://www.onlinekhabar.com/2026/11/2052907/oil-corporation-depots-to-remain-open-during-tihar-holidays",
+          "source": "Online Khabar",
+          "sourceUrl": "https://www.onlinekhabar.com/feed",
+          "pubDate": "2026-11-06T12:31:03+00:00",
+          "categories": [
+            "politics",
+            "business",
+            "sports",
+            "technology",
+            "entertainment"
+          ],
+          "image": "",
+          "images": [],
+          "description": "२० कात्तिक, काठमाडौं । पेट्रोलियम पदार्थको आपूर्ति सहज बनाउन दीपावलीसहित सार्वजनिक बिदाका दिनमा पनि नेपाल आयल निगमको डिपो खुल्ला रहने भएको छ । उपभोक्ताको हितलाई ध्यानमा राखी स्थानीय आवश्यकताका आधारमा विराटनगर, अमलेखगन्ज, थानकोट, पोखरा, भैरहवा, सुर्खेत, धनगढी, नेपालगन्ज, दाङ, जनकपुर, चारआली, वीरगन्ज र दिपायलका डिपो तथा प्रादेशिक कार्यालय खुला रहने निगमका प्रवक्ता मनोजकुमार ठाकुरले जानकारी […]"
+        }
+      ]
+    },
+    {
+      "id": "68c42706e5e2acb0",
+      "title": "कप्तान फेरिए, टिम कम्बिनेसन बदलिए, पोखराको नतिजा फेरिएन",
+      "summary": "श्रीलंकन प्रशिक्षक अजन्था मेन्डिसको प्रशिक्षणमा रहेको पोखराले श्रीलंकाकै चमिकालाई कप्तान बनायो । श्रीलंकन कम्बिनेसनमा केही फरक नतिजाको आश राखेका पोखराका समर्थक निराश बने ।",
+      "publishedAt": "2026-11-06T17:25:06+00:00",
+      "updatedAt": "2026-11-06T17:25:06+00:00",
+      "sourceCount": 1,
+      "languageCount": 1,
+      "sources": [
+        "Online Khabar"
+      ],
+      "categories": [
+        "business",
+        "entertainment",
+        "politics",
+        "sports",
+        "technology"
+      ],
+      "items": [
+        {
+          "id": "d14c782eb444a854",
+          "title": "कप्तान फेरिए, टिम कम्बिनेसन बदलिए, पोखराको नतिजा फेरिएन",
+          "link": "https://www.onlinekhabar.com/2026/11/2053073/the-captain-changed-the-team-combination-changed-but-pokharas-result-did-not-change",
+          "source": "Online Khabar",
+          "sourceUrl": "https://www.onlinekhabar.com/feed",
+          "pubDate": "2026-11-06T17:25:06+00:00",
+          "categories": [
+            "politics",
+            "business",
+            "sports",
+            "technology",
+            "entertainment"
+          ],
+          "image": "",
+          "images": [],
+          "description": "श्रीलंकन प्रशिक्षक अजन्था मेन्डिसको प्रशिक्षणमा रहेको पोखराले श्रीलंकाकै चमिकालाई कप्तान बनायो । श्रीलंकन कम्बिनेसनमा केही फरक नतिजाको आश राखेका पोखराका समर्थक निराश बने ।"
+        }
+      ]
+    },
+    {
+      "id": "1e81c353b19b48df",
+      "title": "रैथाने व्यापार मेला सुरु",
+      "summary": "काठमाडौँ । काठमाडौँको धापासीमा तीनदिने ‘स्वर्णीम कृषि प्रदर्शनी तथा रैथाने व्यापार मेला’ सुरु भएको छ । रैथाने एग्री प्रडक्ट्स नेपाल र विश्व प्रकृति संरक्षण कोषको संयुक्त आयोजनामा तीनदिने ‘स्वर्णीम कृषि प्रदर्शनी तथा रैथाने व्यापार मेला’ सुरु",
+      "publishedAt": "2026-11-06T17:22:40+00:00",
+      "updatedAt": "2026-11-06T17:22:40+00:00",
+      "sourceCount": 1,
+      "languageCount": 1,
+      "sources": [
+        "Ratopati"
+      ],
+      "categories": [
+        "politics",
+        "sports"
+      ],
+      "items": [
+        {
+          "id": "6fd0682fdd2a7e96",
+          "title": "रैथाने व्यापार मेला सुरु",
+          "link": "https://www.ratopati.com/story/603850/local-trade-fair-begins",
+          "source": "Ratopati",
+          "sourceUrl": "https://ratopati.com/feed",
+          "pubDate": "2026-11-06T17:22:40+00:00",
+          "categories": [
+            "politics",
+            "sports"
+          ],
+          "image": "https://rpcdn.ratopati.com/archived-media/kathmandu-map.jpg",
+          "images": [
+            "https://rpcdn.ratopati.com/archived-media/kathmandu-map.jpg"
+          ],
+          "description": "काठमाडौँ । काठमाडौँको धापासीमा तीनदिने ‘स्वर्णीम कृषि प्रदर्शनी तथा रैथाने व्यापार मेला’ सुरु भएको छ । रैथाने एग्री प्रडक्ट्स नेपाल र विश्व प्रकृति संरक्षण कोषको संयुक्त आयोजनामा तीनदिने ‘स्वर्णीम कृषि प्रदर्शनी तथा रैथाने व्यापार मेला’ सुरु"
+        }
+      ]
+    },
+    {
+      "id": "c0d510c7256da705",
+      "title": "प्रहरीद्वारा ९ लाखभन्दा बढी रुपियाँको पटाका नष्ट",
+      "summary": "जानु पाण्डेकपिलवस्तु, कात्तिक २० गते । चाडपर्वलाई लक्षित गरी अवैध रूपमा भित्र्याइएका तथा बिक्रीका लागि भण्डारण गरिएका ९ लाख ३० हजार रुपियाँभन्दा बढी मूल्यको पटाका कपिलवस्तुमा बरामद...",
+      "publishedAt": "2026-11-06T17:22:29+00:00",
+      "updatedAt": "2026-11-06T17:22:29+00:00",
+      "sourceCount": 1,
+      "languageCount": 1,
+      "sources": [
+        "Gorkhapatra"
+      ],
+      "categories": [
+        "business",
+        "politics"
+      ],
+      "items": [
+        {
+          "id": "48eb744e0e8e85e7",
+          "title": "प्रहरीद्वारा ९ लाखभन्दा बढी रुपियाँको पटाका नष्ट",
+          "link": "https://gorkhapatraonline.com/news/228555",
+          "source": "Gorkhapatra",
+          "sourceUrl": "https://gorkhapatraonline.com/rss",
+          "pubDate": "2026-11-06T17:22:29+00:00",
+          "categories": [
+            "politics",
+            "business"
+          ],
+          "image": "https://gorkhapatraonline.com/storage/media/390778/conversions/pataka-pakrau-kapilvastu-original.jpg",
+          "images": [
+            "https://gorkhapatraonline.com/storage/media/390778/conversions/pataka-pakrau-kapilvastu-original.jpg"
+          ],
+          "description": "जानु पाण्डेकपिलवस्तु, कात्तिक २० गते । चाडपर्वलाई लक्षित गरी अवैध रूपमा भित्र्याइएका तथा बिक्रीका लागि भण्डारण गरिएका ९ लाख ३० हजार रुपियाँभन्दा बढी मूल्यको पटाका कपिलवस्तुमा बरामद..."
+        }
+      ]
+    },
+    {
+      "id": "7ef503f0284658ed",
+      "title": "न्यायाधीश नियुक्तिमा ‘करियर जज’लाई प्राथमिकता दिनुपर्छ : वर्षमान पुन",
+      "summary": "",
+      "publishedAt": "2026-11-06T17:12:40+00:00",
+      "updatedAt": "2026-11-06T17:12:40+00:00",
+      "sourceCount": 1,
+      "languageCount": 1,
+      "sources": [
+        "Baahrakhari"
+      ],
+      "categories": [
+        "business",
+        "politics",
+        "society"
+      ],
+      "items": [
+        {
+          "id": "fe7bcae2c577b49d",
+          "title": "न्यायाधीश नियुक्तिमा ‘करियर जज’लाई प्राथमिकता दिनुपर्छ : वर्षमान पुन",
+          "link": "https://baahrakhari.com/detail/506815",
+          "source": "Baahrakhari",
+          "sourceUrl": "https://baahrakhari.com/feed",
+          "pubDate": "2026-11-06T17:12:40+00:00",
+          "categories": [
+            "politics",
+            "business",
+            "society"
+          ],
+          "image": "",
+          "images": [],
+          "description": ""
+        }
+      ]
+    },
+    {
+      "id": "8210b1f131e86132",
+      "title": "विपद्पछिको पुनर्निर्माणका लागि ४ देखि ५ अर्ब डलर आवश्यक पर्ने देखिन्छ : अर्थमन्त्री [भिडियो]",
+      "summary": "",
+      "publishedAt": "2026-11-06T17:02:20+00:00",
+      "updatedAt": "2026-11-06T17:02:20+00:00",
+      "sourceCount": 2,
+      "languageCount": 1,
+      "sources": [
+        "Nepal Live",
+        "Nepal Samaya"
+      ],
+      "categories": [
+        "entertainment",
+        "politics",
+        "technology"
+      ],
+      "items": [
+        {
+          "id": "b9397e955da1763b",
+          "title": "विपद्पछिको पुनर्निर्माणका लागि ४ देखि ५ अर्ब डलर आवश्यक पर्ने देखिन्छ : अर्थमन्त्री [भिडियो]",
+          "link": "https://nepalsamaya.com/detail/147651",
+          "source": "Nepal Samaya",
+          "sourceUrl": "https://nepalsamaya.com/feed",
+          "pubDate": "2026-11-06T17:02:20+00:00",
+          "categories": [
+            "politics",
+            "entertainment"
+          ],
+          "image": "https://nepalsamaya.com/uploads/posts/photo-4_1bfa1628-1793949487.jpg",
+          "images": [
+            "https://nepalsamaya.com/uploads/posts/photo-4_1bfa1628-1793949487.jpg"
+          ],
+          "description": ""
+        },
+        {
+          "id": "bc9b28563a8aa72f",
+          "title": "विपद्पछिको पुनर्निर्माणका लागि ४ देखि ५ अर्ब डलर आवश्यक पर्ने देखिन्छ : अर्थमन्त्री",
+          "link": "https://nepallive.com/story/352715",
+          "source": "Nepal Live",
+          "sourceUrl": "https://nepallive.com/feed",
+          "pubDate": "2026-11-06T15:46:18+00:00",
+          "categories": [
+            "politics",
+            "technology"
+          ],
+          "image": "",
+          "images": [],
+          "description": "राष्ट्रिय योजना आयोगले घरघरमा पुगेर क्षतिको विस्तृत विवरण संकलन गरेको उल्लेख गर्दै उनले विपद्पछिको आवश्यकता मूल्यांकन (पीडीएनए) प्रतिवेदनले पनि प्रारम्भिक अनुमानलाई पुष्टि गर्ने अपेक्षा गरिएको बताए ।"
+        }
+      ]
+    },
+    {
+      "id": "dfaa0060dce611c9",
+      "title": "प्रधानमन्त्री दैवी प्रकोप उद्धार कोषमा १८ अर्ब ३९ करोड रुपैयाँ जम्मा [भिडियो]",
+      "summary": "",
+      "publishedAt": "2026-11-06T17:01:30+00:00",
+      "updatedAt": "2026-11-06T17:01:30+00:00",
+      "sourceCount": 2,
+      "languageCount": 2,
+      "sources": [
+        "Nepal Samaya",
+        "Nepal Views"
+      ],
+      "categories": [
+        "business",
+        "entertainment",
+        "politics",
+        "technology"
+      ],
+      "items": [
+        {
+          "id": "e5775ef08fc114c5",
+          "title": "प्रधानमन्त्री दैवी प्रकोप उद्धार कोषमा १८ अर्ब ३९ करोड रुपैयाँ जम्मा [भिडियो]",
+          "link": "https://nepalsamaya.com/detail/147650",
+          "source": "Nepal Samaya",
+          "sourceUrl": "https://nepalsamaya.com/feed",
+          "pubDate": "2026-11-06T17:01:30+00:00",
+          "categories": [
+            "politics",
+            "entertainment"
+          ],
+          "image": "https://nepalsamaya.com/uploads/posts/photo_73f2e0b7-1793958570.jpg",
+          "images": [
+            "https://nepalsamaya.com/uploads/posts/photo_73f2e0b7-1793958570.jpg"
+          ],
+          "description": ""
+        },
+        {
+          "id": "6aaefd77b5c2e313",
+          "title": "प्रधानमन्त्री दैवी प्रकोप उद्धार कोषमा १८ अर्ब ३९ करोड रुपैयाँ जम्मा",
+          "link": "https://www.nepalviews.com/story/427676/rs-1839-billion-deposited-in-prime-ministers-disaster-relief-fund",
+          "source": "Nepal Views",
+          "sourceUrl": "https://www.nepalviews.com/feed/",
+          "pubDate": "2026-11-06T09:54:31+00:00",
+          "categories": [
+            "politics",
+            "business",
+            "technology"
+          ],
+          "image": "https://nepalviews.cdnsolution.net/en/media/setting/banner_FHsSzcWYKk.jpg",
+          "images": [
+            "https://nepalviews.cdnsolution.net/en/media/setting/banner_FHsSzcWYKk.jpg"
+          ],
+          "description": ""
+        }
+      ]
+    },
     {
       "id": "e589b5eb08b923b6",
       "title": "सामाजिक सुरक्षा भत्तामा ३१ लाखभन्दा बढी अनियमितता गरेको आरोपमा पाँच जनाविरुद्ध भ्रष्टाचार मुद्दा",
@@ -149,96 +798,6 @@
       ]
     },
     {
-      "id": "5b845665d0134682",
-      "title": "विपद् पीडितको उद्धार, राहत र पुनर्निर्माणमा सरकार गम्भीर बन्नुपर्छ: गणेश पराजुली [भिडियो]",
-      "summary": "",
-      "publishedAt": "2026-11-06T16:56:02+00:00",
-      "updatedAt": "2026-11-06T16:56:02+00:00",
-      "sourceCount": 1,
-      "languageCount": 1,
-      "sources": [
-        "Nepal Samaya"
-      ],
-      "categories": [
-        "entertainment",
-        "politics"
-      ],
-      "items": [
-        {
-          "id": "ad2b61be374a4d92",
-          "title": "विपद् पीडितको उद्धार, राहत र पुनर्निर्माणमा सरकार गम्भीर बन्नुपर्छ: गणेश पराजुली [भिडियो]",
-          "link": "https://nepalsamaya.com/detail/147647",
-          "source": "Nepal Samaya",
-          "sourceUrl": "https://nepalsamaya.com/feed",
-          "pubDate": "2026-11-06T16:56:02+00:00",
-          "categories": [
-            "politics",
-            "entertainment"
-          ],
-          "image": "https://nepalsamaya.com/uploads/posts/Bishwa_21793793865-1793797604.jpg",
-          "images": [
-            "https://nepalsamaya.com/uploads/posts/Bishwa_21793793865-1793797604.jpg"
-          ],
-          "description": ""
-        }
-      ]
-    },
-    {
-      "id": "b8c747477d8050b6",
-      "title": "काठमाडौँ २४ घण्टा खुलाउने तयारी",
-      "summary": "काठमाडौँ। जिल्ला प्रशासन कार्यालय काठमाडौँले ठमेलमात्र नभई समग्र काठमाडौँलाई २४ घण्टा सञ्चालन गर्ने विषयमा अध्ययन गरिरहेको जनाएको छ। ठमेल पर्यटन विकास परिषद्ले शुक्रबार आयोजना गरेको शान्ति सुरक्षासम्बन्धी छलफल तथा अन्तक्र्रियामा प्रमुख जिल्ला अधिकारी ईश्वरीप्रसाद पौडेलले काठमाडौँलाई २४ घण्टा सञ्चालन गर्ने विषयमा प्रधानमन्त्री कार्यालय र गृह मन्त्रालयसँग छलफल भइरहेको बताए। उनले ठमेललाई पर्यटकीय केन्द्रका रूपमा विकास […]",
-      "publishedAt": "2026-11-06T16:54:20+00:00",
-      "updatedAt": "2026-11-06T16:54:20+00:00",
-      "sourceCount": 2,
-      "languageCount": 2,
-      "sources": [
-        "Nepal News",
-        "News of Nepal"
-      ],
-      "categories": [
-        "business",
-        "politics",
-        "sports",
-        "world"
-      ],
-      "items": [
-        {
-          "id": "0e21eaac06328e24",
-          "title": "काठमाडौँ २४ घण्टा खुलाउने तयारी",
-          "link": "https://nepalnews.com/2026/11/06/preparations-to-open-kathmandu-24-hours-a-day/",
-          "source": "Nepal News",
-          "sourceUrl": "https://nepalnews.com/feed",
-          "pubDate": "2026-11-06T16:54:20+00:00",
-          "categories": [
-            "politics",
-            "business",
-            "world"
-          ],
-          "image": "",
-          "images": [],
-          "description": "काठमाडौँ। जिल्ला प्रशासन कार्यालय काठमाडौँले ठमेलमात्र नभई समग्र काठमाडौँलाई २४ घण्टा सञ्चालन गर्ने विषयमा अध्ययन गरिरहेको जनाएको छ। ठमेल पर्यटन विकास परिषद्ले शुक्रबार आयोजना गरेको शान्ति सुरक्षासम्बन्धी छलफल तथा अन्तक्र्रियामा प्रमुख जिल्ला अधिकारी ईश्वरीप्रसाद पौडेलले काठमाडौँलाई २४ घण्टा सञ्चालन गर्ने विषयमा प्रधानमन्त्री कार्यालय र गृह मन्त्रालयसँग छलफल भइरहेको बताए। उनले ठमेललाई पर्यटकीय केन्द्रका रूपमा विकास […]"
-        },
-        {
-          "id": "c7ea17696b7e79fa",
-          "title": "ठमेलमात्र होइन काठमाडौँ नै २४ घण्टा खुलाउने तयारी",
-          "link": "https://newsofnepal.com/2026/11/06/793585/",
-          "source": "News of Nepal",
-          "sourceUrl": "https://newsofnepal.com/feed/",
-          "pubDate": "2026-11-06T16:41:56+00:00",
-          "categories": [
-            "politics",
-            "business",
-            "sports"
-          ],
-          "image": "https://newsofnepal.com/wp-content/uploads/2026/11/thamel2026-11-06-10-04-34-150x150.jpeg",
-          "images": [
-            "https://newsofnepal.com/wp-content/uploads/2026/11/thamel2026-11-06-10-04-34-150x150.jpeg"
-          ],
-          "description": "काठमाडौँ। जिल्ला प्रशासन कार्यालय काठमाडौँले ठमेलमात्र नभई समग्र काठमाडौँलाई २४ घण्टा सञ्चालन गर्ने विषयमा अध्ययन गरिरहेको जनाएको छ । ठमेल पर्यटन विकास परिषद्ले आज आयोजना गरेको शान्ति सुरक्षासम्बन्धी छलफल तथा अन्तक्र्रियामा प्रमुख जिल्ला अधिकारी ईश्वरीप्रसाद पौडेलले काठमाडौँलाई २४ घण्टा सञ्चालन गर्ने विषयमा प्रधानमन्त्री कार्यालय र गृह मन्त्रालयसँग छलफल भइरहेको बताए । उनले ठमेललाई पर्यटकीय केन्द्रका […]"
-        }
-      ]
-    },
-    {
       "id": "8b064461f2c29af7",
       "title": "काठमाडौंमा आठौँ अन्तर्राष्ट्रिय कृषि यान्त्रीकरण प्रदर्शनी हुँदै",
       "summary": "",
@@ -346,6 +905,43 @@
       ]
     },
     {
+      "id": "42ad979c1b045b88",
+      "title": "ठमेलमात्र होइन काठमाडौँ नै २४ घण्टा खुलाउने तयारी",
+      "summary": "काठमाडौँ। जिल्ला प्रशासन कार्यालय काठमाडौँले ठमेलमात्र नभई समग्र काठमाडौँलाई २४ घण्टा सञ्चालन गर्ने विषयमा अध्ययन गरिरहेको जनाएको छ । ठमेल पर्यटन विकास परिषद्ले आज आयोजना गरेको शान्ति सुरक्षासम्बन्धी छलफल तथा अन्तक्र्रियामा प्रमुख जिल्ला अधिकारी ईश्वरीप्रसाद पौडेलले काठमाडौँलाई २४ घण्टा सञ्चालन गर्ने विषयमा प्रधानमन्त्री कार्यालय र गृह मन्त्रालयसँग छलफल भइरहेको बताए । उनले ठमेललाई पर्यटकीय केन्द्रका […]",
+      "publishedAt": "2026-11-06T16:41:56+00:00",
+      "updatedAt": "2026-11-06T16:41:56+00:00",
+      "sourceCount": 1,
+      "languageCount": 1,
+      "sources": [
+        "News of Nepal"
+      ],
+      "categories": [
+        "business",
+        "politics",
+        "sports"
+      ],
+      "items": [
+        {
+          "id": "c7ea17696b7e79fa",
+          "title": "ठमेलमात्र होइन काठमाडौँ नै २४ घण्टा खुलाउने तयारी",
+          "link": "https://newsofnepal.com/2026/11/06/793585/",
+          "source": "News of Nepal",
+          "sourceUrl": "https://newsofnepal.com/feed/",
+          "pubDate": "2026-11-06T16:41:56+00:00",
+          "categories": [
+            "politics",
+            "business",
+            "sports"
+          ],
+          "image": "https://newsofnepal.com/wp-content/uploads/2026/11/thamel2026-11-06-10-04-34-150x150.jpeg",
+          "images": [
+            "https://newsofnepal.com/wp-content/uploads/2026/11/thamel2026-11-06-10-04-34-150x150.jpeg"
+          ],
+          "description": "काठमाडौँ। जिल्ला प्रशासन कार्यालय काठमाडौँले ठमेलमात्र नभई समग्र काठमाडौँलाई २४ घण्टा सञ्चालन गर्ने विषयमा अध्ययन गरिरहेको जनाएको छ । ठमेल पर्यटन विकास परिषद्ले आज आयोजना गरेको शान्ति सुरक्षासम्बन्धी छलफल तथा अन्तक्र्रियामा प्रमुख जिल्ला अधिकारी ईश्वरीप्रसाद पौडेलले काठमाडौँलाई २४ घण्टा सञ्चालन गर्ने विषयमा प्रधानमन्त्री कार्यालय र गृह मन्त्रालयसँग छलफल भइरहेको बताए । उनले ठमेललाई पर्यटकीय केन्द्रका […]"
+        }
+      ]
+    },
+    {
       "id": "f9808f23f998251f",
       "title": "यमनमा साउदी अरब गठबन्धनको आक्रमण, २० जनाको मृत्यु",
       "summary": "यमन । यमनमा साउदी अरब गठबन्धनको आक्रमणबाट २० जनाको मृत्यु भएको छ । हुथी विद्रोहीहरूले शुक्रबार ताइज प्रान्तको तरकारी बजारमा साउदी आक्रमणबाट २० जनाको मृत्यु भएको दाबी गरेका हुन् । यमनी स्थानीय अधिकारीहरूले भने आक्रमणमा इरान",
@@ -412,41 +1008,6 @@
             "https://rpcdn.ratopati.com/media/albums/urea-mal_ETxzwSAXcY.jpg"
           ],
           "description": "काठमाडौँ । बागमती प्रदेशमा हिउँदे बाली लगाउने किसान तथा बाढी प्रभावित क्षेत्रका कृषकलाई लक्षित गरी १ हजार ५०० मेट्रिक टन रासायनिक मल उपलब्ध गराइने भएको छ। रासायनिक मल आपूर्ति तथा वितरण व्यवस्थापन समितिको मिति बिहीबार(कात्तिक १९)"
-        }
-      ]
-    },
-    {
-      "id": "38b2244fcb8ed416",
-      "title": "अदालतलगायत राज्यका संस्थालाई कमजोर बनाउने गतिविधि रोकौँ : रवि लामिछाने",
-      "summary": "",
-      "publishedAt": "2026-11-06T16:27:50+00:00",
-      "updatedAt": "2026-11-06T16:27:50+00:00",
-      "sourceCount": 1,
-      "languageCount": 1,
-      "sources": [
-        "Baahrakhari"
-      ],
-      "categories": [
-        "business",
-        "politics",
-        "society"
-      ],
-      "items": [
-        {
-          "id": "ab29c3c82f6856a3",
-          "title": "अदालतलगायत राज्यका संस्थालाई कमजोर बनाउने गतिविधि रोकौँ : रवि लामिछाने",
-          "link": "https://baahrakhari.com/detail/506813",
-          "source": "Baahrakhari",
-          "sourceUrl": "https://baahrakhari.com/feed",
-          "pubDate": "2026-11-06T16:27:50+00:00",
-          "categories": [
-            "politics",
-            "business",
-            "society"
-          ],
-          "image": "",
-          "images": [],
-          "description": ""
         }
       ]
     },
@@ -644,41 +1205,6 @@
           "image": "",
           "images": [],
           "description": "संघका अध्यक्ष डा. बद्री रिजाल र महासचिव डा. विश्वराज दवाडीले जारी गरेको विज्ञप्तिमा डा. केसीको स्वास्थ्यमा जटिल समस्या उत्पन्न भएको हुँदा उनको जीवन रक्षाका लागि वार्ता टोली गठन गरी जायज माग सम्बोधन गर्न संघले सरकारसँग माग गर्दै आएको उल्लेख छ ।"
-        }
-      ]
-    },
-    {
-      "id": "ed182c86e9d455fa",
-      "title": "कर्णालीमा स्याउ विकास बोर्ड गठनको तयारी, विधेयक प्रदेशसभामा लगिने",
-      "summary": "",
-      "publishedAt": "2026-11-06T16:12:00+00:00",
-      "updatedAt": "2026-11-06T16:12:00+00:00",
-      "sourceCount": 1,
-      "languageCount": 1,
-      "sources": [
-        "Baahrakhari"
-      ],
-      "categories": [
-        "business",
-        "politics",
-        "society"
-      ],
-      "items": [
-        {
-          "id": "d4ba2441e61283ce",
-          "title": "कर्णालीमा स्याउ विकास बोर्ड गठनको तयारी, विधेयक प्रदेशसभामा लगिने",
-          "link": "https://baahrakhari.com/detail/506812",
-          "source": "Baahrakhari",
-          "sourceUrl": "https://baahrakhari.com/feed",
-          "pubDate": "2026-11-06T16:12:00+00:00",
-          "categories": [
-            "politics",
-            "business",
-            "society"
-          ],
-          "image": "",
-          "images": [],
-          "description": ""
         }
       ]
     },
@@ -1074,61 +1600,6 @@
       ]
     },
     {
-      "id": "0614e7ca0e158aa2",
-      "title": "सरकारलाई सचेत बनाउनु मेरो जिम्मेवारी, पार्टीभित्रको अराजकता सहन्नँ : रवि लामिछाने",
-      "summary": "राष्ट्रिय स्वतन्त्र पार्टी (रास्वपा) का सभापति रवि लामिछानेले आफ्नो पार्टी सरकार सञ्चालनमा वाधक नबन्ने तर देशमा विधिको शासन स्थापना गर्न र बेथिति अन्त्य गर्न निरन्तर सचेत रहने बताएका छन् ।",
-      "publishedAt": "2026-11-06T15:53:51+00:00",
-      "updatedAt": "2026-11-06T15:53:51+00:00",
-      "sourceCount": 2,
-      "languageCount": 1,
-      "sources": [
-        "Baahrakhari",
-        "News of Nepal"
-      ],
-      "categories": [
-        "business",
-        "politics",
-        "society",
-        "sports"
-      ],
-      "items": [
-        {
-          "id": "1e88c166cdd82b5c",
-          "title": "सरकारलाई सचेत बनाउनु मेरो जिम्मेवारी, पार्टीभित्रको अराजकता सहन्नँ : रवि लामिछाने",
-          "link": "https://baahrakhari.com/detail/506811",
-          "source": "Baahrakhari",
-          "sourceUrl": "https://baahrakhari.com/feed",
-          "pubDate": "2026-11-06T15:53:51+00:00",
-          "categories": [
-            "politics",
-            "business",
-            "society"
-          ],
-          "image": "",
-          "images": [],
-          "description": "राष्ट्रिय स्वतन्त्र पार्टी (रास्वपा) का सभापति रवि लामिछानेले आफ्नो पार्टी सरकार सञ्चालनमा वाधक नबन्ने तर देशमा विधिको शासन स्थापना गर्न र बेथिति अन्त्य गर्न निरन्तर सचेत रहने बताएका छन् ।"
-        },
-        {
-          "id": "e6e6618722ebd449",
-          "title": "सरकारलाई सचेत गराउनु मेरो जिम्मेवारी हो, पार्टीभित्रको बेथिति र अराजकता सहन्नँ : रवि लामिछाने",
-          "link": "https://newsofnepal.com/2026/11/06/793569/",
-          "source": "News of Nepal",
-          "sourceUrl": "https://newsofnepal.com/feed/",
-          "pubDate": "2026-11-06T13:21:46+00:00",
-          "categories": [
-            "politics",
-            "business",
-            "sports"
-          ],
-          "image": "https://newsofnepal.com/wp-content/uploads/2026/11/rabi-lamichhane-150x150.jpg",
-          "images": [
-            "https://newsofnepal.com/wp-content/uploads/2026/11/rabi-lamichhane-150x150.jpg"
-          ],
-          "description": "काठमाडौं। राष्ट्रिय स्वतन्त्र पार्टी (रास्वपा) का सभापति रवि लामिछानेले सरकारलाई सही दिशामा अघि बढ्न सचेत गराउनु आफ्नो जिम्मेवारी भएको बताएका छन्। उनले पार्टीभित्र कुनै पनि प्रकारको बेथिति, अराजकता र आर्थिक शक्तिको प्रभाव स्वीकार्य नहुने स्पष्ट पारेका छन्। चितवनमा आयोजित एक कार्यक्रमलाई सम्बोधन गर्दै लामिछानेले पार्टी संगठन र सरकारबीच कुनै द्वन्द्व नरहेको बताए। सरकारलाई नागरिकको सेवामा […]"
-        }
-      ]
-    },
-    {
       "id": "f5d4a068383e0158",
       "title": "OPMCM makes public its weekly activities and progress report",
       "summary": "KATHMANDU: The Office of the Prime Minister and Council of Ministers (OPMCM) has made public a report detailing its activities and progress over the past week, highlighting government initiatives in security management, policy development, public service delivery and investment promotion. At a press conference organised on Friday, OPMCM Joint Secretary and Spokesperson Hemraj Aryal briefed […]",
@@ -1344,39 +1815,6 @@
           "image": "",
           "images": [],
           "description": "KATHMANDU: Chitwan Rhinos registered their second victory in the Nepal Premier League (NPL), defeating Pokhara Avengers by 30 runs in a match dominated by an impressive bowling performance at the Tribhuvan University International Cricket Ground in Kirtipur on Friday. Chasing a target of 152 runs, Pokhara were bowled out for 121 in 19 overs, suffering […]"
-        }
-      ]
-    },
-    {
-      "id": "455d3f3c2c4a29b1",
-      "title": "विपद्पछिको पुनर्निर्माणका लागि ४ देखि ५ अर्ब डलर आवश्यक पर्ने देखिन्छ : अर्थमन्त्री",
-      "summary": "राष्ट्रिय योजना आयोगले घरघरमा पुगेर क्षतिको विस्तृत विवरण संकलन गरेको उल्लेख गर्दै उनले विपद्पछिको आवश्यकता मूल्यांकन (पीडीएनए) प्रतिवेदनले पनि प्रारम्भिक अनुमानलाई पुष्टि गर्ने अपेक्षा गरिएको बताए ।",
-      "publishedAt": "2026-11-06T15:46:18+00:00",
-      "updatedAt": "2026-11-06T15:46:18+00:00",
-      "sourceCount": 1,
-      "languageCount": 1,
-      "sources": [
-        "Nepal Live"
-      ],
-      "categories": [
-        "politics",
-        "technology"
-      ],
-      "items": [
-        {
-          "id": "bc9b28563a8aa72f",
-          "title": "विपद्पछिको पुनर्निर्माणका लागि ४ देखि ५ अर्ब डलर आवश्यक पर्ने देखिन्छ : अर्थमन्त्री",
-          "link": "https://nepallive.com/story/352715",
-          "source": "Nepal Live",
-          "sourceUrl": "https://nepallive.com/feed",
-          "pubDate": "2026-11-06T15:46:18+00:00",
-          "categories": [
-            "politics",
-            "technology"
-          ],
-          "image": "",
-          "images": [],
-          "description": "राष्ट्रिय योजना आयोगले घरघरमा पुगेर क्षतिको विस्तृत विवरण संकलन गरेको उल्लेख गर्दै उनले विपद्पछिको आवश्यकता मूल्यांकन (पीडीएनए) प्रतिवेदनले पनि प्रारम्भिक अनुमानलाई पुष्टि गर्ने अपेक्षा गरिएको बताए ।"
         }
       ]
     },
@@ -1837,41 +2275,6 @@
       ]
     },
     {
-      "id": "ff94630d228889b3",
-      "title": "गरिमा विकास बैंकको वार्षिकोत्सवमा ‘गरिमा रोड रेस २०८३’ आयोजना हुने",
-      "summary": "",
-      "publishedAt": "2026-11-06T15:38:56+00:00",
-      "updatedAt": "2026-11-06T15:38:56+00:00",
-      "sourceCount": 1,
-      "languageCount": 1,
-      "sources": [
-        "Baahrakhari"
-      ],
-      "categories": [
-        "business",
-        "politics",
-        "society"
-      ],
-      "items": [
-        {
-          "id": "b41d94057daa4030",
-          "title": "गरिमा विकास बैंकको वार्षिकोत्सवमा ‘गरिमा रोड रेस २०८३’ आयोजना हुने",
-          "link": "https://baahrakhari.com/detail/506810",
-          "source": "Baahrakhari",
-          "sourceUrl": "https://baahrakhari.com/feed",
-          "pubDate": "2026-11-06T15:38:56+00:00",
-          "categories": [
-            "politics",
-            "business",
-            "society"
-          ],
-          "image": "",
-          "images": [],
-          "description": ""
-        }
-      ]
-    },
-    {
       "id": "63a615adc31a72c1",
       "title": "‘कोप–३१ मा २ अर्ब मान्छेलाई पानी खुवाइरहेको हिमालको मुद्दा उठाउँछौं’",
       "summary": "हिमालले नेपाललाई मात्र पालिराखेको छैन, हामीभन्दा तल्लो तटीय क्षेत्रका करिब २ अर्ब मानिसलाई पानी खुवाइराखेको छ। विश्वमा समुद्री सतह बढ्दा जति आवाज उठ्छ, हिमालका लागि त्यति आवाज गुञ्जिएको छैन।",
@@ -2203,91 +2606,6 @@
       ]
     },
     {
-      "id": "b3ad25490bfbca16",
-      "title": "एनपीएलः पोखराको लगातार चौथो हार,प्लेअफको सम्भावना न्यून",
-      "summary": "",
-      "publishedAt": "2026-11-06T15:28:59+00:00",
-      "updatedAt": "2026-11-06T15:28:59+00:00",
-      "sourceCount": 2,
-      "languageCount": 1,
-      "sources": [
-        "Nepal Live",
-        "Nepal Samaya"
-      ],
-      "categories": [
-        "entertainment",
-        "politics",
-        "technology"
-      ],
-      "items": [
-        {
-          "id": "c7d23c5b4fe4f67f",
-          "title": "एनपीएलः पोखराको लगातार चौथो हार,प्लेअफको सम्भावना न्यून",
-          "link": "https://nepalsamaya.com/detail/147646",
-          "source": "Nepal Samaya",
-          "sourceUrl": "https://nepalsamaya.com/feed",
-          "pubDate": "2026-11-06T15:28:59+00:00",
-          "categories": [
-            "politics",
-            "entertainment"
-          ],
-          "image": "https://nepalsamaya.com/uploads/posts/photo_b7a788bb-1793978929.jpg",
-          "images": [
-            "https://nepalsamaya.com/uploads/posts/photo_b7a788bb-1793978929.jpg"
-          ],
-          "description": ""
-        },
-        {
-          "id": "9a32c010da25207a",
-          "title": "पोखराको लगातार चौथो हार,प्लेअफको सम्भावना न्यून",
-          "link": "https://nepallive.com/story/352712",
-          "source": "Nepal Live",
-          "sourceUrl": "https://nepallive.com/feed",
-          "pubDate": "2026-11-06T15:12:30+00:00",
-          "categories": [
-            "politics",
-            "technology"
-          ],
-          "image": "",
-          "images": [],
-          "description": "आजको पहिलो खेलमा सुदूरपश्चिम रोयल्सले कर्णाली याक्सलाई ३९ रनले हरायो।"
-        }
-      ]
-    },
-    {
-      "id": "9e93b144df936001",
-      "title": "प्रस्तावित सर्वोच्च अदालतका न्यायाधीशविरुद्धका उजुरी, संसदीय सुनुवाइ समितिमा छलफल",
-      "summary": "मितिको बैठकमा सर्वोच्च अदालतका प्रस्तावित न्यायाधीशद्वय डा. रत्नबहादुर बागचन्द र चन्द्रबहादुर सारूलाई आमन्त्रण गरी उजुरीकर्तासँग छलफल गरिएको हो ।",
-      "publishedAt": "2026-11-06T15:25:25+00:00",
-      "updatedAt": "2026-11-06T15:25:25+00:00",
-      "sourceCount": 1,
-      "languageCount": 1,
-      "sources": [
-        "Nepal Live"
-      ],
-      "categories": [
-        "politics",
-        "technology"
-      ],
-      "items": [
-        {
-          "id": "60af197137fa9c10",
-          "title": "प्रस्तावित सर्वोच्च अदालतका न्यायाधीशविरुद्धका उजुरी, संसदीय सुनुवाइ समितिमा छलफल",
-          "link": "https://nepallive.com/story/352714",
-          "source": "Nepal Live",
-          "sourceUrl": "https://nepallive.com/feed",
-          "pubDate": "2026-11-06T15:25:25+00:00",
-          "categories": [
-            "politics",
-            "technology"
-          ],
-          "image": "",
-          "images": [],
-          "description": "मितिको बैठकमा सर्वोच्च अदालतका प्रस्तावित न्यायाधीशद्वय डा. रत्नबहादुर बागचन्द र चन्द्रबहादुर सारूलाई आमन्त्रण गरी उजुरीकर्तासँग छलफल गरिएको हो ।"
-        }
-      ]
-    },
-    {
       "id": "5d10f9f859dab009",
       "title": "कर्णालीका खराब सूचक सुधारमा ध्यान दिन मुख्यमन्त्री शाहीको सुझाव",
       "summary": "",
@@ -2397,6 +2715,39 @@
           "image": "",
           "images": [],
           "description": "कोशी प्रदेश सरकारका मुख्यमन्त्री हिक्मतकुमार कार्कीले जिल्ला अस्पताल सङ्खुवासभालाई एक सय शय्यामा स्तरोन्नति गर्ने बताएका छन् ।"
+        }
+      ]
+    },
+    {
+      "id": "3cd08eef87fb49f4",
+      "title": "पोखराको लगातार चौथो हार,प्लेअफको सम्भावना न्यून",
+      "summary": "आजको पहिलो खेलमा सुदूरपश्चिम रोयल्सले कर्णाली याक्सलाई ३९ रनले हरायो।",
+      "publishedAt": "2026-11-06T15:12:30+00:00",
+      "updatedAt": "2026-11-06T15:12:30+00:00",
+      "sourceCount": 1,
+      "languageCount": 1,
+      "sources": [
+        "Nepal Live"
+      ],
+      "categories": [
+        "politics",
+        "technology"
+      ],
+      "items": [
+        {
+          "id": "9a32c010da25207a",
+          "title": "पोखराको लगातार चौथो हार,प्लेअफको सम्भावना न्यून",
+          "link": "https://nepallive.com/story/352712",
+          "source": "Nepal Live",
+          "sourceUrl": "https://nepallive.com/feed",
+          "pubDate": "2026-11-06T15:12:30+00:00",
+          "categories": [
+            "politics",
+            "technology"
+          ],
+          "image": "",
+          "images": [],
+          "description": "आजको पहिलो खेलमा सुदूरपश्चिम रोयल्सले कर्णाली याक्सलाई ३९ रनले हरायो।"
         }
       ]
     },
@@ -3094,43 +3445,6 @@
       ]
     },
     {
-      "id": "d3ccf5b7e363332c",
-      "title": "पोखरा ११ बन्यो नागार्जुन भेट्रान्स फुटबलको च्याम्पियन",
-      "summary": "काठमाडौं । पोखरा ११ ले तेस्रो नागार्जुन भेट्रान्स फुटबल प्रतियोगिताको उपाधि जितेको छ । शुक्रबार मध्यपुर थिमि मैदानमा भएको फाइनलमा विभागीय टोली त्रिभुवन आर्मी फुटबल क्लबलाई ४–० ले पराजित गर्दै पोखरा च्याम्पियन बनेको हो । पोखराको जितमा डेनिम राई, सुवीनकुमार श्रेष्ठ र सुरेन्द्र तामाङले पहिलो हाफमा गोल गरे । दोस्रो हाफमा गंगा बहादुर तामाङले थप […]",
-      "publishedAt": "2026-11-06T14:35:33+00:00",
-      "updatedAt": "2026-11-06T14:35:33+00:00",
-      "sourceCount": 1,
-      "languageCount": 1,
-      "sources": [
-        "News of Nepal"
-      ],
-      "categories": [
-        "business",
-        "politics",
-        "sports"
-      ],
-      "items": [
-        {
-          "id": "1461eead89944f15",
-          "title": "पोखरा ११ बन्यो नागार्जुन भेट्रान्स फुटबलको च्याम्पियन",
-          "link": "https://newsofnepal.com/2026/11/06/793572/",
-          "source": "News of Nepal",
-          "sourceUrl": "https://newsofnepal.com/feed/",
-          "pubDate": "2026-11-06T14:35:33+00:00",
-          "categories": [
-            "politics",
-            "business",
-            "sports"
-          ],
-          "image": "https://newsofnepal.com/wp-content/uploads/2026/11/883199207_1869152997865661_20883289712865092_n-150x150.jpg",
-          "images": [
-            "https://newsofnepal.com/wp-content/uploads/2026/11/883199207_1869152997865661_20883289712865092_n-150x150.jpg"
-          ],
-          "description": "काठमाडौं । पोखरा ११ ले तेस्रो नागार्जुन भेट्रान्स फुटबल प्रतियोगिताको उपाधि जितेको छ । शुक्रबार मध्यपुर थिमि मैदानमा भएको फाइनलमा विभागीय टोली त्रिभुवन आर्मी फुटबल क्लबलाई ४–० ले पराजित गर्दै पोखरा च्याम्पियन बनेको हो । पोखराको जितमा डेनिम राई, सुवीनकुमार श्रेष्ठ र सुरेन्द्र तामाङले पहिलो हाफमा गोल गरे । दोस्रो हाफमा गंगा बहादुर तामाङले थप […]"
-        }
-      ]
-    },
-    {
       "id": "dc80e04e11c2d601",
       "title": "दूरसञ्चार सङ्घको महासम्मेलनमा सहभागी हुन सञ्चारमन्त्री तिमिल्सिना कतार जाँदै",
       "summary": "काठमाडौँ । सूचना तथा सञ्चारमन्त्री डा विक्रम तिमिल्सिना अन्तरराष्ट्रिय दूरसञ्चार सङ्घ (आइटियू) को महासम्मेलनमा सहभागी हुन नेपाली प्रतिनिधिमण्डलको नेतृत्व गर्दै कतारको दोहा जाने भएका छन् । मन्त्री तिमिल्सिना आगामी नोभेम्बर ७ देखि १३ सम्म दोहामा आयोजना",
@@ -3181,111 +3495,6 @@
             "https://gorkhapatraonline.com/storage/media/390768/conversions/Dr.-Bikram-Timilsina-original.jpg"
           ],
           "description": "गोरखापत्र अनलाइनकाठमाडौं, कात्तिक २० गते । सूचना तथा सञ्चारमन्त्री डा. विक्रम तिमिल्सिना अन्तर्राष्ट्रिय दूरसञ्चार संघको महासम्मेलनमा सहभागी हुन कतारको दोहा जानुहुने भएको छ। नोभेम्..."
-        }
-      ]
-    },
-    {
-      "id": "d488e8f55e551a17",
-      "title": "कोप–३१ मा नेपालले जलवायु न्याय र पर्वतीय मुद्दालाई सशक्त रूपमा उठाउने",
-      "summary": "काठमाडौँ । नेपालले संयुक्त राष्ट्रसङ्घीय जलवायु परिवर्तनसम्बन्धी प्रारूप महासन्धिको ३१औँ सम्मेलन (कोप–३१) मा जलवायु न्याय, पर्वतीय क्षेत्रको संरक्षण तथा जलवायुजन्य विपद्का विषयलाई सशक्त रूपमा उठाउने तयारी गरेको छ । आगामी नोभेम्बर ९ देखि २० तारिख (कात्तिक",
-      "publishedAt": "2026-11-06T14:33:16+00:00",
-      "updatedAt": "2026-11-06T14:33:16+00:00",
-      "sourceCount": 1,
-      "languageCount": 1,
-      "sources": [
-        "Ratopati"
-      ],
-      "categories": [
-        "politics",
-        "sports"
-      ],
-      "items": [
-        {
-          "id": "9409528f196ed32e",
-          "title": "कोप–३१ मा नेपालले जलवायु न्याय र पर्वतीय मुद्दालाई सशक्त रूपमा उठाउने",
-          "link": "https://www.ratopati.com/story/603824/nepal-to-strongly-raise-climate-justice-and-mountain-issues-at-cop31",
-          "source": "Ratopati",
-          "sourceUrl": "https://ratopati.com/feed",
-          "pubDate": "2026-11-06T14:33:16+00:00",
-          "categories": [
-            "politics",
-            "sports"
-          ],
-          "image": "https://npcdn.ratopati.com/media/news/cope-31_wuW353EtE9.webp",
-          "images": [
-            "https://npcdn.ratopati.com/media/news/cope-31_wuW353EtE9.webp"
-          ],
-          "description": "काठमाडौँ । नेपालले संयुक्त राष्ट्रसङ्घीय जलवायु परिवर्तनसम्बन्धी प्रारूप महासन्धिको ३१औँ सम्मेलन (कोप–३१) मा जलवायु न्याय, पर्वतीय क्षेत्रको संरक्षण तथा जलवायुजन्य विपद्का विषयलाई सशक्त रूपमा उठाउने तयारी गरेको छ । आगामी नोभेम्बर ९ देखि २० तारिख (कात्तिक"
-        }
-      ]
-    },
-    {
-      "id": "102fb86e9d99f612",
-      "title": "जेनजी आन्दोलनका घाइते सन्तोषको घरमै पुगिन् मन्त्री सीता बादी",
-      "summary": "सुर्खेत। सङ्घीय सरकारकी महिला, बालबालिका, लैङ्गिक तथा यौनिक अल्पसङ्ख्यक र सामाजिक सुरक्षामन्त्री सीता बादीले जेनजी आन्दोलनका क्रममा घाइते सन्तोष बोहोराको घरमै पुगेर भेटेकी छिन् । शुक्रबार वीरेन्द्रनगर आएकी मन्त्री बादी बोहोराको वीरेन्द्रनगर नगरपालिका–२, भूरेली स्थित निवासमै",
-      "publishedAt": "2026-11-06T14:33:02+00:00",
-      "updatedAt": "2026-11-06T14:33:02+00:00",
-      "sourceCount": 1,
-      "languageCount": 1,
-      "sources": [
-        "Ratopati"
-      ],
-      "categories": [
-        "politics",
-        "sports"
-      ],
-      "items": [
-        {
-          "id": "a03e5361142ef9c3",
-          "title": "जेनजी आन्दोलनका घाइते सन्तोषको घरमै पुगिन् मन्त्री सीता बादी",
-          "link": "https://www.ratopati.com/story/603823/minister-sita-badi-visits-the-home-of-santosh-who-was-injured-in-the-genji-movement",
-          "source": "Ratopati",
-          "sourceUrl": "https://ratopati.com/feed",
-          "pubDate": "2026-11-06T14:33:02+00:00",
-          "categories": [
-            "politics",
-            "sports"
-          ],
-          "image": "https://npcdn.ratopati.com/media/news/sita_vn4y7o4nu5.webp",
-          "images": [
-            "https://npcdn.ratopati.com/media/news/sita_vn4y7o4nu5.webp"
-          ],
-          "description": "सुर्खेत। सङ्घीय सरकारकी महिला, बालबालिका, लैङ्गिक तथा यौनिक अल्पसङ्ख्यक र सामाजिक सुरक्षामन्त्री सीता बादीले जेनजी आन्दोलनका क्रममा घाइते सन्तोष बोहोराको घरमै पुगेर भेटेकी छिन् । शुक्रबार वीरेन्द्रनगर आएकी मन्त्री बादी बोहोराको वीरेन्द्रनगर नगरपालिका–२, भूरेली स्थित निवासमै"
-        }
-      ]
-    },
-    {
-      "id": "990ed3fa4537b9d6",
-      "title": "काठमाडौँ २४सै घण्टा खुलाउने छलफलमा प्रशासन",
-      "summary": "काठमाडौँ । जिल्ला प्रशासन कार्यालय काठमाडौँले ठमेलमात्र नभई समग्र काठमाडौँलाई २४ सै घण्टा सञ्चालन गर्ने विषयमा अध्ययन गरिरहेको जनाएको छ । ठमेल पर्यटन विकास परिषद्ले आज आयोजना गरेको शान्ति सुरक्षासम्बन्धी छलफल तथा अन्तक्र्रियामा प्रमुख जिल्ला अधिकारी",
-      "publishedAt": "2026-11-06T14:31:25+00:00",
-      "updatedAt": "2026-11-06T14:31:25+00:00",
-      "sourceCount": 1,
-      "languageCount": 1,
-      "sources": [
-        "Ratopati"
-      ],
-      "categories": [
-        "politics",
-        "sports"
-      ],
-      "items": [
-        {
-          "id": "d30a05a8e6c01ece",
-          "title": "काठमाडौँ २४सै घण्टा खुलाउने छलफलमा प्रशासन",
-          "link": "https://www.ratopati.com/story/603822/administration-in-discussions-to-open-kathmandu-24-hours-a-day",
-          "source": "Ratopati",
-          "sourceUrl": "https://ratopati.com/feed",
-          "pubDate": "2026-11-06T14:31:25+00:00",
-          "categories": [
-            "politics",
-            "sports"
-          ],
-          "image": "https://rpcdn.ratopati.com/media/albums/kathmandu_weather_clear_2_JEYmZUATLu.jpg",
-          "images": [
-            "https://rpcdn.ratopati.com/media/albums/kathmandu_weather_clear_2_JEYmZUATLu.jpg"
-          ],
-          "description": "काठमाडौँ । जिल्ला प्रशासन कार्यालय काठमाडौँले ठमेलमात्र नभई समग्र काठमाडौँलाई २४ सै घण्टा सञ्चालन गर्ने विषयमा अध्ययन गरिरहेको जनाएको छ । ठमेल पर्यटन विकास परिषद्ले आज आयोजना गरेको शान्ति सुरक्षासम्बन्धी छलफल तथा अन्तक्र्रियामा प्रमुख जिल्ला अधिकारी"
         }
       ]
     },
@@ -3364,41 +3573,6 @@
           "image": "",
           "images": [],
           "description": "पदावधि कायम रहेकै अवस्थामा आफूलाई विचमा हटाउन नमिल्ने भन्दै उनले ‘जुन कुरा प्रत्यक्ष गर्न नमिल्ने हो, सरकारले परोक्ष रुपमा त्यो काम गरेको’ आरोप लगाएका छन् ।"
-        }
-      ]
-    },
-    {
-      "id": "330ca20583aca5e6",
-      "title": "रविका दुई सन्देश : वालेन्द्रसँग मतभेद छैन, कानुन र संविधानभन्दा माथि सरकार हुँदैन",
-      "summary": "काठमाडौँ। सरकारले प्रहरी महानिरीक्षक (आईजीपी) फेरबदल र सञ्चारगृहमा पत्रकारमाथि गरेको धरपकडको विषयमा सत्तारूढ दल राष्ट्रिय स्वतन्त्र पार्टी (रास्वपा) ले आफ्नो धारणा सार्वजनिक गरेको छ । बिचौलिया इमन सापकोटासँग सर्वोच्च अदालतका न्यायाधीशहरूको ‘नेक्सस’ र विभिन्न सञ्चारगृहमा पुगेर",
-      "publishedAt": "2026-11-06T14:30:00+00:00",
-      "updatedAt": "2026-11-06T14:30:00+00:00",
-      "sourceCount": 1,
-      "languageCount": 1,
-      "sources": [
-        "Ratopati"
-      ],
-      "categories": [
-        "politics",
-        "sports"
-      ],
-      "items": [
-        {
-          "id": "b8bd5ddf2f57780b",
-          "title": "रविका दुई सन्देश : वालेन्द्रसँग मतभेद छैन, कानुन र संविधानभन्दा माथि सरकार हुँदैन",
-          "link": "https://www.ratopati.com/story/603775/two-messages-from-ravi-no-differences-with-walendra-no-government-above-the-law-and-the-constitution",
-          "source": "Ratopati",
-          "sourceUrl": "https://ratopati.com/feed",
-          "pubDate": "2026-11-06T14:30:00+00:00",
-          "categories": [
-            "politics",
-            "sports"
-          ],
-          "image": "https://npcdn.ratopati.com/media/news/rabi-balen_zXu2fIIJsc.jpg",
-          "images": [
-            "https://npcdn.ratopati.com/media/news/rabi-balen_zXu2fIIJsc.jpg"
-          ],
-          "description": "काठमाडौँ। सरकारले प्रहरी महानिरीक्षक (आईजीपी) फेरबदल र सञ्चारगृहमा पत्रकारमाथि गरेको धरपकडको विषयमा सत्तारूढ दल राष्ट्रिय स्वतन्त्र पार्टी (रास्वपा) ले आफ्नो धारणा सार्वजनिक गरेको छ । बिचौलिया इमन सापकोटासँग सर्वोच्च अदालतका न्यायाधीशहरूको ‘नेक्सस’ र विभिन्न सञ्चारगृहमा पुगेर"
         }
       ]
     },
@@ -3965,6 +4139,43 @@
           "image": "",
           "images": [],
           "description": "यो सहकार्यलाई नेपालको गन्तव्य प्रवर्द्धन रणनीतिमा नयाँ आयाम थप्ने महत्त्वपूर्ण सुरुवातका रूपमा व्याख्या गरिएको छ ।"
+        }
+      ]
+    },
+    {
+      "id": "c801be131e7b25a6",
+      "title": "सरकारलाई सचेत गराउनु मेरो जिम्मेवारी हो, पार्टीभित्रको बेथिति र अराजकता सहन्नँ : रवि लामिछाने",
+      "summary": "काठमाडौं। राष्ट्रिय स्वतन्त्र पार्टी (रास्वपा) का सभापति रवि लामिछानेले सरकारलाई सही दिशामा अघि बढ्न सचेत गराउनु आफ्नो जिम्मेवारी भएको बताएका छन्। उनले पार्टीभित्र कुनै पनि प्रकारको बेथिति, अराजकता र आर्थिक शक्तिको प्रभाव स्वीकार्य नहुने स्पष्ट पारेका छन्। चितवनमा आयोजित एक कार्यक्रमलाई सम्बोधन गर्दै लामिछानेले पार्टी संगठन र सरकारबीच कुनै द्वन्द्व नरहेको बताए। सरकारलाई नागरिकको सेवामा […]",
+      "publishedAt": "2026-11-06T13:21:46+00:00",
+      "updatedAt": "2026-11-06T13:21:46+00:00",
+      "sourceCount": 1,
+      "languageCount": 1,
+      "sources": [
+        "News of Nepal"
+      ],
+      "categories": [
+        "business",
+        "politics",
+        "sports"
+      ],
+      "items": [
+        {
+          "id": "e6e6618722ebd449",
+          "title": "सरकारलाई सचेत गराउनु मेरो जिम्मेवारी हो, पार्टीभित्रको बेथिति र अराजकता सहन्नँ : रवि लामिछाने",
+          "link": "https://newsofnepal.com/2026/11/06/793569/",
+          "source": "News of Nepal",
+          "sourceUrl": "https://newsofnepal.com/feed/",
+          "pubDate": "2026-11-06T13:21:46+00:00",
+          "categories": [
+            "politics",
+            "business",
+            "sports"
+          ],
+          "image": "https://newsofnepal.com/wp-content/uploads/2026/11/rabi-lamichhane-150x150.jpg",
+          "images": [
+            "https://newsofnepal.com/wp-content/uploads/2026/11/rabi-lamichhane-150x150.jpg"
+          ],
+          "description": "काठमाडौं। राष्ट्रिय स्वतन्त्र पार्टी (रास्वपा) का सभापति रवि लामिछानेले सरकारलाई सही दिशामा अघि बढ्न सचेत गराउनु आफ्नो जिम्मेवारी भएको बताएका छन्। उनले पार्टीभित्र कुनै पनि प्रकारको बेथिति, अराजकता र आर्थिक शक्तिको प्रभाव स्वीकार्य नहुने स्पष्ट पारेका छन्। चितवनमा आयोजित एक कार्यक्रमलाई सम्बोधन गर्दै लामिछानेले पार्टी संगठन र सरकारबीच कुनै द्वन्द्व नरहेको बताए। सरकारलाई नागरिकको सेवामा […]"
         }
       ]
     },
@@ -4959,45 +5170,6 @@
       ]
     },
     {
-      "id": "07aad16f3ba9b0e4",
-      "title": "तिहार बिदामा आयल निगमको डिपो खुला रहने",
-      "summary": "२० कात्तिक, काठमाडौं । पेट्रोलियम पदार्थको आपूर्ति सहज बनाउन दीपावलीसहित सार्वजनिक बिदाका दिनमा पनि नेपाल आयल निगमको डिपो खुल्ला रहने भएको छ । उपभोक्ताको हितलाई ध्यानमा राखी स्थानीय आवश्यकताका आधारमा विराटनगर, अमलेखगन्ज, थानकोट, पोखरा, भैरहवा, सुर्खेत, धनगढी, नेपालगन्ज, दाङ, जनकपुर, चारआली, वीरगन्ज र दिपायलका डिपो तथा प्रादेशिक कार्यालय खुला रहने निगमका प्रवक्ता मनोजकुमार ठाकुरले जानकारी […]",
-      "publishedAt": "2026-11-06T12:31:03+00:00",
-      "updatedAt": "2026-11-06T12:31:03+00:00",
-      "sourceCount": 1,
-      "languageCount": 1,
-      "sources": [
-        "Online Khabar"
-      ],
-      "categories": [
-        "business",
-        "entertainment",
-        "politics",
-        "sports",
-        "technology"
-      ],
-      "items": [
-        {
-          "id": "6b78bf4b8516c1d5",
-          "title": "तिहार बिदामा आयल निगमको डिपो खुला रहने",
-          "link": "https://www.onlinekhabar.com/2026/11/2052907/oil-corporation-depots-to-remain-open-during-tihar-holidays",
-          "source": "Online Khabar",
-          "sourceUrl": "https://www.onlinekhabar.com/feed",
-          "pubDate": "2026-11-06T12:31:03+00:00",
-          "categories": [
-            "politics",
-            "business",
-            "sports",
-            "technology",
-            "entertainment"
-          ],
-          "image": "",
-          "images": [],
-          "description": "२० कात्तिक, काठमाडौं । पेट्रोलियम पदार्थको आपूर्ति सहज बनाउन दीपावलीसहित सार्वजनिक बिदाका दिनमा पनि नेपाल आयल निगमको डिपो खुल्ला रहने भएको छ । उपभोक्ताको हितलाई ध्यानमा राखी स्थानीय आवश्यकताका आधारमा विराटनगर, अमलेखगन्ज, थानकोट, पोखरा, भैरहवा, सुर्खेत, धनगढी, नेपालगन्ज, दाङ, जनकपुर, चारआली, वीरगन्ज र दिपायलका डिपो तथा प्रादेशिक कार्यालय खुला रहने निगमका प्रवक्ता मनोजकुमार ठाकुरले जानकारी […]"
-        }
-      ]
-    },
-    {
       "id": "820e4c997da1f36a",
       "title": "यामाहाको चाडपर्व अभियानमा सरस्वतीले जितिन् १० लाख रुपैयाँ",
       "summary": "२० कात्तिक, बुटवल। यामाहा नेपालको चाडपर्व लक्षित अभियान ‘चङ्गा चेट, जितको नयाँ अपग्रेड’ अन्तर्गत बुटवलकी सरस्वती खनाल रायमाझीले १० लाख रुपैयाँ नगद पुरस्कार जितेकी छन् । रायमाझीले बुटवलस्थित यामाहाको आधिकारिक विक्रेता बाइकर्ज बुटवल प्रालिबाट यामाहा रे जेडआर १२५ एफआई स्ट्रिट र्‍याली हाइब्रिड स्कुटर खरिद गरेकी थिइन्। सोही खरिदमार्फत उनी अभियानको ग्रान्ड प्राइज विजेता बनेकी हुन्। […]",
@@ -5151,45 +5323,6 @@
       ]
     },
     {
-      "id": "e757d5e8f25cc291",
-      "title": "न्यायाधीश नियुक्तिमा ‘करियर जज’लाई प्राथमिकता दिनुपर्छ : वर्षमान पुन",
-      "summary": "२० कात्तिक, काठमाडौं । नेपाली कम्युनिष्ट पार्टीका सांसद वर्षमान पुनले न्यायपालिकामा ‘करियर जज’को प्रतिनिधित्व बढाउनुपर्ने र विषयविज्ञताका आधारमा इजलास गठन गर्दा विगतका विकृति दोहोरिन दिन नहुने बताएका छन् । शुक्रबार संसदीय सुनुवाइ समितिको बैठकमा सर्वोच्च अदालतका प्रश्तावित न्यायाधीश चन्द्रबहादुर सारूसँग प्रश्न गर्दै पुनले न्याय सेवामा लामो अनुभव हासिल गरेका न्यायाधीशलाई सर्वोच्च अदालतमा नियुक्त गर्ने अभ्यास […]",
-      "publishedAt": "2026-11-06T12:27:12+00:00",
-      "updatedAt": "2026-11-06T12:27:12+00:00",
-      "sourceCount": 1,
-      "languageCount": 1,
-      "sources": [
-        "Online Khabar"
-      ],
-      "categories": [
-        "business",
-        "entertainment",
-        "politics",
-        "sports",
-        "technology"
-      ],
-      "items": [
-        {
-          "id": "55d97dae41ce8eef",
-          "title": "न्यायाधीश नियुक्तिमा ‘करियर जज’लाई प्राथमिकता दिनुपर्छ : वर्षमान पुन",
-          "link": "https://www.onlinekhabar.com/2026/11/2052896/priority-should-be-given-to-career-judges-in-judicial-appointments-barshaman-pun",
-          "source": "Online Khabar",
-          "sourceUrl": "https://www.onlinekhabar.com/feed",
-          "pubDate": "2026-11-06T12:27:12+00:00",
-          "categories": [
-            "politics",
-            "business",
-            "sports",
-            "technology",
-            "entertainment"
-          ],
-          "image": "",
-          "images": [],
-          "description": "२० कात्तिक, काठमाडौं । नेपाली कम्युनिष्ट पार्टीका सांसद वर्षमान पुनले न्यायपालिकामा ‘करियर जज’को प्रतिनिधित्व बढाउनुपर्ने र विषयविज्ञताका आधारमा इजलास गठन गर्दा विगतका विकृति दोहोरिन दिन नहुने बताएका छन् । शुक्रबार संसदीय सुनुवाइ समितिको बैठकमा सर्वोच्च अदालतका प्रश्तावित न्यायाधीश चन्द्रबहादुर सारूसँग प्रश्न गर्दै पुनले न्याय सेवामा लामो अनुभव हासिल गरेका न्यायाधीशलाई सर्वोच्च अदालतमा नियुक्त गर्ने अभ्यास […]"
-        }
-      ]
-    },
-    {
       "id": "5da0637b217fb806",
       "title": "भिरबाट लडेर किशोरीको मृत्यु",
       "summary": "शेरबहादुर सार्की बाजुरा, कात्तिक २० गते । बाजुरामा भिरबाट लडेर एक किशोरीको मृत्यु भएको छ । मृत्यु हुनेमा जिल्लाको पूर्वीउत्तर क्षेत्रमा पर्ने हिमाली गाउँपालिका –६ पाँडीका बुवा नसी...",
@@ -5260,41 +5393,6 @@
             "http://english.onlinekhabar.com/wp-content/uploads/2026/11/Pradip-Paudel.jpg"
           ],
           "description": "Kathmandu, November Nepali Congress General Secretary Pradip Paudel has dismissed claims that the party paid money to secure its legal recognition, describing the allegations as fabricated and politically motivated. Speaking at a programme organised by the Nepali Congress Regional Committee for Chitwan Constituency-1 in Ratnanagar on Friday, Paudel accused unnamed actors of deliberately targeting the […] The post Pradip Paudel dismisses claims that Nepali Congress paid to secure legal recognitio"
-        }
-      ]
-    },
-    {
-      "id": "6b6e0b9248204e5a",
-      "title": "तिहारको उत्सवका लागि असनमा किनमेल (फोटो फिचर)",
-      "summary": "सुजन गुरुङ्ग काठमाडौँ, कात्तिक २० गते । तिहार नजिकिएसँगै काठमाडौँको असन बजारमा भीडभाड निकै बढेको छ ।तिहारका लागि आवश्यक भाइमसला, फूलमाला, दियो, पाला, अन्य पूजा सामग्री, कपडा लगायत...",
-      "publishedAt": "2026-11-06T12:22:02+00:00",
-      "updatedAt": "2026-11-06T12:22:02+00:00",
-      "sourceCount": 1,
-      "languageCount": 1,
-      "sources": [
-        "Gorkhapatra"
-      ],
-      "categories": [
-        "business",
-        "politics"
-      ],
-      "items": [
-        {
-          "id": "db8a43211db5fe84",
-          "title": "तिहारको उत्सवका लागि असनमा किनमेल (फोटो फिचर)",
-          "link": "https://gorkhapatraonline.com/news/228546",
-          "source": "Gorkhapatra",
-          "sourceUrl": "https://gorkhapatraonline.com/rss",
-          "pubDate": "2026-11-06T12:22:02+00:00",
-          "categories": [
-            "politics",
-            "business"
-          ],
-          "image": "https://gorkhapatraonline.com/storage/media/390759/conversions/WhatsApp-Image-2026-11-06-at-17.54.17-original.jpg",
-          "images": [
-            "https://gorkhapatraonline.com/storage/media/390759/conversions/WhatsApp-Image-2026-11-06-at-17.54.17-original.jpg"
-          ],
-          "description": "सुजन गुरुङ्ग काठमाडौँ, कात्तिक २० गते । तिहार नजिकिएसँगै काठमाडौँको असन बजारमा भीडभाड निकै बढेको छ ।तिहारका लागि आवश्यक भाइमसला, फूलमाला, दियो, पाला, अन्य पूजा सामग्री, कपडा लगायत..."
         }
       ]
     },
@@ -5459,41 +5557,6 @@
           "image": "",
           "images": [],
           "description": "काठमाडौं। माछापुच्छ्रे बैंकका नवनियुक्त अध्यक्ष रोशन केसीले नेपाल राष्ट्र बैंकका गभर्नर प्राडा विश्वनाथ पौडेलसमक्ष पद तथा गोपनियताको सपथ ग्रहण गरेका छन्। माछापुच्छ्रे बैंकको २८औँ वार्षिक साधारणसभामार्फत संस्थापक सेयरधनीहरूको तर्फबाट बैंक संचालक समितिमा निर्विरोध निर्वाचित भए लगत्तै बसेको बैंक संचालक समितिको ५६७औँ बैंठकले केसीलाई आगामी ४ वर्षे कार्यकालका लागि अध्यक्ष पदमा नियुक्ति गर्ने निणर्य गरेको थियो। […] The post माछापुच्छ्रे बैंकका नवनियुक्त अध्यक्ष रोशन केसीले गभर्नर पौडेल समक्ष लिए पद तथा"
-        }
-      ]
-    },
-    {
-      "id": "ace1a7ba5b9214a9",
-      "title": "फुलबारी फूलले ढकमक्क : फूल व्यवसायी उत्साहित",
-      "summary": "कैलाली, कात्तिक २० गते । तिहार नजिकिँदै गर्दा कैलालीको किसानका फुलबारी सयपत्री र मखमली फूलले ढकमक्क भएको छ । पहेँला राता फूलले ढाकिएका बारीमा यतिबेला किसानलाई तिहारमा फूलको माग बढ्...",
-      "publishedAt": "2026-11-06T12:18:06+00:00",
-      "updatedAt": "2026-11-06T12:18:06+00:00",
-      "sourceCount": 1,
-      "languageCount": 1,
-      "sources": [
-        "Gorkhapatra"
-      ],
-      "categories": [
-        "business",
-        "politics"
-      ],
-      "items": [
-        {
-          "id": "3244ce29bcd30e68",
-          "title": "फुलबारी फूलले ढकमक्क : फूल व्यवसायी उत्साहित",
-          "link": "https://gorkhapatraonline.com/news/228545",
-          "source": "Gorkhapatra",
-          "sourceUrl": "https://gorkhapatraonline.com/rss",
-          "pubDate": "2026-11-06T12:18:06+00:00",
-          "categories": [
-            "politics",
-            "business"
-          ],
-          "image": "https://gorkhapatraonline.com/storage/media/390758/conversions/sayapatri-original.jpg",
-          "images": [
-            "https://gorkhapatraonline.com/storage/media/390758/conversions/sayapatri-original.jpg"
-          ],
-          "description": "कैलाली, कात्तिक २० गते । तिहार नजिकिँदै गर्दा कैलालीको किसानका फुलबारी सयपत्री र मखमली फूलले ढकमक्क भएको छ । पहेँला राता फूलले ढाकिएका बारीमा यतिबेला किसानलाई तिहारमा फूलको माग बढ्..."
         }
       ]
     },
@@ -5867,84 +5930,6 @@
       ]
     },
     {
-      "id": "48d4b11412264044",
-      "title": "कांग्रेसले पैसा तिरेर वैधानिकता लिएको भन्ने प्रचार कपोकल्पित : महामन्त्री पौडेल",
-      "summary": "१९ कात्तिक, काठमाडौं । नेपाली कांग्रेसका महामन्त्री प्रदीप पौडेलले पार्टीले पैसा तिरेर वैधानिकता लिएको भन्ने प्रचार कपोकल्पित र राजनीतिक पूर्वाग्रहबाट प्रेरित रहेको बताएका छन् । कांग्रेस क्षेत्रीय कार्यसमिति, चितवन क्षेत्र नं. १ द्वारा शुक्रबार रत्ननगरमा आयोजित कार्यक्रममा उनले पार्टी माथि नियोजित रूपमा प्रहार गर्ने र पार्टीको वैधानिकतामाथि प्रश्न उठाउने प्रयास भइरहेको आरोप लगाए । ‘नेपाली […]",
-      "publishedAt": "2026-11-06T12:04:24+00:00",
-      "updatedAt": "2026-11-06T12:04:24+00:00",
-      "sourceCount": 1,
-      "languageCount": 1,
-      "sources": [
-        "Online Khabar"
-      ],
-      "categories": [
-        "business",
-        "entertainment",
-        "politics",
-        "sports",
-        "technology"
-      ],
-      "items": [
-        {
-          "id": "67ceb5f86e3e8002",
-          "title": "कांग्रेसले पैसा तिरेर वैधानिकता लिएको भन्ने प्रचार कपोकल्पित : महामन्त्री पौडेल",
-          "link": "https://www.onlinekhabar.com/2026/11/2052859/the-propaganda-that-congress-has-acquired-legitimacy-by-paying-money-is-a-fabrication-general-secretary-poudel",
-          "source": "Online Khabar",
-          "sourceUrl": "https://www.onlinekhabar.com/feed",
-          "pubDate": "2026-11-06T12:04:24+00:00",
-          "categories": [
-            "politics",
-            "business",
-            "sports",
-            "technology",
-            "entertainment"
-          ],
-          "image": "",
-          "images": [],
-          "description": "१९ कात्तिक, काठमाडौं । नेपाली कांग्रेसका महामन्त्री प्रदीप पौडेलले पार्टीले पैसा तिरेर वैधानिकता लिएको भन्ने प्रचार कपोकल्पित र राजनीतिक पूर्वाग्रहबाट प्रेरित रहेको बताएका छन् । कांग्रेस क्षेत्रीय कार्यसमिति, चितवन क्षेत्र नं. १ द्वारा शुक्रबार रत्ननगरमा आयोजित कार्यक्रममा उनले पार्टी माथि नियोजित रूपमा प्रहार गर्ने र पार्टीको वैधानिकतामाथि प्रश्न उठाउने प्रयास भइरहेको आरोप लगाए । ‘नेपाली […]"
-        }
-      ]
-    },
-    {
-      "id": "2746b8adf1c6ba46",
-      "title": "उम्मेदवारका आकांक्षीलाई रास्वपाको निर्देशन– कार्यतालिका आउनुअघि उम्मेदवारी घोषणा नगर्नू",
-      "summary": "२० कात्तिक, काठमाडौं । राष्ट्रिय स्वतन्त्र पार्टी (रास्वपा) को निर्वाचन समितिले निर्वाचन, अधिवेशन तथा उम्मेदवार छनोट प्रक्रियामा सहभागीहरूलाई निर्देशन जारी गरेको छ । केन्द्रीय निर्वाचन समितिका अध्यक्ष भुवन केसीले एक विज्ञप्ति जारी गर्दै ७ बुँदे निर्देशन जारी गरेका हुन् । जसमा निर्वाचन, अधिवेशन तथा उम्मेदवार छनोटसम्बन्धी सम्पूर्ण गतिविधि पार्टी विधान, स्वीकृत कार्यविधि र आधिकारिक निर्देशनअनुसार […]",
-      "publishedAt": "2026-11-06T12:01:34+00:00",
-      "updatedAt": "2026-11-06T12:01:34+00:00",
-      "sourceCount": 1,
-      "languageCount": 1,
-      "sources": [
-        "Online Khabar"
-      ],
-      "categories": [
-        "business",
-        "entertainment",
-        "politics",
-        "sports",
-        "technology"
-      ],
-      "items": [
-        {
-          "id": "0e6882f74332b2cd",
-          "title": "उम्मेदवारका आकांक्षीलाई रास्वपाको निर्देशन– कार्यतालिका आउनुअघि उम्मेदवारी घोषणा नगर्नू",
-          "link": "https://www.onlinekhabar.com/2026/11/2052852/rsvps-instructions-to-candidate-aspirants-do-not-announce-candidacy-before-the-schedule-is-released",
-          "source": "Online Khabar",
-          "sourceUrl": "https://www.onlinekhabar.com/feed",
-          "pubDate": "2026-11-06T12:01:34+00:00",
-          "categories": [
-            "politics",
-            "business",
-            "sports",
-            "technology",
-            "entertainment"
-          ],
-          "image": "",
-          "images": [],
-          "description": "२० कात्तिक, काठमाडौं । राष्ट्रिय स्वतन्त्र पार्टी (रास्वपा) को निर्वाचन समितिले निर्वाचन, अधिवेशन तथा उम्मेदवार छनोट प्रक्रियामा सहभागीहरूलाई निर्देशन जारी गरेको छ । केन्द्रीय निर्वाचन समितिका अध्यक्ष भुवन केसीले एक विज्ञप्ति जारी गर्दै ७ बुँदे निर्देशन जारी गरेका हुन् । जसमा निर्वाचन, अधिवेशन तथा उम्मेदवार छनोटसम्बन्धी सम्पूर्ण गतिविधि पार्टी विधान, स्वीकृत कार्यविधि र आधिकारिक निर्देशनअनुसार […]"
-        }
-      ]
-    },
-    {
       "id": "5877f7dfda911223",
       "title": "हामी यही माटोका मान्छे हौँ, चुनाव जित्दैमा विशेष प्राणी बनेका छैनौँ : सभापति लामिछाने",
       "summary": "चितवन- राष्ट्रिय स्वतन्त्र पार्टी (रास्वपा) का सभापति रवि लामिछानेले एकपटक चुनाव जित्दैमा आफूहरू विशेष प्राणी नभएको भन्दै पार्टीका नेताकार्यकर्तालाई जनताको अपेक्षाअनुसार उच्च राजनीतिक चरित्र प्रदर्शन गर्न निर्देशन दिएका छन्। रास्वपा चितवनले शुक्रबार आयोजना गरेको विशेष सम्बोधन कार्यक्रममा उनले पार्टी सरकारको नेतृत्वमा पुगेपछि नेताकार्यकर्ताको व्यवहार र गतिविधि थप जिम्मेवार हुनुपर्ने बताए। ‘हामी यही माटोका मान्छे हौँ। […]",
@@ -6013,45 +5998,6 @@
             "https://nepalviews.cdnsolution.net/en/media/setting/banner_FHsSzcWYKk.jpg"
           ],
           "description": ""
-        }
-      ]
-    },
-    {
-      "id": "95ef75ca92ff80cb",
-      "title": "स्वार्थ पूरा नभए पश्चिमा शक्तिहरूले नै बालेन सरकार ढाल्छन् : बादल",
-      "summary": "२० कात्तिक, काठमाडौं । नेकपा एमालेका उपाध्यक्ष रामबहादुर थापा ‘बादल’ले वर्तमान सरकारले पश्चिमा शक्तिहरूको स्वार्थअनुरूप काम नगरे उनीहरूले नै सरकार ढालिदिने दाबी गरेका छन् । एमाले दमक नगर कमिटीले शुक्रबार आयोजना गरेको कार्यक्रममा बोल्दै उनले यस्तो बताएका हुन् । एमाले, कांगेस, तत्कालीन माओवादीलगायतका दलले पश्चिमा शक्तिको स्वार्थ पूरा नगरेपछि ती शक्तिहरूविरुद्ध आक्रमण गरेर पार्टी भवन […]",
-      "publishedAt": "2026-11-06T11:56:50+00:00",
-      "updatedAt": "2026-11-06T11:56:50+00:00",
-      "sourceCount": 1,
-      "languageCount": 1,
-      "sources": [
-        "Online Khabar"
-      ],
-      "categories": [
-        "business",
-        "entertainment",
-        "politics",
-        "sports",
-        "technology"
-      ],
-      "items": [
-        {
-          "id": "f5e95c2ce75a7e61",
-          "title": "स्वार्थ पूरा नभए पश्चिमा शक्तिहरूले नै बालेन सरकार ढाल्छन् : बादल",
-          "link": "https://www.onlinekhabar.com/2026/11/2052842/if-interests-are-not-fulfilled-western-powers-will-topple-the-balen-government-badal",
-          "source": "Online Khabar",
-          "sourceUrl": "https://www.onlinekhabar.com/feed",
-          "pubDate": "2026-11-06T11:56:50+00:00",
-          "categories": [
-            "politics",
-            "business",
-            "sports",
-            "technology",
-            "entertainment"
-          ],
-          "image": "",
-          "images": [],
-          "description": "२० कात्तिक, काठमाडौं । नेकपा एमालेका उपाध्यक्ष रामबहादुर थापा ‘बादल’ले वर्तमान सरकारले पश्चिमा शक्तिहरूको स्वार्थअनुरूप काम नगरे उनीहरूले नै सरकार ढालिदिने दाबी गरेका छन् । एमाले दमक नगर कमिटीले शुक्रबार आयोजना गरेको कार्यक्रममा बोल्दै उनले यस्तो बताएका हुन् । एमाले, कांगेस, तत्कालीन माओवादीलगायतका दलले पश्चिमा शक्तिको स्वार्थ पूरा नगरेपछि ती शक्तिहरूविरुद्ध आक्रमण गरेर पार्टी भवन […]"
         }
       ]
     },
@@ -6202,41 +6148,6 @@
           "image": "",
           "images": [],
           "description": "काठमाडौँ- राष्ट्रपति रामचन्द्र पौडेलसमक्ष नेपालका लागि नवनियुक्त तीन राजदूतले शुक्रबार राष्ट्रपति भवन शीतलनिवासमा आयोजित विशेष समारोहमा आ–आफ्नो ओहोदाको प्रमाणपत्र पेश गरेका छन्। राष्ट्रपति कार्यालयका अनुसार ओहोदाको प्रमाणपत्र पेश गर्नेमा नेपालका लागि भारतका नवनियुक्त राजदूत सुधाकर दलेला, लाओ पिपुल्स डेमोक्रेटिक रिपब्लिकका राजदूत विथाया जायाभोङ र पानामाका राजदूत अलोन्सो मिगुएल रहेका छन्। भारतका राजदूत दलेला आवासीय राजदूत हुन् […]"
-        }
-      ]
-    },
-    {
-      "id": "fb88eac0c160e534",
-      "title": "राष्ट्रपति पौडेल र सभामुख अर्यालबीच भेटवार्ता",
-      "summary": "",
-      "publishedAt": "2026-11-06T11:48:23+00:00",
-      "updatedAt": "2026-11-06T11:48:23+00:00",
-      "sourceCount": 1,
-      "languageCount": 1,
-      "sources": [
-        "Nepal Samaya"
-      ],
-      "categories": [
-        "entertainment",
-        "politics"
-      ],
-      "items": [
-        {
-          "id": "3ff028ef2fe0d644",
-          "title": "राष्ट्रपति पौडेल र सभामुख अर्यालबीच भेटवार्ता",
-          "link": "https://nepalsamaya.com/detail/147645",
-          "source": "Nepal Samaya",
-          "sourceUrl": "https://nepalsamaya.com/feed",
-          "pubDate": "2026-11-06T11:48:23+00:00",
-          "categories": [
-            "politics",
-            "entertainment"
-          ],
-          "image": "https://nepalsamaya.com/uploads/posts/2222-1793965695.jpg",
-          "images": [
-            "https://nepalsamaya.com/uploads/posts/2222-1793965695.jpg"
-          ],
-          "description": ""
         }
       ]
     },
@@ -7898,43 +7809,6 @@
             "http://english.onlinekhabar.com/wp-content/uploads/2026/09/nepali-cricket-team-CAN.png"
           ],
           "description": "Kathmandu, November 6 The schedule has been announced for the ICC Cricket World Cup Qualifier Playoff, which Nepal will host from December 4 to 21. According to the schedule the International Cricket Council (ICC) released on Friday, Nepal will play its first match against Italy on December 4 at the TU ground in Kirtipur. Nepal’s […] The post World Cup Qualifier Playoff schedule announced, Nepal’s first match against Italy appeared first on OnlineKhabar English News ."
-        }
-      ]
-    },
-    {
-      "id": "59eefdbfa0fbb8be",
-      "title": "प्रधानमन्त्री दैवी प्रकोप उद्धार कोषमा १८ अर्ब ३९ करोड रुपैयाँ जम्मा",
-      "summary": "",
-      "publishedAt": "2026-11-06T09:54:31+00:00",
-      "updatedAt": "2026-11-06T09:54:31+00:00",
-      "sourceCount": 1,
-      "languageCount": 1,
-      "sources": [
-        "Nepal Views"
-      ],
-      "categories": [
-        "business",
-        "politics",
-        "technology"
-      ],
-      "items": [
-        {
-          "id": "6aaefd77b5c2e313",
-          "title": "प्रधानमन्त्री दैवी प्रकोप उद्धार कोषमा १८ अर्ब ३९ करोड रुपैयाँ जम्मा",
-          "link": "https://www.nepalviews.com/story/427676/rs-1839-billion-deposited-in-prime-ministers-disaster-relief-fund",
-          "source": "Nepal Views",
-          "sourceUrl": "https://www.nepalviews.com/feed/",
-          "pubDate": "2026-11-06T09:54:31+00:00",
-          "categories": [
-            "politics",
-            "business",
-            "technology"
-          ],
-          "image": "https://nepalviews.cdnsolution.net/en/media/setting/banner_FHsSzcWYKk.jpg",
-          "images": [
-            "https://nepalviews.cdnsolution.net/en/media/setting/banner_FHsSzcWYKk.jpg"
-          ],
-          "description": ""
         }
       ]
     },
@@ -11230,6 +11104,158 @@
             "https://www.himalkhabar.com/uploads/posts/NRB1-1793529494.jpg"
           ],
           "description": "नेपाल राष्ट्र ब्यांकलाई स्वायत्तता बढाउने प्रतिबद्धताबाट शुरू भएको कानून संशोधनको प्रकृया अहिले उल्टै केन्द्रीय ब्यांकलाई थप अंकुश लगाउने बिन्दुमा पुगेको छ ।"
+        }
+      ]
+    },
+    {
+      "id": "8714798505431864",
+      "title": "Good apples and bad apples in Mustang",
+      "summary": "Cushioning apple farmers from oversupply and transport disruptions by improving quality of produce",
+      "publishedAt": "2026-11-01T03:15:03+00:00",
+      "updatedAt": "2026-11-01T03:15:03+00:00",
+      "sourceCount": 1,
+      "languageCount": 1,
+      "sources": [
+        "Nepali Times"
+      ],
+      "categories": [
+        "business",
+        "politics",
+        "society",
+        "technology"
+      ],
+      "items": [
+        {
+          "id": "b923a47f5b629466",
+          "title": "Good apples and bad apples in Mustang",
+          "link": "https://nepalitimes.com/good-apples-and-bad-apples-in-mustang",
+          "source": "Nepali Times",
+          "sourceUrl": "https://www.nepalitimes.com/feed/",
+          "pubDate": "2026-11-01T03:15:03+00:00",
+          "categories": [
+            "politics",
+            "business",
+            "society",
+            "technology"
+          ],
+          "image": "https://media.nepalitimes.com/cover/Mustang%20apples.jpg",
+          "images": [
+            "https://media.nepalitimes.com/cover/Mustang%20apples.jpg"
+          ],
+          "description": "Cushioning apple farmers from oversupply and transport disruptions by improving quality of produce"
+        }
+      ]
+    },
+    {
+      "id": "081f18832103ddf5",
+      "title": "प्रेसलाई अदालतले समेत सोध्न नसक्ने प्रश्न प्रहरीले कसरी सोध्यो?",
+      "summary": "२०६१ माघ १९ मा राजा ज्ञानेन्द्रले संविधानका कयौं धारा निलम्बन गरेर अथवा त्यसलाई निष्क्रिय तुल्याएर जे गरेका थिए, सबै घोषित रूपमा गरेका थिए। उनले प्रेसको अधिकार, नागरिकको अधिकार छिनेका थिए, तर उनले लुकेर होइन, पछाडि हटेर होइन, अगाडि आएर गरेका थिए। यहाँ अहिले के छ? प्रधानमन्त्री कार्यालय जिम्मेवार छैन, गृहबाट वक्तव्य आएको छैन। यो गरेको कसले त? प्रहरी आफैं परिचालित हुन्छ यो देशमा? के यो अराजकता भएन?",
+      "publishedAt": "2026-10-31T15:39:00+00:00",
+      "updatedAt": "2026-10-31T15:39:00+00:00",
+      "sourceCount": 1,
+      "languageCount": 1,
+      "sources": [
+        "Himal Khabar"
+      ],
+      "categories": [
+        "business",
+        "politics"
+      ],
+      "items": [
+        {
+          "id": "acd1e70cd2f0f432",
+          "title": "प्रेसलाई अदालतले समेत सोध्न नसक्ने प्रश्न प्रहरीले कसरी सोध्यो?",
+          "link": "https://www.himalkhabar.com/145016",
+          "source": "Himal Khabar",
+          "sourceUrl": "https://himalKhabar.com/feed",
+          "pubDate": "2026-10-31T15:39:00+00:00",
+          "categories": [
+            "politics",
+            "business"
+          ],
+          "image": "https://www.himalkhabar.com/uploads/posts/maxresdefault-(1)-1793460950.jpg",
+          "images": [
+            "https://www.himalkhabar.com/uploads/posts/maxresdefault-(1)-1793460950.jpg"
+          ],
+          "description": "२०६१ माघ १९ मा राजा ज्ञानेन्द्रले संविधानका कयौं धारा निलम्बन गरेर अथवा त्यसलाई निष्क्रिय तुल्याएर जे गरेका थिए, सबै घोषित रूपमा गरेका थिए। उनले प्रेसको अधिकार, नागरिकको अधिकार छिनेका थिए, तर उनले लुकेर होइन, पछाडि हटेर होइन, अगाडि आएर गरेका थिए। यहाँ अहिले के छ? प्रधानमन्त्री कार्यालय जिम्मेवार छैन, गृहबाट वक्तव्य आएको छैन। यो गरेको कसले त? प्रहरी आफैं परिचालित हुन्छ यो देशमा? के यो अराजकता भएन?"
+        }
+      ]
+    },
+    {
+      "id": "2208fa6df09a774b",
+      "title": "Sacred splendour at Siddhartha",
+      "summary": "Kathmandu’s art venue turns 39 with a tribute to the Valley’s devotional craft",
+      "publishedAt": "2026-10-31T12:10:38+00:00",
+      "updatedAt": "2026-10-31T12:10:38+00:00",
+      "sourceCount": 1,
+      "languageCount": 1,
+      "sources": [
+        "Nepali Times"
+      ],
+      "categories": [
+        "business",
+        "politics",
+        "society",
+        "technology"
+      ],
+      "items": [
+        {
+          "id": "3b8f81c322504373",
+          "title": "Sacred splendour at Siddhartha",
+          "link": "https://nepalitimes.com/sacred-splendour-at-siddhartha",
+          "source": "Nepali Times",
+          "sourceUrl": "https://www.nepalitimes.com/feed/",
+          "pubDate": "2026-10-31T12:10:38+00:00",
+          "categories": [
+            "politics",
+            "business",
+            "society",
+            "technology"
+          ],
+          "image": "https://media.nepalitimes.com/cover/GAllery%202.jpeg",
+          "images": [
+            "https://media.nepalitimes.com/cover/GAllery%202.jpeg"
+          ],
+          "description": "Kathmandu’s art venue turns 39 with a tribute to the Valley’s devotional craft"
+        }
+      ]
+    },
+    {
+      "id": "624bf9e1e4515c6b",
+      "title": "Nepal detains journalists to warn rest of free press",
+      "summary": "Not since the monarchy days has Nepal's media witnessed a systematic attack like the one this week",
+      "publishedAt": "2026-10-31T10:28:25+00:00",
+      "updatedAt": "2026-10-31T10:28:25+00:00",
+      "sourceCount": 1,
+      "languageCount": 1,
+      "sources": [
+        "Nepali Times"
+      ],
+      "categories": [
+        "business",
+        "politics",
+        "society",
+        "technology"
+      ],
+      "items": [
+        {
+          "id": "2727949d4b83184d",
+          "title": "Nepal detains journalists to warn rest of free press",
+          "link": "https://nepalitimes.com/nepal-detains-journalists-to-warn-rest-of-free-press",
+          "source": "Nepali Times",
+          "sourceUrl": "https://www.nepalitimes.com/feed/",
+          "pubDate": "2026-10-31T10:28:25+00:00",
+          "categories": [
+            "politics",
+            "business",
+            "society",
+            "technology"
+          ],
+          "image": "https://media.nepalitimes.com/content/Nayapatrika.jpg",
+          "images": [
+            "https://media.nepalitimes.com/content/Nayapatrika.jpg"
+          ],
+          "description": "Not since the monarchy days has Nepal's media witnessed a systematic attack like the one this week"
         }
       ]
     }
