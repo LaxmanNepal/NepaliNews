@@ -1,10 +1,453 @@
 {
-  "generatedAt": "2026-11-14T20:55:52.885672+00:00",
+  "generatedAt": "2026-11-15T00:31:20.418186+00:00",
   "feedCount": 41,
   "healthyFeeds": 23,
   "failedFeeds": 18,
-  "itemCount": 325,
+  "itemCount": 327,
   "items": [
+    {
+      "id": "aa45a07c3439ea92",
+      "title": "जलवायु न्यायको पैरवी गरेर फर्किए परराष्ट्रमन्त्री खनाल: भोटेकोशीपीडित अझै न्यायको प्रतीक्षामा",
+      "link": "https://newsofnepal.com/2026/11/15/793915/",
+      "source": "News of Nepal",
+      "sourceUrl": "https://newsofnepal.com/feed/",
+      "pubDate": "2026-11-15T00:28:53+00:00",
+      "categories": [
+        "politics",
+        "business",
+        "sports"
+      ],
+      "image": "https://newsofnepal.com/wp-content/uploads/2026/11/shishir-khanal-150x150.jpg",
+      "images": [
+        "https://newsofnepal.com/wp-content/uploads/2026/11/shishir-khanal-150x150.jpg"
+      ],
+      "description": "–पाँच मन्त्री र एक दर्जनभन्दा बढी सांसद कोप–३१ मा सहभागी –आफ्नै देशका बाढीपीडितको पुनर्वास र क्षतिपूर्ति भने अनिश्चित काठमाडौँ जलवायु न्याय, क्षतिपूर्ति र विपद्पछिको पुनर्निर्माणमा अन्तर्राष्ट्रिय सहयोगका लागि आवाज बुलन्द पार्न टर्की पुगेका परराष्ट्रमन्त्री शिशिर खनाल शनिवार स्वदेश फर्कनुभएको छ । संयुक्त राष्ट्रसंघीय जलवायु परिवर्तनसम्बन्धी महासन्धिका पक्ष राष्ट्रहरूको ३१औँ सम्मेलन (कोप–३१) मा नेपाली प्रतिनिधिमण्डलको नेतृत्व […]"
+    },
+    {
+      "id": "9d5ef6b59cb758ab",
+      "title": "कति छ विदेशी मुद्राको विनिमय दर?",
+      "link": "https://himalpress.com/2026/11/what-is-the-foreign-exchange-rate-74/",
+      "source": "Himal Press",
+      "sourceUrl": "https://himalpress.com/feed/",
+      "pubDate": "2026-11-15T00:28:43+00:00",
+      "categories": [
+        "politics",
+        "business",
+        "society"
+      ],
+      "image": "https://himalpress.com/wp-content/uploads/2026/11/dollar-29_YVesgVnEdE-600x426.png",
+      "images": [
+        "https://himalpress.com/wp-content/uploads/2026/11/dollar-29_YVesgVnEdE-600x426.png"
+      ],
+      "description": "काठमाडौँ- नेपाल राष्ट्र बैंकले आज (कात्तिक २९ गते) आइतबारका लागि विदेशी मुद्राहरूको विनिमयदर निर्धारण गरेको छ।जसअनुसार आज अमेरिकन डलरसहित सबै विदेशी मुद्राको मूल्य स्थिर बसेको छ। आज पनि अमेरिकी डलर १ को खरिददर १५० रुपैयाँ ४९ पैसा र बिक्रीदर १५१ रुपैयाँ ०९ पैसा तोकिएको छ। आज पनि युरो १ को खरिददर १६६ रुपैयाँ ४३ पैसा […]"
+    },
+    {
+      "id": "8acb2854be2a2dfb",
+      "title": "पश्चिमी वायुको आंशिक प्रभाव कायमै, आज यी ६ प्रदेशमा वर्षाको सम्भावना",
+      "link": "https://www.ratopati.com/story/605260/partial-influence-of-westerly-winds-persists-possibility-of-rain-in-these-6-provinces-today",
+      "source": "Ratopati",
+      "sourceUrl": "https://ratopati.com/feed",
+      "pubDate": "2026-11-15T00:28:01+00:00",
+      "categories": [
+        "politics",
+        "sports"
+      ],
+      "image": "https://npcdn.ratopati.com/media/news/rain_rDpXgxB6yl.webp",
+      "images": [
+        "https://npcdn.ratopati.com/media/news/rain_rDpXgxB6yl.webp"
+      ],
+      "description": "काठमाडौँ । हाल नेपालमा पश्चिमी वायुको आंशिक प्रभाव रहेको मौसम पूर्वानुमान महाशाखाले जनाएको छ । जसको प्रभावले देशको हिमाली र पहाडी भूभागमा आंशिक बादल लागेको छ। आज दिउँसो देशको हिमाली भूभाग तथा कोशी, गण्डकी, कर्णाली र"
+    },
+    {
+      "id": "2eb832752b1bb0e0",
+      "title": "छठको मुख्य दिन आज, अस्ताउँदो सूर्यलाई अर्घ्य दिइँदै",
+      "link": "https://baahrakhari.com/detail/507322",
+      "source": "Baahrakhari",
+      "sourceUrl": "https://baahrakhari.com/feed",
+      "pubDate": "2026-11-15T00:24:12+00:00",
+      "categories": [
+        "politics",
+        "business",
+        "society"
+      ],
+      "image": "",
+      "images": [],
+      "description": ""
+    },
+    {
+      "id": "9be74a14e17c7630",
+      "title": "एमालेको एकता परीक्षा : नेतृत्व र संगठन सुधारको दबाबबीच राष्ट्रिय भेला",
+      "link": "https://newsofnepal.com/2026/11/15/793912/",
+      "source": "News of Nepal",
+      "sourceUrl": "https://newsofnepal.com/feed/",
+      "pubDate": "2026-11-15T00:23:49+00:00",
+      "categories": [
+        "politics",
+        "business",
+        "sports"
+      ],
+      "image": "https://newsofnepal.com/wp-content/uploads/2026/11/oli-bidhya-150x150.png",
+      "images": [
+        "https://newsofnepal.com/wp-content/uploads/2026/11/oli-bidhya-150x150.png"
+      ],
+      "description": "–मंसिर २ र ३ गते काठमाडौँमा हुने भेलामा ओली भण्डारीसहित शीर्ष नेताको सम्बोधन –आगामी निर्वाचनको रणनीति र पार्टी पुनर्गठनको बहस प्रमुख एजेन्डा काठमाडौँ। पार्टी नेतृत्वप्रति बढ्दो असन्तुष्टि, आन्तरिक गुटबन्दी र संगठनात्मक शिथिलताका कारण चुनौतीपूर्ण अवस्थामा पुगेको नेपाल कम्युनिस्ट पार्टी (एमाले) ले पार्टीभित्र एकताको सन्देश प्रवाह गर्ने उद्देश्यसहित मंसिर २ र ३ गते काठमाडौँमा दुईदिने राष्ट्रिय […]"
+    },
+    {
+      "id": "22b8572d01f10fe6",
+      "title": "Mass funeral held for Bhimphedi accident victims",
+      "link": "https://risingnepaldaily.com/news/88618",
+      "source": "The Rising Nepal",
+      "sourceUrl": "https://risingnepaldaily.com/rss",
+      "pubDate": "2026-11-15T00:23:06+00:00",
+      "categories": [
+        "politics",
+        "business",
+        "world",
+        "sports"
+      ],
+      "image": "",
+      "images": [],
+      "description": "By Janarjan KhatriSarlahi, Nov. 15: The bodies of 12 people from Sundarpur village in Ward 4 of Chakraghatta Rural Munic..."
+    },
+    {
+      "id": "fda8b6bfd9781647",
+      "title": "कार्तिक शुक्ल षष्ठीः छठको मुख्य दिन आज अस्ताउँदो सूर्यलाई अर्घ्य दिइँदै",
+      "link": "https://www.nepalviews.com/story/427991/kartik-shukla-shashthi-arghya-is-being-offered-to-the-setting-sun-today-the-main-day-of-chhath",
+      "source": "Nepal Views",
+      "sourceUrl": "https://www.nepalviews.com/feed/",
+      "pubDate": "2026-11-15T00:22:03+00:00",
+      "categories": [
+        "politics",
+        "business",
+        "technology"
+      ],
+      "image": "https://nepalviews.cdnsolution.net/en/media/setting/banner_FHsSzcWYKk.jpg",
+      "images": [
+        "https://nepalviews.cdnsolution.net/en/media/setting/banner_FHsSzcWYKk.jpg"
+      ],
+      "description": ""
+    },
+    {
+      "id": "f91031f25ab2ef8f",
+      "title": "छठ पर्वको मुख्य दिन आज, अस्ताउँदो सूर्यलाई अर्घ्य दिइँदै",
+      "link": "https://www.dainiknepal.com/2026/11/850253.html",
+      "source": "Dainik Nepal",
+      "sourceUrl": "https://dainiknepal.com/feed",
+      "pubDate": "2026-11-15T00:20:17+00:00",
+      "categories": [
+        "politics",
+        "sports"
+      ],
+      "image": "",
+      "images": [],
+      "description": "काठमाडौं । छठ पर्वको मुख्य दिन आज साँझ अस्ताउँदो सूर्यको पूजा आराधना गरी अर्घ्य दिइँदैछ । कार्तिक शुक्ल चतुर्थीदेखि सप्तमीसम्म मनाइने यो पर्व शुक्रबारदेखि सुरु भएको हो । छठ पर्व विशेष गरी नेपालको तराई–मधेश क्षेत्र तथा भारतको बिहार, झारखण्ड र उत्तर प्रदेशमा अत्यन्तै श्रद्धा, भक्ति र निष्ठाका साथ मनाइने एक प्रमुख लोकपर्व हो । पछिल्ला […]"
+    },
+    {
+      "id": "5076ca8d018d08a1",
+      "title": "Sama-Chakewa festivities begin alongside Chhath",
+      "link": "https://risingnepaldaily.com/news/88617",
+      "source": "The Rising Nepal",
+      "sourceUrl": "https://risingnepaldaily.com/rss",
+      "pubDate": "2026-11-15T00:12:40+00:00",
+      "categories": [
+        "politics",
+        "business",
+        "world",
+        "sports"
+      ],
+      "image": "",
+      "images": [],
+      "description": "By Nagendra Kumar KarnaMahottari, Nov. 15: Alongside the grand Chhath festival of the Mithilanchal region, preparations..."
+    },
+    {
+      "id": "2996b3d0565c939a",
+      "title": "Nepal lobbies for mountain agenda at COP31",
+      "link": "https://risingnepaldaily.com/news/88616",
+      "source": "The Rising Nepal",
+      "sourceUrl": "https://risingnepaldaily.com/rss",
+      "pubDate": "2026-11-15T00:10:27+00:00",
+      "categories": [
+        "politics",
+        "business",
+        "world",
+        "sports"
+      ],
+      "image": "",
+      "images": [],
+      "description": "By A Staff ReporterKathmandu, Nov. 15: Minister for Foreign Affairs Shisir Khanal returned home on Saturday after leadin..."
+    },
+    {
+      "id": "f7da43f844dafbe2",
+      "title": "What local governments can do to reform school education",
+      "link": "https://risingnepaldaily.com/news/88615",
+      "source": "The Rising Nepal",
+      "sourceUrl": "https://risingnepaldaily.com/rss",
+      "pubDate": "2026-11-15T00:07:43+00:00",
+      "categories": [
+        "politics",
+        "business",
+        "world",
+        "sports"
+      ],
+      "image": "",
+      "images": [],
+      "description": "Kathmandu, Nov. 15: A few months ago, Minister for Education and Sports Sasmit Pokharel conducted a series of meetings a..."
+    },
+    {
+      "id": "b65dd2ccca1632fd",
+      "title": "Chhath festival boosts economic activities",
+      "link": "https://risingnepaldaily.com/news/88614",
+      "source": "The Rising Nepal",
+      "sourceUrl": "https://risingnepaldaily.com/rss",
+      "pubDate": "2026-11-15T00:06:03+00:00",
+      "categories": [
+        "politics",
+        "business",
+        "world",
+        "sports"
+      ],
+      "image": "",
+      "images": [],
+      "description": "By Dhirendra Prasad SahSaptari, Nov. 15: The festive atmosphere of Chhath has gripped Saptari and other districts of Mad..."
+    },
+    {
+      "id": "8c5dda3f36830eba",
+      "title": "यस्तो छ विदेशी मुद्राको विनिमयदर",
+      "link": "https://baahrakhari.com/detail/507321",
+      "source": "Baahrakhari",
+      "sourceUrl": "https://baahrakhari.com/feed",
+      "pubDate": "2026-11-15T00:05:18+00:00",
+      "categories": [
+        "politics",
+        "business",
+        "society"
+      ],
+      "image": "",
+      "images": [],
+      "description": "युरोपियन युरो एकको खरिददर १६६ रुपैयाँ ४३ पैसा र बिक्रीदर १६७ रुपैयाँ १० पैसा, यूके पाउन्ड स्ट्रलिङ एकको खरिददर १९९ रुपैयाँ १६ पैसा र बिक्रीदर १९९ रुपैयाँ ९५ पैसा, स्वीस फ्र्यांक एकको खरिददर १७९ रुपैयाँ ७९ पैसा र बिक्रीदर १८० रुपैयाँ ५० पैसा कायम गरिएको छ ।"
+    },
+    {
+      "id": "305a13e8c869877a",
+      "title": "आइतबार यस्तो छ विदेशी मुद्राको विनिमय दर",
+      "link": "https://www.ratopati.com/story/605259/this-is-the-foreign-exchange-rate-on-sunday",
+      "source": "Ratopati",
+      "sourceUrl": "https://ratopati.com/feed",
+      "pubDate": "2026-11-15T00:02:16+00:00",
+      "categories": [
+        "politics",
+        "sports"
+      ],
+      "image": "https://npcdn.ratopati.com/media/news/forex_g5zWyL63Qc.webp",
+      "images": [
+        "https://npcdn.ratopati.com/media/news/forex_g5zWyL63Qc.webp"
+      ],
+      "description": "काठमाडौँ । नेपाल राष्ट्र बैंकले आजका लागि विदेशी मुद्राको विनिमय दर निर्धारण गरेको छ । राष्ट्र बैंकका अनुसार अमेरिकी डलर एकको खरिददर १५० रुपैयाँ ४९ पैसा र बिक्रीदर १५१ रुपैयाँ ०९ पैसा निर्धारण गरिएको छ"
+    },
+    {
+      "id": "bec8bb81a4051367",
+      "title": "सांस्कृतिक एकताको प्रतीक बन्दै छठ",
+      "link": "https://gorkhapatraonline.com/news/229087",
+      "source": "Gorkhapatra",
+      "sourceUrl": "https://gorkhapatraonline.com/rss",
+      "pubDate": "2026-11-14T23:54:50+00:00",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "image": "https://gorkhapatraonline.com/storage/media/391497/conversions/Kamal-Pokhari--3598-original.jpg",
+      "images": [
+        "https://gorkhapatraonline.com/storage/media/391497/conversions/Kamal-Pokhari--3598-original.jpg"
+      ],
+      "description": "काठमाडौँ, कात्तिक २९ गते । तराई मधेशको नदी र तलाउबाट सुरु भएको छठपर्व अहिले पहाडका नदी र हिमालका तालसम्म फैलिँदै छ । छठले राज्यस्तरमा समेत सम्मान र मान्यता पाउन थालेपछि यसको सामाजि..."
+    },
+    {
+      "id": "ae6c98d9712a67ad",
+      "title": "कार्तिक २९ गते आइतबार, यस्तो छ तपाईंको राशिफल",
+      "link": "https://newsofnepal.com/2026/11/15/793910/",
+      "source": "News of Nepal",
+      "sourceUrl": "https://newsofnepal.com/feed/",
+      "pubDate": "2026-11-14T23:47:00+00:00",
+      "categories": [
+        "politics",
+        "business",
+        "sports"
+      ],
+      "image": "https://newsofnepal.com/wp-content/uploads/2025/06/rasi-768x476-2-150x150.webp",
+      "images": [
+        "https://newsofnepal.com/wp-content/uploads/2025/06/rasi-768x476-2-150x150.webp"
+      ],
+      "description": "मेष : दिन शुभ फलदायक छ । सुख–सन्तोष, कार्य सिद्धि, शारीरिक स्वस्थता, मन प्रफुल्लित होला । वृष : सानै प्रयासले राज्यबाट लाभ, प्रतिष्ठामा वृद्धि, सरकारी कार्यमा सफलता हुने देखिन्छ । मिथुन : दिन त्यति अनुकूल देखिँदैन । रोगको भय, आर्थिक नोक्सानी, काममा बाधा हुन सक्छ । कर्कट : दिन बलवान् छ । धन लाभ, मान–सम्मान, […]"
+    },
+    {
+      "id": "21e147e31ecff740",
+      "title": "बाँदरको हैरानीले किसान अदुवा खेतीतर्फ आकर्षित",
+      "link": "https://www.ratopati.com/story/605258/monkey-nuisance-attracts-farmers-to-ginger-farming",
+      "source": "Ratopati",
+      "sourceUrl": "https://ratopati.com/feed",
+      "pubDate": "2026-11-14T23:39:28+00:00",
+      "categories": [
+        "politics",
+        "sports"
+      ],
+      "image": "https://npcdn.ratopati.com/media/news/Igo5xna52U.jpg",
+      "images": [
+        "https://npcdn.ratopati.com/media/news/Igo5xna52U.jpg"
+      ],
+      "description": "भोजपुर । भोजपुरमा बाँदरको समस्याका कारण परम्परागत खाद्यबाली खेती गर्न कठिन भएपछि किसान अदुवा खेतीतर्फ आकर्षित हुन थालेका छन् । बाँदरले मकै, कोदोलगायतका बालीमा क्षति पुर्‍याउने समस्या बढ्दै गएपछि किसानले अदुवा खेतीलाई वैकल्पिक आयआर्जनको माध्यम"
+    },
+    {
+      "id": "bf4720acd25efcad",
+      "title": "एनपिएलको मैदानमा चम्किएका चार हिरा",
+      "link": "https://www.ratopati.com/story/605257/four-nepali-cricketers-in-form-in-npl-3",
+      "source": "Ratopati",
+      "sourceUrl": "https://ratopati.com/feed",
+      "pubDate": "2026-11-14T23:36:25+00:00",
+      "categories": [
+        "politics",
+        "sports"
+      ],
+      "image": "https://npcdn.ratopati.com/media/news/4-player_CPVxkraUt0.webp",
+      "images": [
+        "https://npcdn.ratopati.com/media/news/4-player_CPVxkraUt0.webp"
+      ],
+      "description": "एनपिएल–३ मा लयमा देखिएका चार नेपाली क्रिकेटर काठमाडौँ । तेस्रो संस्करणको नेपाल प्रिमियर लिग (एनपिएल) क्रिकेट प्रतियोगितामा प्लेअफ पुग्ने चार टोलीको टुङ्गो लागिसकेको छ । यसपालि लुम्बिनी लायन्स, सुदूरपश्चिम रोयल्स, काठमाण्डु गोर्खाज र चितवन राइनोजले प्लेअफमा"
+    },
+    {
+      "id": "64b65ad8964ae66b",
+      "title": "छठी गीतको गुञ्जनमा भक्तिमय मिथिला",
+      "link": "https://www.ratopati.com/story/605256/devotional-mithila-in-the-echo-of-the-chhathi-geet",
+      "source": "Ratopati",
+      "sourceUrl": "https://ratopati.com/feed",
+      "pubDate": "2026-11-14T23:19:36+00:00",
+      "categories": [
+        "politics",
+        "sports"
+      ],
+      "image": "https://npcdn.ratopati.com/media/news/chhath_EVIsxaNguo.webp",
+      "images": [
+        "https://npcdn.ratopati.com/media/news/chhath_EVIsxaNguo.webp"
+      ],
+      "description": "महोत्तरी । मौलिक लोकपरम्परा, समुन्नत संस्कृति र प्रत्येक चाडवाडसँग सम्बन्धित गीत मिथिला क्षेत्रका वैभव मानिन्छन् । मधेसको प्राचीन मिथिला क्षेत्रमा सामूहिक रूपमा मनाइने पर्व होउन् वा घरमा आयोजना गरिने शुभकार्य, प्रत्येक अनुष्ठानका लोकपरम्परामा स्थापित गीत"
+    },
+    {
+      "id": "99b8da9388377cb5",
+      "title": "कस्तो रहला तपाईँको दिन ? हेर्नुहोस् आजकाे राशिफल",
+      "link": "https://www.ratopati.com/story/605254/how-was-your-day-check-out-todays-horoscope",
+      "source": "Ratopati",
+      "sourceUrl": "https://ratopati.com/feed",
+      "pubDate": "2026-11-14T23:15:00+00:00",
+      "categories": [
+        "politics",
+        "sports"
+      ],
+      "image": "https://npcdn.ratopati.com/media/news/horoscope_XkWmpVM1yU.jpg",
+      "images": [
+        "https://npcdn.ratopati.com/media/news/horoscope_XkWmpVM1yU.jpg"
+      ],
+      "description": "आजको पञ्चाङ्ग वि.सं.२०८३ साल कार्तिक २९ गते । आइतबार । इस्वी सन् २०२६ नोभेम्बर १५ तारिख । नेपाल संवत् ११४७ । रौद्र संवत्सर । दक्षिणायन । शरद ऋतु । श्रीशाके १९४८ । कार्तिक शुक्लपक्ष । तिथि–षष्ठी,"
+    },
+    {
+      "id": "87e0c107044cabf9",
+      "title": "बङ्गुरपालनबाट मनग्य आम्दानी",
+      "link": "https://www.ratopati.com/story/605255/generous-income-from-pig-farming",
+      "source": "Ratopati",
+      "sourceUrl": "https://ratopati.com/feed",
+      "pubDate": "2026-11-14T23:12:04+00:00",
+      "categories": [
+        "politics",
+        "sports"
+      ],
+      "image": "https://npcdn.ratopati.com/media/news/5TrQf46KMo.jpg",
+      "images": [
+        "https://npcdn.ratopati.com/media/news/5TrQf46KMo.jpg"
+      ],
+      "description": "नवलपरासी । वैदेशिक रोजगारीका क्रममा करिब १५ वर्ष साउदी अरबमा बसेर फर्किएपछि नवलपुरको मध्यविन्दु–३ ब्रम्हस्थानका नन्दे गुरुङ बङ्गुरपालनमा जुटेका छन् । अरूको देशमा श्रम पसिना बगाउनुभन्दा आफ्नै मुलुकमा केही गर्नुपर्छ भन्ने सोचले नेपाल फर्किएर बङ्गुरपालनमा"
+    },
+    {
+      "id": "1365199558b604f6",
+      "title": "छठ महापर्व नेपाली समाजको अद्वितीय सांस्कृतिक अनुष्ठान: उपराष्ट्रपति यादव",
+      "link": "https://www.ratopati.com/story/605253/chhath-mahaparva-is-a-unique-cultural-ritual-of-nepali-society-vice-president-yadav",
+      "source": "Ratopati",
+      "sourceUrl": "https://ratopati.com/feed",
+      "pubDate": "2026-11-14T22:30:00+00:00",
+      "categories": [
+        "politics",
+        "sports"
+      ],
+      "image": "https://npcdn.ratopati.com/media/news/ramsahaya-yadav_zl2AHwzms4.jpg",
+      "images": [
+        "https://npcdn.ratopati.com/media/news/ramsahaya-yadav_zl2AHwzms4.jpg"
+      ],
+      "description": "काठमाडौँ । उपराष्ट्रपति रामसहायप्रसाद यादवले छठ पर्वले पारस्परिक सम्मान, सहिष्णुता, सद्भाव र एकताको भावना अभिवृद्धि गर्न महत्त्वपूर्ण भूमिका खेलेको बताएका छन् । छठ महापर्व, २०८३ का अवसरमा आज शुभकामना दिँदै उपराष्ट्रपति यादवले हिमाल, पहाड र मधेसका"
+    },
+    {
+      "id": "f82a902421f693d6",
+      "title": "कार्तिक शुक्ल षष्ठी : जलाशयमा उभिएर अस्ताउँदो सूर्यलाई सन्ध्या अर्घ्य अर्पण गरिँदै",
+      "link": "https://www.ratopati.com/story/605250/kartik-shukla-shashthi-offering-evening-arghya-to-the-setting-sun-while-standing-in-a-reservoir",
+      "source": "Ratopati",
+      "sourceUrl": "https://ratopati.com/feed",
+      "pubDate": "2026-11-14T22:15:00+00:00",
+      "categories": [
+        "politics",
+        "sports"
+      ],
+      "image": "https://npcdn.ratopati.com/media/news/chhath_62bp0sEc5k.jpg",
+      "images": [
+        "https://npcdn.ratopati.com/media/news/chhath_62bp0sEc5k.jpg"
+      ],
+      "description": "काठमाडौँ । हिन्दु धर्मावलम्बीहरूको प्रमुख आस्था, श्रद्धा र प्रकृतिपूजासँग सम्बन्धित महान् पर्व छठ आज सूर्य भगवानको विधिपूर्वक पूजाआराधना गरी धुमधामका साथ मनाइँदै छ । विशेषगरी नेपाल तथा भारतका हिन्दु समुदायले नेपालीहरूको दोस्रो ठुलो चाड तिहार"
+    },
+    {
+      "id": "d19dfe269b526d70",
+      "title": "नेसन्स लिगमा डेनमार्कसँग पोर्चुगल ४–१ गोलले पराजित",
+      "link": "https://www.ratopati.com/story/605252/portugal-defeated-4-1-by-denmark-in-the-nations-league",
+      "source": "Ratopati",
+      "sourceUrl": "https://ratopati.com/feed",
+      "pubDate": "2026-11-14T22:14:51+00:00",
+      "categories": [
+        "politics",
+        "sports"
+      ],
+      "image": "https://npcdn.ratopati.com/media/news/portugal-7_NJ9xjM4iqu.webp",
+      "images": [
+        "https://npcdn.ratopati.com/media/news/portugal-7_NJ9xjM4iqu.webp"
+      ],
+      "description": "काठमाडौँ । युइएफए नेसन्स लिग अन्तर्गत समूह चरणको खेलमा डेनमार्कले पोर्चुगलमाथि ४–१ गोलको फराकिलो जित हात पारेको छ । ब्रागास्थित ‘इस्टाडियो म्युनिसिपल’ रङ्गशालामा सम्पन्न समूह ‘डी’ को पाँचौँ खेलमा उत्कृष्ट प्रदर्शन गर्दै दोस्रो स्थानमा रहेको"
+    },
+    {
+      "id": "4ba98e68f4602820",
+      "title": "दशौँ राष्ट्रिय खेलकुद: कुस्तीतर्फ सुदूरबाट १८ खेलाडी छनोट",
+      "link": "https://www.ratopati.com/story/605251/10th-national-games-18-players-selected-from-far-away-for-wrestling",
+      "source": "Ratopati",
+      "sourceUrl": "https://ratopati.com/feed",
+      "pubDate": "2026-11-14T21:16:51+00:00",
+      "categories": [
+        "politics",
+        "sports"
+      ],
+      "image": "https://npcdn.ratopati.com/media/news/kusti-14_ou5VEe2IEV.webp",
+      "images": [
+        "https://npcdn.ratopati.com/media/news/kusti-14_ou5VEe2IEV.webp"
+      ],
+      "description": "महेन्द्रनगर । कर्णाली प्रदेशको सुर्खेतमा हुने दशौँ बृहत् राष्ट्रिय खेलकुद प्रतियोगिताअन्तर्गत सुदूरपश्चिम प्रदेशबाट कुस्तीतर्फ १८ खेलाडी छनोट भएका छन् । कञ्चनपुरको महेन्द्रनगरमा शनिबार भएको कुस्ती खेलको सुदूरपश्चिम प्रदेशस्तरीय छनोट प्रतियोगिताबाट १० पुरुष र १० महिला खेलाडी"
+    },
+    {
+      "id": "8355db9d0f50ca10",
+      "title": "कस्तो रहला यो साताको तपाईंको भाग्य ?",
+      "link": "https://www.ratopati.com/story/605248/how-was-your-luck-this-week",
+      "source": "Ratopati",
+      "sourceUrl": "https://ratopati.com/feed",
+      "pubDate": "2026-11-14T21:15:00+00:00",
+      "categories": [
+        "politics",
+        "sports"
+      ],
+      "image": "https://npcdn.ratopati.com/media/news/horoscope_yWVgb1BJAO.jpg",
+      "images": [
+        "https://npcdn.ratopati.com/media/news/horoscope_yWVgb1BJAO.jpg"
+      ],
+      "description": "कार्तिक २९ गते आइतबारदेखि मंसिर ५ गते शनिबारसम्मको साप्ताहिक राशिफल । मेष(चू,चे,चो,ला,लि,लू,ले,लो,अ) व्यवसाय फस्टाएर जानेछ भने दैनिक कारोबार बढ्ने योग रहेको छ । विशिष्ट व्यक्तीहरुको भेटघाटले व्यवसायमा लगानी बढाउन सहयोग पुग्नेछ । सामाजिक क्षेत्रमा तपाईँलाई सबैले"
+    },
     {
       "id": "7dfa393c3a88c249",
       "title": "फुटबल एकेडेमी चलाउन सहाराको देउसीभैलो, साढे ११ लाख जुट्यो",
@@ -652,23 +1095,6 @@
       "description": ""
     },
     {
-      "id": "3b2677e9bf94219f",
-      "title": "जलवायु विपद्का पीडितलाई ऋण होइन, अनुदान दिनुपर्ने नेपालको माग",
-      "link": "https://www.ratopati.com/story/605230/nepal-demands-grants-not-loans-for-climate-disaster-victims",
-      "source": "Ratopati",
-      "sourceUrl": "https://ratopati.com/feed",
-      "pubDate": "2026-11-14T15:58:53+00:00",
-      "categories": [
-        "politics",
-        "sports"
-      ],
-      "image": "https://npcdn.ratopati.com/media/news/agg_nVpdDOdPXb.webp",
-      "images": [
-        "https://npcdn.ratopati.com/media/news/agg_nVpdDOdPXb.webp"
-      ],
-      "description": "काठमाठौँ । कृषि, वन तथा पर्यावरणमन्त्री गीता चौधरीले जलवायु परिवर्तनबाट प्रभावित तथा जोखिममा रहेका देशलाई हानि तथा नोक्सानी कोषमार्फत ऋण नभई अनुदान उपलब्ध गराउन माग गरेकी छन् । टर्किएमा जारी जलवायु परिवर्तनसम्बन्धी संयुक्त राष्ट्रसङ्घीय सम्मेलन (कोप–३१)"
-    },
-    {
       "id": "5992d6aab533d764",
       "title": "एनपिएलः विराटनगरविरुद्ध लुम्बिनीको जित, प्लेअफ समीकरण पूरा",
       "link": "https://www.thahakhabar.com/detail/311912",
@@ -702,40 +1128,6 @@
       "description": "हारसंगै विराटनगर बाहिरिएको छ।"
     },
     {
-      "id": "792e3e94ec24ae5b",
-      "title": "रुसको अन्तरिक्ष अभियानमा निजी क्षेत्रको फड्को, दुई उपग्रह प्रक्षेपण",
-      "link": "https://www.ratopati.com/story/605229/private-sector-makes-leap-in-russias-space-mission-launches-two-satellites",
-      "source": "Ratopati",
-      "sourceUrl": "https://ratopati.com/feed",
-      "pubDate": "2026-11-14T15:56:37+00:00",
-      "categories": [
-        "politics",
-        "sports"
-      ],
-      "image": "https://npcdn.ratopati.com/media/news/satalite_e4x8NHUl0L.webp",
-      "images": [
-        "https://npcdn.ratopati.com/media/news/satalite_e4x8NHUl0L.webp"
-      ],
-      "description": "रुसले शनिबार सुदूरपूर्वी क्षेत्रमा रहेको भोस्तोच्नी अन्तरिक्ष केन्द्रबाट ‘सोयुज–२.१बी’ रकेटमार्फत निजी क्षेत्रका कम्पनीले विकास गरेका दुई पृथ्वी अवलोकन उपग्रह प्रक्षेपण गरेको छ । रुसको राष्ट्रिय अन्तरिक्ष परियोजनाअन्तर्गत निजी क्षेत्रका उपग्रह प्रक्षेपणका लागि सरकारी अनुदान प्राप्त भएको"
-    },
-    {
-      "id": "c2890226645df5ab",
-      "title": "सैन्य द्वन्द्वपछि पहिलोपटक पाकिस्तानी मन्त्री भारत जाने",
-      "link": "https://www.ratopati.com/story/605228/pakistani-minister-to-visit-india-for-first-time-since-military-conflict",
-      "source": "Ratopati",
-      "sourceUrl": "https://ratopati.com/feed",
-      "pubDate": "2026-11-14T15:54:47+00:00",
-      "categories": [
-        "politics",
-        "sports"
-      ],
-      "image": "https://npcdn.ratopati.com/media/news/malik_1r8jRLZbZW.webp",
-      "images": [
-        "https://npcdn.ratopati.com/media/news/malik_1r8jRLZbZW.webp"
-      ],
-      "description": "इस्लामावाद । पाकिस्तानले आगामी साता भारतमा आयोजना हुने क्षेत्रीय सम्मेलनमा सहभागी हुन एक मन्त्रीलाई नयाँदिल्ली पठाउने भएको छ । इस्लामाबादले शनिबार यसको पुष्टि गरेको हो । गत वर्ष दुई देशबीच चार दिनसम्म सैन्य द्वन्द्व भएयता"
-    },
-    {
       "id": "1345da997adfbfaf",
       "title": "जनकपुरधाम–अयोध्याबीच रेल सञ्चालन निश्चित, बालेन र मोदीले उद्घाटन गर्ने",
       "link": "https://himalpress.com/2026/11/janakpurdham-ayodhya-train-operation-confirmed-balen-and-modi-to-inaugurate/",
@@ -750,23 +1142,6 @@
       "image": "",
       "images": [],
       "description": "जनकपुरधाम – जनकपुरधाम र भारतको अयोध्याबीच ‘वन्दे भारत एक्सप्रेस’ रेल सञ्चालन हुने भएको छ। आगामी नोभेम्बर २३ तारेखदेखि जनकपुरधाम र अयोध्याबीच साप्ताहिक रेल सञ्चालन हुने भएको हो। प्रधानमन्त्री वालेन्द्र शाह र भारतीय प्रधानमन्त्री नरेन्द्र मोदीले भिडियो कन्फ्रेन्समार्फत रेल सेवाको उद्घाटन गर्ने लखनउ मण्डल रेल प्रबन्धकले जनाएका छन्। उनका अनुसार दुवै देशका प्रधानमन्त्रीले हरियो झण्डा देखाएर […]"
-    },
-    {
-      "id": "c7402bfcc959bb45",
-      "title": "अन्तिम ओभरमा राम्रो गर्न सकेनौँ, ओस र फिल्डिङले पनि असर गर्‍यो : असलंका",
-      "link": "https://www.ratopati.com/story/605227/we-didnt-do-well-in-the-last-over-humidity-and-fielding-also-affected-us-aslanka",
-      "source": "Ratopati",
-      "sourceUrl": "https://ratopati.com/feed",
-      "pubDate": "2026-11-14T15:53:49+00:00",
-      "categories": [
-        "politics",
-        "sports"
-      ],
-      "image": "https://npcdn.ratopati.com/media/news/asalanka_PKGidu9FrQ.webp",
-      "images": [
-        "https://npcdn.ratopati.com/media/news/asalanka_PKGidu9FrQ.webp"
-      ],
-      "description": "काठमाडौँ । नेपाल प्रिमियर लिग (एनपीएल) मा लुम्बिनी लायन्ससँग ४ विकेटले पराजित भएपछि विराटनगर किङ्ग्सका कप्तान चारिथ असलंकाले अन्तिम ओभरमा राम्रो बलिङ गर्न नसक्दा हार बेहोर्नुपरेको बताएका छन् । खेलपछि सञ्चारकर्मीसँग कुरा गर्दै असलंकाले आफ्नो टोलीले"
     },
     {
       "id": "3dc16597f9287979",
@@ -816,23 +1191,6 @@
       "image": "",
       "images": [],
       "description": "KATHMANDU: Khabarhub brings you a glimpse of major developments of the day in Nepal, including politics, business/economy, sports, entertainment, and more. NPL: Lumbini defeat Biratnagar by four wickets Lumbini Lions defeated Biratnagar Kings by four wickets to climb to the top of the points table and secure a place in the Qualifiers of the Nepal […]"
-    },
-    {
-      "id": "027095e0e71d0c31",
-      "title": "एक–दुई बाउन्ड्रीले खेलको मुहार फेरियो : सन्दीप जोरा",
-      "link": "https://www.ratopati.com/story/605225/one-or-two-boundaries-changed-the-face-of-the-game-sandeep-jora",
-      "source": "Ratopati",
-      "sourceUrl": "https://ratopati.com/feed",
-      "pubDate": "2026-11-14T15:44:33+00:00",
-      "categories": [
-        "politics",
-        "sports"
-      ],
-      "image": "https://npcdn.ratopati.com/media/news/sandip-jora_BIxtbYyxtD.webp",
-      "images": [
-        "https://npcdn.ratopati.com/media/news/sandip-jora_BIxtbYyxtD.webp"
-      ],
-      "description": "काठमाडौं । नेपाल प्रिमियर लिग (एनपीएल) मा लुम्बिनी लायन्सले विराटनगर किङ्ग्सलाई ४ विकेटले पराजित गर्दै क्वालिफायरमा स्थान बनाएको छ । जितपछि लुम्बिनीका ब्याटर सन्दीप जोराले टी–२० क्रिकेटमा एक–दुई बाउन्ड्रीले नै खेलको अवस्था परिवर्तन गर्न सक्ने"
     },
     {
       "id": "47f4671618458dd8",
@@ -939,23 +1297,6 @@
       "image": "",
       "images": [],
       "description": "छठपर्वमा अस्ताउँदो र उदाउँदो सूर्यदेवलाई अघ्र्य अर्पण गर्दा उखु चढाउने धार्मिक परम्परा रहेकाले यस पर्वमा उखुको विशेष महत्व रहेको छ ।"
-    },
-    {
-      "id": "bf9a43d4f02a2886",
-      "title": "फिल्म प्रचारमा कलाकार पक्राउको 'स्टन्ट', आलोचना भएपछि निर्माण टिमको स्पष्टीकरण",
-      "link": "https://www.ratopati.com/story/605224/the-production-teams-stunt-of-arresting-an-actor-during-film-promotion-drew-criticism-and-the-production-team-issued-a-clarification",
-      "source": "Ratopati",
-      "sourceUrl": "https://ratopati.com/feed",
-      "pubDate": "2026-11-14T15:39:52+00:00",
-      "categories": [
-        "politics",
-        "sports"
-      ],
-      "image": "https://npcdn.ratopati.com/media/news/gauri-malla_rIRecKcQuG.webp",
-      "images": [
-        "https://npcdn.ratopati.com/media/news/gauri-malla_rIRecKcQuG.webp"
-      ],
-      "description": "काठमाडौं । नेपाली चलचित्र ‘कलाविकी’को प्रचारका क्रममा कलाकारलाई प्रहरीले पक्राउ गरेको झल्काउने दृश्य तयार गरी सार्वजनिक गरिएको खुलेको छ । चलचित्रको ट्रेलर सार्वजनिक कार्यक्रममा गरिएको उक्त स्टन्टलाई वास्तविक पक्राउ भन्दै भिडियो भाइरल भएपछि निर्माण टिमले स्पष्टीकरण"
     },
     {
       "id": "ee68c917f6149181",
@@ -1097,21 +1438,6 @@
       "description": "अन्ताल्या । नेपाल सरकार र विश्वव्यापी जलवायु समाधान प्रदायक संस्था साउथ पोलबीच कोशी, कर्णाली र सुदूरपश्चिम प्रदेशका २५ लाख हेक्टरभन्दा बढी वन क्षेत्रमा कार्बन कार्यक्रम विकास गर्ने सहमति भएको छ । कोप–३१ का अवसरमा कृषि, वन तथा पर्यावरण मन्त्रालय र साउथ पोलबीच आज भएको सहमतिअनुसार क्षेत्रगत वन कार्बन कार्यक्रम (जे–रेड्ड प्लस) विकास गरिनेछ । सुरुमा […]"
     },
     {
-      "id": "2161f6df264b2a85",
-      "title": "एनपीएलको प्लेअफ समीकरण पूरा, विराटनगर किंग्स बाहिरियो",
-      "link": "https://www.dainiknepal.com/2026/11/850249.html",
-      "source": "Dainik Nepal",
-      "sourceUrl": "https://dainiknepal.com/feed",
-      "pubDate": "2026-11-14T15:18:40+00:00",
-      "categories": [
-        "politics",
-        "sports"
-      ],
-      "image": "",
-      "images": [],
-      "description": "काठमाडौं । नेपाल प्रिमियर लिग (एनपीएल)अन्तर्गत लुम्बिनी लायन्सले विराटनगर किंग्सलाई ४ विकेटले पराजित गरेको छ । शनिबार साँझ त्रिवि क्रिकेट मैदानमा विराटनगरले दिएको १६७ रनको लक्ष्य पछ्याएको लुम्बिनीले १९.५ ओभरमा ६ विकेट गुमाउँदै लक्ष्य पूरा गरेको हो । हारसँगै विराटनगर प्रतियोगिताबाट बाहिरिएको छ । जितपछि लुम्बिनी शीर्ष स्थानमा रहँदै पहिलो क्वालिफायर्स खेल्ने भएको छ । […]"
-    },
-    {
       "id": "a37f758ba76d39ad",
       "title": "लुम्बिनीसँग हारेपछि विराटनगर प्लेअफबाट बाहिरियो",
       "link": "https://rajdhanidaily.com/id/151438/",
@@ -1142,23 +1468,6 @@
       "image": "",
       "images": [],
       "description": "यसअघि शुक्रबार तीन हजार ६२३ जना भक्तजनले पाथीभरामा दर्शन गरेका थिए ।"
-    },
-    {
-      "id": "6875925b560e4f06",
-      "title": "लुम्बिनीको रोमाञ्चक जितसँगै एनपीएल प्लेअफ समीकरण पूरा",
-      "link": "https://www.ratopati.com/story/605223/npl-playoff-equation-complete-with-lumbinis-thrilling-win",
-      "source": "Ratopati",
-      "sourceUrl": "https://ratopati.com/feed",
-      "pubDate": "2026-11-14T15:16:33+00:00",
-      "categories": [
-        "politics",
-        "sports"
-      ],
-      "image": "https://npcdn.ratopati.com/media/news/lumbini-lions_m0o36getaS.webp",
-      "images": [
-        "https://npcdn.ratopati.com/media/news/lumbini-lions_m0o36getaS.webp"
-      ],
-      "description": "काठमाडौँ । नेपाल प्रिमियर लिग (एनपीएल) अन्तर्गत शनिबार भएको रोमाञ्चक खेलमा लुम्बिनी लायन्सले महत्त्वपूर्ण जित निकाल्दै प्रतियोगिताको प्लेअफ समीकरण पूरा गरेको छ । लुम्बिनीको यो जितसँगै विराटनगर किंग्सको प्लेअफमा पुग्ने सम्भावना समाप्त भएको छ । त्रिवि क्रिकेट"
     },
     {
       "id": "abb38356b0ad60bd",
@@ -1340,23 +1649,6 @@
       "description": ""
     },
     {
-      "id": "44a9603625a84909",
-      "title": "रोमाञ्चक जित निकाल्दै लुम्बिनी क्वालिफायरमा, काठमान्डु र चितवन पनि प्लेअफमा",
-      "link": "https://www.ratopati.com/story/605222/lumbini-scores-thrilling-win-kathmandu-and-chitwan-advance-to-playoffs",
-      "source": "Ratopati",
-      "sourceUrl": "https://ratopati.com/feed",
-      "pubDate": "2026-11-14T15:00:56+00:00",
-      "categories": [
-        "politics",
-        "sports"
-      ],
-      "image": "https://npcdn.ratopati.com/media/news/lumbini-win_j6SUdwLABj.webp",
-      "images": [
-        "https://npcdn.ratopati.com/media/news/lumbini-win_j6SUdwLABj.webp"
-      ],
-      "description": "काठमाडौँ । विराटनगर किंग्सविरुद्ध लुम्बिनी लाइन्सले ४ विकेटको रोमाञ्चक जित निकालेको छ । शनिबार त्रिवि क्रिकेट मैदानमा विराटनगरले दिएको १६७ रनको लक्ष्य लुम्बिनीले एक बल बाँकी छँदै भेट्टायो । लुम्बिनीको जितमा अलि शेख र सन्दीप जोरा नायक"
-    },
-    {
       "id": "b3b45ee3f8283c45",
       "title": "लुम्बिनी जितसहित शीर्ष स्थानमा, काठमाण्डु र चितवन पनि प्लेअफमा",
       "link": "https://www.nepalviews.com/story/427989/lumbini-tops-the-standings-with-a-win-kathmandu-and-chitwan-also-in-the-playoffs",
@@ -1391,23 +1683,6 @@
       "description": "जनकपुरधाम- राष्ट्रिय स्वतन्त्र पार्टी (रास्वपा) सभापति रवि लामिछाने र उनकी पत्नी निकिता पौडेलले जनकपुरधाममा छठ पर्वको खरना पूजा गरेका छन्। जनकपुरधाम–२ शिव चोकस्थित नरेश साहको घरमा लामिछाने दम्पतीले खरना पूजा गरेका हुन्। चार दिनसम्म मनाइने छठ पर्वको दोस्रो दिन खरना पूजा गरिन्छ। खरनालाई छठ पर्वको प्रमुख विधिको रुपमा लिइन्छ। लामिछाने दम्पतीले सम्पूर्ण विधि तथा प्रतिष्ठानअनुसार […]"
     },
     {
-      "id": "27481a46eef02525",
-      "title": "क्रिकेट मैदानबाट जलवायु न्यायको सन्देश : दर्शकदीर्घामा 'क्लाइमेट जस्टिस' ब्यानर",
-      "link": "https://www.ratopati.com/story/605221/a-message-of-climate-justice-from-the-cricket-field-climate-justice-banner-in-the-stands",
-      "source": "Ratopati",
-      "sourceUrl": "https://ratopati.com/feed",
-      "pubDate": "2026-11-14T14:55:11+00:00",
-      "categories": [
-        "politics",
-        "sports"
-      ],
-      "image": "https://npcdn.ratopati.com/media/news/climate-justice_nViVBs3S3o.webp",
-      "images": [
-        "https://npcdn.ratopati.com/media/news/climate-justice_nViVBs3S3o.webp"
-      ],
-      "description": "काठमाडौँ । काठमाडौं । लुम्बिनी लायन्स र विराटनगर किङ्सबिच जारी क्रिकेट खेलका दौरान खेल मैदानको दर्शकदीर्घामा जलवायु न्याय लेखिएको ब्यानर प्रदर्शन गरिएको छ। खेलको रोमाञ्चक वातावरणबिच खेलप्रेमी तथा दर्शकहरूले यसरी ब्यानरमार्फत जलवायु परिवर्तनविरुद्ध सचेतना फैलाउँदै जलवायु न्यायको"
-    },
-    {
       "id": "b9762ef72cca6177",
       "title": "मन्त्रीहरूको विदेश दौडाहा : प्रचार धेरै, उपलब्धि शून्य",
       "link": "https://himalpress.com/2026/11/ministers-foreign-trips-lots-of-publicity-zero-achievements/",
@@ -1422,22 +1697,6 @@
       "image": "",
       "images": [],
       "description": "काठमाडौँ- हाम्रा मन्त्री र सांसदहरूको विदेश भ्रमणलाई सहभागिता, भेटघाट, तस्बिर र सामाजिक सञ्जालको गतिविधिबाट मापन गर्दा देशमा ठूलै उपलब्धि गराए झै देखिन्छ। अझ परराष्ट्रमन्त्री शिशिर खनालका तस्बिर भावभङ्गी नियाल्दा उनले भारतका समकक्षी जयश‌ंकर भन्दा पनि माथिल्ला स्तरको कूटनीतिक छविबनाए झै देखिन्छ। वास्तविकता नियाल्दा उनले प्रधानमन्त्री वालेन्द्र शाहलाई समेत भ्रममा राख्न सफल भएको एक मन्त्रीका रूपमा […]"
-    },
-    {
-      "id": "f7187928c293fd2c",
-      "title": "चिटिक्कै कमलपोखरी ! (तस्बिरहरू)",
-      "link": "https://baahrakhari.com/detail/507317",
-      "source": "Baahrakhari",
-      "sourceUrl": "https://baahrakhari.com/feed",
-      "pubDate": "2026-11-14T14:50:00+00:00",
-      "categories": [
-        "politics",
-        "business",
-        "society"
-      ],
-      "image": "",
-      "images": [],
-      "description": ""
     },
     {
       "id": "39f7363f8033126f",
@@ -1456,23 +1715,6 @@
       "image": "",
       "images": [],
       "description": "२८ कात्तिक, जनकपुरधाम । सरकारले जनकपुरधामस्थित महेन्द्र नारायण निधि मिथिला सांस्कृतिक भवन राजर्षी जनक विश्वविद्यालयलाई हस्तान्तरण गरेको छ । सरकारको निर्णयअनुसार भवनका सम्पूर्ण भौतिक संरचना विश्वविद्यालयलाई हस्तान्तरण गरिएको हो । भवन प्राप्त भएसँगै स्थापनाको नौ वर्षदेखि भाडाको घरबाट सञ्चालन हुँदै आएको विश्वविद्यालयले आफ्नै शैक्षिक तथा प्रशासनिक गतिविधि सञ्चालन गर्ने पूर्वाधार पाएको छ । विश्वविद्यालय र […]"
-    },
-    {
-      "id": "a47bb916f2052f70",
-      "title": "‘मलाई कहिल्यै राजनीतिप्रति रुचि थिएन’",
-      "link": "https://www.ratopati.com/story/605208/i-was-never-interested-in-politics",
-      "source": "Ratopati",
-      "sourceUrl": "https://ratopati.com/feed",
-      "pubDate": "2026-11-14T14:43:23+00:00",
-      "categories": [
-        "politics",
-        "sports"
-      ],
-      "image": "https://npcdn.ratopati.com/media/news/soniya-gandhi_cCDUm9NSiR.webp",
-      "images": [
-        "https://npcdn.ratopati.com/media/news/soniya-gandhi_cCDUm9NSiR.webp"
-      ],
-      "description": "राजीव नरहेपछि मेरो वरिपरिको हरेक कुराले मेरो पीडालाई प्रतिध्वनित गरिरह्यो । उनको सम्झनासँग जोडिएका कामहरूमा मैले केही सान्त्वना पाउँथेँ । तर सार्वजनिक कार्यक्रममा उपस्थित हुनुपर्ने अवस्था आउँदा आफ्नै कमजोरीसँग सामना गर्नुपथ्र्यो । त्यस्ता कार्यक्रमहरूबाट पन्छिन"
     },
     {
       "id": "f2f3a2b3ab9da17d",
@@ -1521,39 +1763,6 @@
       "image": "",
       "images": [],
       "description": "Dhanusha, Nov 14: Chairman of the Rastriya Swatantra Party (RSP), Rabi Lamichhane, has clarified that there is no disput..."
-    },
-    {
-      "id": "93d138f3cd136b27",
-      "title": "विराटनगरलाई पाँचौँ सफलता, रोहित पौडेल ९ रनमै आउट",
-      "link": "https://www.ratopati.com/story/605220/biratnagarpalis-fifth-success-rohit-poudel-out-for-9-runs",
-      "source": "Ratopati",
-      "sourceUrl": "https://ratopati.com/feed",
-      "pubDate": "2026-11-14T14:33:20+00:00",
-      "categories": [
-        "politics",
-        "sports"
-      ],
-      "image": "https://npcdn.ratopati.com/media/news/brt_bNPwN4eZ96.webp",
-      "images": [
-        "https://npcdn.ratopati.com/media/news/brt_bNPwN4eZ96.webp"
-      ],
-      "description": "काठमाडौँ । लुम्बिनी लायन्सले पाँचौँ विकेट गुमाएको छ । रोहित पौडेल ७ बलमा ९ रन बनाएर आउट भएका छन् । पाँच विकेट गुमाएसँगै लुम्बिनीको ब्याटिङ अर्डर धर्मराएको छ । त्रिवि क्रिकेट मैदानमा लुम्बिनी लायन्सविरुद्ध टस हारेर पहिला"
-    },
-    {
-      "id": "4909eb0fc50ef2b3",
-      "title": "मलाई अब केही बन्नु छैन, पार्टीका निम्ति अन्तिम सास रहुन्जेलसम्म संघर्ष गर्छु : देउवा",
-      "link": "https://baahrakhari.com/detail/507316",
-      "source": "Baahrakhari",
-      "sourceUrl": "https://baahrakhari.com/feed",
-      "pubDate": "2026-11-14T14:32:12+00:00",
-      "categories": [
-        "politics",
-        "business",
-        "society"
-      ],
-      "image": "",
-      "images": [],
-      "description": ""
     },
     {
       "id": "4be66e8107dc932f",
@@ -2541,23 +2750,6 @@
       "description": "आजको खेलमा ६ खेलमा तीन जित र तीन हारसहित ६ अंक रहेको विराटनगर प्लेअफमा पुग्न जित्नैपर्ने दबाबमा छ ।"
     },
     {
-      "id": "8e924077029b0406",
-      "title": "Foreign Minister returns home after attending UN Climate Change Conference",
-      "link": "https://risingnepaldaily.com/news/88607",
-      "source": "The Rising Nepal",
-      "sourceUrl": "https://risingnepaldaily.com/rss",
-      "pubDate": "2026-11-14T10:36:05+00:00",
-      "categories": [
-        "politics",
-        "business",
-        "world",
-        "sports"
-      ],
-      "image": "",
-      "images": [],
-      "description": "Kathmandu, Nov 14: Minister for Foreign Affairs, Shisir Khanal, returned home today after attending the United Nations C..."
-    },
-    {
       "id": "62c40123d8e2d26c",
       "title": "आन्दोलन र निर्वाचनको तयारी सँगसँगै अघि बढाउँछौँ : ओली",
       "link": "https://www.nepalviews.com/story/427978/we-will-move-forward-with-preparations-for-the-movement-and-elections-simultaneously-oli",
@@ -2716,23 +2908,6 @@
       "description": "विराटनगर। प्रधानमन्त्री बालेन्द्र शाहको भारत भ्रमणमा जुटका सामानमा अचानक लगाएको एन्टी डम्पिङ ड्युटी (एडीडी) घटाउने मुद्दालाई प्रमुखताका साथ उठाउन उद्योगीले माग राखेका छन्। ११ अर्ब रुपैयाँको निकासी प्रभावित भएको भन्दै प्रधानमन्त्री शाहले प्रमुखताका साथ उठाउनुपर्ने माग उनीहरुको हो। भारतले मध्यावधि समीक्षा गर्दै गत असोज ९ मा नेपालका जुट उत्पादनमा लाग्दै आएको एडीडी ५६ गुणासम्म वृद्धि […] The post बालेनको भारत भ्रमणमा ११ अर्बको जुटको मुद्दा उठाउन उद्योगीको जोडबल, २० हजार किसानको भविष्य संकटमा appeare"
     },
     {
-      "id": "a72c1a8f7824a620",
-      "title": "NCRC appeals for support Bhotekoshi flood-affected children",
-      "link": "https://risingnepaldaily.com/news/88606",
-      "source": "The Rising Nepal",
-      "sourceUrl": "https://risingnepaldaily.com/rss",
-      "pubDate": "2026-11-14T09:51:03+00:00",
-      "categories": [
-        "politics",
-        "business",
-        "world",
-        "sports"
-      ],
-      "image": "",
-      "images": [],
-      "description": "Kathmandu, Nov 14: The National Child Rights Council has invited charitable organizations and individuals to apply to ta..."
-    },
-    {
       "id": "9aa7af6381e59a93",
       "title": "मधेशका मुख्यमन्त्री कृष्णप्रसाद यादवद्वारा राजीनामा",
       "link": "https://newsofnepal.com/2026/11/14/793901/",
@@ -2767,23 +2942,6 @@
         "https://nepalviews.cdnsolution.net/en/media/setting/banner_FHsSzcWYKk.jpg"
       ],
       "description": ""
-    },
-    {
-      "id": "6ed80e26e06a077b",
-      "title": "Madhesh Province CM Yadav resigns",
-      "link": "https://risingnepaldaily.com/news/88605",
-      "source": "The Rising Nepal",
-      "sourceUrl": "https://risingnepaldaily.com/rss",
-      "pubDate": "2026-11-14T09:46:41+00:00",
-      "categories": [
-        "politics",
-        "business",
-        "world",
-        "sports"
-      ],
-      "image": "",
-      "images": [],
-      "description": "Janakpurdham, Nov 14:Chief Minister of the Madhesh Province, Krishna Prasad Yadav, has resigned from his post amid indic..."
     },
     {
       "id": "7879986021037cd3",
@@ -3078,40 +3236,6 @@
         "https://newsofnepal.com/wp-content/uploads/2026/11/1794641084-3wart_xdgGdh0PDd-150x150.webp"
       ],
       "description": "काठमाडौँ । नेकपा (एमाले) का सचिव महेश बस्नेतले एमाले नेतृत्वको सरकारले गरेका विकास निर्माण र समृद्धिका कामलाई वैकल्पिक शक्ति दाबी गर्नेहरूले चुनौती दिन नसक्ने बताएका छन्। शनिबार च्यासलमा आयोजित एमाले बागमती प्रदेश कमिटीको बैठकलाई सम्बोधन गर्दै बस्नेतले नेपालको विकासमा एमालेको योगदान ऐतिहासिक रहेको दाबी गरे। उनले केपी शर्मा ओली नेतृत्वको सरकारको नीतिगत पहलमा ३ हजार […]"
-    },
-    {
-      "id": "4c50e32692cdda4b",
-      "title": "Lamichhane directs RSP lawmakers to make China visit productive",
-      "link": "https://risingnepaldaily.com/news/88604",
-      "source": "The Rising Nepal",
-      "sourceUrl": "https://risingnepaldaily.com/rss",
-      "pubDate": "2026-11-14T08:15:00+00:00",
-      "categories": [
-        "politics",
-        "business",
-        "world",
-        "sports"
-      ],
-      "image": "",
-      "images": [],
-      "description": "Kathmandu, Nov 14: President of Rastriya Swatantra Party (RSP), Rabi Lamichhane, has directed lawmakers travelling to Ch..."
-    },
-    {
-      "id": "8c064c49b39432b3",
-      "title": "UN Secretary-General emphasizes on cutting emissions of greenhouse gas",
-      "link": "https://risingnepaldaily.com/news/88603",
-      "source": "The Rising Nepal",
-      "sourceUrl": "https://risingnepaldaily.com/rss",
-      "pubDate": "2026-11-14T08:10:41+00:00",
-      "categories": [
-        "politics",
-        "business",
-        "world",
-        "sports"
-      ],
-      "image": "",
-      "images": [],
-      "description": "Antalya (Turkiye), Nov 14: United Nations (UN) Secretary-General Antonio Guterres has emphasized on urgent and widesprea..."
     },
     {
       "id": "75fedff7ba69a220",
@@ -3556,60 +3680,6 @@
       "description": "काठमाडौँ- कालिमाटी फलफूल तथा तरकारी बजार विकास समितिले आजका लागि कृषि उपजको थोक मूल्य सार्वजनिक गरेको छ। समितिले सार्वजनिक गरेको मूल्यसूचीअनुसार गोलभेँडा ठूलो (नेपाली) प्रतिकिलो रु ७०, गोलभेँडा ठूलो (भारतीय) प्रतिकिलो रु ७०, गोलभेँडा सानो (लोकल) प्रतिकिलो रु २५, गोलभेँडा सानो (टनेल) प्रतिकिलो रु ४५, गोलभेँडा सानो (तराई) प्रतिकिलो रु ४५, आलु रातो (लाम्चो) प्रतिकिलो […]"
     },
     {
-      "id": "dd687e7fc29785cf",
-      "title": "अमेरिकामा राष्ट्रव्यापी उडान प्रतिबन्ध हट्यो, झन्डै ५ हजार उडान रद्द; हजारौँ यात्रु अलपत्र",
-      "link": "https://newsofnepal.com/2026/11/14/793878/",
-      "source": "News of Nepal",
-      "sourceUrl": "https://newsofnepal.com/feed/",
-      "pubDate": "2026-11-14T04:19:16+00:00",
-      "categories": [
-        "politics",
-        "business",
-        "sports"
-      ],
-      "image": "https://newsofnepal.com/wp-content/uploads/2026/11/904332013_2955074781513061_3822927781002085738_n-150x150.jpg",
-      "images": [
-        "https://newsofnepal.com/wp-content/uploads/2026/11/904332013_2955074781513061_3822927781002085738_n-150x150.jpg"
-      ],
-      "description": "एजेन्सी । अमेरिकामा हवाई ट्राफिक नियन्त्रण प्रणालीमा देखिएको गम्भीर सञ्चार अवरोधका कारण शुक्रबार लगाइएको राष्ट्रव्यापी उडान प्रतिबन्ध हटाइएको छ। अमेरिकी संघीय उड्डयन प्रशासन (एफएए) ले शुक्रबार साँझ करिब ८ः१५ बजे (स्थानीय समय) प्रतिबन्ध हटाएसँगै विमानस्थलबाट उडान पुनः सुरु गर्ने बाटो खुलेको हो। तर, प्रतिबन्ध हटे पनि हवाई सेवा तत्काल सामान्य अवस्थामा फर्किन सकेको छैन। हजारौँ […]"
-    },
-    {
-      "id": "9c06571bc388837c",
-      "title": "मिथिलामा छठको उल्लास, आज दोस्रो दिन खरना विधि गरिँदै",
-      "link": "https://newsofnepal.com/2026/11/14/793875/",
-      "source": "News of Nepal",
-      "sourceUrl": "https://newsofnepal.com/feed/",
-      "pubDate": "2026-11-14T04:16:35+00:00",
-      "categories": [
-        "politics",
-        "business",
-        "sports"
-      ],
-      "image": "https://newsofnepal.com/wp-content/uploads/2026/11/chattha--150x150.png",
-      "images": [
-        "https://newsofnepal.com/wp-content/uploads/2026/11/chattha--150x150.png"
-      ],
-      "description": "काठमाडौं । मधेसको प्राचीन मिथिला क्षेत्रमा छठ पर्वको उल्लास छाएको छ । चार दिने पर्वको दोस्रो दिन आज बर्तालुले श्रद्धा र निष्ठापूर्वक ‘खरना’ विधि गर्दैछन् ।यसअघि शुक्रबार कात्तिक शुक्ल चतुर्थीका दिन ‘नहाय–खाय’ विधि पूरा गर्दै बर्तालुले व्रत सङ्कल्प गरेका थिए । आज पञ्चमीका दिन बिहान स्नान गरी दिनभरि निराहार व्रत बसेका बर्तालुले साँझ चन्द्रदर्शनपछि सख्खर, […]"
-    },
-    {
-      "id": "ddf4d04cc5d8dd4f",
-      "title": "अमेरिकामा उडान पुनः सुरु, तर ढिलाइ र रद्द हुने क्रम जारी",
-      "link": "https://newsofnepal.com/2026/11/14/793872/",
-      "source": "News of Nepal",
-      "sourceUrl": "https://newsofnepal.com/feed/",
-      "pubDate": "2026-11-14T04:11:31+00:00",
-      "categories": [
-        "politics",
-        "business",
-        "sports"
-      ],
-      "image": "https://newsofnepal.com/wp-content/uploads/2026/11/904332013_2955074781513061_3822927781002085738_n-150x150.jpg",
-      "images": [
-        "https://newsofnepal.com/wp-content/uploads/2026/11/904332013_2955074781513061_3822927781002085738_n-150x150.jpg"
-      ],
-      "description": "काठमाडौं । अमेरिकामा दूरसञ्चार प्रणालीमा आएको अवरोधका कारण घण्टौँसम्म रोकिएका आन्तरिक उडान पुनः सञ्चालनमा आएका छन्। तर उडान ढिलाइ र रद्द हुने क्रम भने अझै जारी रहेको छ। अमेरिकी यातायात सचिव सिन डफीले पुरानो हवाई ट्राफिक नियन्त्रण प्रविधि र अत्यधिक भारका कारण राउटरमा समस्या आएको बताएका छन्। उनले प्रणाली स्तरोन्नतिका लागि बजेट उपलब्ध गराउन कंग्रेसलाई […]"
-    },
-    {
       "id": "8d01c793735b87d2",
       "title": "नेपालभर बढ्यो चिसो, यी जिल्लामा तापक्रम माइनसमा",
       "link": "https://himalpress.com/2026/11/cold-weather-has-increased-across-nepal-temperatures-in-these-districts-are-below-zero/",
@@ -3994,24 +4064,6 @@
       "description": "काठमाडौँ- नेपाल मजदुर किसान पार्टीका अध्यक्ष नारायणमान बिजुक्छेले नयाँ पुस्तालाई इतिहास, अग्रजहरूले गरेका संघर्ष र योगदानबारे जानकारी गराउनुपर्ने आवश्यकता औँल्याएका छन्। नेपाल कर्मचारी समाज इन्जिनियरिङ कलेज एकाइ समितिको आयोजनामा राष्ट्रिय तथा अन्तर्राष्ट्रिय समसामयिक राजनीतिक विषयमा आज यहाँ आयोजना गरेको प्रवचन कार्यक्रममा अध्यक्ष बिजुक्छेले भक्तपुरको विकासलाई बुझ्न भक्तपुरको विगतबारे जानकारी लिन आवश्यक रहेको बताए। भक्तपुरमा किसानको […]"
     },
     {
-      "id": "c5d6b7fa7d7c9f3e",
-      "title": "यस्तो छ आजको विदेशी मुद्राको विनिमयदर",
-      "link": "https://www.nepalviews.com/story/427961/this-is-todays-foreign-exchange-rate",
-      "source": "Nepal Views",
-      "sourceUrl": "https://www.nepalviews.com/feed/",
-      "pubDate": "2026-11-14T02:06:34+00:00",
-      "categories": [
-        "politics",
-        "business",
-        "technology"
-      ],
-      "image": "https://nepalviews.cdnsolution.net/en/media/setting/banner_FHsSzcWYKk.jpg",
-      "images": [
-        "https://nepalviews.cdnsolution.net/en/media/setting/banner_FHsSzcWYKk.jpg"
-      ],
-      "description": ""
-    },
-    {
       "id": "3ce31e31499ce422",
       "title": "बाँकेमा सहकारीबाटै हुन्छ धान खरिददेखि प्रशोधनसम्मको काम",
       "link": "https://himalpress.com/2026/11/in-banke-the-work-from-rice-procurement-to-processing-is-done-through-cooperatives/",
@@ -4138,22 +4190,6 @@
       "image": "",
       "images": [],
       "description": "काठमाडौँ- बंगालको खाडीमा नयाँ न्यूनचापीय प्रणाली विकास भइरहेको छ। तर त्यसले नेपालको मौसममा खासै प्रभाव पर्ने सम्भावना नदेखिएको नेपाल मौसम विज्ञान विभाग, मौसम पूर्वानुमान महाशाखाले जनाएको छ। यद्यपि त्यस प्रणालीको नेपाल मौसम विज्ञान विभागले निरन्तर निगरानी गरिरहेको छ। सूचनामा भनिएको छ, ‘हालको मौसम विश्लेषण अनुसार बंगालको खाडीमा विकसित हुँदै गरेको नयाँ न्यूनचापीय प्रणालीले नेपालको मौसममा […]"
-    },
-    {
-      "id": "5397685bc8bfca2e",
-      "title": "बढ्यो काठमाडौँको न्युनतम तापक्रम",
-      "link": "https://himalpress.com/2026/11/kathmandus-minimum-temperature-has-increased/",
-      "source": "Himal Press",
-      "sourceUrl": "https://himalpress.com/feed/",
-      "pubDate": "2026-11-14T00:40:49+00:00",
-      "categories": [
-        "politics",
-        "business",
-        "society"
-      ],
-      "image": "",
-      "images": [],
-      "description": "काठमाडौँ- काठमाडौँ उपत्यकाको प्रारम्भिक न्यूनतम तापक्रम आज (शनिबार) बढेको छ। मौसम पूर्वानुमान महाशाखाका अनुसार आज (शनिबार) बिहान ५:४५ बजे काठमाडौँ उपत्यकाको न्यूनतम तापक्रम १०.९ डिग्री सेल्सियस देखिएको छ। शुक्रबार तापक्रम काठमाडौँ उपत्यकाको न्यूनतम तापक्रम १०.४ डिग्री सेल्सियस थियो। यद्यपि पछि बिहान ८:४५ बजेको अन्तिम मापनमा १०.३ डिग्री सेल्सियस कायम भएको थियो।"
     },
     {
       "id": "7436b7456b701f11",
