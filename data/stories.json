@@ -1,8 +1,407 @@
 {
-  "generatedAt": "2026-11-19T17:40:37.468451+00:00",
-  "sourceItemCount": 336,
-  "storyCount": 322,
+  "generatedAt": "2026-11-19T23:49:01.218131+00:00",
+  "sourceItemCount": 334,
+  "storyCount": 320,
   "stories": [
+    {
+      "id": "9b67e1fd876704b0",
+      "title": "डलरको भाउ घट्यो, युरो, पाउन्ड र स्वीस फ्र्यांकको बढ्यो",
+      "summary": "४ मंसिर, काठमाडौं । नेपाल राष्ट्र बैंकले निर्धारण गरेको विदेशी मुद्राको विनिमयदर अनुसार आज अमेरिकी डलरको भाउ घटेको छ । युरो, पाउन्ड र स्वीस फ्र्यांकको भाउ भने बढेको छ । राष्ट्र बैंकका अनुसार आज अमेरिकी डलर एकको खरिददर १४८ रुपैयाँ ९७ पैसा र बिक्रीदर १४९ रुपैयाँ ५७ पैसा छ । हिजो अमेरिकी डलर एकको खरिददर […]",
+      "publishedAt": "2026-11-19T23:41:24+00:00",
+      "updatedAt": "2026-11-19T23:41:24+00:00",
+      "sourceCount": 1,
+      "languageCount": 1,
+      "sources": [
+        "Online Khabar"
+      ],
+      "categories": [
+        "business",
+        "entertainment",
+        "politics",
+        "sports",
+        "technology"
+      ],
+      "items": [
+        {
+          "id": "4f05c12a2275bdfc",
+          "title": "डलरको भाउ घट्यो, युरो, पाउन्ड र स्वीस फ्र्यांकको बढ्यो",
+          "link": "https://www.onlinekhabar.com/2026/11/2061532/dollar-falls-euro-pound-and-swiss-franc-rise",
+          "source": "Online Khabar",
+          "sourceUrl": "https://www.onlinekhabar.com/feed",
+          "pubDate": "2026-11-19T23:41:24+00:00",
+          "categories": [
+            "politics",
+            "business",
+            "sports",
+            "technology",
+            "entertainment"
+          ],
+          "image": "",
+          "images": [],
+          "description": "४ मंसिर, काठमाडौं । नेपाल राष्ट्र बैंकले निर्धारण गरेको विदेशी मुद्राको विनिमयदर अनुसार आज अमेरिकी डलरको भाउ घटेको छ । युरो, पाउन्ड र स्वीस फ्र्यांकको भाउ भने बढेको छ । राष्ट्र बैंकका अनुसार आज अमेरिकी डलर एकको खरिददर १४८ रुपैयाँ ९७ पैसा र बिक्रीदर १४९ रुपैयाँ ५७ पैसा छ । हिजो अमेरिकी डलर एकको खरिददर […]"
+        }
+      ]
+    },
+    {
+      "id": "0c259f946983063d",
+      "title": "१२ बजे १२ समाचार : भ्रष्टाचार प्रकरणमा तानिँदै नेकपाका नेताहरू, सुनको मूल्य निरन्तर ओरालो",
+      "summary": "काठमाडौँ । रातोपाटीको नियमित प्रस्तुति १२ बजे १२ समाचारमा पाठकवृन्दलाई स्वागत छ । १. सुदूरपश्चिम एनपीएलको फाइनलमा नेपाल प्रिमियर लिग (एनपीएल) को दोस्रो क्वालिफायरमा चितवन राइनोजलाई तीन विकेटले पराजित गर्दै सुदूरपश्चिम रोयल्स फाइनलमा प्रवेश गरेको छ ।",
+      "publishedAt": "2026-11-19T18:15:00+00:00",
+      "updatedAt": "2026-11-19T18:15:00+00:00",
+      "sourceCount": 1,
+      "languageCount": 1,
+      "sources": [
+        "Ratopati"
+      ],
+      "categories": [
+        "politics",
+        "sports"
+      ],
+      "items": [
+        {
+          "id": "775e47eac4ea42b8",
+          "title": "१२ बजे १२ समाचार : भ्रष्टाचार प्रकरणमा तानिँदै नेकपाका नेताहरू, सुनको मूल्य निरन्तर ओरालो",
+          "link": "https://www.ratopati.com/story/606375/12-oclock-12-news-ncp-leaders-being-dragged-into-corruption-cases-gold-prices-continue-to-fall",
+          "source": "Ratopati",
+          "sourceUrl": "https://ratopati.com/feed",
+          "pubDate": "2026-11-19T18:15:00+00:00",
+          "categories": [
+            "politics",
+            "sports"
+          ],
+          "image": "https://npcdn.ratopati.com/media/news/12-baje-template--final_pU1qQsnrxU.jpg",
+          "images": [
+            "https://npcdn.ratopati.com/media/news/12-baje-template--final_pU1qQsnrxU.jpg"
+          ],
+          "description": "काठमाडौँ । रातोपाटीको नियमित प्रस्तुति १२ बजे १२ समाचारमा पाठकवृन्दलाई स्वागत छ । १. सुदूरपश्चिम एनपीएलको फाइनलमा नेपाल प्रिमियर लिग (एनपीएल) को दोस्रो क्वालिफायरमा चितवन राइनोजलाई तीन विकेटले पराजित गर्दै सुदूरपश्चिम रोयल्स फाइनलमा प्रवेश गरेको छ ।"
+        }
+      ]
+    },
+    {
+      "id": "53f8181d63b405a4",
+      "title": "सर्बिया पठाइदिने भन्दै ३० लाखभन्दा बढी ठगी गर्ने युवक पक्राउ",
+      "summary": "",
+      "publishedAt": "2026-11-19T18:10:17+00:00",
+      "updatedAt": "2026-11-19T18:10:17+00:00",
+      "sourceCount": 1,
+      "languageCount": 1,
+      "sources": [
+        "Baahrakhari"
+      ],
+      "categories": [
+        "business",
+        "politics",
+        "society"
+      ],
+      "items": [
+        {
+          "id": "b5eaf58f31d68eff",
+          "title": "सर्बिया पठाइदिने भन्दै ३० लाखभन्दा बढी ठगी गर्ने युवक पक्राउ",
+          "link": "https://baahrakhari.com/detail/507796",
+          "source": "Baahrakhari",
+          "sourceUrl": "https://baahrakhari.com/feed",
+          "pubDate": "2026-11-19T18:10:17+00:00",
+          "categories": [
+            "politics",
+            "business",
+            "society"
+          ],
+          "image": "",
+          "images": [],
+          "description": ""
+        }
+      ]
+    },
+    {
+      "id": "5f78761d2e94f90d",
+      "title": "‘कर्णाली उपेक्षा र उज्यालो’मा परिचर्चा",
+      "summary": "",
+      "publishedAt": "2026-11-19T18:01:25+00:00",
+      "updatedAt": "2026-11-19T18:01:25+00:00",
+      "sourceCount": 1,
+      "languageCount": 1,
+      "sources": [
+        "Baahrakhari"
+      ],
+      "categories": [
+        "business",
+        "politics",
+        "society"
+      ],
+      "items": [
+        {
+          "id": "3bf48c6537c428e9",
+          "title": "‘कर्णाली उपेक्षा र उज्यालो’मा परिचर्चा",
+          "link": "https://baahrakhari.com/detail/507795",
+          "source": "Baahrakhari",
+          "sourceUrl": "https://baahrakhari.com/feed",
+          "pubDate": "2026-11-19T18:01:25+00:00",
+          "categories": [
+            "politics",
+            "business",
+            "society"
+          ],
+          "image": "",
+          "images": [],
+          "description": ""
+        }
+      ]
+    },
+    {
+      "id": "6a5b8a02c35b1846",
+      "title": "काठमाडौंमा मङ्सिर ७ देखि जलवायु कार्य सप्ताह हुदैँ [भिडियो]",
+      "summary": "",
+      "publishedAt": "2026-11-19T18:00:52+00:00",
+      "updatedAt": "2026-11-19T18:00:52+00:00",
+      "sourceCount": 1,
+      "languageCount": 1,
+      "sources": [
+        "Nepal Samaya"
+      ],
+      "categories": [
+        "entertainment",
+        "politics"
+      ],
+      "items": [
+        {
+          "id": "0593dd40daf3bcd5",
+          "title": "काठमाडौंमा मङ्सिर ७ देखि जलवायु कार्य सप्ताह हुदैँ [भिडियो]",
+          "link": "https://nepalsamaya.com/detail/147922",
+          "source": "Nepal Samaya",
+          "sourceUrl": "https://nepalsamaya.com/feed",
+          "pubDate": "2026-11-19T18:00:52+00:00",
+          "categories": [
+            "politics",
+            "entertainment"
+          ],
+          "image": "https://nepalsamaya.com/uploads/posts/photo_b6eaaf11-1795084916.jpg",
+          "images": [
+            "https://nepalsamaya.com/uploads/posts/photo_b6eaaf11-1795084916.jpg"
+          ],
+          "description": ""
+        }
+      ]
+    },
+    {
+      "id": "f51acd5ef84aecdb",
+      "title": "एआईको नियन्त्रण केही प्रविधि कम्पनीको हातमा सीमित हुनु चिन्ताजनक : राष्ट्रसंघ",
+      "summary": "",
+      "publishedAt": "2026-11-19T17:53:00+00:00",
+      "updatedAt": "2026-11-19T17:53:00+00:00",
+      "sourceCount": 1,
+      "languageCount": 1,
+      "sources": [
+        "Baahrakhari"
+      ],
+      "categories": [
+        "business",
+        "politics",
+        "society"
+      ],
+      "items": [
+        {
+          "id": "6b4d9f43675b9de5",
+          "title": "एआईको नियन्त्रण केही प्रविधि कम्पनीको हातमा सीमित हुनु चिन्ताजनक : राष्ट्रसंघ",
+          "link": "https://baahrakhari.com/detail/507794",
+          "source": "Baahrakhari",
+          "sourceUrl": "https://baahrakhari.com/feed",
+          "pubDate": "2026-11-19T17:53:00+00:00",
+          "categories": [
+            "politics",
+            "business",
+            "society"
+          ],
+          "image": "",
+          "images": [],
+          "description": ""
+        }
+      ]
+    },
+    {
+      "id": "0dcf5321a2d2fce8",
+      "title": "सुरक्षण मुद्रण केन्द्रद्वारा राहत कोषमा एक करोड पाँच लाख सहयोग",
+      "summary": "गोरखापत्र अनलाइनकाठमाडौँ, मङ्सिर ३ गते। सूचना तथा सञ्चार मन्त्रालयअन्तर्गत रहेको सुरक्षण मुद्रण केन्द्रले बाढीबाट प्रभावित नागरिकको राहत तथा पुनःस्थापनाका लागि प्रधानमन्त्री राहत क...",
+      "publishedAt": "2026-11-19T17:48:52+00:00",
+      "updatedAt": "2026-11-19T17:48:52+00:00",
+      "sourceCount": 3,
+      "languageCount": 1,
+      "sources": [
+        "Gorkhapatra",
+        "Ratopati",
+        "Thaha Khabar"
+      ],
+      "categories": [
+        "business",
+        "politics",
+        "sports"
+      ],
+      "items": [
+        {
+          "id": "22a119e1a0aa7991",
+          "title": "सुरक्षण मुद्रण केन्द्रद्वारा राहत कोषमा एक करोड पाँच लाख सहयोग",
+          "link": "https://gorkhapatraonline.com/news/229613",
+          "source": "Gorkhapatra",
+          "sourceUrl": "https://gorkhapatraonline.com/rss",
+          "pubDate": "2026-11-19T17:48:52+00:00",
+          "categories": [
+            "politics",
+            "business"
+          ],
+          "image": "https://gorkhapatraonline.com/storage/media/392221/conversions/Mudran-1-original.jpg",
+          "images": [
+            "https://gorkhapatraonline.com/storage/media/392221/conversions/Mudran-1-original.jpg"
+          ],
+          "description": "गोरखापत्र अनलाइनकाठमाडौँ, मङ्सिर ३ गते। सूचना तथा सञ्चार मन्त्रालयअन्तर्गत रहेको सुरक्षण मुद्रण केन्द्रले बाढीबाट प्रभावित नागरिकको राहत तथा पुनःस्थापनाका लागि प्रधानमन्त्री राहत क..."
+        },
+        {
+          "id": "6939f026cbc8b15c",
+          "title": "प्रधानमन्त्री राहत कोषमा एक करोड पाँच लाख सहयोग",
+          "link": "https://www.thahakhabar.com/detail/312203",
+          "source": "Thaha Khabar",
+          "sourceUrl": "https://www.thahakhabar.com/feed",
+          "pubDate": "2026-11-19T16:01:37+00:00",
+          "categories": [
+            "politics",
+            "business",
+            "sports"
+          ],
+          "image": "https://www.thahakhabar.com/uploads/posts/IMG-20261119-WA0011-1795103313.jpg",
+          "images": [
+            "https://www.thahakhabar.com/uploads/posts/IMG-20261119-WA0011-1795103313.jpg"
+          ],
+          "description": ""
+        },
+        {
+          "id": "035f4829955ed8b4",
+          "title": "सुरक्षण मुद्रण केन्द्रद्वारा प्रधानमन्त्री राहत कोषमा एक करोड पाँच लाख सहयोग",
+          "link": "https://www.ratopati.com/story/606364/security-printing-center-contributes-105-million-to-prime-ministers-relief-fund",
+          "source": "Ratopati",
+          "sourceUrl": "https://ratopati.com/feed",
+          "pubDate": "2026-11-19T14:39:48+00:00",
+          "categories": [
+            "politics",
+            "sports"
+          ],
+          "image": "https://npcdn.ratopati.com/media/news/rahat_dCpez2NPlq.webp",
+          "images": [
+            "https://npcdn.ratopati.com/media/news/rahat_dCpez2NPlq.webp"
+          ],
+          "description": "काठमाडौँ । सूचना तथा सञ्चार मन्त्रालयअन्तर्गत रहेको सुरक्षण मुद्रण केन्द्रले बाढीबाट प्रभावित नागरिकको राहत तथा पुनःस्थापनाका लागि प्रधानमन्त्री राहत कोषमा रु. एक करोड पाँच लाख सहयोग गरेको छ । केन्द्रका कार्यकारी निर्देशक देवराज ढुङ्गानाले आज उक्त"
+        }
+      ]
+    },
+    {
+      "id": "2925ef874c6d5fcb",
+      "title": "आगलागीबाट बालआश्रममा एक करोड बढीको क्षति",
+      "summary": "कास्की । कास्कीको पोखरा महानगरपालिका–१६ स्थित अन्नपूर्ण आत्मनिर्भर बालआश्रममा बुधबार साँझ भएको आगलागीबाट रु एक करोडभन्दा बढीको क्षति भएको अनुमान गरिएको छ । आगलागीबाट बालआश्रमको भवनलगायतका संरचना र विभिन्न सामग्रीमा क्षति पुगेको पोखरा–१६ का वडाध्यक्ष अमृत",
+      "publishedAt": "2026-11-19T17:48:17+00:00",
+      "updatedAt": "2026-11-19T17:48:17+00:00",
+      "sourceCount": 2,
+      "languageCount": 1,
+      "sources": [
+        "Ratopati",
+        "Thaha Khabar"
+      ],
+      "categories": [
+        "business",
+        "politics",
+        "sports"
+      ],
+      "items": [
+        {
+          "id": "42d31968d0126bbc",
+          "title": "आगलागीबाट बालआश्रममा एक करोड बढीको क्षति",
+          "link": "https://www.ratopati.com/story/606379/fire-damages-orphanage-by-over-rs-10-million",
+          "source": "Ratopati",
+          "sourceUrl": "https://ratopati.com/feed",
+          "pubDate": "2026-11-19T17:48:17+00:00",
+          "categories": [
+            "politics",
+            "sports"
+          ],
+          "image": "https://rpcdn.ratopati.com/media/albums/kaski_zVE0A1gexY.jpg",
+          "images": [
+            "https://rpcdn.ratopati.com/media/albums/kaski_zVE0A1gexY.jpg"
+          ],
+          "description": "कास्की । कास्कीको पोखरा महानगरपालिका–१६ स्थित अन्नपूर्ण आत्मनिर्भर बालआश्रममा बुधबार साँझ भएको आगलागीबाट रु एक करोडभन्दा बढीको क्षति भएको अनुमान गरिएको छ । आगलागीबाट बालआश्रमको भवनलगायतका संरचना र विभिन्न सामग्रीमा क्षति पुगेको पोखरा–१६ का वडाध्यक्ष अमृत"
+        },
+        {
+          "id": "d19f9123104c252d",
+          "title": "आगलागीबाट बालआश्रममा एक करोड क्षति",
+          "link": "https://www.thahakhabar.com/detail/312202",
+          "source": "Thaha Khabar",
+          "sourceUrl": "https://www.thahakhabar.com/feed",
+          "pubDate": "2026-11-19T15:39:45+00:00",
+          "categories": [
+            "politics",
+            "business",
+            "sports"
+          ],
+          "image": "https://www.thahakhabar.com/uploads/posts/aaglagi-ago-1767347396.jpg",
+          "images": [
+            "https://www.thahakhabar.com/uploads/posts/aaglagi-ago-1767347396.jpg"
+          ],
+          "description": ""
+        }
+      ]
+    },
+    {
+      "id": "599164788733f48b",
+      "title": "अस्ट्रेलियामा बेरोजगारी दर पाँच वर्षयताकै उच्च बिन्दुमा",
+      "summary": "",
+      "publishedAt": "2026-11-19T17:41:01+00:00",
+      "updatedAt": "2026-11-19T17:41:01+00:00",
+      "sourceCount": 2,
+      "languageCount": 1,
+      "sources": [
+        "Baahrakhari",
+        "Online Khabar"
+      ],
+      "categories": [
+        "business",
+        "entertainment",
+        "politics",
+        "society",
+        "sports",
+        "technology"
+      ],
+      "items": [
+        {
+          "id": "58fe3e2811311384",
+          "title": "अस्ट्रेलियामा बेरोजगारी दर पाँच वर्षयताकै उच्च बिन्दुमा",
+          "link": "https://baahrakhari.com/detail/507793",
+          "source": "Baahrakhari",
+          "sourceUrl": "https://baahrakhari.com/feed",
+          "pubDate": "2026-11-19T17:41:01+00:00",
+          "categories": [
+            "politics",
+            "business",
+            "society"
+          ],
+          "image": "",
+          "images": [],
+          "description": ""
+        },
+        {
+          "id": "48ee4c39f81ca5b8",
+          "title": "अस्ट्रेलियामा बेरोजगारी दर पाँच वर्षयताकै उच्च",
+          "link": "https://www.onlinekhabar.com/2026/11/2061429/australias-unemployment-rate-hits-five-year-high",
+          "source": "Online Khabar",
+          "sourceUrl": "https://www.onlinekhabar.com/feed",
+          "pubDate": "2026-11-19T14:12:39+00:00",
+          "categories": [
+            "politics",
+            "business",
+            "sports",
+            "technology",
+            "entertainment"
+          ],
+          "image": "",
+          "images": [],
+          "description": "बिहीबार सार्वजनिक सरकारी तथ्यांकअनुसार सन् २०२६ को अक्टोबरमा अस्ट्रेलियाको बेरोजगारी दर बढेर ४.९ प्रतिशत पुगेको हो।"
+        }
+      ]
+    },
     {
       "id": "79791c178138ac25",
       "title": "लर्ड्समा बंगलादेश र स्कटल्यान्डसँग खेल्दै नेपाल [भिडियो]",
@@ -39,21 +438,19 @@
       ]
     },
     {
-      "id": "3140c129f1625d8f",
+      "id": "dd0ef8fa47e5b018",
       "title": "एन्फामाथिको प्रतिबन्ध फुकुवा गर्न फिफा सकारात्मक",
-      "summary": "काठमाडौं। राष्ट्रिय खेलकुद परिषद् (राखेप) ले अखिल नेपाल फुटबल संघ (एन्फा) माथिको प्रतिबन्ध हटाएसँगै विश्व फुटबल महासंघ (फिफा) ले पनि निलम्बन फुकुवा गर्ने मौखिक सहमति जनाएको छ। बैंककमा आयोजित एएफसी अवार्ड्सको क्रममा शिक्षा तथा खेलकुद मन्त्री सस्मित पोखरेलले फिफा अध्यक्ष जियानी इन्फान्टिनो, महासचिव माटियास ग्राफस्ट्रोम र एसियाली फुटबल महासंघ (एएफसी) का अध्यक्ष शेख सलमान बिन […]",
+      "summary": "काठमाडौं।राष्ट्रिय खेलकुद परिषद् (राखेप) ले अखिल नेपाल फुटबल संघ (एन्फा) माथिको प्रतिबन्ध हटाएसँगै विश्व फुटबल महासंघ (फिफा) ले पनि निलम्बन फुकुवा गर्ने मौखिक सहमति जनाएको छ। बैंककमा आयोजित एएफसी अवार्ड्सको क्रममा शिक्षा तथा खेलकुद मन्त्री सस्मित पोखरेलले फिफा अध्यक्ष जियानी इन्फान्टिनो, महासचिव माटियास ग्राफस्ट्रोम र एसियाली फुटबल महासंघ (एएफसी) का अध्यक्ष शेख सलमान बिन इब्राहिम […]",
       "publishedAt": "2026-11-19T17:35:11+00:00",
       "updatedAt": "2026-11-19T17:35:11+00:00",
-      "sourceCount": 2,
-      "languageCount": 2,
+      "sourceCount": 1,
+      "languageCount": 1,
       "sources": [
-        "Baahrakhari",
         "Nepal News"
       ],
       "categories": [
         "business",
         "politics",
-        "society",
         "world"
       ],
       "items": [
@@ -71,23 +468,7 @@
           ],
           "image": "",
           "images": [],
-          "description": "काठमाडौं। राष्ट्रिय खेलकुद परिषद् (राखेप) ले अखिल नेपाल फुटबल संघ (एन्फा) माथिको प्रतिबन्ध हटाएसँगै विश्व फुटबल महासंघ (फिफा) ले पनि निलम्बन फुकुवा गर्ने मौखिक सहमति जनाएको छ। बैंककमा आयोजित एएफसी अवार्ड्सको क्रममा शिक्षा तथा खेलकुद मन्त्री सस्मित पोखरेलले फिफा अध्यक्ष जियानी इन्फान्टिनो, महासचिव माटियास ग्राफस्ट्रोम र एसियाली फुटबल महासंघ (एएफसी) का अध्यक्ष शेख सलमान बिन […]"
-        },
-        {
-          "id": "a4831ea3a0abdfd1",
-          "title": "एन्फामाथिको निलम्बन फुकुवा गर्न फिफा सकारात्मक",
-          "link": "https://baahrakhari.com/detail/507788",
-          "source": "Baahrakhari",
-          "sourceUrl": "https://baahrakhari.com/feed",
-          "pubDate": "2026-11-19T16:50:12+00:00",
-          "categories": [
-            "politics",
-            "business",
-            "society"
-          ],
-          "image": "",
-          "images": [],
-          "description": ""
+          "description": "काठमाडौं।राष्ट्रिय खेलकुद परिषद् (राखेप) ले अखिल नेपाल फुटबल संघ (एन्फा) माथिको प्रतिबन्ध हटाएसँगै विश्व फुटबल महासंघ (फिफा) ले पनि निलम्बन फुकुवा गर्ने मौखिक सहमति जनाएको छ। बैंककमा आयोजित एएफसी अवार्ड्सको क्रममा शिक्षा तथा खेलकुद मन्त्री सस्मित पोखरेलले फिफा अध्यक्ष जियानी इन्फान्टिनो, महासचिव माटियास ग्राफस्ट्रोम र एसियाली फुटबल महासंघ (एएफसी) का अध्यक्ष शेख सलमान बिन इब्राहिम […]"
         }
       ]
     },
@@ -197,61 +578,6 @@
       ]
     },
     {
-      "id": "4faf409796ed8fd3",
-      "title": "आगलागीबाट बालआश्रममा एक करोड बढीको क्षति",
-      "summary": "",
-      "publishedAt": "2026-11-19T17:31:31+00:00",
-      "updatedAt": "2026-11-19T17:31:31+00:00",
-      "sourceCount": 2,
-      "languageCount": 1,
-      "sources": [
-        "Baahrakhari",
-        "Thaha Khabar"
-      ],
-      "categories": [
-        "business",
-        "politics",
-        "society",
-        "sports"
-      ],
-      "items": [
-        {
-          "id": "acb91d100a6314e5",
-          "title": "आगलागीबाट बालआश्रममा एक करोड बढीको क्षति",
-          "link": "https://baahrakhari.com/detail/507792",
-          "source": "Baahrakhari",
-          "sourceUrl": "https://baahrakhari.com/feed",
-          "pubDate": "2026-11-19T17:31:31+00:00",
-          "categories": [
-            "politics",
-            "business",
-            "society"
-          ],
-          "image": "",
-          "images": [],
-          "description": ""
-        },
-        {
-          "id": "d19f9123104c252d",
-          "title": "आगलागीबाट बालआश्रममा एक करोड क्षति",
-          "link": "https://www.thahakhabar.com/detail/312202",
-          "source": "Thaha Khabar",
-          "sourceUrl": "https://www.thahakhabar.com/feed",
-          "pubDate": "2026-11-19T15:39:45+00:00",
-          "categories": [
-            "politics",
-            "business",
-            "sports"
-          ],
-          "image": "https://www.thahakhabar.com/uploads/posts/aaglagi-ago-1767347396.jpg",
-          "images": [
-            "https://www.thahakhabar.com/uploads/posts/aaglagi-ago-1767347396.jpg"
-          ],
-          "description": ""
-        }
-      ]
-    },
-    {
       "id": "8257bc02af6c8ec3",
       "title": "मानव बेचबिखनसम्बन्धी विधेयकमा लुपहोल नराख्न सभापति अवस्थीको जोड [भिडियो]",
       "summary": "",
@@ -281,41 +607,6 @@
           "image": "https://nepalsamaya.com/uploads/posts/photo-19_cdd12cde-1795109446.jpg",
           "images": [
             "https://nepalsamaya.com/uploads/posts/photo-19_cdd12cde-1795109446.jpg"
-          ],
-          "description": ""
-        }
-      ]
-    },
-    {
-      "id": "47c0e373f0885ac1",
-      "title": "विवाहपञ्चमी महोत्सवको तयारी सुरु [भिडियो]",
-      "summary": "",
-      "publishedAt": "2026-11-19T17:28:28+00:00",
-      "updatedAt": "2026-11-19T17:28:28+00:00",
-      "sourceCount": 1,
-      "languageCount": 1,
-      "sources": [
-        "Nepal Samaya"
-      ],
-      "categories": [
-        "entertainment",
-        "politics"
-      ],
-      "items": [
-        {
-          "id": "71880960032a7c2c",
-          "title": "विवाहपञ्चमी महोत्सवको तयारी सुरु [भिडियो]",
-          "link": "https://nepalsamaya.com/detail/147917",
-          "source": "Nepal Samaya",
-          "sourceUrl": "https://nepalsamaya.com/feed",
-          "pubDate": "2026-11-19T17:28:28+00:00",
-          "categories": [
-            "politics",
-            "entertainment"
-          ],
-          "image": "https://nepalsamaya.com/uploads/posts/photo-30_5c20b232-1795109299.jpg",
-          "images": [
-            "https://nepalsamaya.com/uploads/posts/photo-30_5c20b232-1795109299.jpg"
           ],
           "description": ""
         }
@@ -406,41 +697,6 @@
           "image": "",
           "images": [],
           "description": "काठमाडौं: नेपाली सेनाले सहायक रथी राजेन्द्र श्रेष्ठलाई नयाँ सैनिक प्रवक्ताको जिम्मेवारी दिएको छ। यसअघि प्रवक्ताको भूमिकामा रहेका सहायक रथी राजाराम बस्नेतको प्रधानसेनापतिको सचिवालयमा सरुवा भएको छ। बस्नेतले सचिवालयमा सैनिक सहायकका रूपमा काम गर्नेछन्। उनी १८ महिनासम्म सेनाको प्रवक्ताका रूपमा कार्यरत थिए। बिहीबार जङ्गी अड्डामा पत्रकारहरूसँग कुरा गर्दै नवनियुक्त प्रवक्ता श्रेष्ठले गलत सूचना र भ्रामक समाचारलाई […]"
-        }
-      ]
-    },
-    {
-      "id": "5ed196a9ac69bb94",
-      "title": "अरुण तेस्रो प्रसारणलाइन प्रभावित जग्गाधनीद्वारा मुआब्जा पुनरावलोकनको माग",
-      "summary": "",
-      "publishedAt": "2026-11-19T17:20:41+00:00",
-      "updatedAt": "2026-11-19T17:20:41+00:00",
-      "sourceCount": 1,
-      "languageCount": 1,
-      "sources": [
-        "Baahrakhari"
-      ],
-      "categories": [
-        "business",
-        "politics",
-        "society"
-      ],
-      "items": [
-        {
-          "id": "0195c60e426260ac",
-          "title": "अरुण तेस्रो प्रसारणलाइन प्रभावित जग्गाधनीद्वारा मुआब्जा पुनरावलोकनको माग",
-          "link": "https://baahrakhari.com/detail/507791",
-          "source": "Baahrakhari",
-          "sourceUrl": "https://baahrakhari.com/feed",
-          "pubDate": "2026-11-19T17:20:41+00:00",
-          "categories": [
-            "politics",
-            "business",
-            "society"
-          ],
-          "image": "",
-          "images": [],
-          "description": ""
         }
       ]
     },
@@ -548,76 +804,6 @@
             "https://npcdn.ratopati.com/media/news/sip-mela_fC7qBgRPhs.webp"
           ],
           "description": "काठमाडौं । नेपाल सरकार र नेपाल उद्योग वाणिज्य महासंघको संयुक्त आयोजनामा छवटा प्रदेशमा ‘सीप तथा रोजगार मेला, २०८३’ सञ्चालन हुने भएको छ । मेला सञ्चालनका लागि युवा, श्रम तथा रोजगार मन्त्रालय र महासंघबीच सम्झौता भएको"
-        }
-      ]
-    },
-    {
-      "id": "2f60a40cae54c77c",
-      "title": "कुष्ठरोगको जोखिममा लुम्बिनीका १० जिल्ला",
-      "summary": "",
-      "publishedAt": "2026-11-19T17:09:58+00:00",
-      "updatedAt": "2026-11-19T17:09:58+00:00",
-      "sourceCount": 1,
-      "languageCount": 1,
-      "sources": [
-        "Baahrakhari"
-      ],
-      "categories": [
-        "business",
-        "politics",
-        "society"
-      ],
-      "items": [
-        {
-          "id": "e1c26a59e499dbcc",
-          "title": "कुष्ठरोगको जोखिममा लुम्बिनीका १० जिल्ला",
-          "link": "https://baahrakhari.com/detail/507790",
-          "source": "Baahrakhari",
-          "sourceUrl": "https://baahrakhari.com/feed",
-          "pubDate": "2026-11-19T17:09:58+00:00",
-          "categories": [
-            "politics",
-            "business",
-            "society"
-          ],
-          "image": "",
-          "images": [],
-          "description": ""
-        }
-      ]
-    },
-    {
-      "id": "7ba5a3b03dd6e367",
-      "title": "विपद्को पूर्वसूचना दिने ‘सेल ब्रोडकास्टिङ’ प्रणाली परीक्षण गरिँदै",
-      "summary": "",
-      "publishedAt": "2026-11-19T17:00:08+00:00",
-      "updatedAt": "2026-11-19T17:00:08+00:00",
-      "sourceCount": 1,
-      "languageCount": 1,
-      "sources": [
-        "Baahrakhari"
-      ],
-      "categories": [
-        "business",
-        "politics",
-        "society"
-      ],
-      "items": [
-        {
-          "id": "cf875dbd96bd5b81",
-          "title": "विपद्को पूर्वसूचना दिने ‘सेल ब्रोडकास्टिङ’ प्रणाली परीक्षण गरिँदै",
-          "link": "https://baahrakhari.com/detail/507789",
-          "source": "Baahrakhari",
-          "sourceUrl": "https://baahrakhari.com/feed",
-          "pubDate": "2026-11-19T17:00:08+00:00",
-          "categories": [
-            "politics",
-            "business",
-            "society"
-          ],
-          "image": "",
-          "images": [],
-          "description": ""
         }
       ]
     },
@@ -1617,61 +1803,6 @@
       ]
     },
     {
-      "id": "fbdf17ad81b19139",
-      "title": "प्रधानमन्त्री राहत कोषमा एक करोड पाँच लाख सहयोग",
-      "summary": "",
-      "publishedAt": "2026-11-19T16:01:37+00:00",
-      "updatedAt": "2026-11-19T16:01:37+00:00",
-      "sourceCount": 2,
-      "languageCount": 1,
-      "sources": [
-        "Ratopati",
-        "Thaha Khabar"
-      ],
-      "categories": [
-        "business",
-        "politics",
-        "sports"
-      ],
-      "items": [
-        {
-          "id": "6939f026cbc8b15c",
-          "title": "प्रधानमन्त्री राहत कोषमा एक करोड पाँच लाख सहयोग",
-          "link": "https://www.thahakhabar.com/detail/312203",
-          "source": "Thaha Khabar",
-          "sourceUrl": "https://www.thahakhabar.com/feed",
-          "pubDate": "2026-11-19T16:01:37+00:00",
-          "categories": [
-            "politics",
-            "business",
-            "sports"
-          ],
-          "image": "https://www.thahakhabar.com/uploads/posts/IMG-20261119-WA0011-1795103313.jpg",
-          "images": [
-            "https://www.thahakhabar.com/uploads/posts/IMG-20261119-WA0011-1795103313.jpg"
-          ],
-          "description": ""
-        },
-        {
-          "id": "035f4829955ed8b4",
-          "title": "सुरक्षण मुद्रण केन्द्रद्वारा प्रधानमन्त्री राहत कोषमा एक करोड पाँच लाख सहयोग",
-          "link": "https://www.ratopati.com/story/606364/security-printing-center-contributes-105-million-to-prime-ministers-relief-fund",
-          "source": "Ratopati",
-          "sourceUrl": "https://ratopati.com/feed",
-          "pubDate": "2026-11-19T14:39:48+00:00",
-          "categories": [
-            "politics",
-            "sports"
-          ],
-          "image": "https://npcdn.ratopati.com/media/news/rahat_dCpez2NPlq.webp",
-          "images": [
-            "https://npcdn.ratopati.com/media/news/rahat_dCpez2NPlq.webp"
-          ],
-          "description": "काठमाडौँ । सूचना तथा सञ्चार मन्त्रालयअन्तर्गत रहेको सुरक्षण मुद्रण केन्द्रले बाढीबाट प्रभावित नागरिकको राहत तथा पुनःस्थापनाका लागि प्रधानमन्त्री राहत कोषमा रु. एक करोड पाँच लाख सहयोग गरेको छ । केन्द्रका कार्यकारी निर्देशक देवराज ढुङ्गानाले आज उक्त"
-        }
-      ]
-    },
-    {
       "id": "3bed06f9da102dd2",
       "title": "Nepal's inflation rises to 6.37 %, foreign exchange reserves up by 6.8%",
       "summary": "Kathmandu, Nov 19: The year-on-year consumer price inflation stood at 6.37 percent in mid-October 2026 compared to 1.47...",
@@ -2665,63 +2796,6 @@
             "https://npcdn.ratopati.com/media/news/sudur_vwFdjqo5Bg.webp"
           ],
           "description": "काठमाडौँ । नेपाल प्रिमियर लिग (एनपीएल) को दोस्रो क्वालिफायरमा सुदूरपश्चिम रोयल्सको ब्याटिङ लाइन धर्मराउँदै गएको छ । सुदूरले छैटौँ विकेट गुमाएको छ । आरिफ शेख १० बलमा १० रन बनाएर आउट भएका छन् । कमलसिंह ऐरीको"
-        }
-      ]
-    },
-    {
-      "id": "e43576788797f336",
-      "title": "अस्ट्रेलियामा बेरोजगारी दर पाँच वर्षयताकै उच्च बिन्दुमा",
-      "summary": "अस्ट्रेलियामा बेरोजगारी दर पाँच वर्षयताकै उच्च बिन्दुमा पुगेको छ । बिहीबार सार्वजनिक सरकारी तथ्यांकअनुसार सन् २०२६ को अक्टोबरमा अस्ट्रेलियाको बेरोजगारी दर बढेर ४.९ प्रतिशत पुगेको हो। यो सन् २०२१ को अक्टोबरयताकै उच्च बेरोजगारी दर हो",
-      "publishedAt": "2026-11-19T14:48:36+00:00",
-      "updatedAt": "2026-11-19T14:48:36+00:00",
-      "sourceCount": 2,
-      "languageCount": 1,
-      "sources": [
-        "Online Khabar",
-        "Ratopati"
-      ],
-      "categories": [
-        "business",
-        "entertainment",
-        "politics",
-        "sports",
-        "technology"
-      ],
-      "items": [
-        {
-          "id": "0189310acf50bad2",
-          "title": "अस्ट्रेलियामा बेरोजगारी दर पाँच वर्षयताकै उच्च बिन्दुमा",
-          "link": "https://www.ratopati.com/story/606366/australias-unemployment-rate-hits-five-year-high",
-          "source": "Ratopati",
-          "sourceUrl": "https://ratopati.com/feed",
-          "pubDate": "2026-11-19T14:48:36+00:00",
-          "categories": [
-            "politics",
-            "sports"
-          ],
-          "image": "https://rpcdn.ratopati.com/archived-media/AustralianFlag.jpg",
-          "images": [
-            "https://rpcdn.ratopati.com/archived-media/AustralianFlag.jpg"
-          ],
-          "description": "अस्ट्रेलियामा बेरोजगारी दर पाँच वर्षयताकै उच्च बिन्दुमा पुगेको छ । बिहीबार सार्वजनिक सरकारी तथ्यांकअनुसार सन् २०२६ को अक्टोबरमा अस्ट्रेलियाको बेरोजगारी दर बढेर ४.९ प्रतिशत पुगेको हो। यो सन् २०२१ को अक्टोबरयताकै उच्च बेरोजगारी दर हो"
-        },
-        {
-          "id": "48ee4c39f81ca5b8",
-          "title": "अस्ट्रेलियामा बेरोजगारी दर पाँच वर्षयताकै उच्च",
-          "link": "https://www.onlinekhabar.com/2026/11/2061429/australias-unemployment-rate-hits-five-year-high",
-          "source": "Online Khabar",
-          "sourceUrl": "https://www.onlinekhabar.com/feed",
-          "pubDate": "2026-11-19T14:12:39+00:00",
-          "categories": [
-            "politics",
-            "business",
-            "sports",
-            "technology",
-            "entertainment"
-          ],
-          "image": "",
-          "images": [],
-          "description": "बिहीबार सार्वजनिक सरकारी तथ्यांकअनुसार सन् २०२६ को अक्टोबरमा अस्ट्रेलियाको बेरोजगारी दर बढेर ४.९ प्रतिशत पुगेको हो।"
         }
       ]
     },
@@ -4280,41 +4354,6 @@
       ]
     },
     {
-      "id": "68d0a8762d78dd88",
-      "title": "प्रधानमन्त्री बालेनको भारत भ्रमण : हवाई रुटमा अड्कियो कुरा",
-      "summary": "काठमाडौँ । लामो समयदेखि नेपाल र भारतबिच एयर रुटको विषयमा रहेको विवाद प्रधानमन्त्री बालेन्द्र शाहको भारत भ्रमणका क्रममा टुङ्गो लाग्ने अपेक्षा धेरैको थियो । तर, नेपाल–भारतबिच यस विषयमा अझै कुरा मिलेको छैन । यही विषयमा छलफल",
-      "publishedAt": "2026-11-19T13:21:54+00:00",
-      "updatedAt": "2026-11-19T13:21:54+00:00",
-      "sourceCount": 1,
-      "languageCount": 1,
-      "sources": [
-        "Ratopati"
-      ],
-      "categories": [
-        "politics",
-        "sports"
-      ],
-      "items": [
-        {
-          "id": "8e9240a72889bd12",
-          "title": "प्रधानमन्त्री बालेनको भारत भ्रमण : हवाई रुटमा अड्कियो कुरा",
-          "link": "https://www.ratopati.com/story/606351/prime-minister-balens-visit-to-india-things-get-stuck-on-the-air-route",
-          "source": "Ratopati",
-          "sourceUrl": "https://ratopati.com/feed",
-          "pubDate": "2026-11-19T13:21:54+00:00",
-          "categories": [
-            "politics",
-            "sports"
-          ],
-          "image": "https://npcdn.ratopati.com/media/news/balen-india_0lZ239W4qn.webp",
-          "images": [
-            "https://npcdn.ratopati.com/media/news/balen-india_0lZ239W4qn.webp"
-          ],
-          "description": "काठमाडौँ । लामो समयदेखि नेपाल र भारतबिच एयर रुटको विषयमा रहेको विवाद प्रधानमन्त्री बालेन्द्र शाहको भारत भ्रमणका क्रममा टुङ्गो लाग्ने अपेक्षा धेरैको थियो । तर, नेपाल–भारतबिच यस विषयमा अझै कुरा मिलेको छैन । यही विषयमा छलफल"
-        }
-      ]
-    },
-    {
       "id": "1d7c99e94c1b8b82",
       "title": "सिप तथा रोजगार मेला सञ्चालन गर्न महासंघ र मन्त्रालयबीच सम्झौता",
       "summary": "श्रममन्त्री रामजी यादव, मन्त्रालयका सचिव डा. दीपक काफ्ले तथा महासंघ अध्यक्ष अञ्जन श्रेष्ठको उपस्थितिमा मेला सञ्चालन सम्बन्धी सम्झौतापत्रमा हस्ताक्षर भयो ।",
@@ -4432,41 +4471,6 @@
             "https://nepalnews.com/wp-content/uploads/2026/10/ko-oli-file-photo.png"
           ],
           "description": "‘बर्खायाममा निस्कने छिचिमिराको आयु लामो हुँदैन।’ नेकपा एमालेका अध्यक्ष केपी शर्मा ओलीले राष्ट्रिय कार्यकर्ता भेलामा दिएको यो अभिव्यक्ति सामान्य राजनीतिक टिप्पणी मात्र थिएन। निर्वाचनमा नराम्रो पराजय बेहोरेपछि पनि पार्टीभित्र उठिरहेको नेतृत्व परिवर्तन र पुनर्गठनको बहसलाई उनले कसरी बुझिरहेका छन् भन्ने संकेत पनि थियो। जनमतबाट आएको सन्देशलाई आत्मसमीक्षाको आधार बनाउनुपर्ने अवस्थामा नेतृत्वले आलोचकलाई छिचिमिरासँग तुलना गर्नुले […]"
-        }
-      ]
-    },
-    {
-      "id": "c5dbcc8df565df3b",
-      "title": "शिक्षामन्त्रीको सात महिना : घोषणामा रफ्तार, कार्यान्वयनमा अलमल",
-      "summary": "काठमाडौँ । शिक्षा तथा खेलकुदमन्त्री सस्मित पोखरेलले जिम्मेवारी सम्हालेको सात महिना पूरा हुँदा पनि शिक्षा क्षेत्रको सुधारमा अपेक्षित नतिजा दिन सकेका छैनन् । शिक्षामन्त्री पोखरेलले नतिजामुखी कार्यक्रम ल्याउने घोषणा गरे पनि व्यवहारमा शिक्षा क्षेत्रले अपेक्षित",
-      "publishedAt": "2026-11-19T13:15:00+00:00",
-      "updatedAt": "2026-11-19T13:15:00+00:00",
-      "sourceCount": 1,
-      "languageCount": 1,
-      "sources": [
-        "Ratopati"
-      ],
-      "categories": [
-        "politics",
-        "sports"
-      ],
-      "items": [
-        {
-          "id": "7db12436d0dfb58a",
-          "title": "शिक्षामन्त्रीको सात महिना : घोषणामा रफ्तार, कार्यान्वयनमा अलमल",
-          "link": "https://www.ratopati.com/story/606321/seven-months-as-education-minister-speed-in-announcements-confusion-in-implementation",
-          "source": "Ratopati",
-          "sourceUrl": "https://ratopati.com/feed",
-          "pubDate": "2026-11-19T13:15:00+00:00",
-          "categories": [
-            "politics",
-            "sports"
-          ],
-          "image": "https://npcdn.ratopati.com/media/news/sasmit-pokhrel_sGV28cucWw.jpg",
-          "images": [
-            "https://npcdn.ratopati.com/media/news/sasmit-pokhrel_sGV28cucWw.jpg"
-          ],
-          "description": "काठमाडौँ । शिक्षा तथा खेलकुदमन्त्री सस्मित पोखरेलले जिम्मेवारी सम्हालेको सात महिना पूरा हुँदा पनि शिक्षा क्षेत्रको सुधारमा अपेक्षित नतिजा दिन सकेका छैनन् । शिक्षामन्त्री पोखरेलले नतिजामुखी कार्यक्रम ल्याउने घोषणा गरे पनि व्यवहारमा शिक्षा क्षेत्रले अपेक्षित"
         }
       ]
     },
@@ -5200,41 +5204,6 @@
       ]
     },
     {
-      "id": "c611567b8c8dda45",
-      "title": "आत्मनिर्भर बनाउन किशोरीलाई उद्यम तालिम",
-      "summary": "धर्बेन्द्र झा जनकपुरधाम, मङ्सिर ३ गते । मधेशका किशोरीहरुले पढाइका साथै बचेको समयमा सिकेका सिप प्रयोग गरी व्यवसायबाट आयआर्जन गर्न सकिने र आत्मनिर्भर बनाउन सकिने उद्देश्यले धनुषाका प...",
-      "publishedAt": "2026-11-19T12:37:10+00:00",
-      "updatedAt": "2026-11-19T12:37:10+00:00",
-      "sourceCount": 1,
-      "languageCount": 1,
-      "sources": [
-        "Gorkhapatra"
-      ],
-      "categories": [
-        "business",
-        "politics"
-      ],
-      "items": [
-        {
-          "id": "244b6d63f5128286",
-          "title": "आत्मनिर्भर बनाउन किशोरीलाई उद्यम तालिम",
-          "link": "https://gorkhapatraonline.com/news/229603",
-          "source": "Gorkhapatra",
-          "sourceUrl": "https://gorkhapatraonline.com/rss",
-          "pubDate": "2026-11-19T12:37:10+00:00",
-          "categories": [
-            "politics",
-            "business"
-          ],
-          "image": "https://gorkhapatraonline.com/storage/media/392201/conversions/kisori-haru-original.jpg",
-          "images": [
-            "https://gorkhapatraonline.com/storage/media/392201/conversions/kisori-haru-original.jpg"
-          ],
-          "description": "धर्बेन्द्र झा जनकपुरधाम, मङ्सिर ३ गते । मधेशका किशोरीहरुले पढाइका साथै बचेको समयमा सिकेका सिप प्रयोग गरी व्यवसायबाट आयआर्जन गर्न सकिने र आत्मनिर्भर बनाउन सकिने उद्देश्यले धनुषाका प..."
-        }
-      ]
-    },
-    {
       "id": "abf0e93f1e42ffa4",
       "title": "दुई पूर्वमन्त्रीसहित ६ जनालाई ४ दिन हिरासतमा राख्न अनुमति",
       "summary": "काठमाडौँ । वैदेशिक रोजगारीका नाममा ठगी तथा संगठित अपराध गरेको आरोपमा पक्राउ परेका दुई पूर्वमन्त्रीसहित ६ जनालाई चार दिन हिरासतमा राखेर अनुसन्धान गर्न काठमाडौँ जिल्ला अदालतले अनुमति दिएको छ। नेपाल प्रहरीको केन्द्रीय अनुसन्धान ब्युरो (सीआईबी) प्रवक्ता अनुपम शमशेर जबराका अनुसार बिहीबार चार दिनको म्याद थप गरिएको हो। सीआईबीले तत्कालीन श्रम, रोजगार तथा सामाजिक सुरक्षामन्त्री शेरबहादुर […] The post दुई पूर्वमन्त्रीसहित ६ जनालाई ४ दिन हिरासतमा राख्न अनुमति appeared first on राजधानी राष्ट्रिय दैनिक (लोकप",
@@ -5852,45 +5821,6 @@
           "image": "",
           "images": [],
           "description": "गाजापट्टीको देर अल–बलाह क्षेत्रमा इजरायली सेनाले सैन्य कारबाही गर्ने घोषणा गरेपछि प्यालेस्टिनी नागरिकहरू विस्थापित हुन थालेका छन् ।"
-        }
-      ]
-    },
-    {
-      "id": "b1c982bdd68b00bc",
-      "title": "बेल्चा चलाउने श्रमिकले मंसिरदेखि दैनिक ज्याला १७०० रुपैयाँ पाउँछन् : मन्त्री लम्साल",
-      "summary": "‘यो सरकारले सबैभन्दा बढी न्याय बेल्चा चलाउने श्रमिकलाई गरेको छ । अब उप्रान्त मङ्सिर महिनादेखि बेल्चा चलाउने श्रमिकले दैनिक एक हजार ७०० रुपैयाँ कमाउने छन्,’ मन्त्री लम्सालले भने ।",
-      "publishedAt": "2026-11-19T12:08:20+00:00",
-      "updatedAt": "2026-11-19T12:08:20+00:00",
-      "sourceCount": 1,
-      "languageCount": 1,
-      "sources": [
-        "Online Khabar"
-      ],
-      "categories": [
-        "business",
-        "entertainment",
-        "politics",
-        "sports",
-        "technology"
-      ],
-      "items": [
-        {
-          "id": "8136ad57bb094986",
-          "title": "बेल्चा चलाउने श्रमिकले मंसिरदेखि दैनिक ज्याला १७०० रुपैयाँ पाउँछन् : मन्त्री लम्साल",
-          "link": "https://www.onlinekhabar.com/2026/11/2061222/shovel-workers-will-receive-a-daily-wage-of-rs-1700-from-mangsir-minister-lamsal",
-          "source": "Online Khabar",
-          "sourceUrl": "https://www.onlinekhabar.com/feed",
-          "pubDate": "2026-11-19T12:08:20+00:00",
-          "categories": [
-            "politics",
-            "business",
-            "sports",
-            "technology",
-            "entertainment"
-          ],
-          "image": "",
-          "images": [],
-          "description": "‘यो सरकारले सबैभन्दा बढी न्याय बेल्चा चलाउने श्रमिकलाई गरेको छ । अब उप्रान्त मङ्सिर महिनादेखि बेल्चा चलाउने श्रमिकले दैनिक एक हजार ७०० रुपैयाँ कमाउने छन्,’ मन्त्री लम्सालले भने ।"
         }
       ]
     },
@@ -11221,6 +11151,82 @@
             "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7ce6/live/e5231e80-e26e-11f1-99a1-253766e7ad8b.jpg"
           ],
           "description": "शिक्षा मन्त्रालयका अधिकारीहरूले विशेष परिस्थितिमा गर्नु परेको दुई दिने बिदाको असर पाठ्यक्रममा कम परोस् भनेर अन्य केही उपायहरू चालिएको बताउँछन्। तर के त्यो पर्याप्त छ?"
+        }
+      ]
+    },
+    {
+      "id": "4eb2bb1fee2b463a",
+      "title": "Max Tiger Energy Drink Lucky Draw",
+      "summary": "Max Tiger Energy Drink announced its winner of ‘Dashain Dhamaka 2026’. Pradip Lama from Nuwakot won a Proton car through a lucky draw. A total…",
+      "publishedAt": "2026-11-17T08:17:17+00:00",
+      "updatedAt": "2026-11-17T08:17:17+00:00",
+      "sourceCount": 1,
+      "languageCount": 1,
+      "sources": [
+        "Nepali Times"
+      ],
+      "categories": [
+        "business",
+        "politics",
+        "society",
+        "technology"
+      ],
+      "items": [
+        {
+          "id": "283f8658148f262a",
+          "title": "Max Tiger Energy Drink Lucky Draw",
+          "link": "https://nepalitimes.com/max-tiger-energy-drink-lucky-draw",
+          "source": "Nepali Times",
+          "sourceUrl": "https://www.nepalitimes.com/feed/",
+          "pubDate": "2026-11-17T08:17:17+00:00",
+          "categories": [
+            "politics",
+            "business",
+            "society",
+            "technology"
+          ],
+          "image": "https://media.nepalitimes.com/cover/IMG_2859.jpeg",
+          "images": [
+            "https://media.nepalitimes.com/cover/IMG_2859.jpeg"
+          ],
+          "description": "Max Tiger Energy Drink announced its winner of ‘Dashain Dhamaka 2026’. Pradip Lama from Nuwakot won a Proton car through a lucky draw. A total…"
+        }
+      ]
+    },
+    {
+      "id": "4e5931657fa36170",
+      "title": "ट्रम्प, पुटिन र सीबीच हुने ऐतिहासिक बैठकले विश्वका लागि के अर्थ राख्छ",
+      "summary": "पुटिन र सीबीच हालसम्म ४० पटक, ट्रम्प र पुटिनबीच सात पटक अनि ट्रम्प र सीबीच तीन पटक भेट भएको छ। तर तीनै जनाले संयुक्त भेटघाट भएको छैन।",
+      "publishedAt": "2026-11-17T07:30:06+00:00",
+      "updatedAt": "2026-11-17T07:30:06+00:00",
+      "sourceCount": 1,
+      "languageCount": 1,
+      "sources": [
+        "BBC News नेपाली"
+      ],
+      "categories": [
+        "business",
+        "politics",
+        "technology"
+      ],
+      "items": [
+        {
+          "id": "e78c1a6b024f29d6",
+          "title": "ट्रम्प, पुटिन र सीबीच हुने ऐतिहासिक बैठकले विश्वका लागि के अर्थ राख्छ",
+          "link": "https://www.bbc.com/nepali/articles/ck9q87j19x41o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News नेपाली",
+          "sourceUrl": "http://feeds.bbci.co.uk/nepali/rss.xml",
+          "pubDate": "2026-11-17T07:30:06+00:00",
+          "categories": [
+            "politics",
+            "business",
+            "technology"
+          ],
+          "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/f9de/live/369f6d80-df7d-11f1-93e1-3b657b665bcf.jpg",
+          "images": [
+            "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/f9de/live/369f6d80-df7d-11f1-93e1-3b657b665bcf.jpg"
+          ],
+          "description": "पुटिन र सीबीच हालसम्म ४० पटक, ट्रम्प र पुटिनबीच सात पटक अनि ट्रम्प र सीबीच तीन पटक भेट भएको छ। तर तीनै जनाले संयुक्त भेटघाट भएको छैन।"
         }
       ]
     }
