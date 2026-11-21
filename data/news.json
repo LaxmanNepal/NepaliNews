@@ -1,10 +1,163 @@
 {
-  "generatedAt": "2026-11-21T17:42:36.766888+00:00",
+  "generatedAt": "2026-11-21T22:24:03.206343+00:00",
   "feedCount": 41,
   "healthyFeeds": 23,
   "failedFeeds": 18,
   "itemCount": 333,
   "items": [
+    {
+      "id": "4870e6591e30b604",
+      "title": "नवनियुक्त मुख्यमन्त्री सरोज कुमार यादवको सपथ आइतबार बिहान ११ बजे",
+      "link": "https://nepallive.com/story/353260",
+      "source": "Nepal Live",
+      "sourceUrl": "https://nepallive.com/feed",
+      "pubDate": "2026-11-21T20:17:00+00:00",
+      "categories": [
+        "politics",
+        "technology"
+      ],
+      "image": "",
+      "images": [],
+      "description": "यस अघि शुक्रबार ४ बजेसम्म रहेको दाबी पेशको अवधिमा कुनै पनि दलले दाबी पेश गरेको थिएन ।"
+    },
+    {
+      "id": "f0a7d7488d6919b2",
+      "title": "भोटेकोशी बाढीपीडितद्वारा पुनः स्थापनाको माग",
+      "link": "https://www.ratopati.com/story/606805/bhotekoshi-flood-victims-demand-restoration",
+      "source": "Ratopati",
+      "sourceUrl": "https://ratopati.com/feed",
+      "pubDate": "2026-11-21T19:16:13+00:00",
+      "categories": [
+        "politics",
+        "sports"
+      ],
+      "image": "https://npcdn.ratopati.com/media/news/rasuwa-bhotekoshi-badhi_xJnNFwOg50.webp",
+      "images": [
+        "https://npcdn.ratopati.com/media/news/rasuwa-bhotekoshi-badhi_xJnNFwOg50.webp"
+      ],
+      "description": "रसुवा । गत भदौ १० गते भोटेकोशी नदीमा आएको बाढीका कारण विस्थापित भई हाल काठमाडौँको गोसोक गुम्बास्थित अस्थायी आश्रयस्थलमा बसोबास गर्दै आएका स्याफ्रुबेँसीका नागरिकले आफ्नो जीविकोपार्जन पुनः स्थापना र सुरक्षित पुनर्वासका लागि सामूहिक पहल सुरु"
+    },
+    {
+      "id": "2f89640bed2f111f",
+      "title": "प्रथम धरान महिला गोल्डकपको उपाधि एपीएफ क्लबलाई",
+      "link": "https://www.ratopati.com/story/606804/apf-club-wins-first-dharan-womens-gold-cup-title",
+      "source": "Ratopati",
+      "sourceUrl": "https://ratopati.com/feed",
+      "pubDate": "2026-11-21T19:12:06+00:00",
+      "categories": [
+        "politics",
+        "sports"
+      ],
+      "image": "https://npcdn.ratopati.com/media/news/FKNxJiU64m.jpg",
+      "images": [
+        "https://npcdn.ratopati.com/media/news/FKNxJiU64m.jpg"
+      ],
+      "description": "सुनसरी । विभागीय टोली सशस्त्र प्रहरी बल (एपिएफ) फुटबल क्लबले प्रथम धरान अन्तर्राष्ट्रिय आमन्त्रण महिला गोल्डकप फुटबल प्रतियोगिताको उपाधि जितेको छ । धरान रङ्गशालामा शनिबार राति सम्पन्न फाइनलमा नेपाल पुलिस क्लबलाई २–० गोलअन्तरले पराजित गर्दै एपिएफले"
+    },
+    {
+      "id": "4bbceda7275c58c1",
+      "title": "राप्तीसोनारीको नेचर रनको उपाधि शाही र डाँगीलाई",
+      "link": "https://www.ratopati.com/story/606803/shahi-and-dangi-win-rapti-sonari-nature-run-title",
+      "source": "Ratopati",
+      "sourceUrl": "https://ratopati.com/feed",
+      "pubDate": "2026-11-21T19:10:20+00:00",
+      "categories": [
+        "politics",
+        "sports"
+      ],
+      "image": "https://npcdn.ratopati.com/media/news/banke-district-map_buY1dHpxrb.jpg",
+      "images": [
+        "https://npcdn.ratopati.com/media/news/banke-district-map_buY1dHpxrb.jpg"
+      ],
+      "description": "बाँके । बाँकेको राप्तीसोनारी गाउँपालिकामा शनिबार भएको तेस्रो संस्करणको राप्तीसोनारी नेचर रनको उपाधि स्वस्तिका शाही र टेकेन्द्र डाँगीले जितेका छन् । जिल्लाको राप्तीसोनारीस्थित मदुवामा भएको १० किलोमिटर दौडमा खुला महिलातर्फ शाहीले प्रथम स्थान हासिल गर्दा रीता"
+    },
+    {
+      "id": "fcf00428ef32e6ff",
+      "title": "बिएस्सी नर्सिङ सहितका चार कार्यक्रमको प्रवेश परीक्षाको नतिजा सार्वजनिक",
+      "link": "https://www.ratopati.com/story/606802/entrance-exam-results-for-four-programs-including-bsc-nursing-made-public",
+      "source": "Ratopati",
+      "sourceUrl": "https://ratopati.com/feed",
+      "pubDate": "2026-11-21T18:45:39+00:00",
+      "categories": [
+        "politics",
+        "sports"
+      ],
+      "image": "https://npcdn.ratopati.com/media/news/chikitsha_wzbaoozdvc_lZTx5zANdy.jpg",
+      "images": [
+        "https://npcdn.ratopati.com/media/news/chikitsha_wzbaoozdvc_lZTx5zANdy.jpg"
+      ],
+      "description": "काठमाडौं । ​नेपाल सरकारको चिकित्सा शिक्षा आयोगले शैक्षिक सत्र २०८३/८४ का लागि बिएस्सी नर्सिङ, बिएस्सी मिडवाइफ्री, बिएएसएलपी र ब्यास्लर इन परफ्युजन टेक्नोलोजी शैक्षिक कार्यक्रमको एकीकृत प्रवेश परीक्षाको नतिजा सार्वजनिक गरेको छ । आयोगको परीक्षा निर्देशनालयले गत"
+    },
+    {
+      "id": "892883ae0613ba38",
+      "title": "१२ बजे १२ समाचार : यस्तो छ आजको प्रमुख समाचार",
+      "link": "https://www.ratopati.com/story/606801/12-news-at-12-here-are-todays-top-news-stories",
+      "source": "Ratopati",
+      "sourceUrl": "https://ratopati.com/feed",
+      "pubDate": "2026-11-21T18:17:28+00:00",
+      "categories": [
+        "politics",
+        "sports"
+      ],
+      "image": "https://npcdn.ratopati.com/media/news/12-am-final_viqawbfig2-(1)_fam6WtIhIE.jpg",
+      "images": [
+        "https://npcdn.ratopati.com/media/news/12-am-final_viqawbfig2-(1)_fam6WtIhIE.jpg"
+      ],
+      "description": "काठमाडौँ । आज दिनभरका मुख्यमुख्य घटनाक्रमसहित रातोपाटीको रात्रिकालीन प्रस्तुति रातोपाटी ब्रिफिङमा १२ बजे १२ समाचार लिएर हाजिर भएका छौँ– १. प्रधानमन्त्रीको भारत भ्रमणको तयारी पूरा प्रधानमन्त्री बालेन्द्र शाहको आइतबार हुने भारत भ्रमणको सम्पूर्ण तयारी पूरा भएको छ।"
+    },
+    {
+      "id": "cb1403efdc3576c3",
+      "title": "दीपेन्द्रसिंह ऐरी : च्याम्पियन लिडर",
+      "link": "https://www.onlinekhabar.com/2026/11/2062785/dipendra-wins-third-trophy-as-captain",
+      "source": "Online Khabar",
+      "sourceUrl": "https://www.onlinekhabar.com/feed",
+      "pubDate": "2026-11-21T17:59:56+00:00",
+      "categories": [
+        "politics",
+        "business",
+        "sports",
+        "technology",
+        "entertainment"
+      ],
+      "image": "",
+      "images": [],
+      "description": "सन २०१९ मा सीवाईसी अत्तरियालाई धनगढी प्रिमियर लिगको उपाधि जिताएका दीपन्द्रको कप्तानीमा लुम्बिनी अल स्टार्सले २०२२ को नेपाल टी-२० लिगको उपाधि जितेको थियो ।"
+    },
+    {
+      "id": "3cd139c528036872",
+      "title": "बलिङमा छाएका रिजन : जसले एकै एनपीएलमा कार र बाइक जिते",
+      "link": "https://www.onlinekhabar.com/2026/11/2062791/regions-covered-in-bowling",
+      "source": "Online Khabar",
+      "sourceUrl": "https://www.onlinekhabar.com/feed",
+      "pubDate": "2026-11-21T17:57:27+00:00",
+      "categories": [
+        "politics",
+        "business",
+        "sports",
+        "technology",
+        "entertainment"
+      ],
+      "image": "",
+      "images": [],
+      "description": "५ मंसिर, काठमाडौं । तेस्रो संस्करणको नेपाल प्रिमियर लिग (एनपीएल)मा फाइनलमा पुग्न नसकेपनि विधागततर्फ चितवन राइनोजका खेलाडीले वर्चश्व कायम गरे । चितवनका रिजन ढकालले उत्कृष्ट नेपाली खेलाडी र उत्कृष्ट बलरको अवार्ड हात पार्दा चितवनकै कमिल मिशारा ‘इनर्जेटिक प्लेयर अफ द टुर्नामेन्ट’ बने । च्याम्पियन टोली सूदुरपश्चिम रोयल्सबाट कप्तान दीपेन्द्रसिंह ऐरी ‘प्लेयर अफ द टुर्नामेन्ट’ बन्दा […]"
+    },
+    {
+      "id": "3f71ceaa2cdede24",
+      "title": "देश समृद्ध बनाउँदै भ्रष्टाचार अन्त्य गर्ने अभियानमा छुः सभामुख अर्याल",
+      "link": "https://gorkhapatraonline.com/news/229870",
+      "source": "Gorkhapatra",
+      "sourceUrl": "https://gorkhapatraonline.com/rss",
+      "pubDate": "2026-11-21T17:46:40+00:00",
+      "categories": [
+        "politics",
+        "business"
+      ],
+      "image": "https://gorkhapatraonline.com/storage/media/392601/conversions/Dol-Prasad-Aryal-Photo-original.jpg",
+      "images": [
+        "https://gorkhapatraonline.com/storage/media/392601/conversions/Dol-Prasad-Aryal-Photo-original.jpg"
+      ],
+      "description": "पोखरा, मङ्सिर ५ गते । प्रतिनिधिसभाका सभामुख डोलप्रसाद अर्यालले देश समृद्ध बनाउन र भ्रष्टाचार सधैँका लागि अन्त्य गर्न भ्रष्टाचारमुक्त समाज निर्माणको अभियानमा लागेको बताउनुभएको छ ।..."
+    },
     {
       "id": "a638e22d7e11af7a",
       "title": "इरानको आणविक नीतिमा परिवर्तनको पक्षमा छैनन् चीन र रुस : अराघची",
@@ -1677,23 +1830,6 @@
       "description": "१५६ रनको लक्ष्य पछ्याउने क्रममा लुम्बिनीका बलरहरुमाथि हामी हुँदै मुन्जीले शतक प्रहार गरेका हुन् ।"
     },
     {
-      "id": "0c6224379f47573d",
-      "title": "विदेशमा एमडी र एमएस गरेका चिकित्सकलाई क्लिनिकल अभ्यासको अवसर",
-      "link": "https://gorkhapatraonline.com/news/229861",
-      "source": "Gorkhapatra",
-      "sourceUrl": "https://gorkhapatraonline.com/rss",
-      "pubDate": "2026-11-21T14:10:55+00:00",
-      "categories": [
-        "politics",
-        "business"
-      ],
-      "image": "https://gorkhapatraonline.com/storage/media/392585/conversions/images-original.jpg",
-      "images": [
-        "https://gorkhapatraonline.com/storage/media/392585/conversions/images-original.jpg"
-      ],
-      "description": "काठमाडौँ, मङ्सिर ५ गते । चिकित्सा शिक्षा आयोगले विदेशमा एमडी र एमएस अध्ययन गरेका चिकित्सकलाई बाँकी अवधि नेपालमै क्लिनिकल अभ्यास गरेर पूरा गर्ने व्यवस्था गरेको छ।आयोगले नेपाल मेडिकल..."
-    },
-    {
       "id": "20b429040a71c8ec",
       "title": "जर्ज मन्सीको शतकमा उपाधि नजिक सुदूरपश्चिम",
       "link": "https://www.nepalviews.com/story/428294/george-munsis-century-brings-sudurpaschim-closer-to-title",
@@ -1761,72 +1897,6 @@
         "https://npcdn.ratopati.com/media/news/rpEVQMrAqs.jpg"
       ],
       "description": "सप्तरी। राजविराज नगरपालिका–७ स्थित गजेन्द्र चोकको पूर्वपट्टि रहेको स्थान ‘मजदुर बजार’ का रूपमा परिचित छ। यहाँ बिहानको उज्यालोसँगै कोही साइकलमा, कोही सिटी सफारीमा त कोही पैदलै खाजाको झोला बोकेर आइपुग्छन्। उनीहरू सबैको एउटै साझा उद्देश्य"
-    },
-    {
-      "id": "adbef93560866ade",
-      "title": "एआई र प्रविधिको विकासलाई आत्मसात् गर्दै कम्युनिष्ट आन्दोलनले नयाँ रणनीति बनाउनुपर्छ : वर्षमान पुन",
-      "link": "https://www.ratopati.com/story/606778/communist-movement-should-formulate-new-strategy-by-embracing-ai-and-technological-developments-varshaman-pun",
-      "source": "Ratopati",
-      "sourceUrl": "https://ratopati.com/feed",
-      "pubDate": "2026-11-21T14:06:12+00:00",
-      "categories": [
-        "politics",
-        "sports"
-      ],
-      "image": "https://npcdn.ratopati.com/media/news/barshaman-pun_uGhs7jkEta.jpg",
-      "images": [
-        "https://npcdn.ratopati.com/media/news/barshaman-pun_uGhs7jkEta.jpg"
-      ],
-      "description": "चितवन । नारायणगढ (चितवन)। बदलिँदो सामाजिक, आर्थिक तथा राजनीतिक परिस्थितिअनुसार कम्युनिष्ट आन्दोलनको विचार, कार्यदिशा, सङ्गठन र कार्यशैली रूपान्तरण गर्नुपर्नेमा सरोकारवालाहरूले जोड दिएका छन्। मार्क्सवादी ज्ञान केन्द्रले आफ्नो छैटौँ वार्षिक साधारणसभाका अवसरमा शनिबार भरतपुरमा आयोजना गरेको ‘कम्युनिष्ट आन्दोलन"
-    },
-    {
-      "id": "dc61aeef0415a18c",
-      "title": "एआई सञ्चालित घातक रोबोट र ड्रोन नियन्त्रण गर्ने राष्ट्रसङ्घको वार्ता ठोस सहमतिबिना टुङ्गियो",
-      "link": "https://www.ratopati.com/story/606777/un-talks-to-control-deadly-ai-powered-robots-and-drones-end-without-concrete-agreement",
-      "source": "Ratopati",
-      "sourceUrl": "https://ratopati.com/feed",
-      "pubDate": "2026-11-21T14:02:43+00:00",
-      "categories": [
-        "politics",
-        "sports"
-      ],
-      "image": "https://npcdn.ratopati.com/media/news/image_JqWtSNsluf.webp",
-      "images": [
-        "https://npcdn.ratopati.com/media/news/image_JqWtSNsluf.webp"
-      ],
-      "description": "न्युयोर्क । कृत्रिम बुद्धिमत्ता (एआई) प्रविधिबाट सञ्चालित घातक रोबोट तथा ड्रोन हतियारको प्रयोग नियन्त्रण गर्न अन्तर्राष्ट्रिय नियम बनाउने प्रयासमा संयुक्त राष्ट्रसङ्घको वार्ता ठोस सहमतिबिना टुङ्गिएको छ। जेनेभामा शनिबार सम्पन्न राष्ट्रसङ्घ समर्थित एक साताव्यापी सम्मेलनमा सहभागी देशहरूले घातक"
-    },
-    {
-      "id": "66f42b0a0c9dab0f",
-      "title": "सुदूरलाई उपाधि जित्न ६६ रन आवश्यक, १० ओभरमा ९० रन बनायो",
-      "link": "https://nepallive.com/story/353255",
-      "source": "Nepal Live",
-      "sourceUrl": "https://nepallive.com/feed",
-      "pubDate": "2026-11-21T14:00:23+00:00",
-      "categories": [
-        "politics",
-        "technology"
-      ],
-      "image": "",
-      "images": [],
-      "description": "१५६ रनको चुनौतीपूर्ण लक्ष्य पछ्याउने क्रममा १० ओभरको खेल सकिँदा सुदूरपश्चिमले ९० रन बनाएको छ ।"
-    },
-    {
-      "id": "c6373a855557636e",
-      "title": "मुन्सेको आक्रामक ब्याटिङ, १० ओभरमै सुदूरको ९० रन",
-      "link": "https://www.ratopati.com/story/606776/munseys-aggressive-batting-sudur-scores-90-runs-in-10-overs",
-      "source": "Ratopati",
-      "sourceUrl": "https://ratopati.com/feed",
-      "pubDate": "2026-11-21T13:57:36+00:00",
-      "categories": [
-        "politics",
-        "sports"
-      ],
-      "image": "https://npcdn.ratopati.com/media/news/munsey_2PcJPK5iyO.webp",
-      "images": [
-        "https://npcdn.ratopati.com/media/news/munsey_2PcJPK5iyO.webp"
-      ],
-      "description": "काठमाडौँ । नेपाल प्रिमियर लिग (एनपीएल) को फाइनलमा १५६ रनको लक्ष्य पछ्याएको सुदूरपश्चिम रोयल्सले उत्कृष्ट सुरुवात गरेको छ । उसले १० ओभरको समाप्तिमा कुनै विकेट नगुमाई ९० रन बनाएको छ । सुदूरका ओपनर जर्ज मुन्सेले आक्रामक"
     },
     {
       "id": "a35cc89b95914db1",
@@ -1897,23 +1967,6 @@
       "description": "काठमाडौँ- प्रधानमन्त्री वालेन्द्र शाह आइतबार दिउँसो भारतको राजकीय भ्रमणमा जाँदैछन्। शाह प्रधानमन्त्री भइसकेपछि पहिलोपटक छिमेकी मुलुकको राजकीय भ्रमणमा जान लागेका हुन्। भारतीय प्रधानमन्त्री नरेन्द्र मोदीको मैत्रीपूर्ण निमन्त्रणामा प्रधानमन्त्री शाह दुईदिने राजकीय भ्रमणमा जान लागेका हुन्। उनी आइतबार मध्याह्न १ः४५ बजे नेपाल वायुसेवाको नियमित उडानबाट भारत प्रस्थान गर्नेछन्। उनको भ्रमण टोलीमा अर्थमन्त्री डा. स्वर्णिम वाग्ले, परराष्ट्रमन्त्री शिशिर […]"
     },
     {
-      "id": "743cb7c8ba7c2807",
-      "title": "मुन्सेको अर्धशतक, सन्दीप जोराको खराब फिल्डिङ",
-      "link": "https://www.ratopati.com/story/606775/munseys-half-century-sandeep-joras-poor-fielding",
-      "source": "Ratopati",
-      "sourceUrl": "https://ratopati.com/feed",
-      "pubDate": "2026-11-21T13:49:29+00:00",
-      "categories": [
-        "politics",
-        "sports"
-      ],
-      "image": "https://npcdn.ratopati.com/media/news/munsey_2PcJPK5iyO.webp",
-      "images": [
-        "https://npcdn.ratopati.com/media/news/munsey_2PcJPK5iyO.webp"
-      ],
-      "description": "काठमाडौँ । नेपाल प्रिमियर लिग (एनपीएल) को फाइनलमा सुदूरपश्चिम रोयल्सका ओपनर जर्ज मुन्सेले अर्धशतक पूरा गरेका छन् । उनले २८ बलमा अर्धशतक बनाएका हुन् । १५६ रनको लक्ष्य पछ्याएको सुदूरले आक्रामक ब्याटिङ गरिरहेको छ । सात"
-    },
-    {
       "id": "cb793ddaec5b5d91",
       "title": "जुवातासको खालबाट ४९ जना पक्राउ",
       "link": "https://nepalnews.com/2026/11/21/49-people-arrested-from-gambling-den/",
@@ -1944,23 +1997,6 @@
       "image": "",
       "images": [],
       "description": "KATHMANDU: The Lumbini Lions have set a target of 156 runs for the Sudurpaschim Royals in the Nepal Premier League (NPL) final, currently underway at the Tribhuvan University (TU) Cricket Ground in Kirtipur today. After losing the toss, Lumbini were invited to bat first and scored 155 runs for the loss of six wickets in […]"
-    },
-    {
-      "id": "11ae1b1cab3f641e",
-      "title": "‘पुँजीवादले योजनाबद्ध रूपमा गरिबी उत्पादन गर्छ’",
-      "link": "https://www.ratopati.com/story/606738/capitalism-systematically-produces-poverty",
-      "source": "Ratopati",
-      "sourceUrl": "https://ratopati.com/feed",
-      "pubDate": "2026-11-21T13:45:00+00:00",
-      "categories": [
-        "politics",
-        "sports"
-      ],
-      "image": "https://npcdn.ratopati.com/media/news/clara-mattei_e9qDqGTDCj.webp",
-      "images": [
-        "https://npcdn.ratopati.com/media/news/clara-mattei_e9qDqGTDCj.webp"
-      ],
-      "description": "विभिन्न देशमा आर्थिक संकटका कारण मानिसहरू सडकमा उत्रिएका छन् । बढ्दो महँगीले दैनिक जीवनयापनदेखि शिक्षा र स्वास्थ्य सेवासम्म प्रभावित पारेको छ । संकटविरुद्धको आन्दोलन चर्किँदा केही सरकार आफ्ना निर्णय फिर्ता लिनसमेत बाध्य भएका छन् । सरकारहरूले इतिहासदेखि"
     },
     {
       "id": "9f99b7a56e4a43a7",
@@ -3013,24 +3049,6 @@
       "description": "राजविराज । राजविराज कागारारमा पहिलो पटक महिलाले प्रशासकको जिम्मेवारी पाएकी छिन् । राणाकालमै स्थापना भएको राजविराज ६ स्थित उक्त कारागारमा अहिले ३० वर्षिया मोना कुमारी झाले कारागार प्रशासकको जिम्मेवारी पाएकी हुन् । २००८ सालमा स्थापना गरिएको उक्त कारागारको प्रशासकमा हालसम्म पुरुषले मात्रै जिम्मेवारी पाएको इतिहास छ । कारागारको पहिलो महिला प्रशासकको जिम्मेवारी सम्हालेको मोनाको दुई […] The post समस्यै समस्याले जेलिएको कारागार सुधारमा पहिलो महिला प्रशासक appeared first on राजधानी राष्ट्रिय दैनिक (लोकप्"
     },
     {
-      "id": "b0bc6f9e484e24cd",
-      "title": "बङ्गलादेशमा हिंसा-प्रतिहिंसाको शृङ्खला हसिना समर्थकका ५० घरमा आगजनी",
-      "link": "https://www.onlinekhabar.com/2026/11/2062375/bangladesh-50-houses-of-hasina-supporters-set-on-fire-in-series-of-violence-counter-violence",
-      "source": "Online Khabar",
-      "sourceUrl": "https://www.onlinekhabar.com/feed",
-      "pubDate": "2026-11-21T10:46:16+00:00",
-      "categories": [
-        "politics",
-        "business",
-        "sports",
-        "technology",
-        "entertainment"
-      ],
-      "image": "",
-      "images": [],
-      "description": "५ मंसिर, काठमाडौं । बङ्गलादेशमा हिंसा-प्रतिहिंसाको शृङ्खला चलिरहेको छ । नराइल जिल्लामा पूर्वप्रधानमन्त्री शेख हसिनाको पार्टी अवामी लिगका नेता, कार्यकर्ता र समर्थकका करिब ५० घर तथा पसलमा आगजनी गरिएको छ। शुक्रबार कालिया उपजिल्लाको बेन्दर चार गाउँमा यो घटना भएको हो। स्थानीयका अनुसार शुक्रबार दिउँसोदेखि सुरु भएको आक्रमण राति अबेरसम्म जारी रह्यो। आक्रमणकारीहरूले कैयौँ घरमा तोडफोड […]"
-    },
-    {
       "id": "aa7b74b859574d17",
       "title": "शिक्षामा अब्बल धुर्कोट",
       "link": "https://rajdhanidaily.com/id/151818/",
@@ -3169,24 +3187,6 @@
       "image": "",
       "images": [],
       "description": "काठमाडौँ- नेपाली कम्युनिस्ट पार्टी (नेकपा) का सहसंयोजक माधवकुमार नेपालले नेपालको राजनीतिलाई सही दिशामा लैजाने पार्टी नेकपामात्रै भएको बताएका छन्। शनिबार भक्तपुरमा आयोजित नेकपा जागरण अभियान कार्यक्रममा नेपालले सबैभन्दा बढी आशा कम्युनिस्ट पार्टीले गरेको भन्दै नेपालको राजनीतिलाई सही दिशामा लैजाने पार्टी नेकपामात्रै भएको बताए। उनले देश, जनता र समाजको चिन्ता रहेको बताउँदै मुलुकलाई रूपान्तरण र परिवर्तन […]"
-    },
-    {
-      "id": "e603b5b8aa90b72e",
-      "title": "दैलेखमा श्रीमान्‌को बञ्चरो प्रहारबाट घाइते श्रीमतीको पनि मृत्यु (अपडेट)",
-      "link": "https://www.onlinekhabar.com/2026/11/2062373/wife-injured-in-husbands-axe-attack-also-dies-in-dailekh-update",
-      "source": "Online Khabar",
-      "sourceUrl": "https://www.onlinekhabar.com/feed",
-      "pubDate": "2026-11-21T10:12:00+00:00",
-      "categories": [
-        "politics",
-        "business",
-        "sports",
-        "technology",
-        "entertainment"
-      ],
-      "image": "",
-      "images": [],
-      "description": "५ मंसिर, सुर्खेत । दैलेखमा श्रीमान्को बञ्चरो प्रहारबाट गम्भीर घाइते भएकी श्रीमती मनिषा सलामी मगरको पनि मृत्यु भएको छ । आफ्नै श्रीमती र तीन सन्तानमाथि चामुण्डा बिन्द्रासैनी नगरपालिका–३ पानीखोला गाउँका अम्बर सलामी मगरले बञ्चरो प्रहार गरेका थिए । उक्त घटनामा उपचारका क्रममा १२ वर्षीय छोरा तपेन्द्र सलामी र ३ वर्षीया छोरी करिश्मा सलामीको मृत्यु भएको […]"
     },
     {
       "id": "6d148dc5258606a3",
